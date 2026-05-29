@@ -1,0 +1,2739 @@
+{
+  "id": "ch03",
+  "num": 3,
+  "title": "Averages",
+  "block": "II",
+  "blockName": "Averages & Mixtures",
+  "topic": "Averages & Mixtures",
+  "notes": {
+    "intro": "must get 32 marks.\nAlternatively, you can reach this point by considering\nthe →rst 2 statements together as:\nD’s joining the group reduces the average from 48 to\n44 marks (i.e., 4 marks).\nThis means that to maintain the average of 44 marks,\nD has to take 4 marks from A, 4 from B and 4 from C Æ\nA tot",
+    "concepts": [
+      "must get 32 marks.\nAlternatively, you can reach this point by considering\nthe →rst 2 statements together as:\nD’s joining the group reduces the average from 48 to\n44 marks (i.e., 4 marks).\nThis means that to maintain the average of 44 marks,\nD has to take 4 marks from A, 4 from B and 4 from C Æ\nA total of 12 marks. Hence, he must have got 32 marks.",
+      "From here:\nThe →rst part of the third sentence gives us information\nabout E getting 3 marks more than 32 Æ Hence, E gets\n35 marks.\nNow, it is further stated that when A is replaced by E,\nthe average marks of the students reduces by 1 to 43.\nMathematically this can be shown as\nA + B + C + D = 44 × 4 = 176 while, B + C + D + E\n= 43 × 4 = 172",
+      "Subtracting the two equations, we get A – E = 4 marks.\nHence, A would have got 39 marks.\nAlternatively, you can think of this as:\nThe replacement of A with E results in the reduction\nof 1 mark from each of the 4 people who belong to the\ngroup. Hence, the difference is 4 marks. Hence, A would\nget 4 marks more than E i.e., A gets 39 marks.\nProblem 3.5 The mean temperature of Monday to\nWednesday was 27 °C and of Tuesday to Thursday was\n24 °C. If the temperature on Thursday was 2/3rd of the\ntemperature on Monday, what was the temperature on\nThursday?\nSolution From the →rst sentence, we get that the total\nfrom Monday to Wednesday was 81 while from Tuesday\nto Thursday was 72. The difference is arising out of the\nreplacement of Monday by Thursday.\nThis can be mathematically written as",
+      "We have two unknown variables in the above equation.\nTo solve for 2 unknowns, we need a new equation. Looking\nback at the problem we get the equation:",
+      "Solving the two equations we get: Thursday = 18 °C.\nHowever, in the exam, you should avoid using equationsolving as much as possible. You should, ideally, be able\nto reach half way through the solution during the →rst\nreading of the question, and then meet the gap through\nthe use of options.\nThe answer to this problem should be got by the time\nyou →nish reading the question for the →rst time.\nThus suppose we have the equations:\nM – T = 9 and T = 2M/3 or T/M = 2/3 and have the options\nfor T as\n(a) 12",
+      "To check which of these options is the appropriate value,\nwe need to check one by one."
+    ],
+    "formulas": [
+      "the →rst 2 statements together as:",
+      "The →rst part of the third sentence gives us information",
+      "A + B + C + D = 44 × 4 = 176 while, B + C + D + E",
+      "Subtracting the two equations, we get A – E = 4 marks.",
+      "Solution From the →rst sentence, we get that the total",
+      "Solving the two equations we get: Thursday = 18 °C.",
+      "to reach half way through the solution during the →rst",
+      "you →nish reading the question for the →rst time.",
+      "M – T = 9 and T = 2M/3 or T/M = 2/3 and have the options",
+      "Option (a) gives T = 12, then we have M = 21. But 12/21",
+      "Option (b) gives T = 15, then M = 24. But again 15/24 π",
+      "Option (c) gives T = 18, then M = 27. Now 18/27 = 2/3.",
+      "T = 27, so M = 36. But again 27/36 π 2/3. Hence, this is",
+      "solving questions, which will surely improve your ef→ciency",
+      "(given later in this chapter) even as you →nish reading the"
+    ]
+  },
+  "questions": [
+    {
+      "id": "ch03-lod1-q019",
+      "num": 19,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average temperature for Wednesday, Thursday\nand Friday was 20 °C. The average for Thursday,\nFriday and Saturday was 21 °C. If the temperature\non Saturday was 22 °C, what was the temperature\non Wednesday?",
+      "options": {
+        "a": "19 °C",
+        "b": "24 °C",
+        "c": "18 °C",
+        "d": "21 °C"
+      },
+      "answer": "a",
+      "solution": "W + T + F = 60; T + F + S = 63 Æ S – W = 3. Hence temperature on Wednesday = 22 – 3 = 19. 2 ¥ 60 ¥ 40"
+    },
+    {
+      "id": "ch03-lod1-q020",
+      "num": 20,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The speed of the train in going from Kanpur to\nLucknow is 60 km/hr while when coming back from\nLucknow to Kanpur, its speed is 40 km/hr. Find the\naverage speed (in km/hr) during the whole journey.\nAverages II.13",
+      "options": {
+        "a": "45",
+        "b": "48",
+        "c": "50",
+        "d": "46"
+      },
+      "answer": "b",
+      "solution": "Average speed = = 48 km/hr. 60 + 40"
+    },
+    {
+      "id": "ch03-lod1-q021",
+      "num": 21,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of a class of 19 students is 20 kg.\nIf the weight of the teacher be included, the average\nrises by 1 kg. What is the weight of the teacher?",
+      "options": {
+        "a": "40 kg",
+        "b": "50 kg",
+        "c": "45 kg",
+        "d": "55 kg"
+      },
+      "answer": "a",
+      "solution": "Thus, the numbers would be 18, 19, 20, 21, 22, 23 and 24. The highest of these numbers would be 24."
+    },
+    {
+      "id": "ch03-lod1-q022",
+      "num": 22,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 3 numbers is 20 and that of the →rst\ntwo is 25. Find the third number.",
+      "options": {
+        "a": "15",
+        "b": "10",
+        "c": "20",
+        "d": "12"
+      },
+      "answer": "b",
+      "solution": "3 ¥ 20 – 2 ¥ 25 = 60 – 50 = 10."
+    },
+    {
+      "id": "ch03-lod1-q023",
+      "num": 23,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of 29 men in a ship is increased\nby 5 kg when one of the men, who weighs 120 kg,\nis replaced by a new man. Find the weight of the\nnew man (In kg)",
+      "options": {
+        "a": "265",
+        "b": "205",
+        "c": "245",
+        "d": "240"
+      },
+      "answer": "a",
+      "solution": "The weight of the new man would be 29 ¥ 5 kgs more than the weight of the man he replaces. New man’s weight = 120 + 29 ¥ 5 = 265 kgs."
+    },
+    {
+      "id": "ch03-lod1-q024",
+      "num": 24,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The age of A and B is in the ratio 1: 3. After 10\nyears, the ratio of their ages will become 1:2. Find\nthe average of their ages after 20 years.",
+      "options": {
+        "a": "22",
+        "b": "40",
+        "c": "37",
+        "d": "30"
+      },
+      "answer": "b",
+      "solution": "Let their current ages be x and 3x. Then their ages after 10 years would be x + 10 and 3x + 10. Now it is given that (x + 10)/(3x + 10) = 1/2Æx = 10 and hence their current ages are 10 years and 30 years, respectively. So their current average age is 20 years. After 20 years their average age would be 20+20 = 40 years."
+    },
+    {
+      "id": "ch03-lod1-q025",
+      "num": 25,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the average of the →rst 100 natural numbers.",
+      "options": {
+        "a": "50.50",
+        "b": "52.50",
+        "c": "51.50",
+        "d": "49"
+      },
+      "answer": "a",
+      "solution": "The average would be given by the average of the first and last numbers (since the series 1, 2, 3, 4…100 is an Arithmetic Progression). Hence, the average = (1 + 100)/2 = 50.50"
+    },
+    {
+      "id": "ch03-lod1-q026",
+      "num": 26,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the average of all prime numbers between 20\nand 50.",
+      "options": {
+        "a": "35.8",
+        "b": "34.65",
+        "c": "35.85",
+        "d": "31.8"
+      },
+      "answer": "c",
+      "solution": "We need the average of the numbers: 23, 29, 31, 37, 41, 43 and 47 Average = Total/number of numbers Æ 251/7 = 35.85"
+    },
+    {
+      "id": "ch03-lod1-q027",
+      "num": 27,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If we take four numbers, the average of the →rst\nthree is 20 and that of the last three is 25. If the last\nnumber is 30, the →rst number is",
+      "options": {
+        "a": "20",
+        "b": "21",
+        "c": "23",
+        "d": "15"
+      },
+      "answer": "d",
+      "solution": "Let the numbers be a, b, c and d, respectively. a + b + c = 20 ¥ 3 = 60 and b + c + d = 25 ¥ 3 = 75. Also, since d-a = 15, we have 30- a = 15 or a = 15."
+    },
+    {
+      "id": "ch03-lod1-q028",
+      "num": 28,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 15 results is 40 and that of 25 more\nresults is 48. For all the results taken together, the\naverage is",
+      "options": {
+        "a": "45",
+        "b": "42",
+        "c": "46",
+        "d": "44"
+      },
+      "answer": "a",
+      "solution": "Required average = (15 ¥ 40 + 25¥ 48)/40 = 1800/40 = 45."
+    },
+    {
+      "id": "ch03-lod1-q029",
+      "num": 29,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 7 consecutive numbers is 21. The\nhighest of these numbers will be",
+      "options": {
+        "a": "20",
+        "b": "23",
+        "c": "24",
+        "d": "22"
+      },
+      "answer": "c",
+      "solution": "The numbers would form an AP with common difference 1 and the middle term (also the 4th term) as"
+    },
+    {
+      "id": "ch03-lod1-q030",
+      "num": 30,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of 8 students is 11 years. If 2 more\nstudents of age 15 and 17 years join, their average\nwill become",
+      "options": {
+        "a": "13 years",
+        "b": "12 years",
+        "c": "14 years",
+        "d": "15 years"
+      },
+      "answer": "b",
+      "solution": "Required average = (8 ¥ 11 + 15 + 17)/10 = 120/10 = 12."
+    },
+    {
+      "id": "ch03-lod1-q031",
+      "num": 31,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 9 numbers is 14. If each number is\nincreased by 4, the new average will be",
+      "options": {
+        "a": "16",
+        "b": "15",
+        "c": "18",
+        "d": "17"
+      },
+      "answer": "c",
+      "solution": "The new average would also go up by 4. Hence, 14 + 4 = 18."
+    },
+    {
+      "id": "ch03-lod1-q032",
+      "num": 32,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 11 consecutive numbers is n. If the\nnext two numbers are also included, the average will.",
+      "options": {
+        "a": "increase by 1",
+        "b": "remain the same",
+        "c": "increase by 1.4",
+        "d": "increase by 2"
+      },
+      "answer": "a",
+      "solution": "If the numbers are a + 1, a + 2, a + 3, a + 4,a + 5….a+11 the average would be a + 6. If we take 13 numbers as: a + 1, a + 2, a + 3, a + 4, a + 5, a + 6…. and a + 13 their average would be a+7. Hence, the average increases by 1. You can also experimentally verify this by taking any 11 consecutive numbers and find- ing their average, then adding the next two numbers and finding the average of the 13 numbers."
+    },
+    {
+      "id": "ch03-lod1-q033",
+      "num": 33,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 40 numbers is 45. If two numbers,\nnamely, 65 and 25 are discarded, the average of the\nremaining numbers is",
+      "options": {
+        "a": "35",
+        "b": "45",
+        "c": "40",
+        "d": "43"
+      },
+      "answer": "b",
+      "solution": "Total of 38 numbers = 40 ¥ 45 – 65 – 25 = 1710. Average of 38 numbers = 1710/38 = 45."
+    },
+    {
+      "id": "ch03-lod1-q034",
+      "num": 34,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 15 numbers is 18. If each number is\nmultiplied by 9, then the average of the new set of\nnumbers is",
+      "options": {
+        "a": "162",
+        "b": "152",
+        "c": "144",
+        "d": "164"
+      },
+      "answer": "a",
+      "solution": "When we multiply each number by 9, the average would also get multiplied by 9. Hence, the new average = 18 ¥ 9 = 162."
+    },
+    {
+      "id": "ch03-lod1-q035",
+      "num": 35,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a family of 5 males and a few ladies, the average\nmonthly consumption of grain per head is 9 kg. If\nthe average monthly consumption per head be 12 kg\nin the case of males and 8 kg in the case of females,\n→nd the number of females in the family.",
+      "options": {
+        "a": "18",
+        "b": "12",
+        "c": "9",
+        "d": "15"
+      },
+      "answer": "d",
+      "solution": "Let the number of ladies be n. Then we have 5 ¥ 12 + n¥ 8 = (5 + n) ¥ (9) Æ 60 + 8n = 45 + 9n Æ n = 15."
+    },
+    {
+      "id": "ch03-lod1-q036",
+      "num": 36,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Average marks obtained by a student in 3 papers is\n63 and in the fourth paper he obtains 67 marks. Find\nhis new average.",
+      "options": {
+        "a": "54",
+        "b": "62",
+        "c": "64",
+        "d": "65"
+      },
+      "answer": "c",
+      "solution": "(3 ¥ 63 + 67)/4 = 256/4 = 64."
+    },
+    {
+      "id": "ch03-lod1-q037",
+      "num": 37,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average earning of Srikanth for the initial three months of the calendar year 2012 is\n`2100. If his average earning (in `) for the second\nand third month is `2250 →nd his earning in the\n→rst month?",
+      "options": {
+        "a": "1950",
+        "b": "1500",
+        "c": "1700",
+        "d": "1800"
+      },
+      "answer": "d",
+      "solution": "2100 ¥ 3 – 2250 ¥ 2 = 1800."
+    },
+    {
+      "id": "ch03-lod1-q038",
+      "num": 38,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a hotel where rooms are numbered from 201 to\n230, each room gives an earning of `2000 for the →rst\n→fteen days of a month and for the latter half, `1000\nper room. Find the average earning per room per day\n(in `) over the month. (Assume 30 day month)",
+      "options": {
+        "a": "1450",
+        "b": "1500",
+        "c": "1750",
+        "d": "1666.66"
+      },
+      "answer": "b",
+      "solution": "(2000 ¥ 15 + 1000 ¥ 15)/30 = (2000 + 1000)/2 = 1500."
+    },
+    {
+      "id": "ch03-lod1-q039",
+      "num": 39,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of 10 men is decreased by 2 kg\nwhen, one of them weighing 140 kg is replaced by\nanother person. Find the weight of the new person.",
+      "options": {
+        "a": "142 kg",
+        "b": "130 kg",
+        "c": "138 kg",
+        "d": "120 kg"
+      },
+      "answer": "d",
+      "solution": "The decrease in weight would be 20 kgs (10 people’s average weight drops by 2 kgs). Hence, the new person’s weight = 140 - 20 = 120."
+    },
+    {
+      "id": "ch03-lod1-q040",
+      "num": 40,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of a group of men is increased by\n6 years when a person aged 26 years is replaced by\na new person of aged 56 years. How many men are\nthere in the group?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "answer": "c",
+      "solution": "When a person aged 26 years, is replaced by a person aged 56 years, the total age of the group goes up by 30 years. Since this leads to an increase in the average by 6 years, it means that there are 30/6 = 5 persons in the group."
+    },
+    {
+      "id": "ch03-lod1-q041",
+      "num": 41,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average score of a cricketer in three matches is\n33 runs and in two other matches, it is 23 runs. Find\nthe average in all the →ve matches.",
+      "options": {
+        "a": "31",
+        "b": "26",
+        "c": "29",
+        "d": "28"
+      },
+      "answer": "c",
+      "solution": "(33 ¥ 3 + 23 ¥ 2)/5 = 145/5 = 29."
+    },
+    {
+      "id": "ch03-lod1-q042",
+      "num": 42,
+      "lod": 1,
+      "type": "tita",
+      "text": "The average of 15 papers is 50. The average of the\n→rst 8 papers is 48 and of the last eight papers is",
+      "options": {},
+      "answer": "a",
+      "solution": "Let the number of marks in the 8th paper be M. Then the total of the first eight papers = 8 ¥ 48 while the total of the last 8 (i.e., 8th to 15th papers) would be 8 ¥ 54. Total of 1st 8 + total of 8th to 15th = total of all 15 + marks in the 8th paper Æ 8 ¥ 48 + 8¥ 54 = 15 ¥ 50 + M 816 = 750 + M Æ M = 66 (Note: We write this equation since marks in the eighth paper is counted in both the first 8 and the last 8)"
+    },
+    {
+      "id": "ch03-lod1-q054",
+      "num": 54,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the marks obtained in the 8th paper.",
+      "options": {
+        "a": "66",
+        "b": "64",
+        "c": "58",
+        "d": "56"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q043",
+      "num": 43,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of the Indian cricket team playing\nthe Coimbatore test is 28. The average age of 5 of\nthe players is 26 and that of another set of 5 players,\ntotally different from the →rst →ve, is 29. If it is the\ncaptain who was not included in either of these two\ngroups, then →nd the age of the captain.",
+      "options": {
+        "a": "35",
+        "b": "30",
+        "c": "33",
+        "d": "28"
+      },
+      "answer": "c",
+      "solution": "Let the captain’s age by C. Then: 11 ¥ 28 = 26 ¥ 5 + 29 ¥ 5 + CÆ308 = 130 + 145 + C ÆC = 33."
+    },
+    {
+      "id": "ch03-lod1-q044",
+      "num": 44,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Siddhartha has earned an average of 3200 dollars for\nthe →rst eleven months of the year. If he justi→es his\nstaying on in the US on the basis of his ability to\nearn at least 4000 dollars per month for the entire\nyear, how much should he earn (in dollars) in the\nlast month to achieve his required average for the\nwhole year?",
+      "options": {
+        "a": "11,800",
+        "b": "12,800",
+        "c": "10,800",
+        "d": "13,800"
+      },
+      "answer": "b",
+      "solution": "His earning in the 12th month should be: 4000 ¥ 12 – 3200 ¥ 11 = 48000 – 35200 = 12800."
+    },
+    {
+      "id": "ch03-lod1-q045",
+      "num": 45,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A bus goes to Ranchi from Patna at the rate of 80 km\nper hour. Another bus leaves Ranchi for Patna at the\nsame time as the →rst bus at the rate of 90 km per\nhour. Find the average speed for the journeys of the\ntwo buses combined if it is known that the distance\nfrom Ranchi to Patna is 720 kilometres.",
+      "options": {
+        "a": "84.705 kmph",
+        "b": "84 kmph",
+        "c": "81.63 kmph",
+        "d": "82.82 kmph"
+      },
+      "answer": "a",
+      "solution": "Total distance divided by total time = 1440/17 = 84.705."
+    },
+    {
+      "id": "ch03-lod1-q046",
+      "num": 46,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A train travels 12 km in the →rst quarter of an hour,\n15 km in the second quarter and 30 km in the third\nquarter. Find the average speed of the train per hour\nover the entire journey.",
+      "options": {
+        "a": "76 km/h",
+        "b": "72 km/h",
+        "c": "77 km/h",
+        "d": "73 km/h"
+      },
+      "answer": "d",
+      "solution": "In three quarters of an hour the train has traveled 57 km. Thus, in a full hour the train would have traveled 1/3rd more (as it gets 1/3rd time more). Thus, the speed of the train = 57+ 1 ¥ 57/3 = 57 + 19 = 76."
+    },
+    {
+      "id": "ch03-lod1-q047",
+      "num": 47,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of 6 men is 58.5 kg. If it is\nknown that Ram and Tram weigh 65 kg each, →nd\nthe average weight of the others.",
+      "options": {
+        "a": "55 kg",
+        "b": "54.25 kg",
+        "c": "54 kg",
+        "d": "55.25 kg"
+      },
+      "answer": "d",
+      "solution": "Total weight of all 6 = 58.5 ¥ 6. Total weight of Ram and Tram = 65 ¥ 2 = 130. Average weight of the 4 people excluding Ram and Tram = (58.5 ¥ 6 – 130)/4 = 55.25 kg."
+    },
+    {
+      "id": "ch03-lod1-q048",
+      "num": 48,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average score of a class of 30 students is 56.\nwhat will be the average score of the rest of the\nstudents if the average score of 10 of the students\nis 59.",
+      "options": {
+        "a": "52.5",
+        "b": "54.5",
+        "c": "52",
+        "d": "53"
+      },
+      "answer": "b",
+      "solution": "10 ¥ 59 + 20 ¥A = 30 ¥ 56 ÆA = (1680 – 590)/20 = 1090/20 = 54.5"
+    },
+    {
+      "id": "ch03-lod1-q049",
+      "num": 49,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of 60 students of IIM, Bangalore\nof the 2005 batch is 23 years. What will be the new\naverage if we include the 40 faculty members whose\naverage age is 35 years?",
+      "options": {
+        "a": "27 years",
+        "b": "26.5 years",
+        "c": "27.8 years",
+        "d": "28 years"
+      },
+      "answer": "c",
+      "solution": "(60 ¥ 23 + 40 ¥ 35)/100 = 2780/100 = 27.8"
+    },
+    {
+      "id": "ch03-lod1-q050",
+      "num": 50,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Out of three numbers, the →rst is twice the second\nand three times the third. The average of the three\nnumbers is 132. The smallest number is",
+      "options": {
+        "a": "36",
+        "b": "72",
+        "c": "42",
+        "d": "48"
+      },
+      "answer": "b",
+      "solution": "If we take the first number as 6n, the second number would be 3n and the third would be 2n. Sum of the three numbers = 6n + 3n + 2n = 11n = 132 ¥ 3 Æn = 36. The smallest number would be 2n = 72."
+    },
+    {
+      "id": "ch03-lod1-q051",
+      "num": 51,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The sum of three numbers is 147. If the ratio between\nthe →rst and second is 2 : 3 and that between the second and the third is 5 : 8, then the second number is",
+      "options": {
+        "a": "30",
+        "b": "45",
+        "c": "72",
+        "d": "48"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q052",
+      "num": 52,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average height of 40 girls out of a class of 50\nis 150 cm and that of the remaining girls is 155 cm.\nThe average height of the whole class is",
+      "options": {
+        "a": "151 cm",
+        "b": "152 cm",
+        "c": "156 cm",
+        "d": "153 cm"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q053",
+      "num": 53,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of 6 persons is increased by\n1.5 kg when one of them, whose weight is 60 kg is\nreplaced by a new man. The weight of the new man\nis",
+      "options": {
+        "a": "71 kg",
+        "b": "72 kg",
+        "c": "68 kg",
+        "d": "69 kg"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q054",
+      "num": 54,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of three boys is 24 years. If their\nages are in the ratio 2:5:5, the age of the youngest\nboy is",
+      "options": {
+        "a": "16 years",
+        "b": "11 years",
+        "c": "21 years",
+        "d": "12 years"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q055",
+      "num": 55,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of P, Q, R and S four years ago\nwas 46 years. By including M, the present average\nage of all the →ve is 51 years. The present age of M\nis",
+      "options": {
+        "a": "52 years",
+        "b": "49 years",
+        "c": "55 years",
+        "d": "58 years"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q056",
+      "num": 56,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average salary of 30 workers in an of→ce is\n` 1800 per month. If the manager’s salary is added,\nthe average salary becomes ` 1900 per month. What\nis the manager’s annual salary?",
+      "options": {
+        "a": "` 48000",
+        "b": "` 58,800",
+        "c": "` 46,800",
+        "d": "none of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q057",
+      "num": 57,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If p, q, r, s and t are →ve consecutive even numbers,\nthen their average is\n(p + q+r+s+t)\n(p q r s t)/5\n(p + q + r + s + t)",
+      "options": {
+        "a": "",
+        "b": "",
+        "c": "5",
+        "d": "none of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q058",
+      "num": 58,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of →rst →ve multiples of 7 is",
+      "options": {
+        "a": "21",
+        "b": "28",
+        "c": "14",
+        "d": "18"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q059",
+      "num": 59,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of a class of 30 students is 50\nkg. If the weight of the teacher be included, the\naverage weight increases by 500 gm. The weight of\nthe teacher is",
+      "options": {
+        "a": "50.5 kg",
+        "b": "65.5 kg",
+        "c": "62.5 kg",
+        "d": "60.5 kg"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q060",
+      "num": 60,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a management entrance test, a student scores 3\nmarks for every correct answer and loses 1 mark\nfor every wrong answer. A student attempts all the\n100 questions and scores 160 marks. The number of\nquestions he answered correctly was\nAverages II.15",
+      "options": {
+        "a": "62",
+        "b": "64",
+        "c": "65",
+        "d": "68"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q061",
+      "num": 61,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of →ve children is 7 years, which\nis increased by 5 years when the age of the father\nis included. Find the age of the father.",
+      "options": {
+        "a": "32",
+        "b": "37",
+        "c": "39",
+        "d": "35"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q062",
+      "num": 62,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of a class of 20 students is 50\nkg. If, however, the weight of the teacher is included,\nthe average becomes 51 kg. The weight of the teacher\nis",
+      "options": {
+        "a": "69 kg",
+        "b": "72 kg",
+        "c": "70 kg",
+        "d": "71 kg"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q063",
+      "num": 63,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Ram bought 2 toys for ` 5.50 each, 3 toys for ` 3.66\neach and 6 toys for ` 1.833 each. The average price\nper toy is (in `)",
+      "options": {
+        "a": "3",
+        "b": "10",
+        "c": "5",
+        "d": "9"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q064",
+      "num": 64,
+      "lod": 1,
+      "type": "mcq",
+      "text": "40 oranges and 65 apples were purchased for ` 480.\nIf the price per apple was ` 4, then the average price\nof oranges was (in `)",
+      "options": {
+        "a": "5.5",
+        "b": "6.5",
+        "c": "6",
+        "d": "7"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q065",
+      "num": 65,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average income of Aditya and Vikas is ` 4,000\nand that of Sudhir and Raunak is ` 2500. What is\nthe average income of Aditya, Vikas, Sudhir and\nRaunak (in `)?",
+      "options": {
+        "a": "3150",
+        "b": "3250",
+        "c": "3350",
+        "d": "3550"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q066",
+      "num": 66,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A batsman made an average of 55 runs in 4 innings,\nbut in the →fth inning, he was out on zero. What is\nthe average after the →fth inning?",
+      "options": {
+        "a": "54",
+        "b": "64",
+        "c": "44",
+        "d": "49"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q067",
+      "num": 67,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of 50 teachers of a school is\n70 kg. If, however, the weight of the principal be\nincluded, the average decreases by 0.5 kg. What is\nthe weight of the principal?",
+      "options": {
+        "a": "44.5 kg",
+        "b": "45 kg",
+        "c": "43.5 kg",
+        "d": "none of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q068",
+      "num": 68,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average temperature of 4th, 5th and 6th December was 25.6 °C. The average temperature of the →rst\ntwo days was 27 °C. The temperature on the 6th of\nDecember was:",
+      "options": {
+        "a": "22.2 °C",
+        "b": "22.8 °C",
+        "c": "26.4 °C",
+        "d": "none of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q069",
+      "num": 69,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of Gita and Sita is 30 years. Their\naverage age 4 years hence will be",
+      "options": {
+        "a": "30 years",
+        "b": "26 years",
+        "c": "28 years",
+        "d": "34 years"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q070",
+      "num": 70,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Three years ago, the average age of a family of 6\nmembers was 18 years. A baby having been born,\nthe average of the family is the same today. What\nis the age of the baby?",
+      "options": {
+        "a": "1 year",
+        "b": "2 years",
+        "c": "3 years",
+        "d": "0 years"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q071",
+      "num": 71,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Ramu’s average daily expenditure is ` 21 during\nJuly, `24 during August and `11 during September.\nHis approximate daily expenditure for the 3 months\nis",
+      "options": {
+        "a": "`18",
+        "b": "`18.75",
+        "c": "`17",
+        "d": "`18.25"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q072",
+      "num": 72,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A ship sails out to a mark at the rate of 25 km per\nhour and sails back at the rate of 30 km/h. What is\nits average rate of sailing?",
+      "options": {
+        "a": "27.27 km",
+        "b": "23.24 km",
+        "c": "25.85 km",
+        "d": "28.45 km"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q073",
+      "num": 73,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average temperature on Monday, Tuesday and\nWednesday was 52 °C and on Tuesday, Wednesday\nand Thursday it was 50 °C. If on Thursday it was\nexactly 49 °C, then on Monday, the temperature was",
+      "options": {
+        "a": "55°C",
+        "b": "56 °C",
+        "c": "53 °C",
+        "d": "51°C"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q074",
+      "num": 74,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of 15 results is 20 out of which the →rst\n5 results are having an average of 10. The average\nof the rest 10 results is",
+      "options": {
+        "a": "50",
+        "b": "40",
+        "c": "20",
+        "d": "25"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q075",
+      "num": 75,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man had ten children. When their average age was\n15 years a child aged 6 years died. The average age\nof the remaining 9 children is",
+      "options": {
+        "a": "16 years",
+        "b": "13 years",
+        "c": "17 years",
+        "d": "15 years"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q076",
+      "num": 76,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average income of Hari and Prasad is `200.\nThe average income of Rahul and Ravi is ` 250.\nthe average income of Hari, Prasad, Rahul and Ravi\nis",
+      "options": {
+        "a": "`275",
+        "b": "` 225",
+        "c": "`450",
+        "d": "`250"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q077",
+      "num": 77,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average weight of 40 students is 40 kg. If the\nteacher of weight 122 kg is also included, then the\naverage weight will become:",
+      "options": {
+        "a": "41 kg",
+        "b": "42 kg",
+        "c": "40 kg",
+        "d": "45 kg"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q078",
+      "num": 78,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average of a, b and c is 25. a is as much more\nthan the average as b is less than the average. Find\nthe value of c.\n3 4 1 3",
+      "options": {
+        "a": "45",
+        "b": "25",
+        "c": "35",
+        "d": "15"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q079",
+      "num": 79,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the average of four numbers 2 , 4 ◊ 5 , 3\n4 5 5 4",
+      "options": {
+        "a": "4.125",
+        "b": "3.20",
+        "c": "1.60",
+        "d": "None of these."
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q080",
+      "num": 80,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average salary per head of all the workers in a\ncompany is `9000. The average salary of 15 of→cers\nis `5000 and the average salary per head of the rest\nis `10,000. Find the total number of workers in the\ncompany.",
+      "options": {
+        "a": "75",
+        "b": "80",
+        "c": "50",
+        "d": "40"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q081",
+      "num": 81,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average age of 10 men is increased by 3 years\nwhen one of them, whose age is 54 years is replaced\nby a woman. What is the age of the woman?",
+      "options": {
+        "a": "68 years",
+        "b": "82 years",
+        "c": "72 years",
+        "d": "84 years"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q082",
+      "num": 82,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average monthly expenditure of Aman was ` 100\nduring the →rst 3 months, ` 200 during the next 4\nmonths and ` 400 during the subsequent →ve months\nof the year. If the total saving during the year was\n`3000, →nd Aman’s average monthly income (to the\nclosest rupee)",
+      "options": {
+        "a": "508",
+        "b": "515",
+        "c": "1033",
+        "d": "425"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q083",
+      "num": 83,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Ram bought 2 articles for `5.50 each, and 3 articles\nfor `3.50 each, and 3 articles for `5.50 and 5 articles\nfor ` 1.50 each. The average price for one article is",
+      "options": {
+        "a": "` 3",
+        "b": "` 8.50",
+        "c": "`3.50",
+        "d": "None of these."
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q084",
+      "num": 84,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a bag, there are 150 coins of `1, 50 p and 25 p\ndenominations. If the total value of coins is `150,\nthen →nd how many rupees can be constituted by 50\np coins.",
+      "options": {
+        "a": "16",
+        "b": "20",
+        "c": "28",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q085",
+      "num": 85,
+      "lod": 1,
+      "type": "tita",
+      "text": "What is the average of the →rst seven natural number\nmultiples of 11?",
+      "options": {},
+      "answer": "44",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q086",
+      "num": 86,
+      "lod": 1,
+      "type": "tita",
+      "text": "The age of two friends Aman and Baman is in the\nratio 1:2. After 5 years, the ratio of their ages will\nbecome 3:5. Find the average of their ages after 10\nyears.\nSpace for Rough Work",
+      "options": {},
+      "answer": "25",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q087",
+      "num": 87,
+      "lod": 1,
+      "type": "tita",
+      "text": "If we take four numbers, the average of the →rst\nthree is 20 and that of the last three is 10. If the →rst\nnumber is 20, the last number is:",
+      "options": {},
+      "answer": "-10",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q088",
+      "num": 88,
+      "lod": 1,
+      "type": "tita",
+      "text": "Sachin has a batting average of 40 runs per innings\nin 15 ODIs. It was found that in the 2 ODI match\nseries against South Africa (which were part of his\n→rst 15 ODIs), his average score was 40 and not 80.\nHis correct average is:",
+      "options": {},
+      "answer": "34",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q089",
+      "num": 89,
+      "lod": 1,
+      "type": "tita",
+      "text": "The average of temperatures at noontime from Monday to Friday is 40; the lowest one is 35. What is\nthe possible maximum temperature at noontime on\nany of these days?",
+      "options": {},
+      "answer": "60",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q090",
+      "num": 90,
+      "lod": 1,
+      "type": "tita",
+      "text": "The average age of a family of 3 members is 30\nyears. If the age of the youngest member is 5 years,\nthen what was the average age of the family immediately prior to the birth of the youngest member?",
+      "options": {},
+      "answer": "37",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q091",
+      "num": 91,
+      "lod": 1,
+      "type": "tita",
+      "text": "The average of 50 numbers is zero. Of them, at the\nmost, how many may be greater than zero?",
+      "options": {},
+      "answer": "49",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q092",
+      "num": 92,
+      "lod": 1,
+      "type": "tita",
+      "text": "The average of 40 numbers is 25. If two numbers\nnamely 40 and 50 are discarded, the average of the\nremaining numbers is:",
+      "options": {},
+      "answer": "39",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q093",
+      "num": 93,
+      "lod": 1,
+      "type": "tita",
+      "text": "The average of ten numbers is 60. The average of the\n→rst →ve numbers is 50 and that of last four numbers\nis 30. Then the 6th number is:",
+      "options": {},
+      "answer": "230",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q094",
+      "num": 94,
+      "lod": 1,
+      "type": "tita",
+      "text": "The average of 10 integers is found to be 10. But\nafter the calculation, it was detected that, by mistake,\nthe integer 20 was copied as 30, while calculating\nthe average. After the due correction is made, the\nnew average will be:\nAverages II.17\nLevel of Dif→culty (II)",
+      "options": {},
+      "answer": "9",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A bus travels with a speed of 10 km/h in the →rst\n15 minutes, goes 5 km in the next 15 minutes, 15\nkm in the next 15, 10 km in the next 15. What is\nthe average speed of the bus in kilometre per hour\nfor the journey described?",
+      "options": {
+        "a": "45 kmph",
+        "b": "32.50 kmph",
+        "c": "50.50 kmph",
+        "d": "40 kmph"
+      },
+      "answer": "d",
+      "solution": "Required average = (1 + 2 + 3 + … + 15)/15 = 120/15 = 8. Alternately you could use the formula for sum of the first n natural numbers as n (n + 1)/2 with n as 15. Then average = Sum/15 = (15 ¥ 16/2)/ 15 = 8"
+    },
+    {
+      "id": "ch03-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "With an average speed of 25 km/h, a train reaches its\ndestination in time. If it goes with an average speed\nof 20 km/h, it is late by 1 hour. The length of the\ntotal journey is",
+      "options": {
+        "a": "90 km",
+        "b": "100 km",
+        "c": "120 km",
+        "d": "80 km"
+      },
+      "answer": "a",
+      "solution": "Required average = (0 + 1 + 2 + … + 9)/10 = 45/10 = 4.5"
+    },
+    {
+      "id": "ch03-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the month of January of a certain year, the average daily expenditure of an organisation was `60.\nFor the →rst 15 days of the month, the average daily\nexpenditure was ` 80 and for the last 17 days, `50.\nFind the amount spent by the organisation on the\n15th of the month.",
+      "options": {
+        "a": "190",
+        "b": "160",
+        "c": "180",
+        "d": "130"
+      },
+      "answer": "d",
+      "solution": "Required average = (2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20)/10 = 110/10 = 11. Alternately you could use the formula for sum of the first n even natural numbers as n (n + 1) with n as 10. Then average = Sum/10 = 10 ¥ 11/10 = 11."
+    },
+    {
+      "id": "ch03-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "One-→fth of a certain journey is covered at the rate\nof 20 km/h, one-fourth at the rate of 50 km/h and\nthe rest at 55 km/h. Find the average speed for the\nwhole journey.",
+      "options": {
+        "a": "53 km/h",
+        "b": "40 km/h",
+        "c": "35 km/h",
+        "d": "38 km/h"
+      },
+      "answer": "b",
+      "solution": "The sum of the first n odd numbers = n2. In this case n = 10 Æ Sum = 102 = 100. Required average = 100/10 = 10."
+    },
+    {
+      "id": "ch03-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A batsman makes a score of 40 runs in the 5th inning\nand thus increases his average by 4. Find the possible\nvalue of the new average.",
+      "options": {
+        "a": "28",
+        "b": "24",
+        "c": "12",
+        "d": "20"
+      },
+      "answer": "d",
+      "solution": "Required average = (2 + 3 + 5 + 7 + 11 + 13 + 17 + 19 + 23 + 29)/10 = 129/10 = 12.9."
+    },
+    {
+      "id": "ch03-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Aman can type a sheet in 10 minutes, Baman in 20\nminutes and Chaman in 30 minutes. The average\nnumber of sheets typed per hour per typist for all\nthree typists is",
+      "options": {
+        "a": "11/3",
+        "b": "30/7",
+        "c": "55/9",
+        "d": "32/11"
+      },
+      "answer": "c",
+      "solution": "Required average = (4 + 6 + 8 + 9 + 10 + 12 + 14 + 15 + 16 + 18)/10 = 112/10 = 11.2."
+    },
+    {
+      "id": "ch03-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the average increase rate (per annum) if increase\nin the population in the →rst year is 10% and that in\nthe second year is 20%.",
+      "options": {
+        "a": "11",
+        "b": "16",
+        "c": "20",
+        "d": "18"
+      },
+      "answer": "d",
+      "solution": "Required average = (3 + 5 + 7 + 11 + 13 + 17 + 19 + 23 + 29 + 31)/10 = 158/10 = 15.8."
+    },
+    {
+      "id": "ch03-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The average income of a person for the →rst 5 days\nof a month is `20, for the next 10 days it is `24,\nfor the next 10 days it is ` 30 and for the remaining days of the month it is ` 10. Find the average\nincome (in `) per day.",
+      "options": {
+        "a": "30",
+        "b": "35",
+        "c": "25",
+        "d": "Cannot be determined"
+      },
+      "answer": "b",
+      "solution": "P = 14 ¥ 10 – 13 ¥ 8 = 140 –104 = 36"
+    },
+    {
+      "id": "ch03-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In hotel Clarks, the rooms are numbered from 101\nto 150 on the →rst floor, 201 to 240 on the second\nfloor and 316 to 355 on the third floor. In the month\nof May 2018, the room occupancy was 50% on the\n→rst floor, 50% on the second floor and 30% on the\nthird floor. If it is also known that the room charges\nare ` 2000, `1000 and `1500 on each of the floors,\nthen →nd the average income per room (in `) for the\nmonth of May 2017.",
+      "options": {
+        "a": "676.92",
+        "b": "880.18",
+        "c": "783.3",
+        "d": "650.7"
+      },
+      "answer": "d",
+      "solution": "D’s weight = 4 ¥ 70 – 3 ¥ 74 = 280 – 222 = 58. E’s weight = 58 + 3 = 61. Now, we know that A + B + C + D = 4 ¥ 70 = 280 and B + C + D + E = 75 ¥ 4 = 300. Hence, A’s weight is 20 kg less than E ’s weight. A = 61 - 20 = 41 kg."
+    },
+    {
+      "id": "ch03-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A salesman gets a bonus according to the following\nstructure: If he sells articles worth `x then he gets a\nbonus of `(x/10 – 1000). In the month of January, his\nsales value was `10000, in February it was `12000,\nfrom March to November it was `30000 for every\nmonth and in December it was `12000. Apart from\nthis, he also receives a basic salary of `3000 per\nmonth from his employer. Find his average income\nper month (in `) during the year.\n(",
+      "options": {
+        "a": "4533",
+        "b": "4517",
+        "c": "4532"
+      },
+      "answer": "b",
+      "solution": "Monday + Tuesday + Wednesday = 3 ¥ 35 = 105; Tuesday + Wednesday + Thursday = 3 ¥ 30 = 90. Thus, Monday – Thursday = 15 and Thursday = Monday/2 Æ Monday = 30 and Thursday = 15"
+    },
+    {
+      "id": "ch03-lod2-q011",
+      "num": 11,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average of 61 results is 43. If the average of\nthe →rst 48 results is 36 and that of the last 12 is 49.\nFind the 49th result.",
+      "options": {
+        "a": "302",
+        "b": "307",
+        "c": "304",
+        "d": "328"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q012",
+      "num": 12,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A man covers half of his journey by train at 50 km/\nhr, half of the remainder by bus at 25 km/h and the\nrest by cycle at 5 km/h. Find his average speed during the entire journey.",
+      "options": {
+        "a": "100/7 kmph",
+        "b": "25/3 kmph",
+        "c": "14 kmph",
+        "d": "18 kmph"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q013",
+      "num": 13,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In 2010, Sachin Tendulkar, the Indian cricketer,\nscored 900 runs for his county at an average of 30,\nin 2011, he scored 950 runs at an average of 30.65;\nin 2012, 1300 runs at an average of 32.50 and in\n2013, 1100 runs at an average of 35.49. What was\nhis county average for the four years?",
+      "options": {
+        "a": "34.23",
+        "b": "32.19",
+        "c": "33.88",
+        "d": "30.98"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q014",
+      "num": 14,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average weight of 10 men is decreased by 5 kg\nwhen, one of them weighing 100 kg is replaced by\nanother person. This new person is again replaced\nby another person, whose weight is 10 kg lower than\nthe person he replaced. What is the overall change\nin the average due to this dual change?",
+      "options": {
+        "a": "5 kg",
+        "b": "6 kg",
+        "c": "12 kg",
+        "d": "15 kg"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q015",
+      "num": 15,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find the average weight of four packets, if it is\nknown that the weight of the →rst packet is 20 kg and\nthe weights of the second, third and fourth packets’\n2\neach is de→ned by f(x) = x2 –\n× (x2) where x =\n5",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q016",
+      "num": 16,
+      "lod": 2,
+      "type": "mcq",
+      "text": "There are →ve boxes in a box hold. The weight of\nthe →rst box is 40 kg and the weight of the second\nbox is 50% higher than the weight of the third box,\nwhose weight is 25% higher than the →rst boxes’\nweight. The fourth box at 150 kg is 50% heavier\nthan the →fth box. Find the difference in the average weight of the four heaviest boxes and the four\nlightest boxes.",
+      "options": {
+        "a": "21.5 kg",
+        "b": "25 kg",
+        "c": "27.5 kg",
+        "d": "22.5 kg"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q017",
+      "num": 17,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For Question 16, →nd the difference in the average\nweight of the heaviest three and the lightest three.",
+      "options": {
+        "a": "66.66 kg",
+        "b": "25 kg",
+        "c": "50 kg",
+        "d": "53.33 kg"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q018",
+      "num": 18,
+      "lod": 2,
+      "type": "mcq",
+      "text": "20 persons went to a hotel for a combined dinner\nparty. 15 of them spent ` 90 each on their dinner and\nthe rest spent ` 30 more than the average expenditure\nof all the 20. What was the total money spent (in `)\nby them?",
+      "options": {
+        "a": "1700",
+        "b": "2000",
+        "c": "2200",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q019",
+      "num": 19,
+      "lod": 2,
+      "type": "mcq",
+      "text": "There were 30 students in a hostel. Due to the admission of 20 new students, the expenses of the\nmess increase by `1600 per day while the average\nexpenditure per head diminished by `8. What was\nthe original expenditure of the mess?",
+      "options": {
+        "a": "3000",
+        "b": "1600",
+        "c": "2000",
+        "d": "1200"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q020",
+      "num": 20,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average price of 3 precious diamond studded\nplatinum thrones is ` 97610498312. If their prices\nare in the ratio 4:7:9. The price of the cheapest is",
+      "options": {
+        "a": "5, 65, 66, 298.972",
+        "b": "5, 85, 66, 29, 8987.2",
+        "c": "58, 56, 62, 889.72",
+        "d": "none of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q021",
+      "num": 21,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average weight of 23boxes is 3kg. If the weight\nof the container (in which the boxes are kept) is\nincluded, the calculated average weight per box increases by 1 kg. What is the weight of the container?",
+      "options": {
+        "a": "26 kg",
+        "b": "4 kg",
+        "c": "5 kg",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q022",
+      "num": 22,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A man covers 1/4th of his journey by cycle at 40\nkm/h, the ½ of the remaining by car at 20 km/h, and\nthe rest by walking at 10 km/h. Find his average\nspeed during the whole journey.",
+      "options": {
+        "a": "16 kmph",
+        "b": "15 kmph",
+        "c": "18 kmph",
+        "d": "17 kmph"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q023",
+      "num": 23,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average age of a group of 15 persons is 25\nyears and 5 months. Two persons, each 40 years old,\nleft the group. What will be the average age of the\nremaining persons in the group?",
+      "options": {
+        "a": "23.17 years",
+        "b": "24.25 years",
+        "c": "25.35 years",
+        "d": "25 years"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q024",
+      "num": 24,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average salary of the entire staff in an department is `2000 per month. The average salary of\nof→cers is ` 3000 and that of non-of→cers is ` 1500.\nIf the number of of→cers is 10, then →nd the number\nof non-of→cers in the of→ce?",
+      "options": {
+        "a": "20",
+        "b": "25",
+        "c": "15",
+        "d": "10"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q025",
+      "num": 25,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Â nr=1 (n + 1)r , where r = n.\n(n - 1)n(n + 1)]\n2\n(n + 1) 2 ]\n2\nn(n - 1) 2\nn2\n2",
+      "options": {
+        "a": "[",
+        "b": "[n",
+        "d": "2"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q026",
+      "num": 26,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average of ‘n’ numbers is z. if the number x is\nreplaced by the number x1, then the average becomes\nz1. Find the relation between n, z, z1, x and x1.\n= ˙\nÎ x - x n˚\n=\nn\nz1\nÈ z - z1 1 ˘\n= ˙\n1\nn˚\nÎx - x\nÈ x - x1 1 ˘\n= ˙\n1\nn˚\nÎz - z",
+      "options": {
+        "c": "Í",
+        "a": "Í 1",
+        "b": "x1 - x 1",
+        "d": "Í"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q027",
+      "num": 27,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A person travels three equal distances at a speed of\nx km/h, y km/h and z km/h respectively. What will\nbe the average speed during the whole journey?\n(xy + yz + zx) (xy + yz + zx)/xyz\n(xy + yz + xz) \nDirections for questions 28 to 30: Read the following\npassage and answer the questions that follow.\nAman, Binod, Charan, Dharam and Ehsaan are the members\nof the same family. Each and everyone loves one another\nvery much. Their birthdays are in different months and\non different dates. Aman remembers that his birthday is\nbetween 25th and 30th, of Binod it is between 20th and\n25th, of Charan it is between 10th and 20th, of Dharam it is\nbetween 5th and 10th and of Ehsaan it is between 1st to 5th\nof the month. The sum of the date of birth is de→ned as the\naddition of the date and the month, for example 12th January\nwill be written as 12/1 and will add to a sum of the date of",
+      "options": {
+        "a": "xyz/",
+        "b": "",
+        "c": "3xyz/",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q013",
+      "num": 13,
+      "lod": 2,
+      "type": "tita",
+      "text": "(Between 25th and 30th includes both 25 and 30).",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q028",
+      "num": 28,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What may be the maximum average of their sum of\nthe dates of birth?",
+      "options": {
+        "a": "24.6",
+        "b": "15.2",
+        "c": "28",
+        "d": "32"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q029",
+      "num": 29,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What may be the minimum average of their sum of\nthe dates of births?\nAverages II.19",
+      "options": {
+        "a": "24.6",
+        "b": "15.2",
+        "c": "28",
+        "d": "32"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q030",
+      "num": 30,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If it is known that the dates of birth of three of them\nare even numbers then →nd maximum average of\ntheir sum of the dates of birth.",
+      "options": {
+        "a": "24.6",
+        "b": "15.2",
+        "c": "27.6",
+        "d": "28"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q031",
+      "num": 31,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If the dates of birth, of four of them are prime numbers, then →nd the maximum average of the sum of\ntheir dates of birth.",
+      "options": {
+        "a": "27.2",
+        "b": "26.4",
+        "c": "28",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q032",
+      "num": 32,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average age of a group of persons going for a\nmovie is 20 years. 10 new persons with an average\nage of 10 years join the group on the spot due to\nwhich the average of the group becomes 18 years.\nFind the number of persons initially going for the\nmovie.",
+      "options": {
+        "a": "20",
+        "b": "40",
+        "c": "50",
+        "d": "30"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q033",
+      "num": 33,
+      "lod": 2,
+      "type": "mcq",
+      "text": "An engineering college has only four batches that\ncontain 20, 40, 60 and 80 students respectively. The\npass percentage of these classes, are 10%, 20%, 30%\nand 40% respectively. Find the pass percentage of\nthe entire college.",
+      "options": {
+        "a": "50%",
+        "b": "70%",
+        "c": "30%",
+        "d": "60%"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q034",
+      "num": 34,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the average of f(x), g(x), h(x), d(x) at x = 1.\nf(x) is equal to x3 + 12, g(x) = 15x3 – 10, h(x) = log\n10x2 and d(x) = x2",
+      "options": {
+        "a": "5",
+        "b": "10",
+        "c": "4",
+        "d": "7"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q035",
+      "num": 35,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In question 34 →nd the average of f(x) – g(x), g(x)\n– h(x), h(x) – d(x), d(x) – f(x) at x = 1",
+      "options": {
+        "a": "0",
+        "b": "–2",
+        "c": "5",
+        "d": "None of these."
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q036",
+      "num": 36,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The average salary of employees in TCP is `20,000,\nthe average salary of managers being `40,000 and\nthe management trainees being `5000. The total\nnumber of workers could be\nDirections for questions 37 to 40: Read the following\nand answer the questions that follows.\nDuring the →nal match of ICC championship 2000, India\nplaying against Australia scored in the following manner:\nPartnership\n1st wicket\n2nd wicket\n3rd wicket\n4th wicket\n5th wicket\n6th wicket\nRuns scored\n62\n48\n32\n62\n26\n13",
+      "options": {
+        "a": "350",
+        "b": "300",
+        "c": "100",
+        "d": "500"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q037",
+      "num": 37,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the average runs scored by the →rst four batsmen.",
+      "options": {
+        "a": "83.5",
+        "b": "60.5",
+        "c": "66.8",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q038",
+      "num": 38,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The maximum average runs scored by the →rst →ve\nbatsmen could be",
+      "options": {
+        "a": "48.6",
+        "b": "36.8",
+        "c": "46",
+        "d": "cannot be determined."
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q039",
+      "num": 39,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The minimum average runs scored by the last →ve\nbatsmen to get out could be",
+      "options": {
+        "a": "13.6",
+        "b": "24.4",
+        "c": "36.8",
+        "d": "0"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q040",
+      "num": 40,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If the →fth down batsman gets out for a duck, then\n→nd the average runs scored by the →rst six batsmen.",
+      "options": {
+        "a": "27.1",
+        "b": "33.3",
+        "c": "28.5",
+        "d": "Cannot be determined"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q041",
+      "num": 41,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The weight of a metal piece as calculated by the\naverage of 7 different experiments is 53.735 gm.\nThe average of the →rst three experiments is 54.005\ngm, of the fourth is 0.004 gm greater than the →fth,\nwhile the average of the sixth and seventh experiment was 0.010 gm less than the average of the →rst\nthree. Find the weight of the body obtained by the\nfourth experiment.",
+      "options": {
+        "a": "49.353 gm",
+        "b": "51.712 gm",
+        "c": "53.072 gm",
+        "d": "54.512 gm"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q042",
+      "num": 42,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Sumer’s average expenditure for the →rst 4 months\nof the year was `251.25. For the next 5 months the\naverage monthly expenditure was `26.27 more than\nwhat it was during the →rst 4 months. If the person\nspent `760 in all during the remaining 3 months of\nthe year, →nd what percentage of his annual income\nof `3000 he saved in the year.",
+      "options": {
+        "a": "13.667%",
+        "b": "–5.0866%",
+        "c": "12.333%",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q043",
+      "num": 43,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A certain number of tankers were required to transport 60 lakh liters of oil from the IOCL factory\nin Mathura. However, it was found that since each\ntanker could take 50,000 liters of oil less, another\n4 tankers were needed. How many tankers were\ninitially, planned to be used?",
+      "options": {
+        "a": "10",
+        "b": "15",
+        "c": "20",
+        "d": "25"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q044",
+      "num": 44,
+      "lod": 2,
+      "type": "mcq",
+      "text": "One collective farm got an average harvest of 21\ntons of wheat per hectare and another collective farm\nthat had 12 acres of land less given to wheat, got\n25 tons from a hectare. As a result, the second farm\nharvested 300 tons of wheat more than the →rst. How\nmany tons of wheat did each farm harvest?",
+      "options": {
+        "a": "3150, 3450",
+        "b": "3250, 3550",
+        "c": "2150, 2450",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q045",
+      "num": 45,
+      "lod": 2,
+      "type": "tita",
+      "text": "If the product of n positive integers is nn, then what\nis the minimum value of their average for n = 6?\n\b\n(IIFT 2013)",
+      "options": {},
+      "answer": "6",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q046",
+      "num": 46,
+      "lod": 2,
+      "type": "tita",
+      "text": "The average of 7 consecutive numbers is P. If the\nnext three numbers are also added, the average increases by\b\n(IIFT 2013)\nDirections for question number 47-48: In 2001 there\nwere 6 members in Binod’s family and their average age\nwas 28 years. He got married between 2001 and 2004 and\nin 2004 there was an addition of a child in his family. In\n2006, the average age of his family is 32 years.",
+      "options": {},
+      "answer": "1",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q047",
+      "num": 47,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the present age (in 2006) of Binod’s wife\n(in years) is:",
+      "options": {},
+      "answer": "56",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q048",
+      "num": 48,
+      "lod": 2,
+      "type": "tita",
+      "text": "If Binod’s age is greater than his wife and in 2001 his\nage was a prime number then what is the minimum\npossible value of Binod’s present age? (in 2006) (in\nyears)",
+      "options": {},
+      "answer": "58",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q049",
+      "num": 49,
+      "lod": 2,
+      "type": "tita",
+      "text": "If the average of 21, 23, x, 24, 27 lies in between\n25, 28 (including both). Find the number of possible\nintegral values of x.",
+      "options": {},
+      "answer": "16",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q050",
+      "num": 50,
+      "lod": 2,
+      "type": "tita",
+      "text": "Rozer a great tennis player has 10 boxes with him,\nwhich have an average of 25 tennis balls per box. If\neach box has at least 8 balls and no two boxes have\nSpace for Rough Work\nan equal number of balls, then what is the maximum\npossible number of balls in any box?",
+      "options": {},
+      "answer": "142",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q051",
+      "num": 51,
+      "lod": 2,
+      "type": "tita",
+      "text": "If the average of →ve different numbers is 6, and if\nall the numbers are positive integers then what is the\nlargest possible value of the average of the 2 biggest\nnumbers?\nDirections for question number 52–53: In CMS, Delhi\nstudents of two different sections appeared for a test. The\naverage score of students of Class 9this 80 and the average\nscore of class 10th is 73. Average scores of girls and boys\nof class 9th are 70 and 85, respectively and that of class 10th\nare 70 and 74, respectively. The number of boys of class\n10th is 3 times the number of girls of class 9th",
+      "options": {},
+      "answer": "12",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q052",
+      "num": 52,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the ratio of girls and boys of class 9th?",
+      "options": {},
+      "answer": "2",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q053",
+      "num": 53,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the average score of all the students of class\n9th and 10th together?",
+      "options": {},
+      "answer": "76",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q054",
+      "num": 54,
+      "lod": 2,
+      "type": "tita",
+      "text": "There are four numbers w, x, y, z. If the sum of all\npossible distinct groups, each having two numbers\nfrom amongst w, x, y, z is 1440, then what is the\naverage of these four numbers?\nAverages II.21\nLevel of Dif→culty (III)\nDirections for questions 1 to 8: Read the following:\nThere are 3 classes having 20, 25 and 30 students\nrespectively having average marks in an examination as 20,\n25 and 30, respectively. If the three classes are represented\nby A, B and C and you have the following information\nabout the three classes, answer the questions that follow:\nA Æ Highest score 22, Lowest score 18\nB Æ Highest score 31, Lowest score 23\nC Æ Highest score 33, Lowest score 26\nIf →ve students are transferred from A to B.",
+      "options": {},
+      "answer": "120",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q001",
+      "num": 1,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will happen to the average score of B?",
+      "options": {
+        "a": "De→nitely increase",
+        "b": "De→nitely decrease",
+        "c": "Remain constant",
+        "d": "Cannot say"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q002",
+      "num": 2,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will happen to the average score of A?\nIn a transfer of 5 students from A to C",
+      "options": {
+        "a": "De→nitely increase",
+        "b": "De→nitely decrease",
+        "c": "Remain constant",
+        "d": "Cannot say"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q003",
+      "num": 3,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will happen to the average score of C?",
+      "options": {
+        "a": "De→nitely increase",
+        "b": "De→nitely decrease",
+        "c": "Remain constant",
+        "d": "Cannot say"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q004",
+      "num": 4,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will happen to the average score of A?\nIn a transfer of 5 students from B to C (Questions 5–6)",
+      "options": {
+        "a": "De→nitely increase",
+        "b": "De→nitely decrease",
+        "c": "Remain constant",
+        "d": "Cannot say"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q005",
+      "num": 5,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will happen to the average score of C?",
+      "options": {
+        "a": "De→nitely increase",
+        "b": "De→nitely decrease",
+        "c": "Remain constant",
+        "d": "Cannot say"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q006",
+      "num": 6,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Which of these can be said about the average score\nof B?",
+      "options": {
+        "a": "Increases if C decreases",
+        "b": "Decreases if C increases",
+        "c": "Increases if C decreases",
+        "d": "Decreases if C decreases"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q007",
+      "num": 7,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In a transfer of 5 students from A to B, the maximum\npossible average achievable for group B is",
+      "options": {
+        "a": "2 5",
+        "b": "24.5",
+        "c": "25.5",
+        "d": "24"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q008",
+      "num": 8,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For the above case, the maximum possible average\nachieved for group A will be",
+      "options": {
+        "a": "20.66",
+        "b": "21.5",
+        "c": "20.75",
+        "d": "20.5"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q009",
+      "num": 9,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will be the minimum possible average of\nGroup A if 5 students are transferred from A to B?",
+      "options": {
+        "a": "19.55",
+        "b": "21.5",
+        "c": "19.33",
+        "d": "20.5"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q010",
+      "num": 10,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If 5 students are transferred from B to A, what will\nbe the minimum possible average of A?",
+      "options": {
+        "a": "20.69",
+        "b": "2 1",
+        "c": "20.75",
+        "d": "20.6"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q011",
+      "num": 11,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For question 10, what will be the maximum average\nof A?\nDirections for questions 12 to 17: Read the following\nand answer the questions that follow.\nIf 5 people are transferred from A to B and another\nindependent set of 5 people are transferred back from B to\nA, then after this operation (Assume that the set transferred\nfrom B to A contains none from the set of students that\ncame to B from A)",
+      "options": {
+        "a": "23.2",
+        "b": "22.2",
+        "c": "18.75",
+        "d": "19"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q012",
+      "num": 12,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will happen to B’s average?",
+      "options": {
+        "a": "Increase if A’s average decreases",
+        "b": "decrease always",
+        "c": "Cannot be said",
+        "d": "decrease if A’s average decreases"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q013",
+      "num": 13,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What can be said about A’s average?",
+      "options": {
+        "a": "Will decrease",
+        "b": "Will always increase if B’s average changes",
+        "c": "May increase or decrease",
+        "d": "Will increase only if B’s average decreases"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod2-q014",
+      "num": 14,
+      "lod": 2,
+      "type": "tita",
+      "text": "At the end of the 2 steps mentioned above (in the\ndirection) what could be the maximum value of the\naverage of class B?\n(",
+      "options": {
+        "a": "25.4"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q015",
+      "num": 15,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For question 14, what could be the minimum value of\nthe average of class B?",
+      "options": {
+        "a": "22.4",
+        "b": "24.2",
+        "c": "2 5",
+        "d": "2 3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q016",
+      "num": 16,
+      "lod": 3,
+      "type": "mcq",
+      "text": "What could be the maximum possible average\nachieved by class A at the end of the operation?",
+      "options": {
+        "a": "25.2",
+        "b": "26",
+        "c": "23.25",
+        "d": "23.75"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q017",
+      "num": 17,
+      "lod": 3,
+      "type": "mcq",
+      "text": "What could be the minimum possible average of\nclass A at the end of the operation?\nDirections for questions 18 to 23: Read the following\nand answer the questions that follow.\nIf 5 people are transferred from C to B, further, 5 more\npeople are transferred from B to A, then 5 are transferred\nfrom A to B and →nally, 5 more are transferred from B\nto C.",
+      "options": {
+        "a": "21.4",
+        "b": "19.2",
+        "c": "28.5",
+        "d": "20.25"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q018",
+      "num": 18,
+      "lod": 3,
+      "type": "mcq",
+      "text": "What is the maximum possible average achieved by\nclass C?",
+      "options": {
+        "a": "30.833",
+        "b": "3 0",
+        "c": "29.66",
+        "d": "30.66"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q019",
+      "num": 19,
+      "lod": 3,
+      "type": "mcq",
+      "text": "What is the maximum possible average of class B?",
+      "options": {
+        "a": "26",
+        "b": "27",
+        "c": "25",
+        "d": "2 8"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q020",
+      "num": 20,
+      "lod": 3,
+      "type": "mcq",
+      "text": "What is the maximum possible average value attained by class A?",
+      "options": {
+        "a": "22.75",
+        "b": "23.75",
+        "c": "23.5",
+        "d": "24"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q021",
+      "num": 21,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The minimum possible value of the average of group\nC is",
+      "options": {
+        "a": "26.3",
+        "b": "27.5",
+        "c": "29.6",
+        "d": "2 8"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q022",
+      "num": 22,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The minimum possible average of group B after this\nset of operation is",
+      "options": {
+        "a": "21.6",
+        "b": "22.2",
+        "c": "21.8",
+        "d": "21.4"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q023",
+      "num": 23,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The minimum possible average of group A after the\nset of 3 operation is",
+      "options": {
+        "a": "20",
+        "b": "20.3",
+        "c": "20.4",
+        "d": "19.8"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q024",
+      "num": 24,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Which of these will de→nitely not constitute an\noperation for getting the minimum possible average\nvalue for group A?",
+      "options": {
+        "a": "transfer of →ve 31s from B to A",
+        "b": "transfer of →ve 26s from C to B",
+        "c": "transfer of →ve 22s from A to B",
+        "d": "transfer of →ve 33s from C to B"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q025",
+      "num": 25,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For getting the lowest possible value of C’s average,\nthe sequence of operations could be\nA, →ve 18s from A to B, →ve 18s from B to C",
+      "options": {
+        "a": "Transfer →ve 33s from C to B, →ve 23s from B to",
+        "b": "Transfer →ve 33s from C to B, 31s from B to A,",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q026",
+      "num": 26,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If we set the highest possible average of class C as\nthe primary objective and want to achieve the highest\npossible value for class B as the secondary objective,\nwhat is the maximum value of class B’s average that\nis attainable?",
+      "options": {
+        "a": "2 7",
+        "b": "26",
+        "c": "2 5",
+        "d": "24"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q027",
+      "num": 27,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 26, if the secondary objective is changed\nto achieving the minimum possible average value of\nclass B’s average, the lowest value of class B’s average that could be attained is",
+      "options": {
+        "a": "22.6",
+        "b": "23",
+        "c": "22.2",
+        "d": "22"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q028",
+      "num": 28,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For question 27, what can be said about class A’s\naverage?",
+      "options": {
+        "a": "Will be determined automatically at 22.25",
+        "b": "Will have a maximum possible value of 22.25",
+        "c": "Will have a minimum possible value of 22.25",
+        "d": "Will be determined automatically at 22.5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q029",
+      "num": 29,
+      "lod": 3,
+      "type": "mcq",
+      "text": "A team of miners planned to mine 1800 tons of\nore during a certain number of days. Due to technical dif→culties in one-third of the planned number of\ndays, the team was able to achieve an output of 20\ntons of ore less than the planned output. To make\nup for this, the team overachieved for the rest of\nthe days by 20 tons. The end result was that the team\ncompleted the task one day ahead of time. How many\ntons of ore did the team initially plan to ore per day?",
+      "options": {
+        "a": "50 tons",
+        "b": "100 tons",
+        "c": "150 tons",
+        "d": "200 tons"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q030",
+      "num": 30,
+      "lod": 3,
+      "type": "mcq",
+      "text": "According to a plan, a team of woodcutters decided\nto harvest 216 m3 of wheat in several days. In the\n→rst three days, the team ful→lled the daily assignment, and then it harvested 8 m3 of wheat over and\nabove the plan everyday. Therefore, a day before the\nplanned date, they had already harvested 232 m3 of\nwheat. How many cubic metres of wheat a day did\nthe team have to cut according to the plan?",
+      "options": {
+        "a": "12",
+        "b": "13",
+        "c": "24",
+        "d": "25"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q031",
+      "num": 31,
+      "lod": 3,
+      "type": "mcq",
+      "text": "On an average, two litres of milk and one litre of\nwater are needed to be mixed to make 1 kg of sudha\nshrikhand of type A, and 3 litres of milk and 2 litres\nof water are needed to be mixed to make 1 kg of\nsudha shrikhand of type B. How many kilograms\nof each type of shrikhand was manufactured if it is\nknown that 130 litres of milk and 80 litres of water\nwere used?",
+      "options": {
+        "a": "20 of type A and 30 of type B",
+        "b": "30 of type A and 20 of type B",
+        "c": "15 of type A and 30 of type B",
+        "d": "30 of type A and 15 of type B"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q032",
+      "num": 32,
+      "lod": 3,
+      "type": "mcq",
+      "text": "There are 500 seats in Minerva Cinema, Mumbai,\nplaced in similar rows. After the reconstruction of\nthe hall, the total number of seats became 10% less.\nThe number of rows was reduced by 5 but each row\ncontained 5 seats more than before. How many rows\nand how many seats in a row were there initially in\nthe hall?\nAverages II.23",
+      "options": {
+        "a": "20 rows and 25 seats",
+        "b": "20 rows and 20 seats",
+        "c": "10 rows and 50 seats",
+        "d": "50 rows and 10 seats"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q033",
+      "num": 33,
+      "lod": 3,
+      "type": "mcq",
+      "text": "One fashion house has to make 810 dresses and\nanother one 900 dresses during the same period of\ntime. In the →rst house, the order was ready 3 days\nahead of time and in the second house, 6 days ahead\nof time. How many dresses did each fashion house\nmake a day if the second house made 21 dresses\nmore a day than the →rst?",
+      "options": {
+        "a": "54 and 75",
+        "b": "24 and 48",
+        "c": "44 and 68",
+        "d": "04 and 25"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q034",
+      "num": 34,
+      "lod": 3,
+      "type": "mcq",
+      "text": "A shop sold 64 kettles of two different capacities.\nThe smaller kettle cost a rupee less than the larger\none. The shop made 100 rupees from the sale of\nlarge kettles and 36 rupees from the sale of small\nones. How many kettles of either capacity did the\nshop sell and what was the price of each kettle?\n1.5 rupees each\n2.5 rupees each\n1.5 rupees each",
+      "options": {
+        "a": "20 kettles for 2.5 rupees each and 14 kettles for",
+        "b": "40 kettles for 4.5 rupees each and 24 kettles for",
+        "c": "40 kettles for 2.5 rupees each and 24 kettles for",
+        "d": "either a or b"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q035",
+      "num": 35,
+      "lod": 3,
+      "type": "mcq",
+      "text": "An enterprise got a bonus and decided to share it in\nequal parts between the exemplary workers. It turned\nout, however, that there were 3 more exemplary\nworkers than it had been assumed. In that case, each\nof them would have got 4 rupees less. The administration had found the possibility to increase the total sum\nof the bonus by 90 rupees and as a result each exemplary worker got 25 rupees. How many people got\nthe bonus?\nDirections for questions 36 to 39: Read the following\nand answer the questions that follows.\nIn the island of Hoola Boola Moola, the inhabitants\nhave a strange process of calculating their average incomes\nand expenditures. According to an old legend prevalent\non that island, the average monthly income had to be\ncalculated on the basis of 14 months in a calendar year\nwhile the average monthly expenditure was to be calculated\non the basis of 9 months per year. This would lead to\npeople having an underestimation of their savings since\nthere would be an underestimation of the income and an\noverestimation of the expenditure per month.",
+      "options": {
+        "a": "9",
+        "b": "18",
+        "c": "8",
+        "d": "16"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q036",
+      "num": 36,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the minister for economic affairs decided to reverse\nthe process of calculation of average income and average expenditure, what will happen to the estimated\nsavings of a person living on Hoola Boola Moola\nisland?",
+      "options": {
+        "a": "It will increase",
+        "b": "It will decrease",
+        "c": "It will remain constant",
+        "d": "Will depend on the value"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q037",
+      "num": 37,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If it is known that Mr. Magoo Hoola Boola estimates\nhis savings at 10 Moolahs and if it is further known\nthat his actual expenditure is 288 Moolahs in an\nyear (Moolahs, for those who are not aware, is the\nof→cial currency of Hoola Boola Moola), then what\nwill happen to his estimated savings if he suddenly\ncalculates on the basis of a 12 month calendar year?",
+      "options": {
+        "a": "Will increase by 5",
+        "b": "Will increase by 15",
+        "c": "Will increase by 10",
+        "d": "Will triple"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q038",
+      "num": 38,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Mr. Boogie Woogie comes back from the USA to\nHoola Boola Moola and convinces his community\ncomprising 546 families to start calculating the average income and average expenditure on the basis\nof 12 months per calendar year. Now if it is known\nthat the average estimated income on the island is\n(according to the old system) 87 Moolahs per month,\nthen what will be the change in the average estimated\nsavings for the island of Hoola Boola Moola. (Assume that there is no other change).",
+      "options": {
+        "a": "251.60 Moolahs",
+        "b": "565.5 Moolahs",
+        "c": "625.5 Moolahs",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q039",
+      "num": 39,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Mr. Boogle Woogle comes back from the USSR and\nconvinces his community comprising 273 families to\nstart calculating the average income on the basis of\n12 months per calendar year. Now if it is known that\nthe average estimated income in his community is\n(according to the old system) 87 Moolahs per month,\nthen what will be the change in the average estimated\nsavings for the island of Hoola Boola Moola. (Assume that there is no other change).\nDirections for questions 40 to 44: Read the following\nand answer the questions that follows.\nThe Indian cricket team has to score 360 runs on the last\nday of a test match in 90 overs, to win the test match. This\nis the target set by the opposing captain Brian Lara after\nhe declared his innings closed at the overnight score of\n411 for 7.\nThe Indian team coach has the following information\nabout the batting rates (in terms of runs per over) of the\ndifferent batsmen:\nAssume that the run rate of a partnership is the weighted\naverage of the individual batting rates of the batsmen\ninvolved in the partnership (on the basis of the ratio of the\nstrike each batsman gets, i.e., the run rate of a partnership\nis de→ned as the weighted average of the run rates of the\ntwo batsmen involved weighted by the ratio of the number\nof balls faced by each batsman).\nSince decimal fractions of runs are not possible for\nany batsman, assume that the estimated runs scored by a\nbatsman in an inning (on the basis of his run rate and the\nnumber of overs faced by him) is rounded off to the next\nhigher integer immediately above the estimated value of\nthe runs scored during the innings.\nFor example, if a batsman scores at an average of 3\nruns per over for 2.1666 overs, then he will be estimated to\nhave scored 2.1666 × 3 = 6.5 runs in his innings, but since\nthis is not possible, the actual number of runs scored by\nthe batsman will be taken as 7 (the next higher integer\nabove 6.5).\nRuns scored per over in different batting styles\nDefensive\nNormal\nAggressive\nDas\nName of Batsman\n3\n4\n5\nDasgupta\n2\n3\n4\nDravid\n2\n3\n4\nTendulkar\n4\n6\n8\nLaxman\n4\n5\n6\nSehwag\n4\n5\n6\nGanguly\n3\n4\n5\nKumble\n2\n3\n4\nHarbhajan\n3\n4\n5\nSrinath\n3\n4\n5\nYohannan\n2\n3\n4\nAlso, this rounding off can take place only once for one\ninnings of a batsman.\nAssume no extras unless otherwise stated.\nAssume that the strike is equally shared unless otherwise\nstated.",
+      "options": {
+        "a": "251.60 Moolahs",
+        "b": "282.75 Moolahs",
+        "c": "312.75 Moolahs",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q040",
+      "num": 40,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the →rst wicket pair of Das and Dasgupta bats for\n22 overs and during this partnership Das has started\nbatting normally and turned aggressive after 15 overs\nwhile Dasgupta started off defensively but shifted\ngears to bat normally after batting for 20 overs, →nd\nthe expected score after 22 overs.",
+      "options": {
+        "a": "65",
+        "b": "71",
+        "c": "82",
+        "d": "58"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q041",
+      "num": 41,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Of the →rst-wicket partnership between Das and Dasgupta as per the previous question, the ratio of the\nnumber of runs scored by Das to those scored by\nDasgupta is:",
+      "options": {
+        "a": "46 : 2 5",
+        "b": "96 : 46",
+        "c": "41 : 32",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q042",
+      "num": 42,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The latest time by which Tendulkar can come to bat\nand still win the game, assuming that the run rate at\nthe time of his walking the wicket is into 2.5 runs\nper over, is (assuming he shares strike equally with\nhis partner and that he gets the maximum possible\nsupport at the other end from his batting partner and\nboth play till the last ball).",
+      "options": {
+        "a": "After 50 overs",
+        "b": "After 55 overs",
+        "c": "After 60 overs",
+        "d": "Cannot be determined"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q043",
+      "num": 43,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For question 42, where Tendulkar batted aggressively\nand assuming that it is the Tendulkar–Laxman pair\nthat wins the game for India (after Tendulkar walks\ninto bat with the current run rate at 2.5 per over, and\nat the latest possible time for him to win the game\nwith maximum possible support from the opposite\nend), what will be Tendulkar’s score for the innings\n(assume equal strike)?",
+      "options": {
+        "a": "105",
+        "b": "1 2 0",
+        "c": "135",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q044",
+      "num": 44,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For questions 42 and 43, if it was Laxman who batted with Tendulkar for his entire innings, then how\nmany runs would Laxman score in the innings?\nDirections for questions 45 to 49: Read the following\nand answer the questions that follow (with reference to the\ndata provided in the table for questions 40 to 44).\nIf Sachin Tendulkar walks into bat after the fall of the\n→fth wicket and has to share partnerships with Ganguly,\nKumble, Harbhajan, Srinath and Yohannan, who have\nbatted normally, defensively, defensively, defensively\nand defensively, respectively while Tendulkar has batted\nnormally, aggressively, aggressively, aggressively and\naggressively, respectively in each of the →ve partnerships\nthat lasted for 12, 10, 8, 5 and 10 overs, respectively,\nsharing strike equally with Ganguly and keeping two-thirds\nof the strike in his other four partnerships, then answer the\nfollowing questions:",
+      "options": {
+        "a": "105",
+        "b": "75",
+        "c": "9 0",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q045",
+      "num": 45,
+      "lod": 3,
+      "type": "mcq",
+      "text": "How many runs did Sachin score during his innings?",
+      "options": {
+        "a": "128",
+        "b": "212",
+        "c": "176",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q046",
+      "num": 46,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The highest partnership that Tendulkar shared in was\nworth",
+      "options": {
+        "a": "6 0",
+        "b": "61",
+        "c": "62",
+        "d": "58"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q047",
+      "num": 47,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The above partnership was shared with:",
+      "options": {
+        "a": "Ganguly",
+        "b": "Yohannan",
+        "c": "Kumble",
+        "d": "All three"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q048",
+      "num": 48,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If India proceeded to win the match based on the runs\nscored by these last →ve partnerships (assuming the\nlast wicket pair remained unbeaten), what could be\nthe maximum score at which Tendulkar could have\ncome into bat?",
+      "options": {
+        "a": "103 for 5",
+        "b": "97 for 5",
+        "c": "100 for 5",
+        "d": "104 for 5"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q049",
+      "num": 49,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 48, what could be the minimum score\nat which Tendulkar could have come to bat?\nAverages II.25",
+      "options": {
+        "a": "103 for 5",
+        "b": "97 for 5",
+        "c": "104 for 5",
+        "d": "98 for 5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q092",
+      "num": 92,
+      "lod": 3,
+      "type": "tita",
+      "text": "39.56\nLevel of Dif→culty (II)",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q001",
+      "num": 1,
+      "lod": 3,
+      "type": "tita",
+      "text": "Required average = (1 + 2 + 3 + … + 15)/15 =\n120/15 = 8. Alternately you could use the formula\nfor sum of the →rst n natural numbers as n (n + 1)/2\nwith n as 15. Then average = Sum/15 = (15 × 16/2)/\n15 = 8",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q002",
+      "num": 2,
+      "lod": 3,
+      "type": "tita",
+      "text": "Required average = (0 + 1 + 2 + … + 9)/10 = 45/10\n= 4.5",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q003",
+      "num": 3,
+      "lod": 3,
+      "type": "tita",
+      "text": "Required average = (2 + 4 + 6 + 8 + 10 + 12 + 14\n+ 16 + 18 + 20)/10 = 110/10 = 11. Alternately you\ncould use the formula for sum of the →rst n even\nnatural numbers as n (n + 1) with n as 10. Then\naverage = Sum/10 = 10 × 11/10 = 11.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q004",
+      "num": 4,
+      "lod": 3,
+      "type": "tita",
+      "text": "The sum of the →rst n odd numbers = n2. In this\ncase n = 10 Æ Sum = 102 = 100. Required average\n= 100/10 = 10.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q005",
+      "num": 5,
+      "lod": 3,
+      "type": "tita",
+      "text": "Required average = (2 + 3 + 5 + 7 + 11 + 13 + 17\n+ 19 + 23 + 29)/10 = 129/10 = 12.9.",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q006",
+      "num": 6,
+      "lod": 3,
+      "type": "tita",
+      "text": "Required average = (4 + 6 + 8 + 9 + 10 + 12 + 14\n+ 15 + 16 + 18)/10 = 112/10 = 11.2.",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q007",
+      "num": 7,
+      "lod": 3,
+      "type": "tita",
+      "text": "Required average = (3 + 5 + 7 + 11 + 13 + 17 + 19\n+ 23 + 29 + 31)/10 = 158/10 = 15.8.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q008",
+      "num": 8,
+      "lod": 3,
+      "type": "tita",
+      "text": "P = 14 × 10 – 13 × 8 = 140 –104 = 36",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch03-lod3-q009",
+      "num": 9,
+      "lod": 3,
+      "type": "tita",
+      "text": "D’s weight = 4 × 70 – 3 × 74 = 280 – 222 = 58.\nE’s weight = 58 + 3 = 61.\n Now, we know that A + B + C + D = 4 × 70 = 280\nand B + C + D + E = 75 × 4 = 300. Hence, A’s\nweight is 20 kg less than E ’s weight. A",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    }
+  ],
+  "questionCount": 191,
+  "lodCounts": {
+    "lod1": 87,
+    "lod2": 59,
+    "lod3": 45
+  }
+}

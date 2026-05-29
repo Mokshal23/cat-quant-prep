@@ -1,0 +1,1827 @@
+{
+  "id": "ch08",
+  "num": 8,
+  "title": "Ratio, Proportion & Variation",
+  "block": "III",
+  "blockName": "Arithmetic",
+  "topic": "Arithmetic",
+  "notes": {
+    "intro": "8 floors will require 80 man-days to clean.\nTherefore, 10 days are required to clean 8 floors.\nProblem 8.4 Three quantities A, B, C are such that AB =\nKC, where k is a constant. When A is kept constant, B varies directly as C; when B is kept constant, A varies directly\nC and when C is kept constant,",
+    "concepts": [
+      "8 floors will require 80 man-days to clean.\nTherefore, 10 days are required to clean 8 floors.\nProblem 8.4 Three quantities A, B, C are such that AB =\nKC, where k is a constant. When A is kept constant, B varies directly as C; when B is kept constant, A varies directly\nC and when C is kept constant, A varies inversely as B.\nInitially, A was at 5 and A : B : C was 1 : 3 : 5. Find the\nvalue of A when B equals 9 at constant C.\n(a) 8\n(b) 8.33\n(c) 9\n(d) 9.5\nSolution Initial values are 5, 15 and 25.\nThus we have 5 × 15 = K × 25.\nHence, K = 3.\nThus, the equation is AB = 3C.\nFor the problem, keep C constant at 25. Then, A × 9 = 3 ×\n25.\ni.e., A = 75/9 = 8.33\nProblem 8.5 If x/y = 3/4, then →nd the value of the expression, (5x – 3y)/(7x + 2y).\n(a) 3/21\n(b) 5/29\n(c) 3/29\n(d) 5/33\nSolution Assume the values as x = 3 and y = 4.\nThen we have\n(15 - 12)\n= 3/29\n(21 + 8)\nProblem 8.6 ` 3650 is divided among 4 engineers,\n3 MBAs and 5 CAs such that 3 CAs get as much as 2 MBAs\nand 3 Engineers as much as 2 CAs. Find the share of an\nMBA.\n(a) 300\n(b) 450\n(c) 475\n(d) None of these",
+      "4 × 0.66C + 3 × 1.5 C + 5C = 3650\nC = 3650/12.166",
+      "Problem 8.7 The ratio of water and milk in a 30 litre\nmixture is 7 : 3. Find the quantity of water to be added to\nthe mixture in order to make this ratio 6 : 1.\n(a) 30\n(b) 32\n(c) 33\n(d) 35\nSolution Solve while reading Æ As you read the →rst\nsentence, you should have 21 litres of water and 9 litres\nof milk in your mind.\nIn order to get the →nal result, we keep the milk constant\nat 9 litres.\nThen, we have 9 litres, which corresponds to 1\nHence, ‘?’ corresponds to 6.\nSolving by using unitary method we have\n54 litres of water to 9 litres of milk.\nHence, we need to add 33 litres of water to the original\nmixture.\nAlternatively, we can solve this by using options. The\nstudent should try to do the same.\nProblem 8.8 Three containers A, B and C are having\nmixtures of milk and water in the ratio of 1 : 5, 3 : 5 and\n5 : 7, respectively. If the capacities of the containers are\nin the ratio 5 : 4 : 5, →nd the ratio of milk to water, if the\nmixtures of all the three containers are mixed together.\nSolution Assume that there are 500, 400 and 500 litres\nrespectively in the 3 containers.\nThen we have, 83.33,150 and 208.33 litres of milk in\neach of the three containers.\nThus, the total milk is 441.66 litres. Hence, the amount of\nwater in the mixture is\n1400 – 441.66 = 958.33 litres.\nHence, the ratio of milk to water is\n441.66 : 958.33 Æ 53 : 115 (Using division by 0.33333)\nThe calculation thought process should be:\n(441 × 3 + 2) : (958 × 3 + 1) = 1325 : 2875.\nDividing by 25 Æ 53 : 115.",
+      "1. If p, q, r, s are proportional, then (p – q) (p – r)/p\n=\n(a) p + r + s\n(b) p + s – q – r\n(c) p + q + r + s\n(d) p + r – q – s\n2. What number must be added in each term of the\nfraction 7/31 so that it may become 5 : 17?\n(a) 9\n(b) 10\n(c) 11\n(d) 3\n3. If x varies inversely as y3 – 1 and is equal to 3 when\ny = 2, →nd x when y = 4.\n(a) 1/4\n(b) 1/3\n(c) 1/9\n(d) 1\n4. If x varies as y, and y = 4 when x = 12, →nd x when\ny = 15.\n(a) 45\n(b) 54\n(c) 70\n(d) 15\n5. X varies jointly as Y and Z; and X = 6 when Y = 3,\nZ = 2; →nd X when Y = 5, Z = 7.\n(a) 8.75\n(b) 35\n(c) 7\n(d) 15\n6. If x varies as y directly, and as z inversely, and\nx = 12 when y = 3; →nd z when x = 4, y = 5.\n(a) 25/4\n(b) 10\n(c) 12/7\n(d) Cannot be determined\n7. Divide `1400 into three parts in such a way that half\nof the →rst part, one-fourth of the second part and\none-eighth of the third part are equal.\n(a) 300, 600, 500\n(b) 200, 400, 800\n(c) 100, 400, 1000\n(d) None of these\n8. Divide `5000 among A, B, C and D so that A and\nB together get 3/7thof what C and D get together, C\ngets 1.5 times of what B gets and D gets 4/3 times\nas much as C. Now the value of what B gets is\n(a) 500\n(b) 1000\n(c) 2000\n(d) 1500\np\nq\nr\n9. If\n=\n=\neach fraction is equal to\nq+r p+r p+q\n(a) (p + q + r)2\n(b) 1/2\n(c) 1/3\n(d) None of these\n10. If 3x2 + 3y2 = 10xy, what is the ratio of x to y?\n(a) 1 : 4\n(b) 3 : 2\n(c) 1 : 3\n(d) 1 : 2\n (Hint: Use options to solve fast)\n11. If p : q = r : s, then the value of (p2 + q2)/(r2 + s2) is\n(a) 1/2\n(c)",
+      "12. If p, q, r, s are in continued proportion then\n( p - s)\n≥ x . what is the value of x?\nq-r\n(a) 5\n(b) 3\n(c) 7\n(d) 9\n13. If 3 examiners can examine a certain number of\nanswer books in 10 days by working 4 hours a day,\nfor how many hours a day would 4 examiners have\nto work in order to examine thrice the number of\nanswer books in 30 days?\n(a) 3\n(b) 1\n(c) 8\n(d) 6\n14. In a mixture of 60 litres, the ratio of milk and water is\n2 : 3. How much water must be added to this mixture\nso that the ratio of milk and water becomes 1 : 2?\n(a) 10 litres\n(b) 12 litres\n(c) 15 litres\n(d) 20 litres\n15. If P varies as R, and Q varies as R, then which of\nthe following is false:\n(a) (P + Q) µ R\n(b) (P – Q) µ 1/R\n(c)",
+      "16. If three numbers are in the ratio of 1 : 3 : 5 and half\nthe sum is 9, then the ratio of cubes of the numbers\nis:\n(a) 6 : 12 : 13\n(b) 1 : 3 : 25\n(c) 1 : 27 : 125\n(d) 3 : 5 : 7\n17. The ratio between two numbers is 7 : 11 and their\nLCM is 154. The →rst number is:\n(a) 14\n(b) 7\n(c) 22\n(d) 32\n18. P and Q are two alloys of aluminum and brass prepared by mixing metals in proportions 7: 2 and 7: 11,\nrespectively. If equal quantities of the two alloys are\nmelted to form a third alloy R, the proportion of\naluminum and brass in R will be:\n(a) 5 : 9\n(b) 5 : 7\n(c) 7 : 5\n(d) 9 : 5\n19. If 10 men working 6 hours a day can do a piece of\nwork in 15 days, in how many days will 20 men\nworking 14 hours a day do the same work?\n(a) 3.21 days\n(b) 3.5 days\n(c) 3 days\n(d) 4.5 days\n20. The incomes of P and Q are in the ratio 1: 2 and\ntheir expenditures are in the ratio 1: 3. If each saves\n`500, then, P’s income can be:\n(a) `1000\n(b) `1500\n(c) `3000\n(d) `2000"
+    ],
+    "formulas": [
+      "Problem 8.4 Three quantities A, B, C are such that AB =",
+      "Thus we have 5 × 15 = K × 25.",
+      "Thus, the equation is AB = 3C.",
+      "For the problem, keep C constant at 25. Then, A × 9 = 3 ×",
+      "i.e., A = 75/9 = 8.33",
+      "Problem 8.5 If x/y = 3/4, then →nd the value of the expression, (5x – 3y)/(7x + 2y).",
+      "Solution Assume the values as x = 3 and y = 4.",
+      "4 × 0.66C + 3 × 1.5 C + 5C = 3650",
+      "Solution Solve while reading Æ As you read the →rst",
+      "In order to get the →nal result, we keep the milk constant",
+      "in the ratio 5 : 4 : 5, →nd the ratio of milk to water, if the",
+      "1400 – 441.66 = 958.33 litres.",
+      "(441 × 3 + 2) : (958 × 3 + 1) = 1325 : 2875.",
+      "y = 2, →nd x when y = 4.",
+      "Z = 2; →nd X when Y = 5, Z = 7."
+    ]
+  },
+  "questions": [
+    {
+      "id": "ch08-lod1-q031",
+      "num": 31,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 10 tractors can plough 1/6th of a →eld in 12 days,\nhow many days 20 tractors will take to do the remaining work?",
+      "options": {
+        "a": "30 days",
+        "b": "20 days",
+        "c": "15 days",
+        "d": "18 days"
+      },
+      "answer": null,
+      "solution": "120 tractors days = 1/6 of the field Æ 720 tractors days are required to plough the field. Thus, the 5 remaining work would be 720 ¥ = 600 tractors 6 days. With 20 tractors, it would take 30 days."
+    },
+    {
+      "id": "ch08-lod1-q032",
+      "num": 32,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A cow takes 5 leaps for every 4 leaps of a goat, but\n3 leaps of the goat are equal to 4 leaps of the cow.\nWhat is the ratio of the speed of the cow to that of\nthe goat?",
+      "options": {
+        "a": "11 : 15",
+        "b": "15 : 11",
+        "c": "16 : 15",
+        "d": "15 : 16"
+      },
+      "answer": null,
+      "solution": "Assume that 1 cow leap is equal to 3 metres and 1 goat leap is equal to 4 metres. Then the speed of the cow in one unit time = 3 ¥ 5 = 15 meters. Also, the speed of the goat in one unit time = 4 ¥ 4 = 16 meters. The required ratio is 15:16."
+    },
+    {
+      "id": "ch08-lod1-q033",
+      "num": 33,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The present ratio of ages of P and Q is 3: 5. 10 years\nago, this ratio was 1: 2. Find the sum total of their\npresent ages.",
+      "options": {
+        "a": "80 years",
+        "b": "100 years",
+        "c": "70 years",
+        "d": "90 years"
+      },
+      "answer": "a",
+      "solution": "3x, and 5x are their current ages. According to the problem, 3x – 10 : 5x – 10 = 1:2 Æ x = 10 and hence the sum total of their present ages is 80 years (30 + 50 = 80)."
+    },
+    {
+      "id": "ch08-lod1-q034",
+      "num": 34,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Four numbers in the ratio 1:2 : 4 : 8 add up to give a\nsum of 120. Find the value of the biggest number.",
+      "options": {
+        "a": "40",
+        "b": "30",
+        "c": "64",
+        "d": "60"
+      },
+      "answer": "c",
+      "solution": "x + 2x + 4x + 8x = 120 Æ x = 8 Thus, 8x = 64."
+    },
+    {
+      "id": "ch08-lod1-q035",
+      "num": 35,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Three men rent a farm for `14000 per annum. A puts\n220 cows in the farm for 3 months, B puts 220 cows\nfor 6 months and C puts 880 cows for 3 months.\nWhat percentage of the total expenditure should C\npay?",
+      "options": {
+        "a": "20%",
+        "b": "14.28%",
+        "c": "16.66%",
+        "d": "57.14%"
+      },
+      "answer": null,
+      "solution": "The share of the rent is on the basis of the ratio of the number of cow months. A uses 660 cow months (220 ¥ 3), B uses 1320(220 ¥ 6) and C uses 2640 cow months (880 ¥ 3) Hence, the required ratio is: 660:1320:2640 = 1:2:4 4 400 Required percentage = ¥ 100 = = 57.14% 7 7"
+    },
+    {
+      "id": "ch08-lod1-q036",
+      "num": 36,
+      "lod": 1,
+      "type": "mcq",
+      "text": "25 students can do a job in 12 days, but on the\nstarting day, →ve of them informed that they are not\ncoming. By what fraction will the number of days\nrequired for doing the whole work get increased?",
+      "options": {
+        "a": "3/5",
+        "b": "3/7",
+        "c": "3/4",
+        "d": "1/4"
+      },
+      "answer": "We",
+      "solution": "25 ¥ 12 = 300 man-days is required for the job. If only 20 students turn up, they would require 15 days to complete the task. The number of days is increasing by 1/4."
+    },
+    {
+      "id": "ch08-lod1-q037",
+      "num": 37,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A dishonest shopkeeper mixed 1 litre of water for\nevery 3 litres of petrol and thus made up 36 litres\nof petrol. If he now adds 15 litres of petrol to the\nmixture, →nd the ratio of petrol and water in the new\nmixture.",
+      "options": {
+        "a": "12 : 5",
+        "b": "14 : 3",
+        "c": "7 : 2",
+        "d": "9 : 4"
+      },
+      "answer": "b",
+      "solution": "The initial amount of water is 9 litres and petrol is 27 litres. By adding 15 litres of petrol the mixture becomes 42 petrol and 9 water Æ 14:3 the required ratio."
+    },
+    {
+      "id": "ch08-lod1-q038",
+      "num": 38,
+      "lod": 1,
+      "type": "mcq",
+      "text": "`3000 is distributed among p, q and r such that p\ngets 2/3rd of what q and r together get and r gets ½\nof what p and q together get. Find r’s share.",
+      "options": {
+        "a": "`750",
+        "b": "`1000",
+        "c": "`800",
+        "d": "`1200"
+      },
+      "answer": "b",
+      "solution": "From the first statement p = 1200 and q + r = 1800. From the second statement r = 1000 and p + q = 2000."
+    },
+    {
+      "id": "ch08-lod1-q039",
+      "num": 39,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the ratio of the ages of A and B is 2: 5 at present,\nand →fteen years from now, the ratio will get changed\nto 7 : 13, then →nd A’s present age.\nRatio, Proportion and Variation III.97",
+      "options": {
+        "a": "20 years",
+        "b": "30 years",
+        "c": "15 years",
+        "d": "25 years"
+      },
+      "answer": null,
+      "solution": "2x + 15: 5x + 15 = 7:13 Æ 26x + 195 = 35x + 105 9x = 90 Æ x = 10 A’s present age = 2x = 20 years"
+    },
+    {
+      "id": "ch08-lod1-q040",
+      "num": 40,
+      "lod": 1,
+      "type": "mcq",
+      "text": "At constant temperature, pressure of a de→nite mass\nof gas is inversely proportional to the volume. If\nthe pressure is reduced by 20%, →nd the respective\nchange in volume.",
+      "options": {
+        "a": "– 16.66%",
+        "b": "+ 25%",
+        "c": "– 25%",
+        "d": "+ 16.66%"
+      },
+      "answer": "pq",
+      "solution": "Since pressure and volume are inversely proportional, we get that if one is reduced by 20% the other would grow by 25%. Option (b) is correct."
+    },
+    {
+      "id": "ch08-lod1-q041",
+      "num": 41,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If `232 is divided among 150 children such that each\ngirl and each boy gets ` 1 and `2 respectively. Then\nhow many girls are there?",
+      "options": {
+        "a": "52",
+        "b": "54",
+        "c": "68",
+        "d": "62"
+      },
+      "answer": "c",
+      "solution": "Solve using options. For option (c), 68 girls. Hence, 82 boys Amount with Girls = 68 ¥ 1 = 68 Amount with Boys = 82 ¥ 2 = 164. Total of 68 + 164 = 232. Thus, option (c) fits the conditions."
+    },
+    {
+      "id": "ch08-lod1-q042",
+      "num": 42,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 620 bananas were distributed among three monkeys in the ratio 1/3 : 1/2 : 1/5,how many bananas did\nthe →rst monkey get?",
+      "options": {
+        "a": "200",
+        "b": "180",
+        "c": "102",
+        "d": "104"
+      },
+      "answer": "a",
+      "solution": "The ratio : 1/3 : ½ : 1/5 = 10 : 15 : 6 10 Thus, the first monkey would get 620 ¥ = 200 31 bananas. ( )"
+    },
+    {
+      "id": "ch08-lod1-q043",
+      "num": 43,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A mixture contains milk and water in the ratio 3 : 1.\nOn adding 5 litres of water, the ratio of milk to water\nbecomes 2 : 1. The quantity of milk in the mixture\nis:",
+      "options": {
+        "a": "15 litres",
+        "b": "25 litres",
+        "c": "32.5 litres",
+        "d": "30 litres"
+      },
+      "answer": null,
+      "solution": "Check the options. Only option (d) satisfies all the given conditions."
+    },
+    {
+      "id": "ch08-lod1-q044",
+      "num": 44,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A beggar had one rupee, two rupees and →ve rupees\ncoins in the ratio 5: 15: 12 respectively at the end of\nday. If that day he earned a total of `95, how many\none rupee coins did he have?",
+      "options": {
+        "a": "1",
+        "b": "10",
+        "c": "5",
+        "d": "15"
+      },
+      "answer": null,
+      "solution": "The ratio of the values of the three coins are: 1 ¥ 5 : 15 ¥ 2 : 12 ¥ 5 = 5:30:60 Thus, one rupee coins correspond to `5. Hence, there will be 5 coins."
+    },
+    {
+      "id": "ch08-lod1-q045",
+      "num": 45,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sudhir has coins of the denomination of `. 1, 50 p\nand 25 p in the ratio of 12 : 10 : 7. The total worth\nof the coins he has is `112.5. Find the number of\n25 p coins that Sudhir has",
+      "options": {
+        "a": "48",
+        "b": "72",
+        "c": "60",
+        "d": "42"
+      },
+      "answer": "d",
+      "solution": "Ratio of number of coins = 12:10:7 Ratio of individual values of coins = 1:0.5: 0.25 Ratio of gross value of coins = 12 : 5 : 1.75 = 48 : 20 : 7 Æ 112.5 Thus, he has `10.5 in 25 paisa coins. Which means that he would have 42 such coins."
+    },
+    {
+      "id": "ch08-lod1-q046",
+      "num": 46,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If two numbers are in the ratio of 1:5 and if 10 be\nadded to each, the ratio becomes 1: 3. Now →nd the\nlower number.",
+      "options": {
+        "a": "5",
+        "b": "10",
+        "c": "15",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "Solve using options. 10/50 becomes 20/60 = 1/3"
+    },
+    {
+      "id": "ch08-lod1-q047",
+      "num": 47,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A Flask contains a mixture of 98 litres of alcohol\nand water in the proportion 5 : 2. how much water\n(in liters) must be added to it so that the ratio of\nalcohol to water may be 7 : 5?",
+      "options": {
+        "a": "14",
+        "b": "22",
+        "c": "7",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": "Initial alcohol = 70 liters Initial water = 28 litres III.108 How to Prepare for Quantitative Aptitude for CAT Since, we want to create 7: 5 mixture of alcohol and water by adding only water, it mean that the amount of alcohol is constant at 70 litres. Thus 7 : 5 = 70 :"
+    },
+    {
+      "id": "ch08-lod1-q048",
+      "num": 48,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A cask contains 15 gallons of mixture of wine and\nwater in the ratio 2 : 1. how much of the water must\nbe drawn off, so the ratio of wine and water in the\ncask may become 4 : 1.",
+      "options": {
+        "a": "3.0 litres",
+        "b": "2.5 litres",
+        "c": "5 litres",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": "Initially the cask has 10 liters wine and 5 liters of water. If we were to draw out 2.5 litres of water, the ratio of wine to water would become 4:1. Hence, option (b) is correct."
+    },
+    {
+      "id": "ch08-lod1-q049",
+      "num": 49,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The total number of pupils in three classes of a\nschool is 700. The number of pupils in classes I and\nII are in the ratio 1 : 4 and those in classes II and\nIII are in the ratio 3 : 5. Find the number of pupils\nin the class that had the highest number of pupils.",
+      "options": {
+        "a": "60",
+        "b": "125",
+        "c": "105",
+        "d": "400"
+      },
+      "answer": "d",
+      "solution": "The overall ratio is: 3: 12: 20. Dividing 700 in 3: 12: 20, we get number of students in class III (AS 20 Class III has highest number of students) = ¥ 35 700 = 400"
+    },
+    {
+      "id": "ch08-lod1-q050",
+      "num": 50,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sahil can row a certain course up the stream in 84\nminutes; they can row the same course down stream\nin 9 minutes less than they can row it in still water.\nHow long would they take to row down with the\nstream.",
+      "options": {
+        "a": "45 or 23 minutes",
+        "b": "63 or 12 minutes",
+        "c": "60 minutes",
+        "d": "19 minutes"
+      },
+      "answer": "b",
+      "solution": "If you try to solve this question through equations, the process becomes too long and almost inconclusive. The best way to approach this question is by trying to use options. The question asks us to find the time in which the boat can move downstream. The basic situation in this question is: Percentage increase over still water speed while going downstream = Percentage decrease over still water speed while going upstream. (Since: Sdownstream = Sboat + Sstream and Supstream = Sboat – Sstream) Hence, the percentage increase in time while going upstream should match the percentage decrease in time while going downstream in such a way that the percentage change in the speed is same in both the cases). Testing for option (a): Timeupstream = 84 minutes (given) Timedownstream = 45 minutes (first value from the option) TimeStillwater = 54 minutes (45 + 9) % increase in time when going upstream = 30/54 [Note: The percentage increase should be written as 30 ¥ 100/54. However, as I have repeatedly pointed out right from the chapter of percentages, you need to be able to look at % values of ratios directly by using the Percentage rule for calculations) % decrease in time when going downstream = 9/54 = 16.66% Since, the % decrease is 16.66%, this should correspond to a % increase in speed by 20% (Since, product speed ¥ time is constant). This means that the speed should drop by 20% while going upstream and hence the time should increase by 25% while going upstream. But, 30/54 does not give us a value of 25% increase. Hence this option is incorrect. Testing for option (b): Timeupstream = 84 minutes (given) Timedownstream = 63 minutes (first value from the option) TimeStillwater = 72 minutes (63 + 9) % increase in time when going upstream = 12/72 = 16.66% % decrease in time when going downstream = 9/72 = 12.5% Since, the % decrease is 12.5%, this should correspond to a % increase in speed by 14.28% (Since, product speed ¥ time is constant). This means that the speed should drop by 14.28% while going upstream and hence the time should increase by 16.66% while going upstream. This is actually occurring. Hence, this option is correct. Options (c) and (d) can be seen to be incorrect in this context."
+    },
+    {
+      "id": "ch08-lod1-q051",
+      "num": 51,
+      "lod": 1,
+      "type": "tita",
+      "text": "If (P + Q): (Q + R): (R + P) = 3: 9: 8 & P + Q +\nR = 20. What is the value of R?",
+      "options": {},
+      "answer": null,
+      "solution": "If P + Q = 3K, Q + R = 9K, R + P = 8K 2(P + Q + R) = 20K P + Q + R = 10K = 20, K = 2. P = 2, Q = 4, R = 14."
+    },
+    {
+      "id": "ch08-lod1-q052",
+      "num": 52,
+      "lod": 1,
+      "type": "tita",
+      "text": "x varies directly as (y2 + z2). At y = 2 and z = 3, the\nvalue of x is 26. Find the value of x, when z = 1,\nand y = 5.",
+      "options": {},
+      "answer": null,
+      "solution": "x µ (y2 + z2) x = k(y2 + z2) 26 = k(22 + 32) k = 2 Thus, x = 2(y2 + z2) At z = 1, y = 5: x = 2(25 + 1) x = 52"
+    },
+    {
+      "id": "ch08-lod1-q053",
+      "num": 53,
+      "lod": 1,
+      "type": "tita",
+      "text": "The wages of laborers in a factory has increased in\nthe ratio 22: 25 and their number is decreased in the\nratio 3: 2. What was the original wage bill of the\nfactory if the present bill is `5000?",
+      "options": {},
+      "answer": "6600",
+      "solution": "Let initial wage = 22x Final wage = 25x Let the initial laborers = 3y Final laborers = 2y Final bill = 25x ¥ 2y = 5000 xy = 100 Hence, the Original wage bill = 22x ¥ 3y = 66 xy = 6600."
+    },
+    {
+      "id": "ch08-lod1-q054",
+      "num": 54,
+      "lod": 1,
+      "type": "tita",
+      "text": "The monthly salaries of two persons are in the ratio\nof 1:7. If each receives an increase of `2500 in the\nsalary, the ratio is altered to 4:13. Find their respective salaries.",
+      "options": {},
+      "answer": null,
+      "solution": "If their salaries are k, 7k k + 2500 4 = 7 k + 2500 13 On solving, we get k = `1500. Their salaries are `1500, 10500."
+    },
+    {
+      "id": "ch08-lod1-q055",
+      "num": 55,
+      "lod": 1,
+      "type": "tita",
+      "text": "The ratio of boys to girls in a class is 5: 3. The class\nhas 16 more boys than girls. How many girls are\nthere in the class?",
+      "options": {},
+      "answer": "24",
+      "solution": "5k – 3k = 16 k = 8 Total number of girls = 3k = 24"
+    },
+    {
+      "id": "ch08-lod1-q056",
+      "num": 56,
+      "lod": 1,
+      "type": "tita",
+      "text": "X, Y and Z play cricket. X’s runs are to Y’s runs and\nY’s runs are to Z’s as 3:2. They score a total of 342\nruns. How many runs did Z make?",
+      "options": {},
+      "answer": "72",
+      "solution": "X: Y = 3 : 2 Y:Z=3:2 X: Y: Z = 9: 6:4 9k + 6k + 4k = 342 342 = 18 19 Runs made by Z = 4 ¥ 18 = 72. k= Ratio, Proportion and Variation III.109 1 of boys 10th G/20 = B/10 (Where G and B are the number of girls and number of boys respectively.) B: G = 1: 2"
+    },
+    {
+      "id": "ch08-lod1-q057",
+      "num": 57,
+      "lod": 1,
+      "type": "tita",
+      "text": "In a school, 5% of the number of girls is equal to\n1/10th of number of boys. The Ratio between the\nnumber of boys to the number of girls is",
+      "options": {},
+      "answer": null,
+      "solution": "5% of girls ="
+    },
+    {
+      "id": "ch08-lod1-q058",
+      "num": 58,
+      "lod": 1,
+      "type": "tita",
+      "text": "2 men and 4 boys can do a piece of work in 10 days,\nwhile 4 men and 5 boys can do it in 6 days. Men\nand boys are paid wages according to their output. If\nthe daily wage of man is ` 40, then the daily wages\nof a boy (in Rupees) will be",
+      "options": {},
+      "answer": null,
+      "solution": "(2m + 4b) ¥ 10 = (4m + 5b) ¥ 6 20m + 40b = 24m + 30b 4m = 10b 2m = 5b 2 b = m = 0.4 m = 0.4 ¥ 40 = `16. 5"
+    },
+    {
+      "id": "ch08-lod1-q059",
+      "num": 59,
+      "lod": 1,
+      "type": "tita",
+      "text": "The ratio of the economy and business class fares\nbetween two airports is 4:1 and that of the number\nof passengers travelling by economy and business\nclasses is 1:40. If on a day `1100 are collected as\ntotal fare, the amount collected from the business\nclass passengers is",
+      "options": {},
+      "answer": "1000",
+      "solution": "Let the prices of economy and business class be 4x and x respectively & the number of passengers bey and 40y respectively. 4x ¥ y + x ¥ 40y = 1100 44xy = 1100 4xy = 100 Amount collected from business class passengers = 40xy = `1000."
+    },
+    {
+      "id": "ch08-lod1-q060",
+      "num": 60,
+      "lod": 1,
+      "type": "tita",
+      "text": "In an innings of a cricket match, three players X, Y\nand Z scored a total of 580 runs. If the ratio of the\nnumber of runs scored by X to that scored by Y was\n3: 2 and number of runs scored by Y to that scored\nby Z was 5:2, the number of runs scored by X was?\nLevel of Dif→culty (II)",
+      "options": {},
+      "answer": "300",
+      "solution": "X: Y = 3: 2, Y: Z = 5: 2 X: Y: Z = 15: 10: 4 15k + 10k + 4k = 580 k = 20 Runs scored by X = 15k = 15 ¥ 20 = 300."
+    },
+    {
+      "id": "ch08-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the work done by p men in (p + 2) days is to the\nwork done by (p + 4) men in (p – 1) days is in the\nratio 1 : 1, then the value of p is",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "5"
+      },
+      "answer": "b",
+      "solution": "Assume a set of values for p, q, r, s such that they are proportional i.e. p/q = r/s. Suppose we take p:q, as 1:4 and r:s as 3:12 we get the given expression: (p – q)(p – r)/p = – 3 ¥ – 2/1 = 6. This value is also given by p + s – q – r and hence option (b) is correct. 2. 7 + 3 10 5 = = 31 + 3 34 17 Thus option (d) is correct."
+    },
+    {
+      "id": "ch08-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The duration of a railway journey varies as the distance and inversely as the velocity; the velocity varies directly as the square root of the quantity of coal\nused, and inversely as the number carriages in the\ntrain. In a journey of 50 km in half an hour with\n18 carriages, 100 kg of coal is required. how much\ncoal will be consumed in a journey of 42 km in 28\nminutes with 16 carriages.",
+      "options": {
+        "a": "64 kg",
+        "b": "49 kg",
+        "c": "25 kg",
+        "d": "36 kg"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The mass of a circular disc varies as the squares of\nthe radius when the thickness remains the same; it\nalso varies as the thickness when the radius remains\nthe same. Two discs have their thicknesses in the\nratio of 16:3; →nd the ratio of the radii if the mass\nof the →rst is thrice that of the second.",
+      "options": {
+        "a": "3: 4",
+        "b": "5 : 2",
+        "c": "2 : 1",
+        "d": "1 : 2"
+      },
+      "answer": "Option",
+      "solution": "x = k/(y3 – 1). This gives k = 3 ¥ 7 = 21. When, y = 4, the equation becomes x = 21/(43 – 1) = 21/63 = 1/3."
+    },
+    {
+      "id": "ch08-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If p and q are positive integers then 2 always lies\nbetween:\n(p + q)/(p – q) and pq\n(p + 2q)/(p + q)\n(p + q) and (p – q)/pq",
+      "options": {
+        "a": "",
+        "b": "p/q and",
+        "c": "p and q",
+        "d": "pq/"
+      },
+      "answer": null,
+      "solution": "x = ky Æ 12 = 4k Æ k = 3 Hence, x = 3 ¥ y When, y = 15, x = 3 ¥ 15 = 45."
+    },
+    {
+      "id": "ch08-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The cost of digging a pit was `2,694. How much will\nit cost (approximately) if the wages of workmen per\nday had been increased by 1/8 of the former wages\nand length of the working day increased by 1/20 of\nthe former period?",
+      "options": {
+        "a": "`2886",
+        "b": "`2468",
+        "c": "`2878",
+        "d": "`2000"
+      },
+      "answer": "b",
+      "solution": "X = K ¥ Y ¥ Z Æ It is known that when X = 6, Y = 3 and Z = 2. Thus we get 6 = 6K Æ K = 1. Thus, our relationship between X, Y and Z becomes X = Y ¥ Z. Thus, when Y = 5 and Z = 7 we get X = 35."
+    },
+    {
+      "id": "ch08-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A vessel contains p litres of wine, and another vessel\ncontains q litres of water. r litres are taken out of\neach vessel and transferred to the other. If r × (p +\nq) = pq. If A and B are the respective values of the\namount of wine contained in the respective containers after this operation, then what can be said about\nthe relationship between A and B.\nA-C\n>2",
+      "options": {
+        "a": "A = B",
+        "b": "B-C",
+        "c": "A – B = 4c",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "x = ky/z We cannot determine the value of k from the given information and hence cannot answer the question."
+    },
+    {
+      "id": "ch08-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If sum of the roots and the product of the roots of\na quadratic equation S are in the ratio of 3 : 1, then\nwhich of the following is true?\n(S) < 0\n(b2 – 4ac) < 0",
+      "options": {
+        "a": "f",
+        "b": "",
+        "c": "S is a perfect square",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": "Solve this question using options. 1/2 of the first part should equal 1/4th of the second part and 1/8th of the third part. Only, option (b) satisfies these conditions thus this option is correct."
+    },
+    {
+      "id": "ch08-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The incomes of Rahul, Saurav, and Sachin are in the\nratio of 4: 5: 6 respectively and their spending are\nin the ratio of 6: 7: 8 respectively. If Rahul saves\none fourth his income, then the savings of Rahul,\nSaurav, and Sachin are in the ratio:\n(e) None of these",
+      "options": {
+        "a": "2 : 3: 4",
+        "b": "5 : 6 : 9",
+        "c": "5 : 9 : 6",
+        "d": "9 : 5 : 6"
+      },
+      "answer": null,
+      "solution": "Check the options, B = 1000 and C = 1.5 ¥ 1000 = 4 ¥ 1500 = 2000 1500, D = 3 A = 5000 – 1000 – 1500 – 2000 = 500. Now A + B = 500 + 1000 = 1500, C + D = 1500 + 2000 = 3500. 3 ¥ 1500. So this option is correct. As 1500 = 7"
+    },
+    {
+      "id": "ch08-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "tita",
+      "text": "If a : b = c : d, and e : f = g : h, then (ae + bf) : (ae –\nbf ) = ?\n(a)\n(e + f )\n(e - f )\n(b)\n(cg + dh)\n(cg - dh)\n(c)\n(ce + df )\n(cg - dh)\ne+ f",
+      "options": {
+        "d": "e- f"
+      },
+      "answer": "b",
+      "solution": "The given condition has p, q and r symmetrically placed. Thus, if we use p = q = r = 1 (say) we get each fraction as 1/2."
+    },
+    {
+      "id": "ch08-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "X is an alloy of A and B. Y is an alloy containing\n80% of A, 4 % of B and 16% of C. A fused mass\nof X and Y is found to contain 74% of A, 16% of\nB, and 10% of C. The ratio of A to B in X is:",
+      "options": {
+        "a": "9:16",
+        "b": "12:17",
+        "c": "16:9",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "Solve using options. It is clear that a ratio of x:y as 1: 3 fits the equation."
+    },
+    {
+      "id": "ch08-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Shatabdi Express without its rake can go 36 km in an\nhour, and the speed is diminished by a quantity that\nvaries as the square root of the number of wagons\nattached. If it is known that with four wagons its\nspeed is 24 km/h, the greatest number of wagons\nwith which the engine can just move is",
+      "options": {
+        "a": "35",
+        "b": "40",
+        "c": "36",
+        "d": "42"
+      },
+      "answer": "Let",
+      "solution": "Let p = 1, q = 2, r = 3, s = 6 1 : 2 = 3 : 6 So, (p2 + q2)/(r2 + s2) = 5/45 = 1/9 From the given options, only pq/rs gives us this value."
+    },
+    {
+      "id": "ch08-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If p varies as q then p2 + q2 varies as\nx +1",
+      "options": {
+        "a": "p + q",
+        "b": "p – q",
+        "c": "p2 – q2",
+        "d": "None of these"
+      },
+      "answer": "Experimentally",
+      "solution": "Experimentally if you were to take the value of p, q, r, and s as 1 : 2 : 4 : 8, you get the value of the expression as 3.5. If you try other values for p, q, r and s experimentally you can see that while you can approach 3, you cannot get below that. For instance, 1 : 1.1 : : 1.21 : 1.331 Gives us: – 0.331/ – 0.11 which is slightly greater than 3."
+    },
+    {
+      "id": "ch08-lod1-q013",
+      "num": 13,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If f(x) =\n, then the ratio of x to f(y) where y =\nf(x) is x - 1",
+      "options": {
+        "a": "x : y",
+        "b": "x2 : y2",
+        "c": "1 : 1",
+        "d": "y : x"
+      },
+      "answer": "a",
+      "solution": "3 ¥ 10 ¥ 4 = 120 man-hours are required for ‘x’ no. of answer sheets. So, for ‘3x’ answer sheets we would require 360 man-hours = 4 ¥ 30 ¥ n Æ n = 3 Hours a day."
+    },
+    {
+      "id": "ch08-lod1-q014",
+      "num": 14,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sahil employs 200 men to build a bund. They →nish\n5/6 of the work in 10 weeks. Because of some natural\ncalamity not only does the work remain suspended\nfor 4 weeks but also half of the work already done\nis washed away. After the calamity, when the work\nis resumed, only 140 men turn up. The total time in\nwhich the contractor is able to complete the work\nassuming that there are no further disruptions in the\nschedule is\nRatio, Proportion and Variation III.99",
+      "options": {
+        "a": "25 weeks",
+        "b": "26 weeks",
+        "c": "24 weeks",
+        "d": "20 weeks"
+      },
+      "answer": "b",
+      "solution": "In 60 liters, milk = 24 and water = 36. We want to create 1 : 2 milk to water mixture, for this we would need: 24 liters milk and 48 liters water. (Since milk is not increasing). Thus, we need to add 12 liters of water."
+    },
+    {
+      "id": "ch08-lod1-q015",
+      "num": 15,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Rahim covers a distance of 48 km performed by\ntrain, bike and car in that order, the distance covered by the three ways in that order are in the ratio\nof 8 : 1 : 3 and charges per kilometer in that order\nare in the ratio of 8 : 1 : 4. If the train charges being\n24 ` per kilometer, the total cost of the journey is",
+      "options": {
+        "a": "` 924",
+        "b": "` 1000",
+        "c": "` 1200",
+        "d": "None of these"
+      },
+      "answer": "Option",
+      "solution": "Option (b) is not true."
+    },
+    {
+      "id": "ch08-lod1-q016",
+      "num": 16,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A bag contains 25 paise, 50 paise and 1 Rupee coins.\nThere are 220 coins in all and the total amount in\nthe bag is `160. If there are thrice as many 1 Rupee\ncoins as there are 25 paise coins, then what is the\nnumber of 50 paise coins?\nDirections for questions 17 to 19: Read the following\nand answer the questions that follow.\nSahir runs in a triathlon consisting of three phases in the\nfollowing manner. Running 12 km, cycling 24 km and\nswimming 5 km. His speeds in the three phases are in the\nratio 2 : 6 : 1. He completes the race in n minutes. Later, he\nchanges his strategy so that the distances he covers in each\nphase are constant but his speeds are now in the ratio 3 : 8 : 1.\nThe end result is that he completes the race taking 20 minutes\nmore than the earlier speed. It is also known that he has not\nchanged his running speed when he changes his strategy.",
+      "options": {
+        "a": "60",
+        "b": "40",
+        "c": "120",
+        "d": "80"
+      },
+      "answer": "1",
+      "solution": "1 : 3 : 5 Æ x, 3x and 5x add up to 18. So the numbers are: 2, 6 and 10. Ratio of cubes = 8 : 216 : 1000 = 1: 27: 125."
+    },
+    {
+      "id": "ch08-lod1-q017",
+      "num": 17,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is his initial speed while swimming?",
+      "options": {
+        "a": "1/2 km/min",
+        "b": "0.05 km/min",
+        "c": "0.15 km/min",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "The numbers would be 7x and 11x and their LCM would be 77x. This gives us the values as 14 and"
+    },
+    {
+      "id": "ch08-lod1-q018",
+      "num": 18,
+      "lod": 1,
+      "type": "tita",
+      "text": "If his speeds are",
+      "options": {},
+      "answer": "c",
+      "solution": "Since equal quantities are being mixed, assume that both alloys have 18 kgs (18 being a number which is the LCM of 9 and 18). The third alloy will get, 14 kg of aluminum from the first alloy and 7 kg of aluminum from the second alloy. Hence, the required ratio: 21:15 = 7:5"
+    },
+    {
+      "id": "ch08-lod2-q019",
+      "num": 19,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is Sahir’s original speed of running?",
+      "options": {
+        "a": "9 kmph",
+        "b": "18 kmph",
+        "c": "54 kmph",
+        "d": "12 kmph"
+      },
+      "answer": null,
+      "solution": "(b)"
+    },
+    {
+      "id": "ch08-lod2-q020",
+      "num": 20,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Concentrations of three type of milks X, Y and Z are\n10%, 20% and 30%, respectively. They are mixed\nin the ratio 2 : 3 : P resulting in a 23% concentration\nsolution. Find P.",
+      "options": {
+        "a": "7",
+        "b": "6",
+        "c": "5",
+        "d": "4"
+      },
+      "answer": null,
+      "solution": "(20 + 60 + 30P)/(2 + 3 + P) = 23 Æ 80 + 30P = 115 + 23P or P = 5"
+    },
+    {
+      "id": "ch08-lod2-q021",
+      "num": 21,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The cost of an article (which is composed of raw\nmaterials and wages) was 3 times the value of the\nraw materials used. The cost of raw materials increased in the ratio 3 : 7 and wages increased in the\nratio 4 : 9. Find the present cost of the article if its\noriginal cost was ` 18.",
+      "options": {
+        "a": "` 41",
+        "b": "` 30",
+        "c": "` 40",
+        "d": "` 46"
+      },
+      "answer": "a",
+      "solution": "Assume raw materials cost as 150 and total cost as"
+    },
+    {
+      "id": "ch08-lod2-q022",
+      "num": 22,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In a co-educational school there are 15 more girls\nthan boys. If the number of girls is increased by 10%\nand the number of boys is also increased by 16%,\nthere would be 9 more girls than boys. What is the\nnumber of students in the school?",
+      "options": {
+        "a": "140",
+        "b": "125",
+        "c": "265",
+        "d": "255"
+      },
+      "answer": "c",
+      "solution": "Solve using options. For option (c), we will get that initially there are 125 boys and 140 girls. After the given increases, the number of boys would be 145 and the number of girls would become 154 which gives a difference of 9 as required."
+    },
+    {
+      "id": "ch08-lod2-q023",
+      "num": 23,
+      "lod": 2,
+      "type": "mcq",
+      "text": "At IIM Bangalore class of 1995, Sonali, a →rst year\nstudent has taken 10 courses, earning grades A\n(worth 4 points each), B (worth 3 points each) and\nC (worth 2 points each). Her grade point average\nis 3.2, and if the course in which she get C’s were\ndeleted, her GPA in the remaining courses would be\n3.333. How many A’s, B’s and C’s did she get?",
+      "options": {
+        "a": "3, 1 and 6",
+        "b": "1, 3 and 6",
+        "c": "3, 6 and 1",
+        "d": "1, 6 and 3"
+      },
+      "answer": null,
+      "solution": "From the question, it is evident that after leaving out the C courses, Sonali’s GPA goes to 3.33. This means that the number of subjects she must have had after leaving out the C’s must be a multiple of"
+    },
+    {
+      "id": "ch08-lod2-q024",
+      "num": 24,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Total expenses of running the hostel at Harvard\nBusiness School are partly →xed and partly varying\nlinearly with the number of boarders. The average\nexpense per boarder is $70 when there are 25 boarders and $60 when there are 50 boarders. What is the\naverage expense per boarder when there are 100\nboarders?",
+      "options": {
+        "a": "55",
+        "b": "56",
+        "c": "54",
+        "d": "50"
+      },
+      "answer": null,
+      "solution": "When there are 25 boarders, the total expenses are $1750. When there are 50 boarders, the total expenses are $ 3000. The change in expense due to the coming in of 25 boarders is $ 1250. Hence, expense per boarder is equal to $50. This also means that when there are 25 boarders, the variable cost would be 25 ¥ 50 = $1250. Hence, $500 must be the fixed expenses. So for 100 boarders, the total cost would be: $ 500 (fixed) + $ 5000 = $5500"
+    },
+    {
+      "id": "ch08-lod2-q025",
+      "num": 25,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The speed of the engine of Gondwana Express is\n42 km/h when no compartment is attached, and the\nreduction in speed is directly proportional to the\nsquare root of the number of compartments attached.\nIf the speed of the train carried by this engine is 24\nkm/h when 9 compartments are attached, the maximum number of compartments that can be carried\nby the engine is\n Three drunkards agree to pool their vodka and decided\nto share it with a fourth drunkard (who had no vodka)\nat a price equal to 5 roubles a litre. The →rst drunkard\ncontributed 1 litre more than the second and the second\ncontributed a litre more than the third. Then all four\nof them divided the vodka equally and drank it. The\nfourth drunkard paid money, which was divided in\nthe ratio of each drunkard’s contribution towards his\nportion. It was found that the →rst drunkard should get\ntwice as much money as the second. Based on this\ninformation answer the questions 26–28. (Assume that\nall shares are integral).",
+      "options": {
+        "a": "49",
+        "b": "48",
+        "c": "46",
+        "d": "47"
+      },
+      "answer": "b",
+      "solution": "S = 42 – k÷n 24 = 42 – k ¥ 3 Æ k = 6 So, S = 42 – 6÷n For 49 compartments the train would not move. Hence it would move for 48 compartments. 26-28: Let the third drunkard get in x litres. Then the second will contribute x + 1 and the first will contribute x + 2 litres. Thus in all they have 3x + 3 litres of the drink. Using option a in question 27, this value is 12, giving x as 3. Also, each drunkard will drink 3 litres. Thus, the first drunkard brings 5 litres and the second 4 litres. Their contribution to the fourth drunkard will be in the ratio 2:1 and hence their share of money would be also in the ratio 2:1. Hence, this option is correct for question 27. Hence, for question 26, the second drunkard will get 5 roubles (for his contribution of 1 litre to the fourth) and for question 28, the answer would be 1:3"
+    },
+    {
+      "id": "ch08-lod2-q026",
+      "num": 26,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How much money did the second drunkard get (in\nroubles)?",
+      "options": {
+        "a": "8",
+        "b": "10",
+        "c": "5",
+        "d": "Data insuf→cient"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q027",
+      "num": 27,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many litres of vodka was consumed in all by\nthe four of them?",
+      "options": {
+        "a": "12",
+        "b": "16",
+        "c": "10",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q028",
+      "num": 28,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What proportion of the fourth drunkard’s drink did\nthe second drunkard contribute?",
+      "options": {
+        "a": "1/3",
+        "b": "2/3",
+        "c": "1/2",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q029",
+      "num": 29,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In Ramnagar Colony, the ratio of school going children to non-school going children is 5 : 4. If in the\nnext year, the number of non-school going children\nis increased by 20%, making it 35,400, what is the\nnew ratio of school going children to non-school\ngoing children?",
+      "options": {
+        "a": "4 : 5",
+        "b": "3 : 2",
+        "c": "25 : 24",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "5 : 4 Æ 5 : 4.8 Æ 25 : 24. Option (c) is correct."
+    },
+    {
+      "id": "ch08-lod2-q030",
+      "num": 30,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A precious stone weighing 35 grams worth ` 12,250\nis accidentally dropped and gets broken into two\npieces having weights in the ratio of 2 : 5. If the price\nvaries as the square of the weight then →nd the loss\nincurred.",
+      "options": {
+        "a": "` 5750",
+        "b": "` 6000",
+        "c": "` 5500",
+        "d": "` 5000"
+      },
+      "answer": "d",
+      "solution": "P = K ¥ W2 Æ 12250 = K ¥ 352 Æ K = 10. Thus our price and weight relationship is: P = 10W2. When the two pieces are in the ratio 2:5 (weight wise) then we know that their weights must be 10 grams and 25 grams respectively. Their values would be: 10 gram piece: 10 ¥ 102 = ` 1000; 25 gram piece: 10 ¥ 252 = ` 6250. Total Price = 1000 + 62450 = 7250. From an initial value of 12250, this represents a loss of ` 5000."
+    },
+    {
+      "id": "ch08-lod2-q031",
+      "num": 31,
+      "lod": 2,
+      "type": "mcq",
+      "text": "On his deathbed, Mr. Kalu called upon his three\nsons and told them to distribute all his assets worth\n` 5,25,000 in the ratio of 1/15 : 1/21 : 1/35 amongst\nthemselves. Find the biggest share amongst the three\nportions.",
+      "options": {
+        "a": "17,500",
+        "b": "2,45,000",
+        "c": "10,500",
+        "d": "13,250"
+      },
+      "answer": null,
+      "solution": "The ratio of distribution should be: 21 ¥ 35 : 15 ¥ 35 : 15 ¥ 21 Æ 147 : 105:63 Æ 7:5:3 The biggest share will be worth: 7 ¥ 525000/15 = 245000."
+    },
+    {
+      "id": "ch08-lod2-q032",
+      "num": 32,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Three jackals—Paar, Maar and Taar together have\n675 loaves of bread. Paar has got three times as\nmuch as Maar but 25 loaves more than Taar. How\nmany does Taar have?",
+      "options": {
+        "a": "175",
+        "b": "275",
+        "c": "375",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": "P + M + T = 675 Æ 3M + M + 3M – 25 = 675 Æ 7M = 700. Hence, M = 100. P = 300 and T = 275."
+    },
+    {
+      "id": "ch08-lod2-q033",
+      "num": 33,
+      "lod": 2,
+      "type": "mcq",
+      "text": "King Sheru had ordered the distribution of apples\naccording to the following plan : for every 20 apples\nthe elephant gets, the zebra should get 13 apples\nand the deer should get 8 apples. Now his servant\nShambha jackal is in a →x. Can you help him by\ntelling how much should he give to the elephant if\nthere were 820 apples in total?",
+      "options": {
+        "a": "140",
+        "b": "160",
+        "c": "200",
+        "d": "400"
+      },
+      "answer": "d",
+      "solution": "Ratio of distribution = 20 : 13 : 8 So the elephant should get (20/41) ¥ 820 = 400."
+    },
+    {
+      "id": "ch08-lod2-q034",
+      "num": 34,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In the famous Bhojpur island, there are four men for\nevery three women and →ve children for every three\nmen. How many children are there in the island if it\nhas 531 women?",
+      "options": {
+        "a": "454",
+        "b": "1180",
+        "c": "1070",
+        "d": "389"
+      },
+      "answer": "b",
+      "solution": "Women : Men = 3 : 4 Men : Children = 3 : 5 Æ Women : Men : children = 9 : 12 : 20 In the ratio, 9 Æ 531 Women Thus, 20 Æ 1180 children."
+    },
+    {
+      "id": "ch08-lod2-q035",
+      "num": 35,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Which of the following will have the maximum\nchange in their values if 5 is added to both the numerator and denominator of all the fractions?",
+      "options": {
+        "a": "3/4",
+        "b": "2/3",
+        "c": "4/7",
+        "d": "5/7"
+      },
+      "answer": null,
+      "solution": "2/3 becomes 7/8 a change from 0.666 to 0.875 while the other changes are smaller than this. For instance 4/7 becomes 9/12 a change from 0.5714 to 0.75 which is smaller than the change in 2/3. Similarly, the other options can be checked and rejected."
+    },
+    {
+      "id": "ch08-lod2-q036",
+      "num": 36,
+      "lod": 2,
+      "type": "mcq",
+      "text": "40 men could have →nished the whole project in 28\ndays but due to the inclusion of a few more men,\nwork got done in 3/4 of the time. Find out how many\nmore men were included (in whole numbers).",
+      "options": {
+        "a": "12",
+        "b": "13",
+        "c": "14",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": "Since, the work gets done in 25% less time there must have been an addition of 33.33% men. This would mean 13.33 men extra Æ which would mean 14 extra men (in whole numbers)"
+    },
+    {
+      "id": "ch08-lod2-q037",
+      "num": 37,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Mr AM, the magnanimous cashier at XYZ Ltd., while\ndistributing salary, adds whatever money is needed\nto make the sum a multiple of 50. He adds ` 10 and\n` 40 to A’s and B’s salary respectively and then he\nrealises that the salaries of A, B and C are now in\nthe ratio 4 : 5 : 7. The salary of C could be",
+      "options": {
+        "a": "` 2300",
+        "b": "` 2150",
+        "c": "` 1800",
+        "d": "` 2100"
+      },
+      "answer": "d",
+      "solution": "From the given options, we just need to look for a multiple of 7. 2100 is the only option which is a multiple of 7 and is hence the correct answer."
+    },
+    {
+      "id": "ch08-lod2-q038",
+      "num": 38,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A mother divided an amount of ` 61,000 between\nher two daughters aged 18 years and 16 years respectively and deposited their shares in a bond. If\nthe interest rate is 20% compounded annually and\nif each received the same amount as the other when\nshe attained the age of 20 years, their shares are\nDirections for questions 39 to 41: Read the passage\nbelow and answer the questions that follow:\nAnshu gave Bobby and Chandana as many pens as each\none of them already had. Then Chandana gave Anshu and\nBobby as many pens as each already had. Now each had an\nequal number of pens.The total number of pens is 72.",
+      "options": {
+        "a": "` 35,600 and ` 25,400",
+        "b": "` 30500 each",
+        "c": "` 24,000 and ` 37000",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "This is a simple question if you can catch hold of the logic of the question, i.e., the younger daughter’s share must be such after adding a CI of 20% for two years, she should get the same value as her elder sister. None of the options meets this requirement. Hence, None of these is correct. 39-41. You should realise that when Anshu gives her pens to Bobby & Chandana, the number of pens for both Bobby & Chandana should double. Also, the number of pens for Anshu & Bobby should also double when Chandana gives off her pens. Further the final condition is that each of them has 24 pens. The following table will emerge on the basis of this logic. Anshu Bobby Chandana Final 24 24 24 Second round 12 12 48 Initial 42 6 24"
+    },
+    {
+      "id": "ch08-lod2-q039",
+      "num": 39,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many pens did Bobby have initially?",
+      "options": {
+        "a": "24",
+        "b": "18",
+        "c": "12",
+        "d": "6"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q040",
+      "num": 40,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many pens did Chandana have initially?",
+      "options": {
+        "a": "24",
+        "b": "18",
+        "c": "12",
+        "d": "6"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q041",
+      "num": 41,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many pens did Anshu have initially?",
+      "options": {
+        "a": "30",
+        "b": "36",
+        "c": "42",
+        "d": "48"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q042",
+      "num": 42,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The volume of a pyramid varies jointly as its height\nand the area of its base; and when the area of the base\nis 60 square dm and the height 14 dm, the volume\nis 280 cubic dm. What is the area of the base of a\npyramid whose volume is 390 cubic dm and whose\nheight is 26 dm?\nRatio, Proportion and Variation III.101",
+      "options": {
+        "a": "40",
+        "b": "45",
+        "c": "50",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "V = k AH Æ 280 = k ¥ 60 ¥ 14 Æ 280 = 840k. Thus, k = 1/3 and the equation becomes: V = AH/3 and 390 = 26A/3 Æ A = 45."
+    },
+    {
+      "id": "ch08-lod2-q043",
+      "num": 43,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The expenses of an all boys’ institute are partly\nconstant and partly vary as the number of boys. The\nexpenses were ` 10,000 for 150 boys and ` 8400\nfor 120 boys. What will the expenses be when there\nare 330 boys?",
+      "options": {
+        "a": "18,000",
+        "b": "19,600",
+        "c": "22,400",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": "Expenses for 120 boys = 8400 Expenses for 150 boys = 10000. Thus, variable expenses are ` 1600 for 30 boys. If we add 180 more boys to make it 330 boys, III.112 How to Prepare for Quantitative Aptitude for CAT we will get an additional expense of 1600 ¥ 6 = ` 9600. Total expenses are ` 19600."
+    },
+    {
+      "id": "ch08-lod2-q044",
+      "num": 44,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The distance of the horizon at sea varies as the square\nroot of the height of the eye above sea-level. When\nthe distance is 14.4 km, the height of the eye is 18\nmetres. Find, in kilometres, the distance when the\nheight of the eye is 8 metres.",
+      "options": {
+        "a": "4.8 km",
+        "b": "7.2 km",
+        "c": "9.6 km",
+        "d": "12 km"
+      },
+      "answer": null,
+      "solution": "Let the distance be d. Then, d/14.4= 8 18 Æ d = 9.6"
+    },
+    {
+      "id": "ch08-lod2-q045",
+      "num": 45,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A mixture of cement, sand and gravel in the ratio\nof 1 : 2 : 4 by volume is required. A person wishes\nto measure out quantities by weight. He →nds that\nthe weight of one cubic foot of cement is 94 kg, of\nsand 100 kg and gravel 110 kg. What should be the\nratio of cement, sand and gravel by weight in order\nto give a proper mixture?\nDirection for question number 46 to 47:\nThe sum of three numbers x, y, z is 5000. If we reduce the\n→rst number by 50, the second number by 100, and the third\nnumber by 150, then the new ratio of x & y = 4: 5 & the new\nratio of y & z =3: 4. Answer the following questions",
+      "options": {
+        "a": "47 : 100 : 220",
+        "b": "94 : 100 : 220",
+        "c": "47 : 200 : 440",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "47 : 100: 220 would give: 0.5 cubic feet of Cement, 1cubic feet of sand and 2 cubic feet of gravel. Required ratio 1 : 2 : 4 is satisfied."
+    },
+    {
+      "id": "ch08-lod2-q046",
+      "num": 46,
+      "lod": 2,
+      "type": "tita",
+      "text": "x + y = ?",
+      "options": {},
+      "answer": "2850",
+      "solution": "If new values of x, y, z are x′, y′ and z′, and respectively then x′: y ′= 4:5, y′: z′ = 3:4 x′: y′: z′ = 12:15:20 x + y + z = 5000 x′ + 50 + y′ + 100 + z′ + 150 = 5000 x′ + y′ + z′ = 4700 12k + 15k + 20k = 4700 k = 100 x = 1200 + 50 = 1250 y = 1500 + 100 = 1600 z = 2000 + 150 =2150 x + y = 1250 + 1600 = 2850 x− a 47. =1 y − 2.4a x − a = y − 2.4a x − y = −1.4a 1.4a = y- x = 1600 -1250 = 350. Hence: 3500 a= = 250 14 The required value of |a−b| would be given by |250 − 2.4 × 250| = 350"
+    },
+    {
+      "id": "ch08-lod2-q047",
+      "num": 47,
+      "lod": 2,
+      "type": "tita",
+      "text": "If we reduce x by a and y by b such that the new\nratio of x and y is 1: 1 if b = 2.4a then →nd the value\nof |(a − b)|.\nDirection for question number 48 to 49:\nThere are three containers x, y, z. In container x, the ratio of\nMilk and Water is 2: 1, in container y the ratio of water and\nmilk is 2: a. If container x and y are mixed in the ratio of 2:\n3, to get 100 litres of a mixture having Milk and Water in the\nratio 3: 1.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q048",
+      "num": 48,
+      "lod": 2,
+      "type": "tita",
+      "text": "Then a= ?\nSpace for Rough Work",
+      "options": {},
+      "answer": null,
+      "solution": "Quantity of x in the container of100 litres = 40 litres Quantity of y in the container of 100 litres = 60 litres 3 Quantity of milk in final mixture = 100 × =75 4 litres Quantity of water in final mixture = 100 − 75 = 25 litres. Quantity of milk and water in 40 litres of the mixture 2 1 80 40 x = 40 × , 40 × = , (in litres) 3 3"
+    },
+    {
+      "id": "ch08-lod2-q049",
+      "num": 49,
+      "lod": 2,
+      "type": "tita",
+      "text": "If after inspection, it was found that the milk we are\nusing in container x, is actually a mixture of milk\nand water in the 1: 1 ratio, then the ratio of milk\nand water in the →nal mixture is?\nDirection for question number 50-52:\nThe temperature of Delhi and Lucknow were in the ratio\n3:5 in July and 2: 3 in August. The percentage increase in\ntemperature from August to September is twice as from\nJuly to August for Delhi and same as for July to August\nfor Lucknow. If the ratio of the sum of the temperatures of\nthese two cities in August and July was 5: 4, then answer the\nfollowing questions.",
+      "options": {},
+      "answer": "37:23",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q050",
+      "num": 50,
+      "lod": 2,
+      "type": "tita",
+      "text": "What was the percentage increase in temperature of\nLucknow from July to August?",
+      "options": {},
+      "answer": "20",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q051",
+      "num": 51,
+      "lod": 2,
+      "type": "tita",
+      "text": "What was the value of the ratio (Temperature of\nLucknow in September/Temperature of Delhi in September)?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q052",
+      "num": 52,
+      "lod": 2,
+      "type": "tita",
+      "text": "If temperature of Delhi in August was 20°C then\nwhat was the sum of the temperatures of these two\ncities in September?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q053",
+      "num": 53,
+      "lod": 2,
+      "type": "tita",
+      "text": "In 2006, Raveendra was allotted 650 shares of Sun\nSystems Ltd in the initial public offer, at the face value of `10 per share. In 2007, Sun Systems declared\na bonus at the rate of 3:13. In 2008, the company\nagain declared a bonus at the rate of 2:4. In 2009,\nthe company declared a dividend of 12.5%. What is\nthe ratio of the dividend and the initial investment\nof Raveendra in 2009?\b\n(IIFT 2010)",
+      "options": {},
+      "answer": "0",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q054",
+      "num": 54,
+      "lod": 2,
+      "type": "tita",
+      "text": "The ratio of ‘metal 1’ and ‘metal 2’ in Alloy ‘A’ is\n3: 4. In Alloy ‘B’ same metals are mixed in the ratio\n5: 8. If 26 kg of Alloy ‘B’ and 14 kg of Alloy ‘A’\nare mixed then →nd out the ratio of ‘metal 1’ and\n‘metal 2’ in the new Alloy =?\b\n(IIFT 2011)",
+      "options": {},
+      "answer": "0",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q055",
+      "num": 55,
+      "lod": 2,
+      "type": "tita",
+      "text": "Karam Purchased four varieties of paint at the rate\nof 0.10 litres per `, 0.20 litres per `, 0.30 litres per\n` and 0.40 litre per `. If he mixes all the four varieties of paints in the ratio of 1: 2: 3: 4 in the given\norder, then →nd the price (in `/litre) at which Karam\nshould sell the mixture to make a pro→t of 10% on\nhis entire stock.\nLevel of Dif→culty (III)",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch08-lod2-q001",
+      "num": 1,
+      "lod": 2,
+      "type": "mcq",
+      "text": "An alloy of gold and silver is taken in the ratio of\n1 : 2, and another alloy of the same metals is taken\nin the ratio of 2 : 3. How many parts of the two alloys must be taken to obtain a new alloy consisting\nof gold and silver that are in the ratio 3 : 5?",
+      "options": {
+        "a": "3 and 5",
+        "b": "2 and 9",
+        "c": "2 and 5",
+        "d": "1 and 5"
+      },
+      "answer": "b",
+      "solution": "By taking the value of p = 4 from Option (b), the required ratio of 1: 1 is achieved."
+    },
+    {
+      "id": "ch08-lod2-q002",
+      "num": 2,
+      "lod": 2,
+      "type": "mcq",
+      "text": "There are two quantities of oil, with the masses differing by 2 kg. The same quantity of heat, equal to\n96 kcal, was imparted to each mass, and the larger\nmass of oil was found to be 4 degrees cooler than\nthe smaller mass. Find the mass of oil in each of the\ntwo quantities.",
+      "options": {
+        "a": "6 and 8",
+        "b": "4 and 6",
+        "c": "2 and 9",
+        "d": "4 and 9"
+      },
+      "answer": "a",
+      "solution": "T = KD/V. Also V = (K1 Q )/N where K and K1 are constants, T is the time duration of the journey, Q is the quantity of coal used and N is the number of carriages. Thus, T = (KDN)/(K1 Q ) or T = (K2DN)/( Q ) Æ if we take K/K1 as K2. From the information provided in the question: 30 = (K2¥ 50 ¥ 18)/10 Æ K2 = 1/3 Thus, the equation becomes: T = (DN)/(3 Q ). Then, when D = 42, T = 28, and N = 16 we get: 28 = 42 ¥ 16/(3 Q ) ÆQ = 64"
+    },
+    {
+      "id": "ch08-lod2-q003",
+      "num": 3,
+      "lod": 2,
+      "type": "mcq",
+      "text": "There are two alloys of gold and silver. In the →rst\nalloy, there is twice as much gold as silver, and in\nthe second alloy there is 5 times less gold than silver.\nHow many times more must we take of the second\nalloy than the →rst in order to obtain a new alloy in\nwhich there would be twice as much silver as gold?",
+      "options": {
+        "a": "Two times",
+        "b": "Three times",
+        "c": "Four times",
+        "d": "Ten times"
+      },
+      "answer": null,
+      "solution": "This only occurs in Option c. Hence, that is the answer."
+    },
+    {
+      "id": "ch08-lod2-q004",
+      "num": 4,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Calculate the weight and the percentage of zinc in\nthe zinc–copper alloy being given that the latter’s\nalloy with 3 kg of pure zinc contains 90 per cent of\nzinc and with 2 kg of 90% zinc alloy contains 84%\nof zinc.",
+      "options": {
+        "a": "2.4 kg or 80%",
+        "b": "1.4 kg or 88%",
+        "c": "3.4 kg or 60%",
+        "d": "7.4 kg or 18%"
+      },
+      "answer": null,
+      "solution": "Suppose you take p = 3 and q = 2. It can be clearly seen that the square root of 2 does not lie between 2 and 3. Hence, option (c) is incorrect. Further with these values for p and q option (a) also can be ruled out since it means that the value should lie between 5 and 6 which it obviously does not. Also, Option (d) gives 6/5 and 1/6. This means that the value should lie between 0.1666 and 1.2 (which it obviously does not). Hence, option (b) is correct."
+    },
+    {
+      "id": "ch08-lod2-q005",
+      "num": 5,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Two solutions, the →rst of which contains 0.8 kg and\nthe second 0.6 kg of salt, were poured together and\n10 kg of a new salt solution were obtained. Find the\nweight of the →rst and of the second solution in the\nmixture if the →rst solution is known to contain 10\nper cent more of salt than the second.",
+      "options": {
+        "a": "4 kg, 6 kg",
+        "b": "3 kg, 7 kg",
+        "c": "4 kg, 9 kg",
+        "d": "5 kg, 9 kg"
+      },
+      "answer": "a",
+      "solution": "Since there is a 12.5% increase in the wages, the cost of digging the pit would get increase by 12.5% - due to the increase in wages. However, since now the workers are working for 5% longer time, you can divide the increased wages by 1.05 to get the required answer. Thus, the answer would be: New 1.125 cost = 2694 ¥ = 2886 (approximately) 1.05"
+    },
+    {
+      "id": "ch08-lod2-q006",
+      "num": 6,
+      "lod": 2,
+      "type": "mcq",
+      "text": "From a full barrel containing 729 litres of honey we\npour off ‘a’ litre and add water to →ll up the barrel.\nAfter stirring the solution thoroughly, we pour off\n‘a’ litre of the solution and again add water to →ll up\nthe barrel. After the procedure is repeated 6 times,\nthe solution in the barrel contains 64 litres of honey.\nFind a.",
+      "options": {
+        "a": "243 litres",
+        "b": "81 litres",
+        "c": "2.7 litres",
+        "d": "3 litres"
+      },
+      "answer": "d",
+      "solution": "The constraint given to us for the values of p, q, and r is r ¥ (p + q) = pq So, if we take p = 6, q = 3 and r = 2, we have 18 = 18 and a feasible set of values for p, q and r respectively. With this set of values, we can complete the operation as defined and see what happens. Wine left in the vessel A = 4 = (6 – 2) Wine in the vessel B = 2 With these values none of the first 3 options matches. Thus, option (d) is correct."
+    },
+    {
+      "id": "ch08-lod2-q007",
+      "num": 7,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In two alloys, the ratios of nickel to tin are 5 : 2\nand 3 : 4 (by weight). How many kilogram of the\n→rst alloy and of the second alloy should be alloyed\ntogether to obtain 28 kg of a new alloy with equal\ncontents of nickel and tin?",
+      "options": {
+        "a": "9 kg of the →rst alloy and 22 kg of the second",
+        "b": "17 kg of the →rst alloy and 11 kg of the second",
+        "c": "7 kg of the →rst alloy and 21 kg of the second",
+        "d": "8 kg and 20 kg respectively"
+      },
+      "answer": null,
+      "solution": "The only information available here is that – b/c should be equal to 9/1. This is not sufficient to make any of the first three options as conclusions. Hence, option (d) is correct."
+    },
+    {
+      "id": "ch08-lod2-q008",
+      "num": 8,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In two alloys, aluminium and iron are in the ratios\nof 4 : 1 and 1 : 3. After alloying together 10 kg of the\n→rst alloy, 16 kg of the second and several kilograms\nof pure aluminium, an alloy was obtained in which\nthe ratio of aluminium to iron was 3 : 2. Find the\nweight of the new alloy.",
+      "options": {
+        "a": "15",
+        "b": "35",
+        "c": "65",
+        "d": "95"
+      },
+      "answer": null,
+      "solution": "Let the incomes be 4x, 5x, 6x And the spending be 6y, 7y, 8y And savings are (4x – 6y), (5x – 7y) & (6x – 8y) Rahul saves 1/4th of his income. Therefore 4x – 6y = 4x/4 4x – 6y = x 3x = 6y x/y = 2 Therefore y = x/2 Ratio of Rahul’s Saurav’s & Sachin’s savings = 4x – 6y : 5x – 7y : 6x – 8y = x: 5x – 7y: 6x – 8y = x: 5x – 7x/2: 6x – 8x/2 = x: 3x/2: 2x = 2:3:4"
+    },
+    {
+      "id": "ch08-lod2-q009",
+      "num": 9,
+      "lod": 2,
+      "type": "mcq",
+      "text": "There are two alloys of gold, silver and platinum.\nThe →rst alloy is known to contain 40 per cent of\nplatinum and the second alloy 26 per cent of silver.\nThe percentage of gold is the same in both alloys.\nHaving alloyed 150 kg of the →rst alloy and 250 kg\nof the second, we get a new alloy that contains 30\nper cent of gold. How many kilogram of platinum\nis there in the new alloy?",
+      "options": {
+        "a": "170 kg",
+        "b": "175 kg",
+        "c": "160 kg",
+        "d": "165 kg"
+      },
+      "answer": "b",
+      "solution": "Solve by taking values of a, b, c, d and e, f, g, and h independently of each other a = 1, b = 2, c = 3, d = 6 and e = 3, f = 9, g = 4 and h = 12 gives (ae + bf) : (ae – bf) = 21: – 15 = – 7/5 Option (b) (cg + dh)/(cg – dh) = 84/ – 60 = – 7/5. This would be the answer, since no other option gives us the same value."
+    },
+    {
+      "id": "ch08-lod2-q010",
+      "num": 10,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Two alloys of iron have different percentage of iron\nin them. The →rst one weighs 6 kg and second one\nweighs 12 kg. One piece each of equal weight was\ncut off from both the alloys and the →rst piece was\nalloyed with the second alloy and the second piece\nalloyed with the →rst one. As a result, the percentage\nof iron became the same in the resulting two new\nalloys. What was the weight of each cut-off piece?",
+      "options": {
+        "a": "4 kg",
+        "b": "2 kg",
+        "c": "3 kg",
+        "d": "5 kg"
+      },
+      "answer": "c",
+      "solution": "Since X has 0% C and Y has 16% C, the ratio of mixing in the fused mass must be 3:5. Using alligation as follows: 10 0% C X 6 10% C 16% C Fused mass Y Hence, 6:10 or 3:5 III.110 How to Prepare for Quantitative Aptitude for CAT Then, percentage of A in X can be got as follows: x 74 X Fused mass 3 80 Y 5 x = 64% Required ratio = 64:(100 – 64) = 64: 36 = 16:9"
+    },
+    {
+      "id": "ch08-lod2-q011",
+      "num": 11,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Two litres of a mixture of wine and water contain\n12% water. They are added to 3 litres of another\nmixture containing 7% water, and half a litre of water\nis then added to whole. What is the percentage of\nwater in resulting concoction?\n(2/7)%\n(7/11)%\n(3/11)%\n(2/3)%",
+      "options": {
+        "a": "17",
+        "b": "15",
+        "c": "17",
+        "d": "16"
+      },
+      "answer": null,
+      "solution": "Speed = 36 – k N . Putting value of N = 4 we get: 24 = 36 – 2k. Hence, k = 6. Thus the equation is: S = 36 – 6 N This means that when N = 36, the speed will become zero. Hence, the train can just move when 35 wagons are attached."
+    },
+    {
+      "id": "ch08-lod2-q012",
+      "num": 12,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Three vessels having volumes in the ratio of 1 : 2 : 3\nare full of a mixture of coke and soda. In the →rst\nvessel, ratio of coke and soda is 2 : 3, in second, 3 : 7\nRatio, Proportion and Variation III.103\nand in third, 1 : 4. If the liquid in all the three vessels were mixed in a bigger container, what is the\nresulting ratio of coke and soda?",
+      "options": {
+        "a": "4:11",
+        "b": "5:7",
+        "c": "7:11",
+        "d": "7:5"
+      },
+      "answer": null,
+      "solution": "p varies as q, means p = kq. This does not have any relation to the variance of p2 + q2."
+    },
+    {
+      "id": "ch08-lod2-q013",
+      "num": 13,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Two types of tea are mixed in the ratio of 3 : 5 to\nproduce the →rst quality and if they are mixed in the\nratio of 2 : 3, the second quality is obtained. How\nmany kilograms of the →rst quality has to be mixed\nwith 10 kg of the second quality so that a third quality having the two varieties in the ratio of 7 : 11 may\nbe produced?",
+      "options": {
+        "a": "5 kg",
+        "b": "10 kg",
+        "c": "8 kg",
+        "d": "9 kg"
+      },
+      "answer": "c",
+      "solution": "Let x=5 Then y = f(x) = 6/4 = 1.5 And f(y) = 2.5/0.5 = 5. Thus, the ratio of x : f(y) = 1 : 1 Note: Even if you take some other value of y, you would still get the same answer."
+    },
+    {
+      "id": "ch08-lod2-q014",
+      "num": 14,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A toy weighing 24 grams of an alloy of two metals\nis worth ` 174, but if the weights of metals in alloy be interchanged, the toy would be worth ` 162.\nIf the price of one metal be ` 8 per gram, →nd the\nprice of the other metal in the alloy used to make\nthe toy.",
+      "options": {
+        "a": "` 10 per gram",
+        "b": "` 6 per gram",
+        "c": "` 4 per gram",
+        "d": "` 5 per gram"
+      },
+      "answer": "c",
+      "solution": "In 2000 man weeks before the calamity, 5/6th of the work is completed. Hence, 2400 men weeks will be the total amount of work. However, due to the calamity half the work gets washed off Æ This means that 1000 man weeks worth of work must have got washed off. This leaves 1400 men weeks of work to be completed by the 140 men. They will take 10 more weeks and hence the total time required is 24 weeks."
+    },
+    {
+      "id": "ch08-lod2-q015",
+      "num": 15,
+      "lod": 2,
+      "type": "tita",
+      "text": "The weight of three heaps of gold are in the ratio\n5 : 6 : 7. By what fractions of themselves must the\n→rst two be increased so that the ra",
+      "options": {},
+      "answer": null,
+      "solution": "Total distances covered under each mode = 32, 4 and 12 km respectively. Total charges = 32 ¥ 24 + 4 ¥ 3 + 12 ¥ 12 = `924."
+    },
+    {
+      "id": "ch08-lod3-q016",
+      "num": 16,
+      "lod": 3,
+      "type": "mcq",
+      "text": "An alloy of gold, silver and bronze contains 90%\nbronze, 7% gold and 3% silver. A second alloy of\nbronze and silver only is melted with the →rst and\nthe mixture contains 85% of bronze, 5% of gold and\n10% of silver. Find the percentage of bronze in the\nsecond alloy.",
+      "options": {
+        "a": "75%",
+        "b": "72.5%",
+        "c": "70%",
+        "d": "67.5%"
+      },
+      "answer": "When",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q017",
+      "num": 17,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Gunpowder can be prepared by saltpetre and nitrous\noxide. Price of saltpetre is thrice the price of nitrous\noxide. Notorious gangster Kallu Bhai sells the gunpowder at ` 2160 per 10 g, thereby making a pro→t\nof 20%. If the ratio of saltpetre and nitrous oxide in\nthe mixture be 2 : 3, →nd the cost price of saltpetre.",
+      "options": {
+        "a": "` 210/gm",
+        "b": "` 300/gm",
+        "c": "` 120/gm",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q018",
+      "num": 18,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Two boxes A and B were →lled with a mixture of\nrice and dal—in A in the ratio of 5 : 3, and in B in\nthe ratio of 7 : 3. What quantity must be taken from\nthe →rst to form a mixture that shall contain 8 kg of\nrice and 3 kg of dal?",
+      "options": {
+        "a": "4 kg",
+        "b": "5 kg",
+        "c": "6 kg",
+        "d": "This cannot be achieved"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q019",
+      "num": 19,
+      "lod": 3,
+      "type": "mcq",
+      "text": "A person buys 18 local tickets for ` 110. Each →rst\nclass ticket costs ` 10 and each second class ticket\ncosts ` 3. What will another lot of 18 tickets in which\nthe number of →rst class and second class tickets are\ninterchanged cost?",
+      "options": {
+        "a": "112",
+        "b": "118",
+        "c": "121",
+        "d": "124"
+      },
+      "answer": "10x",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q020",
+      "num": 20,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Two jars having a capacity of 3 and 5 litres respectively are →lled with mixtures of milk and water.\nIn the smaller jar 25% of the mixture is milk and\nin the larger 25% of the mixture is water. The jars\nare emptied into a 10 litre cask whose remaining\ncapacity is →lled up with water. Find the percentage\nof milk in the cask.",
+      "options": {
+        "a": "55%",
+        "b": "50%",
+        "c": "45%",
+        "d": "None of these"
+      },
+      "answer": "Out",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q021",
+      "num": 21,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Two cubes of bronze have their total weight equivalent to 60 kg. The →rst piece contains 10 kg of pure\nzinc and the second piece contains 8 kg of pure zinc.\nWhat is the percentage of zinc in the →rst piece of\nbronze if the second piece contains 15 per cent more\nzinc than the →rst?",
+      "options": {
+        "a": "15%",
+        "b": "25%",
+        "c": "55%",
+        "d": "24%"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q022",
+      "num": 22,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Sonu gets a jewellery made of an alloy of copper\nand silver. The alloy with a weight of 8 kg contains\np per cent of copper. What piece of a copper–silver\nalloy containing 40 per cent of silver must be alloyed with the →rst piece in order to obtain a new\nalloy with the minimum percentage of copper if the\nweight of the second piece is 2 kg?\n0 kg for 0 < p < 60\n2 kg for 0 < p < 60\n0 kg for 0 < p < 70",
+      "options": {
+        "a": "2 kg for p > 60, a kg, where a Œ [0, 2], for p = 60,",
+        "b": "0 kg for p > 60, a kg, where a Œ [0, 2], for p = 60,",
+        "c": "0 kg for p > 60, a kg, where a Œ [0, 3], for p = 70,",
+        "d": "None of these"
+      },
+      "answer": "Since",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q023",
+      "num": 23,
+      "lod": 3,
+      "type": "mcq",
+      "text": "From a vessel →lled up with pure spirit to the brim,\ntwo litres of spirit was removed and 2 litres of water\nwere added. After the solution was mixed, 2 litres\nof the mixture was poured off and again 2 litres of\nwater was added. The solution was stirred again and\n2 litres of the mixture was removed and 2 litres of\nwater was added. As a result of the above operations, the volume of water in the vessel increased\nby 3 litres than the volume of spirit remaining in it.\nHow many litres of spirit and water were there in\nthe vessel after the above procedure was carried out?",
+      "options": {
+        "a": "0.7 litre of spirit and 3.7 litres of water",
+        "b": "1.5 litres of spirit and 4.5 litres of water",
+        "c": "8.5 litre of spirit and 11.5 litres of water",
+        "d": "0.5 litre of spirit and 3.5 litres of water"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q024",
+      "num": 24,
+      "lod": 3,
+      "type": "mcq",
+      "text": "There are two qualities of milk—Amul and Sudha\nhaving different prices per litre, their volumes being\n130 litres and 180 litres respectively. After equal\namounts of milk was removed from both, the milk\nremoved from Amul was added to Sudha and viceversa. The resulting two types of milk now have the\nsame price. Find the amount of milk drawn out from\neach type of milk.\nSpace for Rough Work",
+      "options": {
+        "a": "58.66",
+        "b": "75.48",
+        "c": "81.23",
+        "d": "None of these"
+      },
+      "answer": "Solve",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q025",
+      "num": 25,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Assume that the rate of consumption of coal by a\nlocomotive varies as the square of the speed and is\n1000 kg per hour when the speed is 60 km per hour.\nIf the coal costs the railway company ` 15 per 100\nkg and if the other expenses of the train be ` 12\nper hour, →nd a formula for the cost in paise per\nkilometre when the speed is S km per hour.\n18\n1200 75S\n+\nS\n18\n75S 2\n18\nRatio, Proportion and Variation III.105\nanswer key\nLevel of Dif→culty (I)",
+      "options": {
+        "a": "1200 +",
+        "c": "5S 2",
+        "b": "1200 +",
+        "d": "None of these"
+      },
+      "answer": "Total",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q054",
+      "num": 54,
+      "lod": 3,
+      "type": "tita",
+      "text": "0.67\nLevel of Dif→culty (III)",
+      "options": {},
+      "answer": "`1500,",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q054",
+      "num": 54,
+      "lod": 3,
+      "type": "tita",
+      "text": "`1500, 10500",
+      "options": {},
+      "answer": "`1500,",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q001",
+      "num": 1,
+      "lod": 3,
+      "type": "tita",
+      "text": "One alloy contains 33.33% gold, the other contains\n40% gold. The mixture must contain 37.5% gold.\nSolve using alligation.",
+      "options": {},
+      "answer": "One",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q004",
+      "num": 4,
+      "lod": 3,
+      "type": "tita",
+      "text": "Check using options whether the given conditions of\nmixing are met.\n Option \ni.e., 3 kg alloy of 80% zinc concentration is mixed\nwith 3 kg of pure zinc. Satis→es the given condition.\n0.8",
+      "options": {
+        "a": "gives : 2.4 kg of zinc @ 80% concentration."
+      },
+      "answer": "5",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q005",
+      "num": 5,
+      "lod": 3,
+      "type": "tita",
+      "text": "Solve using options the following equation\n–\nx\n0.6\n= 0.1\n10 - x",
+      "options": {},
+      "answer": "Solve",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q007",
+      "num": 7,
+      "lod": 3,
+      "type": "tita",
+      "text": "Check the options.",
+      "options": {},
+      "answer": "Check",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q008",
+      "num": 8,
+      "lod": 3,
+      "type": "tita",
+      "text": "80% aluminium (4:1) and 25% aluminium (1:3) have\nto be mixed with pure aluminium to obtain an alloy\nwith 60% aluminium.\n10 × 0.8 + 16 × 0.25 + x\n= 0.6\n10 + 16 + x",
+      "options": {},
+      "answer": "80%",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q009",
+      "num": 9,
+      "lod": 3,
+      "type": "tita",
+      "text": "Since the percentage of gold in both alloys is the\nsame, any mixture of the two will contain the same\npercentage concentration of gold.\n Hence, we get\n First alloy :\nGold : Silver : Platinum\n30 :\n30 :\n40\n AND Second alloy: Gold : Silver : Platinum\n30 :\n26 :\n44\n\\",
+      "options": {},
+      "answer": "Since",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q010",
+      "num": 10,
+      "lod": 3,
+      "type": "tita",
+      "text": "Let ‘w’ be the weight of the cut off piece.\n6-w\nw\n=\n12 - w\nw",
+      "options": {},
+      "answer": "Let",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q013",
+      "num": 13,
+      "lod": 3,
+      "type": "tita",
+      "text": "First alloy has 37.5% of the →rst tea type. Similarly,\nthe second alloy has 40% of the →rst tea type. The\nmixture should contain 42.85% of the →rst tea type.\nThis is not possible.",
+      "options": {},
+      "answer": "First",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q016",
+      "num": 16,
+      "lod": 3,
+      "type": "tita",
+      "text": "When one alloy having 7% gold is mixed with another\nalloy having no gold, the result is a new alloy with 5%\ngold. Hence, ratio of mixing is 2 : 5.",
+      "options": {},
+      "answer": "When",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q019",
+      "num": 19,
+      "lod": 3,
+      "type": "tita",
+      "text": "10x + (18 – x) × 3 = 110",
+      "options": {},
+      "answer": "10x",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q020",
+      "num": 20,
+      "lod": 3,
+      "type": "tita",
+      "text": "Out of 8 litres milk and water mixture poured into the\n10 litre cask, the milk is 0.25 × 3 + 0.75 × 5 = 4.5.\n8\n10",
+      "options": {},
+      "answer": "Out",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q021",
+      "num": 21,
+      "lod": 3,
+      "type": "tita",
+      "text": "= 0.15.\nx 60 - x",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q022",
+      "num": 22,
+      "lod": 3,
+      "type": "tita",
+      "text": "Since the second alloy contains 60% copper, the\nrequirement for the minimisation of copper will be\nful→lled by option 2. Note, that the values of the\nnumber of kgs required of the second alloy will\ndepend on the value of p.",
+      "options": {},
+      "answer": "Since",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q024",
+      "num": 24,
+      "lod": 3,
+      "type": "tita",
+      "text": "Solve through options.",
+      "options": {},
+      "answer": "Solve",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q025",
+      "num": 25,
+      "lod": 3,
+      "type": "tita",
+      "text": "Total cost = Other expenses (paise/km) + Coal cost\n  (paise/km).\n Coal Consumption = k × s2\n\\ 1000 = k × 602\n  Then,\n5\n5\nand Coal consumption =\n× s2\n18\n18\n\\ Required expression is\nk=\n Total cost =\n1200 5\n+\ns × 15.\ns\n18\nSolutions and Shortcuts\nLevel of Dif→culty (I)",
+      "options": {},
+      "answer": "Total",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q001",
+      "num": 1,
+      "lod": 3,
+      "type": "tita",
+      "text": "Assume a set of values for p, q, r, s such that they\nare proportional i.e. p/q = r/s. Suppose we take p:q,\nas 1:4 and r:s as 3:12 we get the given expression:\n  (p – q)(p – r)/p = – 3 × – 2/1 = 6. This value is also\ngiven by p + s – q – r and hence option",
+      "options": {
+        "b": "is correct."
+      },
+      "answer": "One",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q003",
+      "num": 3,
+      "lod": 3,
+      "type": "tita",
+      "text": "x = k/(y3 – 1). This gives k = 3 × 7 = 21.\n  When, y = 4, the equation becomes x = 21/(43 – 1)\n= 21/63 = 1/3.",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q004",
+      "num": 4,
+      "lod": 3,
+      "type": "tita",
+      "text": "x = ky Æ 12 = 4k Æ k = 3\n  Hence, x = 3 × y\n  When, y = 15, x = 3 × 15 = 45.",
+      "options": {},
+      "answer": "5",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q005",
+      "num": 5,
+      "lod": 3,
+      "type": "tita",
+      "text": "X = K × Y × Z Æ It is known that when X = 6, Y\n= 3 and Z = 2. Thus we get 6 = 6K Æ K = 1.\n Thus, our relationship between X, Y and Z becomes\nX = Y × Z. Thus, when Y = 5 and Z = 7 we get\nX = 35.",
+      "options": {},
+      "answer": "Solve",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q006",
+      "num": 6,
+      "lod": 3,
+      "type": "tita",
+      "text": "x = ky/z\n We cannot determine the value of k from the given\ninformation and hence cannot answer the question.",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q007",
+      "num": 7,
+      "lod": 3,
+      "type": "tita",
+      "text": "Solve this question using options. 1/2 of the →rst part\nshould equal 1/4th of the second part and 1/8th of the\nthird part. Only, option \nthus this option is correct.",
+      "options": {
+        "b": "satis→es these conditions"
+      },
+      "answer": "Check",
+      "solution": null
+    },
+    {
+      "id": "ch08-lod3-q008",
+      "num": 8,
+      "lod": 3,
+      "type": "tita",
+      "text": "Check the options, B = 1000 and C = 1.5 × 1000 =\n4\n× 1500 = 2000\n1500, D =\n3\n A = 5000 – 1000 – 1500 – 2000 = 500.\n Now A + B = 500 + 1000 = 1500, C + D = 1500 +\n2000 = 3500.\n3\n× 1500. So this option is correct.",
+      "options": {},
+      "answer": "80%",
+      "solution": null
+    }
+  ],
+  "questionCount": 134,
+  "lodCounts": {
+    "lod1": 48,
+    "lod2": 52,
+    "lod3": 34
+  }
+}

@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #6366f1;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #1f2937; }
+::-webkit-scrollbar-thumb { background: #4b5563; border-radius: 3px; }
+
+/* Math-style text */
+.q-text { line-height: 1.7; white-space: pre-wrap; word-break: break-word; }
+
+/* Timer pulse */
+@keyframes pulse-red { 0%,100%{opacity:1} 50%{opacity:0.5} }
+.timer-warning { animation: pulse-red 1s infinite; }

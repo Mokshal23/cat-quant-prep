@@ -1,0 +1,5283 @@
+{
+  "id": "ch01",
+  "num": 1,
+  "title": "Number Systems",
+  "block": "I",
+  "blockName": "Numbers",
+  "topic": "Numbers",
+  "notes": {
+    "intro": "d) 17\nSolution From the property (used in the above question)\nwe can say that the difference will be divisible by 99",
+    "concepts": [
+      "d) 17\nSolution From the property (used in the above question)\nwe can say that the difference will be divisible by 99",
+      "Solution The quotient will be the difference between extreme digits of 783, i.e. 7 – 3 = 4 (This again is a property\nwhich you should know.)\nfi option (d)\nProblem 1.29 A long Part of wood of same length when\ncut into equal pieces each of 242 cms, leaves a small piece\nof length 98 cms. If this Part were cut into equal pieces\neach of 22 cms, the length of the leftover wood would be\n(a) 76 cm\n(b) 12 cm\n(c) 11 cm\n(d) 10 cm\nSolution As 242 is divisible by 22, so the required length\nof left wood will be equal to the remainder when 98 is\ndivided by 22:\nHence, 10 [98/22; remainder 10]\nfi option (d)\nProblem 1.30 Find the number of numbers from 1 to\n100 which are not divisible by 2.\n(a) 51\n(b) 50\n(c) 49\n(d) 48\nSolution The 1st number from 1 to 100, not divisible by\n2 is 1 and the last number from 1 to 100, not divisible by\n2 is 99.\nEvery alternate number (i.e, at the gap of 2) will not be\ndivisible by 2 from 1 to 99. (1, 2, 3, - - - - , 95, 97, 99)\nSo, the required number of nos =",
+      "last no. - →rst no.\n+1\ngap (or step)\n99 - 1\n+ 1 = 50\n2",
+      "fi Option (b)\nAlternate method\nTotal number of nos from 1 to 100 = 100\b\n(i)\nNow, if we count number of numbers from 1 to 100 which\nare divisible by 2 and subtract that from the total number of\nnumbers from 1 to 100, as a result we will →nd the number of\nnumbers from 1 to 100 which are not divisible by 2.\nTo count the number of nos from 1 to 100 which are divisible by 2:\nThe 1st number which is divisible by 2 = 2\nThe last number which is divisible by 2 = 100\n\b\n(2, 4, 6, - - - - , 96, 98, 100)\nGap/step between two consecutive numbers = 2",
+      "So, the number of numbers which are divisible by 2 =\nlast no. - →rst no.\n100 - 2\n+ 1 = 50 \b(ii)\n+1 =\ngap (or step)\n2\nSo, from (i) & (ii)\nRequired number of numbers = 100 – 50 = 50\nfi option (b)\nProblem 1.31 Find the number of numbers from 1 to 100\nwhich are not divisible by any one of 2 & 3.\n(a) 16\n(b) 17\n(c) 18\n(d) 33\nSolution From 1 to 100\nNumber of numbers not divisible by 2 & 3 = Total number\nof numbers–number of numbers divisible by either 2 or 3.\nNow, total number of numbers = 100 \b\n(ii)\nFor number of numbers divisible by either 2 or 3:\nlast no. - →rst no.\nNumber of numbers divisible by 2 =\n+1\ngap (or step)\n100 - 2\n+ 1 = 50\n=\n2\nNow, the number of numbers divisible by 3 (but not by 2,\nas it has already been counted)\n1st such no. = 3 and the gap will be 6. Hence 2nd such no.\nwill be 9, 3rd no. would be 15 and the last number would be 99.\nHence this series is 3, 9, 15, ..., 93, 99\nSo, the number of numbers divisible by 3 (but not by 2) =\nlast such no. - →rst such no.\n99 - 3\n+1 =\n+ 1 = 17\ngap/step\n6\nHence, the number of numbers divisible by either 2 or\n3 = 50 + 17 = 67\nso, from (i), (ii) & (iii) required number of numbers =\n100 – 67 = 33\nfi option (d)\nProblem 1.32 Find the number of numbers from 1 to\n100 which are not divisible by any one of 2, 3, and 5.\n(a) 26\n(b) 27\n(c) 29\n(d) 32\nSolution From the above question, we have found out that\nFrom 1 to 100, number of numbers divisible by 2 = 50\n\b(i)\nNumber of numbers divisible by 3 ( but not by 2) = 17\n\b(ii)\nNow, we have to →nd out the number of numbers which\nare divisible by 5 (but not by 2 and 3). Numbers which are\ndivisible by 5\n(5) 10 15 20 (25) 30 (35) 40 45 50 (55) 60 (65) 70 75 80\n(85) 90 (95) 100\nThat is, there are 7 such numbers\b\n(iii)\nAnother way to →nd out the number of numbers that are\ndivisible by 5 but not 2 and 3 is to →rst only consider odd\nmultiples of 5.",
+      "You will get the series of 10 numbers: 5, 15, 25, 35, 45,\n55, 65, 75, 85 and 95\nFrom amongst these we need to exclude multiples of 3. In\nother words, we need to →nd the number of common elements\nbetween the above series and the series of odd multiples of 3,\nviz, 3, 9, 15, 21 …. 99.\nThis situation is the same as →nding the number of common\nelements between the two series for which we need to →rst observe that the →rst such number is 15. Then the common terms\nbetween these two series will themselves form an arithmetic\nseries and this series will have a common difference which\nis the LCM of the common differences of the two series. (In\nthis case the common difference of the two series are 10 and\n6 respectively and their LCM being 30, the series of common\nterms between the two series will be 15, 45 and 75.) Thus,\nthere will be 3 terms out of the 10 terms of the series 5, 15,\n25…95 which will be divisible by 3 and hence need to be\nexcluded from the count of numbers which are divisible by\n5 but not 2 or 3.\nHence, the required answer would be: 100 – 50 – 17 – 7\n= 26\nfi option (a)\nProblem 1.33 Find the number of numbers from 1 to 100\nwhich are not divisible by any one of 2, 3, 5 & 7.\n(a) 22\n(b) 24\n(c) 23\n(d) 27\nSolution From the above question we have seen that\nfrom 1 to 100.\nnumber of numbers divisible by 2 = 50\b\n(i)\nnumber of numbers divisible by 3 but not by 2 = 17\n\b(ii)\nnumber of numbers divisible by 5 but not by 2 and 3 = 7\n\b(iii)\nnumber of numbers divisible by 7 but not by 2, 3 & 5;\nsuch numbers are 7, 49, 77, 91 = 4 numbers\b\n(iv)\nRequired number of numbers = Total number of numbers\nfrom 1 to 100 – {(i) + (ii) + (iii) + (iv)}\n  \n= 100 – (50 + 17 + 7 + 4)\n  \n= 22\nfi option (a)\nProblem 1.34\ndivided by 5?\n(a) 1\n(c) 2"
+    ],
+    "formulas": [
+      "Solution The quotient will be the difference between extreme digits of 783, i.e. 7 – 3 = 4 (This again is a property",
+      "So, the required number of nos =",
+      "last no. - →rst no.",
+      "Total number of nos from 1 to 100 = 100\b",
+      "numbers from 1 to 100, as a result we will →nd the number of",
+      "The 1st number which is divisible by 2 = 2",
+      "The last number which is divisible by 2 = 100",
+      "Gap/step between two consecutive numbers = 2",
+      "So, the number of numbers which are divisible by 2 =",
+      "Required number of numbers = 100 – 50 = 50",
+      "Number of numbers not divisible by 2 & 3 = Total number",
+      "Now, total number of numbers = 100 \b",
+      "Number of numbers divisible by 2 =",
+      "1st such no. = 3 and the gap will be 6. Hence 2nd such no.",
+      "So, the number of numbers divisible by 3 (but not by 2) ="
+    ]
+  },
+  "questions": [
+    {
+      "id": "ch01-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The sum of two numbers is 15 and their geometric\nmean is 20% lower than their arithmetic mean. Find\nthe numbers.",
+      "options": {
+        "a": "11, 4",
+        "b": "12, 3",
+        "c": "13, 2",
+        "d": "10, 5"
+      },
+      "answer": "Æ",
+      "solution": "c = 0 or 5 would make the number 380 or 385 – in which case it would be divisible by 5."
+    },
+    {
+      "id": "ch01-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The difference between two numbers is 48 and the\ndifference between the arithmetic mean and the geometric mean is two more than half of 1/3 of 96. Find\nthe numbers.",
+      "options": {
+        "a": "49, 1",
+        "b": "12, 60",
+        "c": "50, 2",
+        "d": "36, 84"
+      },
+      "answer": "Æ",
+      "solution": "For the number to become divisible by 6, it should be even and divisible by 3. From the values 1, 4 and 7 which make the number divisible by 3, we only have c = 4 making it even. Thus, c = 4."
+    },
+    {
+      "id": "ch01-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If A381 is divisible by 11, →nd the value of the\nsmallest natural number A.",
+      "options": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "9"
+      },
+      "answer": "Æ",
+      "solution": "For the number to be divisible by 9, 3 + 8 + c should be a multiple of 9. c = 7 is the only value of c which can make the number divisible by 9."
+    },
+    {
+      "id": "ch01-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 381A is divisible by 9, →nd the value of smallest\nnatural number A.",
+      "options": {
+        "a": "5",
+        "b": "5",
+        "c": "7",
+        "d": "6"
+      },
+      "answer": "Æ",
+      "solution": "Obviously c = 0 is the correct answer."
+    },
+    {
+      "id": "ch01-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What will be the remainder obtained when (96 + 1)\nwill be divided by 8?",
+      "options": {
+        "a": "0",
+        "b": "3",
+        "c": "7",
+        "d": "2"
+      },
+      "answer": "d",
+      "solution": "96 when divided by 8, would give a remainder of 1. Hence, the required answer would be 2."
+    },
+    {
+      "id": "ch01-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the ratio between the LCM and HCF of 5, 15\nand 20.",
+      "options": {
+        "a": "8 : 1",
+        "b": "14 : 3",
+        "c": "12 : 2",
+        "d": "12 : 1"
+      },
+      "answer": "d",
+      "solution": "LCM of 5, 15 and 20 = 60. HCF of 5, 15 and 20 ="
+    },
+    {
+      "id": "ch01-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the LCM of 5/2, 8/9, 11/14.",
+      "options": {
+        "a": "280",
+        "b": "360",
+        "c": "420",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "LCM of 5/2, 8/9 and 11/14 would be given by: (LCM of numerators)/(HCF of denominators) = 440/1 = 440"
+    },
+    {
+      "id": "ch01-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the number A is even, which of the following will\nbe true?\n(A2 + 3)/4 will be divisible by 7",
+      "options": {
+        "a": "3A will always be divisible by 6",
+        "b": "3A + 5 will always be divisible by 11",
+        "c": "",
+        "d": "All of these"
+      },
+      "answer": "a",
+      "solution": "Only the first option can be verified to be true in this case. If A is even, 3A would always be divisible by 6 as it would be divisible by both 2 and 3. Options b and c can be seen to be incorrect by assuming the value of A as 4."
+    },
+    {
+      "id": "ch01-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A →ve-digit number is taken. Sum of the →rst four\ndigits (excluding the number at the units digit) equals\nsum of all the →ve digits. Which of the following\nwill not divide this number necessarily?",
+      "options": {
+        "a": "10",
+        "b": "2",
+        "c": "4",
+        "d": "5"
+      },
+      "answer": "c",
+      "solution": "The essence of this question is in the fact that the last digit of the number is 0. Naturally, the number is necessarily divisible by 2,5 and 10. Only 4 does not necessarily divide it."
+    },
+    {
+      "id": "ch01-lod1-q013",
+      "num": 13,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number 15B is divisible by 6. Which of these will\nbe true about the positive integer B?\n(c)",
+      "options": {
+        "a": "and",
+        "b": "B will be odd",
+        "c": "B will be divisble by 6",
+        "d": "Both"
+      },
+      "answer": "d",
+      "solution": "B would necessarily be even- as the possible values of B for the three digit number 15B to be divisible by 6 are 0 and 6. Also, the condition stated in option (c) is also seen to be true in this case — as both 0 and 6 are divisible by 6. Thus, option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q014",
+      "num": 14,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two numbers P = 23.310.5 and Q = 25.31.71 are given.\nFind the GCD of P and Q.",
+      "options": {
+        "a": "2.3.5.7",
+        "b": "3. 22",
+        "c": "22.32",
+        "d": "23.3"
+      },
+      "answer": "d",
+      "solution": "For the GCD take the least powers of all common prime factors. Thus, the required answer would be 23 ¥ 3"
+    },
+    {
+      "id": "ch01-lod1-q015",
+      "num": 15,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the units digit of the expression 256251 + 36528\n+ 7354.",
+      "options": {
+        "a": "4",
+        "b": "0",
+        "c": "6",
+        "d": "5"
+      },
+      "answer": "b",
+      "solution": "The units digit would be given by 5 + 6 + 9 (numbers ending in 5 and 6 would always end in 5 and 6 irrespective of the power and 354 will give a units digit equivalent to 34n+2 which would give us a unit digit of 32 i.e.9)."
+    },
+    {
+      "id": "ch01-lod1-q016",
+      "num": 16,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the units digit of the expression 55725 + 735810\n+ 22853.",
+      "options": {
+        "a": "4",
+        "b": "0",
+        "c": "6",
+        "d": "5"
+      },
+      "answer": "c",
+      "solution": "The respective units digits for the three parts of the expression would be: 5 + 9 + 2 =16 Æ required answer is 6. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q017",
+      "num": 17,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the units digit of the expression 111 + 122 + 133\n+ 144 + 155 + 166.",
+      "options": {
+        "a": "1",
+        "b": "9",
+        "c": "7",
+        "d": "0"
+      },
+      "answer": "b",
+      "solution": "The respective units digits for the six parts of the expression would be: 1 + 4 + 7 + 6 + 5 + 6 =29 Æ required answer is 9. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q018",
+      "num": 18,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the units digit of the expression 111.122.133.\n144.155.166.",
+      "options": {
+        "a": "4",
+        "b": "3",
+        "c": "7",
+        "d": "0"
+      },
+      "answer": "d",
+      "solution": "The respective units digits for the six parts of the expression would be: 1 ¥ 4 ¥ 7 ¥ 6 ¥ 5 ¥ 6 Æ required answer is 0. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q019",
+      "num": 19,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of zeroes at the end of 1090!",
+      "options": {
+        "a": "270",
+        "b": "268",
+        "c": "269",
+        "d": "271"
+      },
+      "answer": "a",
+      "solution": "The number of zeroes would be given by adding the quotients when we successively divide 1090 by 5: Number Systems I.71 1090/5 + 218/5 + 43/5 + 8/5 = 218 + 43 + 8 + 1 ="
+    },
+    {
+      "id": "ch01-lod1-q020",
+      "num": 20,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 146! is divisible by 5n, then →nd the maximum\nvalue of n.",
+      "options": {
+        "a": "34",
+        "b": "35",
+        "c": "36",
+        "d": "37"
+      },
+      "answer": "b",
+      "solution": "The number of 5’s in 146! can be got by [146/5] + [29/5] + [5/5]= 29+5+1 = 35"
+    },
+    {
+      "id": "ch01-lod1-q021",
+      "num": 21,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of divisors of 1420.",
+      "options": {
+        "a": "14",
+        "b": "15",
+        "c": "13",
+        "d": "12"
+      },
+      "answer": "d",
+      "solution": "1420 = 142 ¥ 10 = 22 ¥ 711 ¥ 51. Thus, the number of factors of the number would be (2 + 1) (1 + 1) (1 + 1) = 3 ¥ 2 ¥ 2 = 12. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q022",
+      "num": 22,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the HCF and LCM of the polynomials (x2 – 5x\n+ 6) and (x2 – 7x + 10).\n(x - 2), (x – 2) (x – 3) (x – 5)\n(x – 2), (x – 2)(x – 3)\n(x – 3), (x – 2) (x – 3) (x – 5)\n(x - 2), (x – 2) (x – 3) (x – 5)2\nDirections for Questions 23 to 25: Given two different prime numbers P and Q, →nd the number of divisors\nof the following:",
+      "options": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "answer": "a",
+      "solution": "(x2 – 5x + 6) = (x – 2)(x – 3) & (x2 – 7x + 10) = (x – 5)(x – 2) Required HCF = (x – 2); required LCM = (x – 2) (x – 3)(x – 5). Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q026",
+      "num": 26,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The sides of a pentagonal →eld (not regular) are 1737\nmetres, 2160 metres, 2358 metres, 1422 metres and\n2214 metres respectively. Find the greatest length of\nthe tape by which the →ve sides may be measured\ncompletely.",
+      "options": {
+        "a": "7",
+        "b": "13",
+        "c": "11",
+        "d": "9"
+      },
+      "answer": "d",
+      "solution": "The sides of the pentagon being 1422, 1737, 2160, 2214 and 2358, the least difference between any two numbers is 54. Hence, the correct answer will be a factor of 54. Further, since there are some odd numbers in the list, the answer should be an odd factor of 54. Hence, check with 27, 9 and 3 in that order. You will get 9 as the HCF."
+    },
+    {
+      "id": "ch01-lod1-q027",
+      "num": 27,
+      "lod": 1,
+      "type": "mcq",
+      "text": "There are 576 boys and 448 girls in a school that\nare to be divided into equal sections of either boys\nor girls alone. Find the minimum total number of\nsections thus formed.",
+      "options": {
+        "a": "2 4",
+        "b": "32",
+        "c": "16",
+        "d": "20"
+      },
+      "answer": "c",
+      "solution": "The HCF of 576 and 448 is 64. Hence, each section should have 64 children. The number of sections would be given by: 576/64 + 448/64= 9 + 7 = 16. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q028",
+      "num": 28,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A milkman has three different qualities of milk. 403\ngallons of 1st quality, 465 gallons of 2nd quality and\n496 gallons of 3rd quality. Find the least possible\nnumber of bottles of equal size in which different\nmilk of different qualities can be →lled without mixing.",
+      "options": {
+        "a": "34",
+        "b": "46",
+        "c": "26",
+        "d": "44"
+      },
+      "answer": "d",
+      "solution": "The HCF of the given numbers is 31 and hence the number of bottles required would be 403/31 + 465/31 + 496/31 = 13 + 15 + 16 = 44. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q029",
+      "num": 29,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the greatest number of 4 digits that when\ndivided by any of the numbers 6, 9, 12, 17 leaves a\nremainder of 1?",
+      "options": {
+        "a": "9997",
+        "b": "9793",
+        "c": "9895",
+        "d": "9487"
+      },
+      "answer": "b",
+      "solution": "The LCM of the 4 numbers is 612. The highest 4 digit number which would be a common multiple of all these 4 numbers is 9792. Hence, the correct answer is 9793."
+    },
+    {
+      "id": "ch01-lod1-q030",
+      "num": 30,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the least number that when divided by 16, 18\nand 20 leaves a remainder 4 in each case, but is\ncompletely divisible by 7.",
+      "options": {
+        "a": "364",
+        "b": "2254",
+        "c": "2964",
+        "d": "2884"
+      },
+      "answer": "d",
+      "solution": "The LCM of 16, 18 and 20 is 720. The numbers which would give a remainder of 4, when divided by 16, 18 and 20 would be given by the series: 724, 1444, 2164, 2884 and so on. Checking each of these numbers for divisibility by 7, it can be seen that 2884 is the least number in the series that is divisible by 7 and hence is the correct answer. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q031",
+      "num": 31,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Four bells ring at the intervals of 6, 8, 12 and 18\nseconds. They start ringing together at 12’O’ clock.\nAfter how many seconds will they ring together\nagain?",
+      "options": {
+        "a": "72",
+        "b": "84",
+        "c": "60",
+        "d": "48"
+      },
+      "answer": "a",
+      "solution": "They will ring together again after a time which would be the LCM of 6, 8, 12 and 18. The required LCM = 72. Hence, they would ring together after 72 seconds. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q032",
+      "num": 32,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For Question 31, →nd how many times will they ring\ntogether during the next 12 minutes. (including the\n12 minute mark)",
+      "options": {
+        "a": "9",
+        "b": "10",
+        "c": "11",
+        "d": "12"
+      },
+      "answer": "b",
+      "solution": "720/72 = 10 times. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q033",
+      "num": 33,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The units digit of the expression 125813 × 5533703 ×\n4532828 is",
+      "options": {
+        "a": "4",
+        "b": "2",
+        "c": "0",
+        "d": "5"
+      },
+      "answer": "c",
+      "solution": "5 ¥ 7 ¥ 6 = 0. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q034",
+      "num": 34,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Which of the following is not a perfect square?",
+      "options": {
+        "a": "1,00,856",
+        "b": "3,25,137",
+        "c": "9,45,729",
+        "d": "All of these"
+      },
+      "answer": "d",
+      "solution": "All these numbers can be verified to not be perfect squares. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q035",
+      "num": 35,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Which of the following can never be in the ending\nof a perfect square?",
+      "options": {
+        "a": "6",
+        "b": "00",
+        "c": "x 000 where x is a natural number",
+        "d": "1"
+      },
+      "answer": "c",
+      "solution": "A perfect square can never end in an odd number of zeroes. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q036",
+      "num": 36,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The LCM of 5, 8,12, 20 will not be a multiple of",
+      "options": {
+        "a": "3",
+        "b": "9",
+        "c": "8",
+        "d": "5"
+      },
+      "answer": "b",
+      "solution": "It is obvious that the LCM of 5,8,12 and 20 would never be a multiple of 9. At the same time it has to be a multiple of each of 3, 8 and 5. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q037",
+      "num": 37,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of divisors of 720 (including 1 and\n720).",
+      "options": {
+        "a": "25",
+        "b": "28",
+        "c": "29",
+        "d": "30"
+      },
+      "answer": "d",
+      "solution": "720 = 24 ¥ 32 ¥ 51 . Number of factors = 5 ¥ 3 ¥ 2 = 30. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q038",
+      "num": 38,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The LCM of (16 – x2) and (x2 + x – 6) is\n(x – 3) (x + 3) (4 – x2)\n(4 – x2) (x + 3)\n(4 – x2) (x – 3)",
+      "options": {
+        "a": "",
+        "b": "4",
+        "c": "",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "16 – x2 = (4 – x) (4 + x) and x2 + x – 6 = (x + 3) (x – 2) The required LCM = (4 – x)(4 + x) (x + 3) (x – 2). Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q039",
+      "num": 39,
+      "lod": 1,
+      "type": "mcq",
+      "text": "GCD of x2 – 4 and x2 + x – 6 is\n2",
+      "options": {
+        "a": "x + 2",
+        "b": "x – 2",
+        "c": "x – 2",
+        "d": "x2 + 2"
+      },
+      "answer": "b",
+      "solution": "x2 – 4 = (x – 2) (x + 2) and x2 + x – 6 = (x + 3)(x – 2) GCD or HCF of these expressions = (x – 2). Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q040",
+      "num": 40,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The number A is not divisible by 3. Which of the\nfollowing will not be divisible by 3?",
+      "options": {
+        "a": "9 × A",
+        "b": "2 × A",
+        "c": "18 × A",
+        "d": "24 × A"
+      },
+      "answer": "b",
+      "solution": "If A is not divisible by 3, it is obvious that 2A would also not be divisible by 3, as 2A would have no ‘3’ in it."
+    },
+    {
+      "id": "ch01-lod1-q041",
+      "num": 41,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the remainder when the number 9100 is divided\nby 8.",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "0",
+        "d": "4"
+      },
+      "answer": "a",
+      "solution": "9100/8 = (8 + 1)100/8 Æ Since this is of the form (a + 1)n/a, the Remainder = 1. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q042",
+      "num": 42,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the remainder of 21000 when divided by 3.",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "6"
+      },
+      "answer": "a",
+      "solution": "21000 /3 is of the form (a)EVEN POWER/(a + 1). The remainder = 1 in this case as the power is even. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q043",
+      "num": 43,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Decompose the number 20 into two terms such that\ntheir product is the greatest.",
+      "options": {
+        "a": "x1 = x2 = 10",
+        "b": "x1 = 5, x2 = 15",
+        "c": "x1 = 16, x2 = 4",
+        "d": "x1 = 8, x2 = 12"
+      },
+      "answer": "a",
+      "solution": "The condition for the product to be the greatest is if the two terms are equal. Thus, the break up in option (a) would give us the highest product of the two parts. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q044",
+      "num": 44,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of zeroes at the end of 50!\nNumber Systems I.51",
+      "options": {
+        "a": "13",
+        "b": "11",
+        "c": "5",
+        "d": "12"
+      },
+      "answer": "d",
+      "solution": "50/5 =10, 10/5 =2. Thus, the required answer would be 10 + 2 = 12. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q045",
+      "num": 45,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Which of the following can be a number divisible\nby 24?",
+      "options": {
+        "a": "4,32,15,604",
+        "b": "25,61,284",
+        "c": "13,62,480",
+        "d": "All of these"
+      },
+      "answer": "c",
+      "solution": "Checking each of the options it can be seen that the value in option (c)[viz: 1362480]is divisible by 24."
+    },
+    {
+      "id": "ch01-lod1-q046",
+      "num": 46,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For a number to be divisible by 88, it should be",
+      "options": {
+        "a": "Divisible by 22 and 8",
+        "b": "Divisible by 11 and 8",
+        "c": "Divisible by 11 and thrice by 2",
+        "d": "All of these"
+      },
+      "answer": "d",
+      "solution": "Any number divisible by 88, has to be necessarily divisible by 11, 2, 4, 8, 44 and 22. Thus, each of the first three options is correct."
+    },
+    {
+      "id": "ch01-lod1-q047",
+      "num": 47,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of divisors of 10800.",
+      "options": {
+        "a": "57",
+        "b": "60",
+        "c": "72",
+        "d": "64"
+      },
+      "answer": "b",
+      "solution": "10800 = 108 ¥ 100 = 33 ¥ 24 ¥ 52 . The number of divisors would be: (3 + 1) (4 + 1) (2 + 1) = 4 ¥ 5 ¥ 3 = 60 divisors. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q048",
+      "num": 48,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the GCD of the polynomials (x + 3)2 (x – 2)(x\n+ 1)2 and (x + 1)3 (x + 3) (x + 4).\n(x + 3)3 (x + 1)2 (x – 2) (x + 4)\n(x + 3) (x – 2) (x + 1)(x + 4)\n(x + 3) (x + 1)2\n(x + 1) (x + 3)2",
+      "options": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "answer": "c",
+      "solution": "Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q049",
+      "num": 49,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the LCM of (x + 3) (6x2 + 5x + 4) and (2x2 + 7x + 3)\n(x + 3)\n(2x + 1)(x + 3) (3x + 4)\n(4x2 – 1) (x + 3)2 (3x + 4)\n(x + 3)2(6x2 + 5x + 4)(x + 1/2)\n(2x – 1) (x + 3) (3x + 4)",
+      "options": {
+        "a": "",
+        "b": "",
+        "c": "2",
+        "d": ""
+      },
+      "answer": "c",
+      "solution": "For the LCM of polynomials write down the highest powers of all available factors of all the polynomials. The correct answer would be 2(x + 3)2(6x2 + 5x + 4) (x + 1/2)."
+    },
+    {
+      "id": "ch01-lod1-q050",
+      "num": 50,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The product of three consecutive natural numbers,\nthe →rst of which is an even number, is always\ndivisible by",
+      "options": {
+        "a": "12",
+        "b": "24",
+        "c": "6",
+        "d": "All of these"
+      },
+      "answer": "d",
+      "solution": "Three consecutive natural numbers, starting with an even number would always have at least three 2’s as their prime factors and also would have at least I.72 How to Prepare for Quantitative Aptitude for CAT one multiple of 3 in them. Thus, 6, 12 and 24 would each divide the product."
+    },
+    {
+      "id": "ch01-lod1-q051",
+      "num": 51,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Some birds settled on the branches of a tree. First,\nthey sat one to a branch and there was one bird too\nmany. Next they sat two to a branch and there was\none branch too many. How many branches were\nthere?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "answer": "a",
+      "solution": "When the birds sat one on a branch, there was one extra bird. When they sat 2 to a branch one branch was extra. To find the number of branches, go through options. Checking option (a), if there were 3 branches, there would be 4 birds. (this would leave one bird without branch as per the question.) When 4 birds would sit 2 to a branch there would be 1 branch free (as per the question). Hence, the answer (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q052",
+      "num": 52,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The square of a number greater than 1000 that is not\ndivisible by three, when divided by three, leaves a\nremainder of",
+      "options": {
+        "a": "1 always",
+        "b": "2 always",
+        "c": "0",
+        "d": "either 1 or 2"
+      },
+      "answer": "a",
+      "solution": "The number would either be (3n + 1)2 or (3n + 2)2. In the expansion of each of these the only term which would not be divisible by 3 would be the square of 1 and 2 respectively. When divided by 3, both of these give 1 as remainder."
+    },
+    {
+      "id": "ch01-lod1-q053",
+      "num": 53,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The value of the expression (153 ◊ 212)/(352 ◊ 34) is\n- 3ˆ 3\n- 2ˆ 2",
+      "options": {
+        "a": "3",
+        "b": "15",
+        "c": "21",
+        "d": "12"
+      },
+      "answer": "b",
+      "solution": "The given expression can be written as: 53 ¥ 33 ¥ 32 ¥ 72/52 ¥ 72 ¥ 34 = 53 ¥ 35 ¥ 72/52 ¥ 72 ¥ 34 = 15. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q054",
+      "num": 54,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If A = Ê\n,B= Ê\n, C = (0.3)2, D = (–1.2)2\nË 4 ¯\nË 5 ¯\nthen",
+      "options": {
+        "a": "A > B > C > D",
+        "b": "D > A > B > C",
+        "c": "D > B > C > A",
+        "d": "D > C > A > B"
+      },
+      "answer": "c",
+      "solution": "D = 1.44, C = 0.09, B = 0.16, while the value of A is negative. Thus, D > B > C > A is the required order. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q055",
+      "num": 55,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 2 < x < 4 and 1 < y < 3, then →nd the ratio of the\nupper limit for x + y and the lower limit of x – y.",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "The upper limit for x + y = 4 + 3 = 7. The lower limit of x – y = 2 – 3 = –1. Required ratio = 7/–1 = –7. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q056",
+      "num": 56,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The sum of the squares of the digits constituting a\npositive two-digit number is 13. If we subtract 9 from\nthat number, we shall get a number written by the\nsame digits in the reverse order. Find the number.",
+      "options": {
+        "a": "12",
+        "b": "32",
+        "c": "42",
+        "d": "52"
+      },
+      "answer": "b",
+      "solution": "For the sum of squares of digits to be 13, it is obvious that the digits should be 2 and 3. So the number can only be 23 or 32. Further, the number being referred to has to be 32 since the reduction of 9, reverses the digits."
+    },
+    {
+      "id": "ch01-lod1-q057",
+      "num": 57,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The product of a natural number by the number written by the same digits in the reverse order is 2430.\nFind the numbers.",
+      "options": {
+        "a": "54 and 45",
+        "b": "56 and 65",
+        "c": "53 and 35",
+        "d": "85 and 58"
+      },
+      "answer": "a",
+      "solution": "trying the value in the options you get that the product of 54 ¥ 45 = 2430. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q058",
+      "num": 58,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find two natural numbers whose difference is 66 and\nthe least common multiple is 360.",
+      "options": {
+        "a": "120 and 54",
+        "b": "90 and 24",
+        "c": "180 and 114",
+        "d": "130 and 64"
+      },
+      "answer": "b",
+      "solution": "Option (b) can be verified to be true as the LCM of 90 and 24 is indeed 360."
+    },
+    {
+      "id": "ch01-lod1-q059",
+      "num": 59,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the pairs of natural numbers whose least common\nmultiple is 78 and the greatest common divisor is 13.",
+      "options": {
+        "a": "58 and 13 or 16 and 29",
+        "b": "68 and 23 or 36 and 49",
+        "c": "18 and 73 or 56 and 93",
+        "d": "78 and 13 or 26 and 39"
+      },
+      "answer": "d",
+      "solution": "The pairs given in option (d) 78 and 13 and 26 and 39 meet both the conditions of LCM of 78 and HCF of 13. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q060",
+      "num": 60,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find two natural numbers whose sum is 85 and the\nleast common multiple is 102.",
+      "options": {
+        "a": "30 and 55",
+        "b": "17 and 68",
+        "c": "35 and 55",
+        "d": "51 and 34"
+      },
+      "answer": "d",
+      "solution": "Solve using options. Option (d) 51 and 34 satisfies the required conditions."
+    },
+    {
+      "id": "ch01-lod1-q061",
+      "num": 61,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the pairs of natural numbers the difference of\nwhose squares is 55.",
+      "options": {
+        "a": "28 and 27 or 8 and 3",
+        "b": "18 and 17 or 18 and 13",
+        "c": "8 and 27 or 8 and 33",
+        "d": "9 and 18 or 8 and 27"
+      },
+      "answer": "a",
+      "solution": "282 – 272 = 55 and so also 82 – 32 = 55. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q062",
+      "num": 62,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Which of these is greater?\n(0.4)4 or (0.8)3",
+      "options": {
+        "a": "544 or 2112",
+        "b": ""
+      },
+      "answer": "a",
+      "solution": "(a) 2112 = (213)4 Since 213 > 54, 2112 > 544. (b) (0.4)4 = (4/10)4 = 1024/10000 = 0.1024. (0.8)3 = (8/10)3 = 512/1000 = 0.512 Hence, (0.8)3 > (0.4)4."
+    },
+    {
+      "id": "ch01-lod1-q063",
+      "num": 63,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Is it possible for a common fraction whose numerator\nis less than the denominator to be equal to a fraction\nwhose numerator is greater than the denominator?",
+      "options": {
+        "a": "Yes",
+        "b": "No"
+      },
+      "answer": "b",
+      "solution": "This is never possible."
+    },
+    {
+      "id": "ch01-lod1-q064",
+      "num": 64,
+      "lod": 1,
+      "type": "tita",
+      "text": "What digits should be put in place of c in 38c to\nmake it divisible by\n(1) 2\n(2) 3\n(3) 4\n(4) 5\n(5) 6\n(6) 9\n(7) 10",
+      "options": {},
+      "answer": "1",
+      "solution": "1. c = 0, 2, 4, 6 or 8 would make 38c as even and hence divisible by 2."
+    },
+    {
+      "id": "ch01-lod1-q065",
+      "num": 65,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the LCM and HCF of the following numbers:\n(54, 81, 135 and 189), (156, 195) and (1950, 5670\nand 3900)",
+      "options": {},
+      "answer": "LCM",
+      "solution": "Use the standard process to solve for LCM and HCF."
+    },
+    {
+      "id": "ch01-lod1-q066",
+      "num": 66,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The last digit in the expansions of the three digit\nnumber (34x)43 and (34x)44 are 7 and 1, respectively.\nWhat can be said about the value of x?\nDirections for questions 67 and 68: Amitesh buys a\npen, a pencil and an eraser for ` 41. If the least cost of any\nof the three items is ` 12 and it is known that a pen costs\nless than a pencil and an eraser costs more than a pencil,\nanswer the following questions:",
+      "options": {
+        "a": "x = 5",
+        "c": "x = 6",
+        "b": "x = 3",
+        "d": "x = 2"
+      },
+      "answer": "b",
+      "solution": "For 34x43 to be ending in 7, x has to be 3 (as 43 = ­ 4n + 3). Option (b) is correct. Solutions for 67 & 68: The given condition says that Pen<Pencil<Eraser. Also, since the least cost of the three is `12, if we allocate a minimum of 12 to each we use up 36 out of the 41 available. The remaining 5 can be distributed as 0,1,4 or 0,2 and 3 giving possible values of Case 1: 12,13 and 16 or Case 2: 12,14 and 15."
+    },
+    {
+      "id": "ch01-lod1-q067",
+      "num": 67,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the cost of the pen?",
+      "options": {
+        "a": "12",
+        "b": "13",
+        "c": "14",
+        "d": "15"
+      },
+      "answer": "a",
+      "solution": "In both cases, the cost of the pen is 12."
+    },
+    {
+      "id": "ch01-lod1-q068",
+      "num": 68,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If it is known that the eraser’s cost is not divisible\nby 4, the cost of the pencil could be:",
+      "options": {
+        "a": "12",
+        "b": "13",
+        "c": "14",
+        "d": "15"
+      },
+      "answer": "c",
+      "solution": "If the cost of the eraser is not divisible by 4, it means that Case 2 holds true. For this case, the cost of the pencil is 14."
+    },
+    {
+      "id": "ch01-lod1-q069",
+      "num": 69,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A naughty boy Amrit watches an innings of Sachin\nTendulkar and acts according to the number of runs\nhe sees Sachin scoring. The details of these are given\nbelow.\n 1 run\nplace an orange in the basket\n 2 runs place a mango in the basket\n 3 runs place a pear in the basket\n 4 runs Remove a pear and a mango from the basket\n One →ne day, at the start of the match, the basket is\nempty. The sequence of runs scored by Sachin in that\ninnings are given as 11232411234232341121314.\nAt the end of the above innings, how many more\noranges were there compared to mangoes inside the\nbasket? (The Basket was empty initially).",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "answer": "c",
+      "solution": "Amrit would place eight oranges in the basket (as there are eight 1’s). For the mangoes, he would place six mangoes (number of 2’s) and remove four mangoes (number of 4’s) from the basket. Thus, there would be 2 mangoes and 8 oranges in the basket. A total of 8 – 2 = 6 extra oranges in the basket. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q070",
+      "num": 70,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the famous Bel Air Apartments in Ranchi, there\nare three watchmen meant to protect the precious\nfruits in the campus. However, one day a thief got\nin without being noticed and stole some precious\nmangoes. On the way out however, he was confronted\nby the three watchmen, the →rst two of whom asked\nhim to part with 1/3rd of the fruits and one more. The\nlast asked him to part with 1/5th of the mangoes and\n4 more. As a result he had no mangoes left. What\nwas the number of mangoes he had stolen?",
+      "options": {
+        "a": "12",
+        "b": "13",
+        "c": "15",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "Solve using trial and error – Option (c) fits the situation as if we start with 15 mangoes, the following structure would take place: Start with 15 mangoes Æ First watchman takes 1/3rd + 1 more = 5 + 1 = 6 mangoes Æ 9 mangoes left. Second watchman takes Æ 1/3rd + 1 more = 3 + 1 = 4 mangoes Æ 5 mangoes left. Third watchman takes Æ 1/5th + 4 more = 1 + 4 = 5 mangoes Æ 0 mangoes left."
+    },
+    {
+      "id": "ch01-lod1-q071",
+      "num": 71,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A hundred and twenty digit number is formed by\nwriting the →rst x natural numbers in front of each\nother as 12345678910111213… Find the remainder\nwhen this number is divided by 8.",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "2",
+        "d": "0"
+      },
+      "answer": "a",
+      "solution": "The last 3 digits of the number would determine the remainder when it is divided by 8. The number upto the 120th digit would be 1234567891011… 646. 646 divided by 8 gives us a remainder of 6."
+    },
+    {
+      "id": "ch01-lod1-q072",
+      "num": 72,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A test has 80 questions. There is one mark for a\ncorrect answer, while there is a negative penalty of\n–1/2 for a wrong answer and –1/4 for an unattempted\nquestion. What is the number of questions answered\ncorrectly, if the student has scored a net total of 34.5\nmarks?",
+      "options": {
+        "a": "4 5",
+        "b": "48",
+        "c": "5 4",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": "There would be multiple ways of scoring 34.5 marks. Think about this as follows: If he solves 80 and gets all 80 correct, he would end up scoring 80 marks. Number Systems I.73 With every question that would go wrong his score would fall down by: 1.5 marks (he would lose the 1 mark he is gaining and further attract a penalty of 0.5 marks). Also, for every question he does not attempt his score would fall down by: 1.25 marks (he would lose the 1 mark he is gaining and further attract a penalty of 0.25 marks). Thus, his score would drop @ 1.5 and @1.25 marks for every wrong and every unattempted question respectively. Also, to get a total of 34.5 marks overall he has to lose 45.5 marks. There are many possible combinations of non attempts and wrongs through which he can possibly lose 45.5 marks—for example: 17 wrongs (loses 25.5 marks) and 16 non-attempts (loses 20 marks) 12 wrongs (loses 18 marks) and 22 non attempts (loses 27.5 marks) Hence, we cannot answer this question uniquely and the answer is Option (d)."
+    },
+    {
+      "id": "ch01-lod1-q073",
+      "num": 73,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For Question 72, if it is known that he has left 10\nquestions unanswered, the number of correct answers\nare:",
+      "options": {
+        "a": "4 5",
+        "b": "48",
+        "c": "54",
+        "d": "Cannot be determined"
+      },
+      "answer": "b",
+      "solution": "Continuing the thought process for the previous question our thinking would go as follows: 10 questions unanswered Æ loses 12.5 marks To lose another 33 marks he needs to get 22 incorrects. Thus, the number of corrects would be 80 – 10 – 22="
+    },
+    {
+      "id": "ch01-lod1-q074",
+      "num": 74,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Three mangoes, four guavas and →ve watermelons\ncost ` 750. Ten watermelons, six mangoes and 9\nguavas cost `1580. What is the cost of six mangoes,\nten watermelons and 4 guavas?",
+      "options": {
+        "a": "1280",
+        "b": "1180",
+        "c": "1080",
+        "d": "Cannot be determined"
+      },
+      "answer": "b",
+      "solution": "3M + 4G + 5W = 750\b (i) 6M + 9G + 10W = 1580\b (ii) Adding the two equations we get: 9M + 13G + 15W = 2330\b (iii) Dividing this expression by 3 we get: 3M + 4.33G + 5W =776.666\b (iv) (iv) - (i) Æ 0.33 G = 26.666 Æ G = 80 Now, if we look at the equation (i) and multiply it by 2, we get: 6M + 8G + 10W = 1500. If we subtract the cost of 4 guavas from this we would get: 6M + 4G + 10W = 1500 – 320 = 1180 Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q075",
+      "num": 75,
+      "lod": 1,
+      "type": "mcq",
+      "text": "From a number M subtract 1. Take the reciprocal of\nthe result to get the value of ‘N’. Then which of the\nfollowing is necessarily true?\nN",
+      "options": {
+        "a": "0 < MN < 2",
+        "b": "MN > 3",
+        "c": "1< M < 3",
+        "d": "1< MN < 5"
+      },
+      "answer": "a",
+      "solution": "If you try a value of M as 5, N would become ¼. It can be seen that 51/4 (which would be the value of MN) would be around 1.4 and hence, less than 2. If you try for possible values of MN by increasing the value of M, you would get 61/5, 71/6, 81/7, 91/8 and so on. In each of these cases you can clearly see that the value of MN would always be getting consecutively smaller than the previous value. If you tried to go for values of M such that they are lower than 5, you would get the following values for MN: 41/3, 31/2 and the last value would be 21/1 . In this case, we can clearly see that the value of the expression MN is increasing. However, it ends at the value of 2 (for 21/1) and hence that is the maximum value that MN can take. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q076",
+      "num": 76,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The cost of four mangoes, six guavas and sixteen\nwatermelons is ` 500, while the cost of seven magoes, nine guavas and nineteen watermelons is ` 620.\nWhat is the cost of one mango, one guava and one\nwatermelon?",
+      "options": {
+        "a": "120",
+        "b": "40",
+        "c": "150",
+        "d": "Cannot be determined"
+      },
+      "answer": "b",
+      "solution": "(7M + 9G + 19W) – (4M + 6G + 16W) = 120. Hence, 1M + 1G + 1W = 40"
+    },
+    {
+      "id": "ch01-lod1-q077",
+      "num": 77,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For the question above, what is the cost of a mango?",
+      "options": {
+        "a": "20",
+        "b": "14",
+        "c": "15",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": "The cost of a mango cannot be uniquely determined here because we have only 2 equations between 3 variables, and there is no way to eliminate one variable."
+    },
+    {
+      "id": "ch01-lod1-q078",
+      "num": 78,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The following is known about three real numbers,\nx, y and z.\n – 4 < x < 4 , – 8 < y < 2 and – 8 < z < 2. Then\nthe range of values that M = xz/y can take is best\nrepresented by:",
+      "options": {
+        "a": "– • < x < •",
+        "b": "– 16 < x < 8",
+        "c": "– 8 < x < 8",
+        "d": "– 16 < x < 16"
+      },
+      "answer": "a",
+      "solution": "Since the value of y varies between –8 to 2, it is evident that if we take a very small value for y, say 0.0000000000000000000000001, and we take normal integral values for x and z, the expression xz/y would become either positive or negative infinity (depending on how you manage the signs of the numbers x, y and z)."
+    },
+    {
+      "id": "ch01-lod1-q079",
+      "num": 79,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man sold 38 pieces of clothing (combined in the\nform of shirts, trousers and ties). If he sold at least\n11 pieces of each item and he sold more shirts than\ntrousers and more trousers than ties, then the number\nof ties that he must have sold is:",
+      "options": {
+        "a": "Exactly 11",
+        "b": "At least 11",
+        "c": "At least 12",
+        "d": "Cannot be determined"
+      },
+      "answer": "a",
+      "solution": "Ties < Trousers < Shirts. Since each of the three is minimum 11, the total would be a minimum of 33 (for all 3). The remaining 5 need to be distributed amongst ties, trousers and shirts so that they can maintain the inequality Ties < Trousers < Shirts This can be achieved with 11 ties, and the remaining 27 pieces of clothing distributed between trousers and shirts such that the shirts are greater than the trousers. This can be done in at least 2 ways: 12 trousers and 15 shirts; 13 trousers and 14 shirts. If you try to go for 12 ties, the remaining 26 pieces of clothing need to be distributed amongst shirts and trousers such that the shirts are greater than the trousers and both are greater than 12. With only 26 pieces of clothing to be distributed between shirts and trousers this is not possible. Hence, the number of ties has to be exactly 11. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q080",
+      "num": 80,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For Question 79, →nd the number of shirts he must\nhave sold.",
+      "options": {
+        "a": "At least 13",
+        "b": "At least 14",
+        "c": "At least 15",
+        "d": "At most 16."
+      },
+      "answer": "b",
+      "solution": "The number of shirts would be at least 14 as the two distributions possible are: 11, 12, 15 and 11, 13, 14. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q081",
+      "num": 81,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the least number which when divided by 12,\n15, 18 or 20 leaves in each case a remainder 4.\nNumber Systems I.53",
+      "options": {
+        "a": "124",
+        "b": "364",
+        "c": "184",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "The LCM of 12, 15, 18 and 20 is 180. Thus, the least number would be 184. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q082",
+      "num": 82,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the least number by which 2800 should\nbe multiplied so that the product may be a perfect\nsquare?",
+      "options": {
+        "a": "2",
+        "b": "7",
+        "c": "14",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "2800 = 20 ¥ 20 ¥ 7. Thus, we need to multiply or divide with 7 in order to make it a perfect square."
+    },
+    {
+      "id": "ch01-lod1-q083",
+      "num": 83,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The least number of 4 digits which is a perfect square\nis:",
+      "options": {
+        "a": "1064",
+        "b": "1040",
+        "c": "1024",
+        "d": "1012"
+      },
+      "answer": "c",
+      "solution": "The answer is given by 1024 = 32. This can be experimentally verified as 302 = 900, 312 = 961 and 322 = 1024. Hence, 1024 is the required answer. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q084",
+      "num": 84,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The least multiple of 7 which leaves a remainder of\n4 when divided by 6, 9, 15 and 18 is",
+      "options": {
+        "a": "94",
+        "b": "184",
+        "c": "364",
+        "d": "74"
+      },
+      "answer": "c",
+      "solution": "First find the LCM of 6, 9, 15 and 18. Their LCM = 18 ¥ 5 = 90. The series of numbers which would leave a remainder of 4 when divided by 6, 9, 15 and 18 would be given by: LCM + 4; 2 ¥ LCM + 4; 3 ¥ LCM + 4; 4 ¥ LCM + 4; 5 ¥ LCM + 4 and so on . Thus, this series would be: I.74 How to Prepare for Quantitative Aptitude for CAT 94, 184, 274, 364, 454…. The other constraint in the problem is to find a number which also has the property of being divisible by 7. Checking each of the numbers in the series above for their divisibility by 7, we see that 364 is the least value which is also divisible by 7. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q085",
+      "num": 85,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the least 3 digit number that when divided\nby 2, 3, 4, 5 or 6 leaves a remainder of 1?",
+      "options": {
+        "a": "131",
+        "b": "161",
+        "c": "121",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "LCM of 2, 3, 4, 5 and 6 = 6 ¥ 5 ¥ 2 =60 (Refer to the shortcut process for LCM given in the chapter notes). Thus, the series 61, 121, 181 etc would give us a remainder 1 when divided by 2, 3, 4, 5 and 6. The least 3 digit number in this series is 121. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q086",
+      "num": 86,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The highest common factor of 70 and 245 is equal\nto",
+      "options": {
+        "a": "35",
+        "b": "45",
+        "c": "55",
+        "d": "65"
+      },
+      "answer": "a",
+      "solution": "70 = 2 ¥ 5 ¥ 7; 245 = 5 ¥ 7 ¥ 7. HCF = 5 ¥ 7 = 35. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q087",
+      "num": 87,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the least number, which must be subtracted\nfrom 7147 to make it a perfect square.",
+      "options": {
+        "a": "86",
+        "b": "89",
+        "c": "91",
+        "d": "93"
+      },
+      "answer": "c",
+      "solution": "7056 is the closest perfect square below 7147. Hence, 7147 – 7056 = 91 is the required answer. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q088",
+      "num": 88,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the least square number which is divisible by\n6, 8 and 15",
+      "options": {
+        "a": "2500",
+        "b": "3600",
+        "c": "4900",
+        "d": "4500"
+      },
+      "answer": "b",
+      "solution": "The LCM of 6, 8 and 15 is 120 = 23 × 3 × 5. For a number to be a perfect square, all the prime factors should have even powers. Thus, if we multiply the above number by 2 × 3 × 5 = 30, we will get the required smallest perfect square. Thus, the correct answer is 120 × 30 = 3600."
+    },
+    {
+      "id": "ch01-lod1-q089",
+      "num": 89,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the least number by which 30492 must be multiplied or divided so as to make it a perfect square.",
+      "options": {
+        "a": "11",
+        "b": "7",
+        "c": "3",
+        "d": "2"
+      },
+      "answer": "b",
+      "solution": "30492 = 22 ¥ 32 ¥ 71 ¥ 112. For a number to be a perfect square each of the prime factors in the standard form of the number needs to be raised to an even power. Thus, we need to multiply or divide the number by 7 so that we either make it: 22 ¥ 32 ¥ 72 ¥ 112 (if we multiply the number by 7) or We make it: 22 ¥ 32 ¥ 112. (if we divide the number by 7). Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q090",
+      "num": 90,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The greatest 4-digit number exactly divisible by 88\nis",
+      "options": {
+        "a": "8888",
+        "b": "9768",
+        "c": "9944",
+        "d": "9988"
+      },
+      "answer": "c",
+      "solution": "88 ¥ 113 = 9944 is the greatest 4 digit number exactly divisible by 88. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q091",
+      "num": 91,
+      "lod": 1,
+      "type": "mcq",
+      "text": "By how much is three fourth of 116 greater than four\n→fth of 45?",
+      "options": {
+        "a": "31",
+        "b": "41",
+        "c": "46",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "3/4th of 116 = ¾ ¥ 116 = 87 4/5th of 45 = 4/5 ¥ 45 = 36. Required difference = 51. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q092",
+      "num": 92,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 5625 plants are to be arranged in such a way that\nthere are as many rows as there are plants in a row,\nthe number of rows will be:",
+      "options": {
+        "a": "95",
+        "b": "85",
+        "c": "65",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "The correct arrangement would be 75 plants in a row and 75 rows since 5625 is the square of 75."
+    },
+    {
+      "id": "ch01-lod1-q093",
+      "num": 93,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A boy took a seven digit number ending in 9 and\nraised it to an even power greater than 2000. He then\ntook the number 17 and raised it to a power which\nleaves the remainder 1 when divided by 4. If he now\nmultiples both the numbers, what will be the unit’s\ndigit of the number he so obtains?",
+      "options": {
+        "a": "7",
+        "b": "9",
+        "c": "3",
+        "d": "Cannot be determined"
+      },
+      "answer": "a",
+      "solution": "9EVEN POWER ¥ 74n+1 Æ 1 ¥ 7 = 7 as the units digit of the multiplication. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q094",
+      "num": 94,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two friends were discussing their marks in an examination. While doing so they realized that both\nthe numbers had the same prime factors, although\nRaveesh got a score which had two more factors\nthan Harish. If their marks are represented by one\nof the options as given below, which of the following options would correctly represent the number of\nmarks they got?",
+      "options": {
+        "a": "30,60",
+        "b": "20,80",
+        "c": "40,80",
+        "d": "20,60"
+      },
+      "answer": "c",
+      "solution": "It can be seen that for 40 and 80 the number of factors are 8 and 10 respectively. Thus option (c) satisfies the condition."
+    },
+    {
+      "id": "ch01-lod1-q095",
+      "num": 95,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number is such that when divided by 3, 5, 6, or\n7 it leaves the remainder 1, 3, 4, or 5 respectively.\nWhich is the largest number below 4000 that satis→es\nthis property?",
+      "options": {
+        "a": "3358",
+        "b": "3988",
+        "c": "3778",
+        "d": "2938"
+      },
+      "answer": "b",
+      "solution": "In order to solve this question you need to realize that remainders of 1, 3, 4 and 5 in the case of 3, 5, 6 and 7, respectively, means remainders of –2 in each case. In order to find the number which leaves remainder –2 when divided by these numbers you need to first find the LCM of 3, 5, 6 and 7 and subtract 2 from them. Since the LCM is 210, the first such number which satisfies this condition is 208. However, the question has asked us to find the largest such number below 4000. So you need to look at multiples of the LCM and subtract 2. The required number is 3990 – 2 = 3988"
+    },
+    {
+      "id": "ch01-lod1-q096",
+      "num": 96,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number when divided by 2,3 and 4 leaves a remainder of 1. Find the least number (after 1) that\nsatis→es this requirement.",
+      "options": {
+        "a": "25",
+        "b": "13",
+        "c": "37",
+        "d": "17"
+      },
+      "answer": "b",
+      "solution": "The number would be given by the (LCM of 2, 3 and 4) +1 Æ which is 12 + 1 = 13. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q097",
+      "num": 97,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number when divided by 2, 3 and 4 leaves a remainder of 1. Find the second lowest number (not\ncounting 1) that satis→es this requirement.",
+      "options": {
+        "a": "25",
+        "b": "13",
+        "c": "37",
+        "d": "17"
+      },
+      "answer": "a",
+      "solution": "The number would be given by the 2 ¥ (LCM of 2, 3 and 4) +1 Æ which is 24 + 1 = 25. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q098",
+      "num": 98,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number when divided by 2, 3 and 4 leaves a remainder of 1. Find the highest 2 digit number that\nsatis→es this requirement.",
+      "options": {
+        "a": "91",
+        "b": "93",
+        "c": "97",
+        "d": "95"
+      },
+      "answer": "c",
+      "solution": "In order to solve this you need to find the last 2 digit number in the series got by the logic: (LCM of 2, 3, 4) + 1; 2 ¥ (LCM of 2, 3, 4) + 1; 3 ¥ (LCM of 2, 3, 4) + 1 … i.e. you need to find the last 2 digit number in the series: 13, 25, 37, 49…. In order to do so, you can do one of the following: (a) Complete the series by writing the next numbers as: 61, 73, 85, 97 to see that 97 is the required answer. (b) Complete the series by adding a larger multiple of 12 so that you reach closer to 100 faster. Thus, if you have seen 13, 25, 37,,,,, you can straightaway add any multiple of 12 to get a number close to 100 in the series in one jump. Thus, if you were to add 12 ¥ 4 = 48 to 37 you would reach a value of 85 (and because you have added a multiple of 12 to 37 you can be sure that 85 would also be on the same series.) Thus, the thinking in this case would go as follows: 13, 25, 37, …, 85, 97. Hence, the number is 97. If you look at the two processes above- it would seem that there is not much difference between the two, but the real difference would be seen and felt if you would try to solve a question which might have asked you to find the last 3 digit number in the series. (as you would see in the next question). In such a case, getting to the number would be much faster if you use a multiple of 12 to jump ahead on the series rather than writing each number one by one. (c) For the third way of solving this, you can see that all the numbers in the series: 13, 25, 37… are of the form 12n + 1. Thus, you are required to find a number which is of the form 12n + 1 and is just below 100. For this purpose, you can try to first see what is the remainder when 100 is divided by 12. Number Systems I.75 Since the remainder is 4, you can realize that the number 100 is a number of the form 12n + 4. Obviously then, if 100 is of the form 12n + 4, the largest 12n + 1 number just below 100 would occur at a value which would be 3 less than 100. (This occurs because the distance between 12n + 4 and 12n + 1 on the number line is 3.) Thus the answer is 100 – 3 = 97. Hence, Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q099",
+      "num": 99,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number when divided by 2,3 and 4 leaves a remainder of 1. Find the highest 3 digit number that\nsatis→es this requirement.",
+      "options": {
+        "a": "991",
+        "b": "993",
+        "c": "997",
+        "d": "995"
+      },
+      "answer": "c",
+      "solution": "In order to solve this you need to find the last 3 digit number in the series got by the logic: (LCM of 2, 3, 4) +1; 2 ¥ (LCM of 2, 3, 4) +1; 3 ¥ (LCM of 2, 3, 4) + 1 … i.e., you need to find the last 3 digit number in the series: 13, 25, 37, 49…. In order to do so, you can do one of the following: (a) Try to complete the series by writing the next numbers as: 61, 73, 85, 97, 109… However, you can easily see that this process would be unnecessarily too long and hence infeasible to solve this question. (b) Complete the series by adding a larger multiple of 12 so that you reach closer to 1000 faster. This is what we were hinting at in the previous question. If we use a multiple of 12 to write a number which will come later in the series, then we can reach close to 1000 in a few steps. Some of the ways of doing this are shown below: (i) 13, 25, 37, …….. 997 (we add 12 ¥ 80 = 960 to 37 to get to 37 + 960 = 997 which can be seen as the last 3 digit number as the next number would cross 1000). (ii) 13, 25, 37, …… (add 600)….637, …(add 120)… 757,,,,, (add 120),,,, 877, ….(add 120)….997. This is the required answer. (iii) 13, 25, 37, ……(add 120)….157, …(add 120)…277……(add 120)…..397….(add 120)……517…. (add 120)…637……(add 120)…757,,,,, (add 120),,,, 877, ….(add 120)….997. This is the required answer. What you need to notice is that all the processes shown above are correct. So while one of them might be more efficient than the other, as far as you ensure that you add a number which is a multiple of 12(the common difference) you would always be correct. (c) Of course you can also do this by using remainders. For this, you can see that all the numbers in the series: 13, 25, 37….are of the form 12n + 1. Thus, you are required to find a number which is of the form 12n + 1 and is just below 1000. For this purpose, you can try to first see what is the remainder when 1000 is divided by 12. Since the remainder is 4, you can realize that the number 1000 is a number of the form 12n + 4. Obviously then, if 1000 is of the form 12n + 4, the largest 12n + 1 number just below 1000 would occur at a value which would be 3 less than 1000. (This occurs because the distance between 12n + 4 and 12n + 1 on the number line is 3.) Thus the answer is 1000 – 3 = 997. Hence, Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q100",
+      "num": 100,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A frog is sitting on vertex A of a square ABCD. It\nstarts jumping to the immediately adjacent vertex\non either side in random fashion and stops when\nit reaches point C. In how many ways can it reach\npoint C if it makes exactly 7 jumps?",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "5",
+        "d": "0"
+      },
+      "answer": "d",
+      "solution": "The logic of this question is that the frog can never reach point C if it makes an odd number of jumps. Since, the question has asked us to find out in how many ways can the frog reach point C in exactly 7 jumps, the answer would naturally be 0. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q101",
+      "num": 101,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Three bells ring at intervals of 5 seconds, 6 seconds\nand 7 seconds respectively. If they toll together for\nthe →rst time at 9 AM in the morning, after what\ninterval of time will they together ring again for the\n→rst time?",
+      "options": {
+        "a": "After 30 seconds",
+        "b": "After 42 seconds",
+        "c": "After 35 seconds",
+        "d": "After 210 seconds"
+      },
+      "answer": "d",
+      "solution": "They would ring together again after a time interval which would be the LCM of 5, 6 and 7. Since the LCM is 210, option (d) is the correct answer."
+    },
+    {
+      "id": "ch01-lod1-q102",
+      "num": 102,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For the question above, how many times would they\nring, together in the next 1 hour?",
+      "options": {
+        "a": "17",
+        "b": "18",
+        "c": "19",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "Since they would ring together every 210 seconds, their ringing together would happen at time intervals denoted by the following series- 210, 420, 630, 840, 1050, 1260, 1470, 1680, 1890, 2100, 2310, 2520, 2730, 2940, 3150, 3360, 3570 – a total of 17 times. This answer can also be calculated by taking the quotient of 3600/210 = 17. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q103",
+      "num": 103,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A garrison has three kinds of soldiers. There are 66\nsoldiers of the →rst kind, 110 soldiers of the second\nkind and 242 soldiers of the third kind. It is desired\nto be arranging these soldiers in equal rows such that\neach row contains the same number of soldiers and\nthere is only 1 kind of soldier in each row. What is\nthe maximum number of soldiers who can be placed\nin each row?",
+      "options": {
+        "a": "11",
+        "b": "1",
+        "c": "22",
+        "d": "33"
+      },
+      "answer": "c",
+      "solution": "The maximum number of soldiers would be given by the HCF of 66, 110 and 242. The HCF of these numbers can be found to be 22 and hence, option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q104",
+      "num": 104,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For the question above, what are the minimum number of rows that would be required to be formed?",
+      "options": {
+        "a": "11",
+        "b": "19",
+        "c": "18",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "The minimum number of rows would happen when the number of soldiers in each row is the maximum. Since, the HCF is 22 the number of soldiers in each row is 22. Then the total number of rows would be given by: 66/22 + 110/22 + 242/22 = 3 + 5 + 11 = 19 rows. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q105",
+      "num": 105,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A milkman produces three kinds of milk. On a particular day, he has 170 litres, 102 litres and 374 litres\nof the three kinds of milk. He wants to bottle them\nin bottles of equal sizes- so that each of the three\nvarieties of milk would be completed bottled. How\nmany bottle sizes are possible such that the bottle\nsize in terms of litres is an integer?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "34"
+      },
+      "answer": "c",
+      "solution": "The Number of bottle sizes possible would be given by the number of factors of the HCF of 170, 102 and 374. Since, the HCF of these numbers is 34, the bottle sizes that are possible would be the divisors of 34 which are 1 litre, 2 litres, 17 litres and 34 litres, respectively. Thus, a total of 4 bottle sizes are possible. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q106",
+      "num": 106,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For the above question, what is the size of the largest\nbottle which can be used?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "17",
+        "d": "34"
+      },
+      "answer": "d",
+      "solution": "The size of the largest bottle that can be used is obviously 34 litres (HCF of 170, 102 and 374). Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q107",
+      "num": 107,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For Question 105, what are the minimum number of\nbottles that would be required?",
+      "options": {
+        "a": "11",
+        "b": "19",
+        "c": "18",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "The minimum number of bottles required would be: 170/34 + 102/34 + 374/34 = 5 + 3 + 11 = 19. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q108",
+      "num": 108,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of zeroes at the end of 100!",
+      "options": {
+        "a": "20",
+        "b": "23",
+        "c": "24",
+        "d": "25"
+      },
+      "answer": "c",
+      "solution": "The answer would be given by the quotients of 100/5 + 100/25 = 20 + 4 = 24. Option (c) is correct. I.76 How to Prepare for Quantitative Aptitude for CAT The logic of how to think about Questions 108 to 118 has been given in the theory in the chapter. Please have a relook at that in case you have doubts about any of the solutions till Question 118."
+    },
+    {
+      "id": "ch01-lod1-q109",
+      "num": 109,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of zeroes at the end of 122!",
+      "options": {
+        "a": "20",
+        "b": "23",
+        "c": "24",
+        "d": "28"
+      },
+      "answer": "d",
+      "solution": "24 + 4 = 28. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q110",
+      "num": 110,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of zeroes at the end of 1400!",
+      "options": {
+        "a": "347",
+        "b": "336",
+        "c": "349",
+        "d": "348"
+      },
+      "answer": "c",
+      "solution": "280 + 56 + 11 + 2 = 349. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q111",
+      "num": 111,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of zeroes at the end of 380!",
+      "options": {
+        "a": "90",
+        "b": "91",
+        "c": "94",
+        "d": "95"
+      },
+      "answer": "c",
+      "solution": "76 + 15 + 3 = 94. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q112",
+      "num": 112,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of zeroes at the end of 72!",
+      "options": {
+        "a": "14",
+        "b": "15",
+        "c": "16",
+        "d": "17"
+      },
+      "answer": "c",
+      "solution": "14 + 2 = 16. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q113",
+      "num": 113,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The highest power of 3 that completely divides\n40! is",
+      "options": {
+        "a": "18",
+        "b": "15",
+        "c": "16",
+        "d": "17"
+      },
+      "answer": "a",
+      "solution": "13 + 4 + 1 = 18. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q114",
+      "num": 114,
+      "lod": 1,
+      "type": "mcq",
+      "text": "53!/3n is an integer. Find the highest possible value\nof n for this to be true.",
+      "options": {
+        "a": "19",
+        "b": "21",
+        "c": "23",
+        "d": "24"
+      },
+      "answer": "c",
+      "solution": "17 + 5 + 1 = 23. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q115",
+      "num": 115,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The highest power of 7 that completely divides 80! is:",
+      "options": {
+        "a": "12",
+        "b": "13",
+        "c": "14",
+        "d": "15"
+      },
+      "answer": "a",
+      "solution": "11 + 1 = 12. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q116",
+      "num": 116,
+      "lod": 1,
+      "type": "mcq",
+      "text": "115!/7n is an integer. Find the highest possible value\nof n for this to be true.",
+      "options": {
+        "a": "15",
+        "b": "17",
+        "c": "16",
+        "d": "18"
+      },
+      "answer": "d",
+      "solution": "16 + 2 = 18. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q117",
+      "num": 117,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The highest power of 12 that completely divides 122!\nis:\nn",
+      "options": {
+        "a": "54",
+        "b": "56",
+        "c": "57",
+        "d": "58"
+      },
+      "answer": "d",
+      "solution": "The number of 3’s in 122! = 40 +13 + 4 + 1 = 58. The number of 2’s in 122! = 61 + 30 + 15 + 7 + 3 + 1 = 117. The number of 22s is hence equal to the quotient of 117/2 = 58. We have to choose the lower one between 58 and 58. Since both are equal, 58 would be the correct answer. Hence, Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q118",
+      "num": 118,
+      "lod": 1,
+      "type": "mcq",
+      "text": "155!/20 is an integer. Find the highest possible value\nof n for this to be true.",
+      "options": {
+        "a": "77",
+        "b": "38",
+        "c": "75",
+        "d": "37"
+      },
+      "answer": "b",
+      "solution": "The power of 20 which would divide 155! would be given by the power of 5’s which would divide 155! since 20 = 22 ¥ 5 and the number of 22s in any factorial would always be greater than the number of 5s in the factorial. 31 + 6 + 1 = 38. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q119",
+      "num": 119,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The minimum value of x so that x2/1024 is an integer\nis",
+      "options": {
+        "a": "4",
+        "b": "32",
+        "c": "16",
+        "d": "64"
+      },
+      "answer": "b",
+      "solution": "1024 = 210. Hence, x has to be a number with power of 2 greater than or equal to 5. Since, we are asked for the minimum value, it must be 5. Thus, option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q120",
+      "num": 120,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the sum of all 2 digit natural numbers which\nleave a remainder of 3 when divided by 7.",
+      "options": {
+        "a": "650",
+        "b": "663",
+        "c": "676",
+        "d": "702"
+      },
+      "answer": "c",
+      "solution": "The two digit numbers that would leave a remainder of 3 when divided by 7 would be the numbers 10, 17, 24, 31, 38, 45, …94. The sum of these numbers would be given by the formula (number of numbers ¥ average of the numbers) = There are 13 numbers in the series and their average is 52. Thus, the required answer is 13 ¥ 52 = 676. Option (c) is correct. (Note the logic used here is that of sum of an Arithmetic Progression and is explained in details in the next chapter)."
+    },
+    {
+      "id": "ch01-lod1-q121",
+      "num": 121,
+      "lod": 1,
+      "type": "mcq",
+      "text": "How many numbers between 1 and 200 are exactly\ndivisible by exactly two of 3, 9 and 27?",
+      "options": {
+        "a": "14",
+        "b": "15",
+        "c": "16",
+        "d": "17"
+      },
+      "answer": "b",
+      "solution": "All numbers divisible by 27 would also be divisible by 3 and 9. Numbers divisible by 9 but not by 27 would be divisible by 3 and 9 only and need to be counted to give us our answer. The numbers which satisfy the given condition are: 9, 18, 36, 45, 63, 72, 90, 99, 117, 126, 144, 153, 171, 180 and 198. There are 15 such numbers. Alternately, you could also think of this as: Between 1 to 200 there are 22 multiples of 9. But not all these 22 have to be counted as multiples of 27 need to be excluded from the count. There are 7 multiples of 27 between 1 and 200. Thus, the answer would be given by 22 – 7 =15. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q122",
+      "num": 122,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number N is squared to give a value of S. The\nminimum value of N + S would happen when N is",
+      "options": {
+        "a": "–0.3",
+        "b": "–0.5",
+        "c": "–0.7",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "The required minimum happens when we use (–0.5) as the value of N. (–0.5)2 + (–0.5) = 0.25 – 0.5 = –0.25 is the least possible value for the sum of any number and it’s square. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q123",
+      "num": 123,
+      "lod": 1,
+      "type": "mcq",
+      "text": "L = x + y where x and y are prime numbers. Which\nof the following statement/s is/are true?\n(i) The unit’s digit of L cannot be 5\n(ii) The units digit of L cannot be 0.\n(iii) L cannot be odd.",
+      "options": {
+        "a": "All three",
+        "b": "Only iii",
+        "c": "only ii",
+        "d": "None"
+      },
+      "answer": "d",
+      "solution": "Each of the statements are false as we can have the sum of 2 prime numbers ending in 5, 0 and the sum can also be odd. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q124",
+      "num": 124,
+      "lod": 1,
+      "type": "mcq",
+      "text": "XYZ is a 3 digit number such that when we calculate\nthe difference between the two three digit numbers\nXYZ – YXZ the difference is exactly 90. How many\npossible values exist for the digits X and Y?",
+      "options": {
+        "a": "9",
+        "b": "8",
+        "c": "7",
+        "d": "6"
+      },
+      "answer": "b",
+      "solution": "This occurs for values such as: 213 – 123; 324 – 234 etc where it can be seen that the value of X is 1 more than Y. The possible pairs of X and Y are: 2,1;3,2…9,8 – a total of eight pairs of values. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q125",
+      "num": 125,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the sum of all even numbers between 1 and\n100 (both included)?\nNumber Systems I.55",
+      "options": {
+        "a": "2450",
+        "b": "2500",
+        "c": "2600",
+        "d": "2550"
+      },
+      "answer": "d",
+      "solution": "The required sum would be given by the formula n(n + 1) for the first n even numbers. In this case it would be 50 ¥ 51 = 2550. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q126",
+      "num": 126,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The least number which can be added to 763 so that\nit is completely divisible by 57 is",
+      "options": {
+        "a": "35",
+        "b": "22",
+        "c": "15",
+        "d": "25"
+      },
+      "answer": "a",
+      "solution": "763/57 leaves a remainder of 22 when it is divided by 57. Thus, if we were to add 35 to this number the number we obtain would be completely divisible by 57. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q127",
+      "num": 127,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The least number which can be subtracted from 763\nso that it is completely divisible by 57 is",
+      "options": {
+        "a": "35",
+        "b": "22",
+        "c": "15",
+        "d": "25"
+      },
+      "answer": "b",
+      "solution": "Since, 763/57 leaves a remainder of 22, we would need to subtract 22 from 763 in order to get a number divisible by 57. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q128",
+      "num": 128,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The least number which can be added to 8441 so\nthat it is completely divisible by 57 is",
+      "options": {
+        "a": "42",
+        "b": "15",
+        "c": "5",
+        "d": "52"
+      },
+      "answer": "d",
+      "solution": "8441/57 leaves a remainder of 5. Thus, if we were to add 52 to this number the number we obtain would be completely divisible by 57. Option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q129",
+      "num": 129,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The least number which can be subtracted from 8441\nso that it is completely divisible by 57 is",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "answer": "c",
+      "solution": "Since, 8441/57 leaves a remainder of 5. We would need to subtract 5 from 8441 in order to get a number divisible by 57. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q130",
+      "num": 130,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the least number of 5 digits that is exactly\ndivisible by 79",
+      "options": {
+        "a": "10003",
+        "b": "10033",
+        "c": "10043",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "10000 divided by 79 leaves a remainder of 46. Hence, if we were to add 33 to 10000 we would get a number divisible by 79. The correct answer is 10033. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q131",
+      "num": 131,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the maximum number of 5 digits that is exactly\ndivisible by 79.",
+      "options": {
+        "a": "99925",
+        "b": "99935",
+        "c": "99945",
+        "d": "99955"
+      },
+      "answer": "b",
+      "solution": "100000 divided by 79 leaves a remainder of 65. Hence, if we were to subtract 65 from 100000 we would get a number divisible by 79. The correct answer is 99935. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q132",
+      "num": 132,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The nearest integer to 773 which is exactly divisible\nby 12 is:",
+      "options": {
+        "a": "768",
+        "b": "772",
+        "c": "776",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "It can be seen that in the multiples of 12, the number closest to 773 is 768. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q133",
+      "num": 133,
+      "lod": 1,
+      "type": "tita",
+      "text": "A number when divided by 84 leaves a remainder of",
+      "options": {},
+      "answer": "c",
+      "solution": "Since 12 is a divisor of 84, the required remainder would be got by dividing 57 by 12. The required answer is 9. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q057",
+      "num": 57,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the remainder when the same number is\ndivided by 12?",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "Cannot be determined"
+      },
+      "answer": "a",
+      "solution": "trying the value in the options you get that the product of 54 ¥ 45 = 2430. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q134",
+      "num": 134,
+      "lod": 1,
+      "type": "tita",
+      "text": "A number when divided by 84 leaves a remainder of",
+      "options": {},
+      "answer": "d",
+      "solution": "Since 11 does not divide 84, there are many possible answers for this question and hence we cannot determine one unique value for the answer. Option (d) is thus correct."
+    },
+    {
+      "id": "ch01-lod1-q057",
+      "num": 57,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the remainder when the same number is\ndivided by 11?",
+      "options": {
+        "a": "2",
+        "b": "7",
+        "c": "8",
+        "d": "Cannot be determined"
+      },
+      "answer": "a",
+      "solution": "trying the value in the options you get that the product of 54 ¥ 45 = 2430. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q135",
+      "num": 135,
+      "lod": 1,
+      "type": "mcq",
+      "text": "511 and 667 when divided by the same number,\nleave the same remainder. How many numbers can\nbe used as the divisor in order to make this occur?",
+      "options": {
+        "a": "14",
+        "b": "12",
+        "c": "10",
+        "d": "8"
+      },
+      "answer": "b",
+      "solution": "The numbers that can do so are going to be factors of the difference between 511 and 667 i.e. 156. The factors of 156 are 1,2,3,4,6, 12,13, 26, 39, 52,78,156. There are 12 such numbers. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q136",
+      "num": 136,
+      "lod": 1,
+      "type": "mcq",
+      "text": "How many numbers between 200 and 400 are divisible by 13?",
+      "options": {
+        "a": "14",
+        "b": "15",
+        "c": "16",
+        "d": "17"
+      },
+      "answer": "b",
+      "solution": "The multiples of 13 between 200 and 400 would be represented by the series: 208, 221, 234, 247, 260, 273, 286, 299, 312, 325, 338, 351, 364, 377 and 390 Number Systems I.77 There are a total of 15 numbers in the above series. Option (b) is correct. Note: The above series is an Arithmetic Progression. The process of finding the number of terms in an Arithmetic Progression are defined in the chapter on Progressions."
+    },
+    {
+      "id": "ch01-lod1-q137",
+      "num": 137,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A boy was trying to →nd 5/8th of a number. Unfortunately, he found out 8/5th of the number and\nrealized that the difference between the answer he\ngot and the correct answer is 39. What was the\nnumber?",
+      "options": {
+        "a": "38",
+        "b": "39",
+        "c": "40",
+        "d": "52"
+      },
+      "answer": "c",
+      "solution": "8n/5 – 5n/8 = 39n/40 = 39. Solve for n to get the value of n = 40. Option (c) is correct."
+    },
+    {
+      "id": "ch01-lod1-q138",
+      "num": 138,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The sum of two numbers is equal to thrice their\ndifference. If the smaller of the numbers is 10 →nd\nthe other number.",
+      "options": {
+        "a": "15",
+        "b": "20",
+        "c": "40",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "x + y = 3(x – y) Æ 2x = 4y. If we take y as 10, we would get the value of x as 20. Option (b) is correct."
+    },
+    {
+      "id": "ch01-lod1-q139",
+      "num": 139,
+      "lod": 1,
+      "type": "mcq",
+      "text": "411 + 412 + 413 + 414 + 415 is divisible by which of the\nfollowing?",
+      "options": {
+        "a": "11",
+        "b": "31",
+        "c": "341",
+        "d": "All of the above"
+      },
+      "answer": "d",
+      "solution": "411 + 412 + 413 + 414 + 415 = 411 (1 + 41 + 42 + 43 + 44) = 411 ¥ 341. The factors of 341 are: 1, 11, 31 and 341. Thus, we can see that the values in each of the three options would divide the expression. 411 + 412 + 413 + 414 + 415 . Thus, option (d) is correct."
+    },
+    {
+      "id": "ch01-lod1-q140",
+      "num": 140,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The product of two numbers is 7168 and their HCF\nis 16. How many pairs of numbers are possible such\nthat the above conditions are satis→ed?",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "6"
+      },
+      "answer": "a",
+      "solution": "Since the numbers have their HCF as 16,both the numbers have to be multiples of 16 (i.e. 24). 7168 = 210 ¥ 71 In order to visualise the required possible pairs of numbers we need to look at the prime factors of 7168 in the following fashion: 7168 = 210 ¥ 71 = (24 ¥ 24) ¥ 22 ¥ 71 = (16 ¥ 16) ¥ 2 ¥ 2 ¥ 7 It is then a matter of distributing the 2 extra twos and the 1 extra seven in 22 ¥ 71 between the two numbers given by 16 and 16 inside the bracket. The possible pairs are: 32 ¥ 224; 64 ¥ 112; 16 ¥ 448. Thus there are 3 distinct pairs of numbers which are multiples of 16 and whose product is 7168. However, out of these the pair 32 ¥ 224 has it’s HCF as 32 and hence does not satisfy the given conditions. Thus there are two pairs of numbers that would satisfy the condition that their HCF is 16 and their product is 7168. Option (a) is correct."
+    },
+    {
+      "id": "ch01-lod1-q141",
+      "num": 141,
+      "lod": 1,
+      "type": "tita",
+      "text": "When 876 is added to another 3-digit number 2P3,\nwe get a four digit number 10Q9 & 10Q9 is divisible\nby 11 then the value of P- Q is",
+      "options": {},
+      "answer": "7",
+      "solution": "876 + 2P3 = 10Q9, It is clear that there is no carry over obtained in the addition of the unit’s digit, while the sum of hundredth digit of the numbers is same as the hundredths digit of the sum. It means 7 + P =Q. 10Q9 is divisible by 11, so (9 + 0) − (1 + Q) = 11n, where n = 0, 1, 2, 3, 4, ….. Q = 8 & P = Q − 7 = 1. Therefore, P – Q =7"
+    },
+    {
+      "id": "ch01-lod1-q142",
+      "num": 142,
+      "lod": 1,
+      "type": "tita",
+      "text": "There is a 22- digit number which consists of only\none digit – from 1, 2, 3, 4, 5 or 6, e.g. 11111111…..11,\n2222222….22, …..6666…..66. Such a number is always divisible by",
+      "options": {},
+      "answer": "11",
+      "solution": "Since a number is divisible by 11 if the difference of the sum of digits in the odd places and sum of digits in the even places is 0 or divisible by 11. In the 22 digit number as described above, it is evident that there are 11 digits in the even place and 11 digits in the odd place. Since all the digits are equal, it means that the difference between these digits would be 0. Hence, the given numbers would be always divisible by 11. 3 2"
+    },
+    {
+      "id": "ch01-lod1-q143",
+      "num": 143,
+      "lod": 1,
+      "type": "tita",
+      "text": "The Product of the factors of 72 is",
+      "options": {},
+      "answer": "726",
+      "solution": "72 = 2 ¥ 3 Total number of factors = (3 + 1)(2 + 1) = 12. This would mean that there are 6 pairs of factors, each"
+    },
+    {
+      "id": "ch01-lod1-q144",
+      "num": 144,
+      "lod": 1,
+      "type": "tita",
+      "text": "The number of ways of expressing 72 as a product\nof 2 factors is",
+      "options": {},
+      "answer": "6",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q145",
+      "num": 145,
+      "lod": 1,
+      "type": "tita",
+      "text": "In how many ways can 144 be expressed as a product\nof two distinct factors?",
+      "options": {},
+      "answer": "7",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q146",
+      "num": 146,
+      "lod": 1,
+      "type": "tita",
+      "text": "How many numbers lie between 100 and 1000 which\nwhen divided by 7 leaves remainder 3 and when\ndivided by 11 leaves remainder 4?",
+      "options": {},
+      "answer": "12",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q147",
+      "num": 147,
+      "lod": 1,
+      "type": "tita",
+      "text": "HCF of 315 - 1 & 325 - 1 is",
+      "options": {},
+      "answer": "242",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q148",
+      "num": 148,
+      "lod": 1,
+      "type": "tita",
+      "text": "The HCF of two natural numbers a, b is 10 & LCM\nof these numbers is 45. If a = 15 then b = ?",
+      "options": {},
+      "answer": "Cannot",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q149",
+      "num": 149,
+      "lod": 1,
+      "type": "mcq",
+      "text": "LCM and HCF of 10! and 15! are respectively\n18116!\nis\n19",
+      "options": {
+        "a": "5! & 25!",
+        "b": "5! & 30!",
+        "c": "10! & 30!",
+        "d": "15! & 10!"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q151",
+      "num": 151,
+      "lod": 1,
+      "type": "tita",
+      "text": "Given that 7x + y is a prime number for natural\nnumbers x & y, then what is the minimum value of\n(x + y)?",
+      "options": {},
+      "answer": "5",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q152",
+      "num": 152,
+      "lod": 1,
+      "type": "tita",
+      "text": "If n is an odd digit then unit’s digit of the product\n171n × 1414 × 729 × 2015 will be",
+      "options": {},
+      "answer": "0",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q153",
+      "num": 153,
+      "lod": 1,
+      "type": "tita",
+      "text": "If unit’s digit of the product 171n × 1413 × 729 × 2015\nis 0 then the maximum number of values that ‘n’ may\ntake?",
+      "options": {},
+      "answer": "5",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q154",
+      "num": 154,
+      "lod": 1,
+      "type": "tita",
+      "text": "The →rst two, 2 digit numbers that divide (2112346 - 1)\nare?",
+      "options": {},
+      "answer": "10",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q155",
+      "num": 155,
+      "lod": 1,
+      "type": "tita",
+      "text": "What is the unit’s digit of 1! + 2! + 3! + 4!+ 5! +\n6! + 7! + …..+ 1000!.",
+      "options": {},
+      "answer": "3",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q150",
+      "num": 150,
+      "lod": 1,
+      "type": "tita",
+      "text": "The remainder of\n35!",
+      "options": {},
+      "answer": "1",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q156",
+      "num": 156,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the unit’s digit of (35!)\n6!",
+      "options": {},
+      "answer": "0",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q157",
+      "num": 157,
+      "lod": 1,
+      "type": "tita",
+      "text": "How many zeroes are there at the end of (34!)\n31!",
+      "options": {},
+      "answer": "5040",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q158",
+      "num": 158,
+      "lod": 1,
+      "type": "tita",
+      "text": "The unit’s digit of 751! is",
+      "options": {},
+      "answer": "1",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q159",
+      "num": 159,
+      "lod": 1,
+      "type": "tita",
+      "text": "If N2 = 1234567654321, then N = ?",
+      "options": {},
+      "answer": "1111111",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q160",
+      "num": 160,
+      "lod": 1,
+      "type": "tita",
+      "text": "The LCM of two numbers is 421. What is the HCF\nof these two numbers?",
+      "options": {},
+      "answer": "1",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q161",
+      "num": 161,
+      "lod": 1,
+      "type": "tita",
+      "text": "Which of the following is greatest\n350 , 440 ,530 , 620",
+      "options": {},
+      "answer": "440",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q162",
+      "num": 162,
+      "lod": 1,
+      "type": "tita",
+      "text": "What is the value of M*N if M39048458N is divisible by 8 and 11, where M and N are single digit\nintegers?",
+      "options": {},
+      "answer": "24",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q163",
+      "num": 163,
+      "lod": 1,
+      "type": "tita",
+      "text": "How many times does the digit 4 appear when we\ncount from 21 to 500?",
+      "options": {},
+      "answer": "198",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q164",
+      "num": 164,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the remainder when the sum of 15 consecutive\nnatural numbers starting from 3671 is divided by\n3670.",
+      "options": {},
+      "answer": "120",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q165",
+      "num": 165,
+      "lod": 1,
+      "type": "tita",
+      "text": "X is a number formed by writing 9 for 99 times.\nWhat will be the remainder of this number when\ndivided by 7?\n241",
+      "options": {},
+      "answer": "5",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q166",
+      "num": 166,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the remainder of\n.\n41",
+      "options": {},
+      "answer": "2",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q167",
+      "num": 167,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the remainder when 40! is divided by 41.\nSpace for Rough Work",
+      "options": {},
+      "answer": "40",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q168",
+      "num": 168,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the remainder when x 4 + 3 x3 + 4 is divided by\nx + 3.",
+      "options": {},
+      "answer": "4",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q169",
+      "num": 169,
+      "lod": 1,
+      "type": "tita",
+      "text": "If X is a prime number then for how many values\nof X, X2 + 7 is also a prime number.",
+      "options": {},
+      "answer": "1",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q170",
+      "num": 170,
+      "lod": 1,
+      "type": "tita",
+      "text": "If X = 993 - 633 - 363 then the number of factors\nof X is",
+      "options": {},
+      "answer": "96",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q171",
+      "num": 171,
+      "lod": 1,
+      "type": "tita",
+      "text": "If x is a natural number & 4 < x < 50, then the largest n, such that n! would always divide: x(x2 - 1)\n(x2 - 4)(x2 - 9)(x + 4) is?",
+      "options": {},
+      "answer": "8",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q172",
+      "num": 172,
+      "lod": 1,
+      "type": "tita",
+      "text": "If X is a natural number and X! ends with Y zeros\nthen number of zeros at the end of (5X) is",
+      "options": {},
+      "answer": "X",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q173",
+      "num": 173,
+      "lod": 1,
+      "type": "tita",
+      "text": "There are 90 questions in a test. Each correct answer\nfetches 1 mark, each wrong answer & unanswered\nquestion attract a penalty of ¼ marks & 1/8 marks\nrespectively. Bilbo scored 23 marks in the test. What\nis the minimum possible number of the questions\nwrongly answered by him?\nn\n2n\n2",
+      "options": {},
+      "answer": "5",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q174",
+      "num": 174,
+      "lod": 1,
+      "type": "tita",
+      "text": "If A = n 2 n , B = n n , C = (n 2 n ) n, D = (n n ) n when n\nis a natural number & n π 1.\n Then arrange them in terms of their values.",
+      "options": {},
+      "answer": "B",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q175",
+      "num": 175,
+      "lod": 1,
+      "type": "tita",
+      "text": "How many numbers in the form of 2n - 1, which are\nless than 5000 are prime?\nNumber Systems I.57\nLevel of Dif→culty (II)",
+      "options": {},
+      "answer": "4",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The arithmetic mean of two numbers is smaller by\n24 than the larger of the two numbers and the GM\nof the same numbers exceeds by 12 the smaller of\nthe numbers. Find the numbers.",
+      "options": {
+        "a": "6 and 54",
+        "b": "8 and 56",
+        "c": "12 and 60",
+        "d": "7 and 55"
+      },
+      "answer": "a",
+      "solution": "The units digit in this case would obviously be ‘0’ because the given expression has a pair of 2 and 5 in it’s prime factors."
+    },
+    {
+      "id": "ch01-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of numbers between 200 and 300,\nboth included, which are not divisible by 2, 3, 4\nand 5.",
+      "options": {
+        "a": "27",
+        "b": "26",
+        "c": "25",
+        "d": "28"
+      },
+      "answer": "Æ",
+      "solution": "c = 1, 4 or 7 are possible values to make 38c divisible by 3."
+    },
+    {
+      "id": "ch01-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "tita",
+      "text": "Given x and n are integers, (15n3 + 6n2 + 5n + x)/",
+      "options": {},
+      "answer": "Æ",
+      "solution": "c = 0, 4 or 8 would make the number end in 80, 84 or 88 and would hence be divisible by 4."
+    },
+    {
+      "id": "ch01-lod2-q004",
+      "num": 4,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The unit digit in the expression 36234*33512*39180 –\n5429*25123*31512 will be",
+      "options": {
+        "a": "8",
+        "b": "0",
+        "c": "6",
+        "d": "5"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q005",
+      "num": 5,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The difference of 1025 – 7 and 1024 + x is divisible\nby 3 for x = ?",
+      "options": {
+        "a": "3",
+        "b": "2",
+        "c": "4",
+        "d": "6"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q006",
+      "num": 6,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the value of x in x + 2 x + 2 x + 2 3 x = x.\n(e) 9",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "6",
+        "d": "12"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q007",
+      "num": 7,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If a number is multiplied by 22 and the same number\nis added to it, then we get a number that is half the\nsquare of that number. Find the number",
+      "options": {
+        "a": "45",
+        "b": "46",
+        "c": "47",
+        "d": "data insuf→cient"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q008",
+      "num": 8,
+      "lod": 2,
+      "type": "mcq",
+      "text": "1255/311 + 848/1618 will give the digit at units place\nas",
+      "options": {
+        "a": "4",
+        "b": "6",
+        "c": "8",
+        "d": "0"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q009",
+      "num": 9,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The mean of 1, 2, 22…. 231 lies in between\n26\n27",
+      "options": {
+        "a": "224 to 225",
+        "b": "225 to 226",
+        "c": "2 to 2",
+        "d": "229 to 230"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q010",
+      "num": 10,
+      "lod": 2,
+      "type": "mcq",
+      "text": "xy is a number that is divided by ab where xy < ab\nand gives a result 0.xyxyxy… then ab equals",
+      "options": {
+        "a": "11",
+        "b": "33",
+        "c": "99",
+        "d": "66"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q011",
+      "num": 11,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A number xy is multiplied by another number ab and\nthe result comes as pqr, where r = 2y, q = 2(x + y)\nand p = 2x where x, y < 5, q π 0. The value of ab\nmay be",
+      "options": {
+        "a": "11",
+        "b": "13",
+        "c": "31",
+        "d": "22"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q012",
+      "num": 12,
+      "lod": 2,
+      "type": "mcq",
+      "text": "[x] denotes the greatest integer value just below x and\n{x} its fractional value. The sum of [x]3 and {x}2 is\n–7.91. Find x.",
+      "options": {
+        "a": "–2.03",
+        "b": "–1.97",
+        "c": "–2.97",
+        "d": "–1.7"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q014",
+      "num": 14,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If AB + XY = 1XP, where A π 0 and all the letters\nsignify different digits from 0 to 9, then the value\nof A is\nDirections for questions 15 and 16: Find the possible\nintegral values of x.",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "9",
+        "d": "8"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q015",
+      "num": 15,
+      "lod": 2,
+      "type": "mcq",
+      "text": "|x – 3| + 2|x + 1| = 4",
+      "options": {
+        "a": "1",
+        "b": "–1",
+        "c": "3",
+        "d": "2"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q016",
+      "num": 16,
+      "lod": 2,
+      "type": "mcq",
+      "text": "x2 + |x – 1| = 1",
+      "options": {
+        "a": "1",
+        "b": "–1",
+        "c": "0",
+        "d": "1 or 0"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q017",
+      "num": 17,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If 4n + 1 + x and 42n – x are divisible by 5, n being\nan even integer, →nd the least value of x.",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "0"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q018",
+      "num": 18,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If the sum of the numbers (a25)2 and a3 is divisible\nby 9, then which of the following may be a value\nfor a ?",
+      "options": {
+        "a": "1",
+        "b": "7",
+        "c": "9",
+        "d": "There is no value"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q019",
+      "num": 19,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If | x – 4 | + | y – 4 | = 4, then how many integer\nvalues can the set (x, y) have?",
+      "options": {
+        "a": "In→nite",
+        "b": "5",
+        "c": "16",
+        "d": "9"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q020",
+      "num": 20,
+      "lod": 2,
+      "type": "mcq",
+      "text": "[332/50] gives a remainder and {.} denotes the fractional part of that. The fractional part is of the form\n(0 ◊ bx). The value of x could be",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q021",
+      "num": 21,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The sum of two numbers is 20 and their geometric\nmean is 20% lower than their arithmetic mean. Find\nthe ratio of the numbers.",
+      "options": {
+        "a": "4 : 1",
+        "b": "9 : 1",
+        "c": "1 : 1",
+        "d": "17 : 3"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q022",
+      "num": 22,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The highest power on 990 that will exactly divide\n1090! is",
+      "options": {
+        "a": "101",
+        "b": "100",
+        "c": "108",
+        "d": "109"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q023",
+      "num": 23,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If 146! is divisible by 6n, then →nd the maximum\nvalue of n.",
+      "options": {
+        "a": "74",
+        "b": "70",
+        "c": "76",
+        "d": "75"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q024",
+      "num": 24,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The last two digits in the multiplication of 35 ◊ 34 ◊ 33\n◊ 32 ◊ 31 ◊ 30 ◊ 29 ◊ 28 ◊ 27 ◊ 26 is",
+      "options": {
+        "a": "00",
+        "b": "40",
+        "c": "30",
+        "d": "10"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q025",
+      "num": 25,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The expression 333555 + 555333 is divisible by",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "37",
+        "d": "All of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q026",
+      "num": 26,
+      "lod": 2,
+      "type": "mcq",
+      "text": "[x] denotes the greatest integer value just below x\nand {x} its fractional value. The sum of [x]2 and {x}1\nis 25.16. Find x.\n(b)",
+      "options": {
+        "a": "and",
+        "b": "–4.84",
+        "c": "Both",
+        "d": "4.84"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q027",
+      "num": 27,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If we add the square of the digit in the tens place\nof a positive two-digit number to the product of the\ndigits of that number, we shall get 52, and if we\nadd the square of the digit in the units place to the\nsame product of the digits, we shall get 117. Find\nthe two-digit number.",
+      "options": {
+        "a": "18",
+        "b": "39",
+        "c": "49",
+        "d": "28"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q028",
+      "num": 28,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find two numbers such that their sum, their product\nand the differences of their squares are equal.\nÊ3+ 2ˆ\nÊ1 + 2 ˆ\nÊ 3 + 3ˆ\nand\nor Á\nand Á\n˜\n˜\n2\n2\nË 2 ˜¯\nË\n¯\nË\n¯\nÊ1 + 2 ˆ\nÁË 2 ˜¯\nÊ1 + 7 ˆ\nÊ3+ 6ˆ\nÊ3+ 7ˆ\nor Á\nand\nand Á\n˜\n˜\n2\nË\n¯\n2\nË 2 ˜¯\nË\n¯\nÊ1 - 6 ˆ\nÁË 2 ˜¯\nÊ 3 - 5ˆ\nÊ1 - 5ˆ\nÊ 3 + 5ˆ\nand Á\nor Á\nand\n˜\n˜\nË 2 ¯\nË 2 ¯\nË 2 ˜¯\nÊ1 + 5ˆ\nÁË 2 ˜¯",
+      "options": {
+        "a": "Á",
+        "b": "Á",
+        "c": "Á",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q029",
+      "num": 29,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The sum of the digits of a three-digit number is 17,\nand the sum of the squares of its digits is 109. If\nwe subtract 495 from that number, we shall get a\nnumber consisting of the same digits written in the\nreverse order. Find the number.",
+      "options": {
+        "a": "773",
+        "b": "863",
+        "c": "6 8 3",
+        "d": "944"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q030",
+      "num": 30,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the number of zeros in the product: 11 × 22 ×\n33 × 44 × ...... 9898 × 9999 × 100100",
+      "options": {
+        "a": "1200",
+        "b": "1300",
+        "c": "1050",
+        "d": "1225"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q031",
+      "num": 31,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the pairs of natural numbers whose greatest\ncommon divisor is 5 and the least common multiple\nis 105.",
+      "options": {
+        "a": "5 and 105 or 15 and 35",
+        "b": "6 and 105 or 16 and 35",
+        "c": "5 and 15 or 15 and 135",
+        "d": "5 and 20 or 15 and 35"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q032",
+      "num": 32,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The denominator of an irreducible fraction is greater\nthan the numerator by 2. If we reduce the numerator\nof the reciprocal fraction by 3 and subtract the given\nfraction from the resulting one, we get 1/15. Find\nthe given fraction.\n2\n3\n(a)\n5\n5\n7\n(c)\n9",
+      "options": {
+        "b": "4",
+        "d": "7"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q033",
+      "num": 33,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A two-digit number exceeds by 19 the sum of the\nsquares of its digits and by 44 the double product\nof its digits. Find the number.",
+      "options": {
+        "a": "72",
+        "b": "62",
+        "c": "22",
+        "d": "12"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q034",
+      "num": 34,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The sum of the squares of the digits constituting a\ntwo-digit positive number is 2.5 times as large as\nthe sum of its digits and is larger by unity than the\ntrebled product of its digits. Find the number.",
+      "options": {
+        "a": "13 and 31",
+        "b": "12 and 21",
+        "c": "22 and 33",
+        "d": "14 and 41"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q035",
+      "num": 35,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The units digit of a two-digit number is greater than\nits tens digit by 2, and the product of that number\nby the sum of its digits is 144. Find the number.",
+      "options": {
+        "a": "14",
+        "b": "24",
+        "c": "46",
+        "d": "35"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q036",
+      "num": 36,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the number of zeroes in the product 5 × 10 ×\n25 × 40 × 50 × 55 × 65 × 125 × 80.",
+      "options": {
+        "a": "8",
+        "b": "9",
+        "c": "12",
+        "d": "13"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q037",
+      "num": 37,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The highest power of 45 that will exactly divide 123!\nis",
+      "options": {
+        "a": "28",
+        "b": "30",
+        "c": "31",
+        "d": "59"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q038",
+      "num": 38,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Three numbers are such that the second is as much\nlesser than the third as the →rst is lesser than the\nsecond. If the product of the two smaller numbers\nNumber Systems I.59\nis 85 and the product of two larger numbers is 115\n→nd the middle number.",
+      "options": {
+        "a": "9",
+        "b": "8",
+        "c": "12",
+        "d": "10"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q039",
+      "num": 39,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the smallest natural number n such that n! is\ndivisible by 990.\nx y = xy is true only when",
+      "options": {
+        "a": "3",
+        "b": "5",
+        "c": "11",
+        "d": "12"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q040",
+      "num": 40,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Directions for questions 41 to 60: Read the instructions below and solve the questions based on this.\nIn an examination situation, always solve the following\ntype of questions by substituting the given options, to arrive\nat the solution.\nHowever, as you can see, there are no options given in\nthe questions here since these are meant to be an exercise in\nequation writing (which I believe is a primary skill required\nto do well in aptitude exams testing mathematical aptitude).\nIndeed, if these questions had options for them, they would\nbe rated as LOD 1 questions. But since the option-based\nsolution technique is removed here, I have placed these in\nthe LOD 2 category.",
+      "options": {
+        "a": "x > 0, y > 0",
+        "b": "x > 0 and y < 0",
+        "c": "x < 0 and y > 0",
+        "d": "All of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q041",
+      "num": 41,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find the two-digit number that meets the following\ncriteria. If the number in the units place exceeds, the\nnumber in its tens by 2 and the product of the required\nnumber with the sum of its digits is equal to 144.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q042",
+      "num": 42,
+      "lod": 2,
+      "type": "tita",
+      "text": "The product of the digits of a two-digit number is\ntwice as large as the sum of its digits. If we subtract\n27 from the required number, we get a number consisting of the same digits written in the reverse order.\nFind the number?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q043",
+      "num": 43,
+      "lod": 2,
+      "type": "tita",
+      "text": "The product of the digits of a two-digit number is\none-third that number. If we add 18 to the required\nnumber, we get a number consisting of the same\ndigits written in the reverse order. Find the number?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q044",
+      "num": 44,
+      "lod": 2,
+      "type": "tita",
+      "text": "The sum of the squares of the digits of a two-digit\nnumber is 13. If we subtract 9 from that number, we\nget a number consisting of the same digits written\nin the reverse order. Find the number?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q045",
+      "num": 45,
+      "lod": 2,
+      "type": "tita",
+      "text": "A two-digit number is thrice as large as the sum of\nits digits, and the square of that sum is equal to the\ntrebled required number. Find the number?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q046",
+      "num": 46,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find a two-digit number that exceeds by 12 the sum\nof the squares of its digits and by 16 the doubled\nproduct of its digits.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q047",
+      "num": 47,
+      "lod": 2,
+      "type": "tita",
+      "text": "The sum of the squares of the digits constituting\na two-digit number is 10, and the product of the\nrequired number by the number consisting of the\nsame digits written in the reverse order is 403. Find\nthe 2 numbers that satisfy these conditions?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q048",
+      "num": 48,
+      "lod": 2,
+      "type": "tita",
+      "text": "If we divide a two-digit number by the sum of its\ndigits, we get 4 as a quotient and 3 as a remainder.\nNow, if we divide that two-digit number by the product of its digits, we get 3 as a quotient and 5 as a\nremainder. Find the two-digit number.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q049",
+      "num": 49,
+      "lod": 2,
+      "type": "tita",
+      "text": "There is a natural number that becomes equal to the\nsquare of a natural number when 100 is added to it,\nand to the square of another natural number when\n169 is added to it. Find the number.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q050",
+      "num": 50,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find two natural numbers whose sum is 85 and\nwhose least common multiple is 102.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q051",
+      "num": 51,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find two- three -digit numbers whose sum is a multiple of 504 and the quotient is a multiple of 6.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q052",
+      "num": 52,
+      "lod": 2,
+      "type": "tita",
+      "text": "The difference between the digits in a two-digit number is equal to 2, and the sum of the squares of the\nsame digits is 52. Find all the possible numbers?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q053",
+      "num": 53,
+      "lod": 2,
+      "type": "tita",
+      "text": "If we divide a given two-digit number by the product of\nits digits, we obtain 3 as a quotient and 9 as a remainder. If we subtract the product of the digits constituting\nthe number, from the square of the sum of its digits,\nwe obtain the given number. Find the number.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q054",
+      "num": 54,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find the three-digit number if it is known that the\nsum of its digits is 17 and the sum of the squares\nof its digits is 109. If we subtract 495 from this\nnumber, we obtain a number consisting of the same\ndigits written in reverse order.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q055",
+      "num": 55,
+      "lod": 2,
+      "type": "tita",
+      "text": "The sum of the cubes of the digits constituting a\ntwo-digit number is 243 and the product of the sum\nof its digits by the product of its digits is 162. Find\nthe two two-digit numbers?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q056",
+      "num": 56,
+      "lod": 2,
+      "type": "tita",
+      "text": "The difference between two numbers is 16. What\ncan be said about the total numbers divisible by 7\nthat can lie in between these two numbers.",
+      "options": {},
+      "answer": "may",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q057",
+      "num": 57,
+      "lod": 2,
+      "type": "tita",
+      "text": "Arrange the following in descending order:\n1114, 110.109.108.107, 109.110.112.113",
+      "options": {},
+      "answer": "1114",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q058",
+      "num": 58,
+      "lod": 2,
+      "type": "tita",
+      "text": "If 3 £ x £ 5 and 4 £ y £ 7. Find the greatest value\nof xy and the least value of x/y.",
+      "options": {},
+      "answer": "greatest",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q059",
+      "num": 59,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Which of these is greater?",
+      "options": {
+        "a": "200300 or 300200 or 400150",
+        "b": "5100 and 2200",
+        "c": "1020 and 4010"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q060",
+      "num": 60,
+      "lod": 2,
+      "type": "tita",
+      "text": "The sum of the two numbers is equal to 15 and their\narithmetic mean is 25 per cent greater than their\ngeometric mean. Find the numbers.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q061",
+      "num": 61,
+      "lod": 2,
+      "type": "mcq",
+      "text": "De→ne a number K such that it is the sum of the\nsquares of the →rst M natural numbers.(i.e. K = 12\n+ 22 +….+ M2) where M < 55. How many values of\nM exist such that K is divisible by 4?",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q062",
+      "num": 62,
+      "lod": 2,
+      "type": "mcq",
+      "text": "M is a two digit number which has the property that:\n the product of factorials of its digits > sum of factorials of its digits\n How many values of M exist?",
+      "options": {
+        "a": "56",
+        "b": "64",
+        "c": "63",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q063",
+      "num": 63,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A natural number when increased by 50% has its\nnumber of factors unchanged. However, when the\nvalue of the number is reduced by 75%, the number\nof factors is reduced by 66.66%. One such number\ncould be:",
+      "options": {
+        "a": "32",
+        "b": "84",
+        "c": "126",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q064",
+      "num": 64,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the 28383 rd term of the series:\n123456789101112….",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "9",
+        "d": "7"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q065",
+      "num": 65,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If you form a subset of integers chosen from between\n1 to 3000, such that no two integers add up to a\nmultiple of nine, what can be the maximum number\nof elements in the subset. (Include both 1 and 3000.)",
+      "options": {
+        "a": "1668",
+        "b": "1332",
+        "c": "1333",
+        "d": "1336"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q066",
+      "num": 66,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The series of numbers (1,1/2,1/3,1/4\n…………….1/1972) is taken. Now two numbers\nare taken from this series (the →rst two) say x, y.\nThen the operation x + y + x.y is performed to get a\nconsolidated number. The process is repeated. What\nwill be the value of the set after all the numbers are\nconsolidated into one number?",
+      "options": {
+        "a": "1970",
+        "b": "1971",
+        "c": "1972",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q067",
+      "num": 67,
+      "lod": 2,
+      "type": "mcq",
+      "text": "K is a three digit number such that the ratio of the\nnumber to the sum of its digits is least. What is the\ndifference between the hundreds and the tens digits\nof K?",
+      "options": {
+        "a": "9",
+        "b": "8",
+        "c": "7",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q068",
+      "num": 68,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In Question 67, what can be said about the difference\nbetween the tens and the units digit?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q069",
+      "num": 69,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For the above question, for how many values of K\nwill the ratio be the highest?",
+      "options": {
+        "a": "9",
+        "b": "8",
+        "c": "7",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q070",
+      "num": 70,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A triangular number is de→ned as a number which\nhas the property of being expressed as a sum of\nconsecutive natural numbers starting with 1. How\nmany triangular numbers less than 1000, have the\nproperty that they are the difference of squares of\ntwo consecutive natural numbers?",
+      "options": {
+        "a": "20",
+        "b": "21",
+        "c": "22",
+        "d": "23"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q071",
+      "num": 71,
+      "lod": 2,
+      "type": "mcq",
+      "text": "x and y are two positive integers. Then what will be\nthe sum of the coef→cients of the expansion of the\nexpression (x + y)44?",
+      "options": {
+        "a": "243",
+        "b": "243 + 1",
+        "c": "244",
+        "d": "244 – 1"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q072",
+      "num": 72,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the remainder when 9 + 92 + 93 + ….92n+1\nis divided by 6?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q073",
+      "num": 73,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The remainder when the number 123456789101112\n……484950 is divided by 16 is?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q074",
+      "num": 74,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the highest power of 3 available in the expression 58!-38!?",
+      "options": {
+        "a": "17",
+        "b": "18",
+        "c": "19",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q075",
+      "num": 75,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the remainder when the number represented\nby 22334 raised to the power (12 + 22 + ..+ 662) is\ndivided by 5?",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "1",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q076",
+      "num": 76,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the total number of divisors of the number\n1233 × 3423 × 270 ?",
+      "options": {
+        "a": "4658.",
+        "b": "9316",
+        "c": "2744",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q077",
+      "num": 77,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For Question 76, which of the following will represent the sum of factors of the number (such that\nonly odd factors are counted)?\n(a)\n(334 - 1) (17 24 - 1)\n×\n(334–1) × (1724 – 1)\n2\n16\n(334 - 1)\n33",
+      "options": {
+        "b": "",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q078",
+      "num": 78,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the remainder when (1!)3 + (2!) 3 + (3!) 3 +\n(4!)3 +…..(1152!) 3 is divided by 1152?",
+      "options": {
+        "a": "125",
+        "b": "225",
+        "c": "325",
+        "d": "205"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q079",
+      "num": 79,
+      "lod": 2,
+      "type": "tita",
+      "text": "A set S is formed by including some of the →rst one\nthousand natural numbers. S contains the maximum\nnumber of numbers such that they satisfy the following conditions:",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q001",
+      "num": 1,
+      "lod": 2,
+      "type": "tita",
+      "text": "No number of the set S is prime.",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q002",
+      "num": 2,
+      "lod": 2,
+      "type": "mcq",
+      "text": "When the numbers of the set S are selected two at\na time, we always see co prime numbers.\n What is the number of elements in the set S?\nFind the last two digits of the following numbers",
+      "options": {
+        "a": "11",
+        "b": "12",
+        "c": "13",
+        "d": "7"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q080",
+      "num": 80,
+      "lod": 2,
+      "type": "mcq",
+      "text": "101 × 102 × 103 × 197 × 198 × 199",
+      "options": {
+        "a": "54",
+        "b": "74",
+        "c": "Number Systems I.61",
+        "d": "84"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q082",
+      "num": 82,
+      "lod": 2,
+      "type": "mcq",
+      "text": "65 × 29 × 37 × 63 × 71 × 87 × 85",
+      "options": {
+        "a": "25",
+        "b": "35",
+        "c": "75",
+        "d": "85"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q083",
+      "num": 83,
+      "lod": 2,
+      "type": "mcq",
+      "text": "65 × 29 × 37 × 63 × 71 × 87 × 62",
+      "options": {
+        "a": "70",
+        "b": "30",
+        "c": "10",
+        "d": "90"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q084",
+      "num": 84,
+      "lod": 2,
+      "type": "mcq",
+      "text": "75 × 35 × 47 × 63 × 71 × 87 × 82",
+      "options": {
+        "a": "50",
+        "b": "7 0",
+        "c": "3 0",
+        "d": "9 0"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q085",
+      "num": 85,
+      "lod": 2,
+      "type": "mcq",
+      "text": "(201 × 202 × 203 × 204 × 246 × 247 × 248 × 249)2",
+      "options": {
+        "a": "36",
+        "b": "5 6",
+        "c": "76",
+        "d": "16"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q086",
+      "num": 86,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the remainder when 799 is divided by 2400.",
+      "options": {
+        "a": "1",
+        "b": "343",
+        "c": "4 9",
+        "d": "7"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q087",
+      "num": 87,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find the remainder when (103 + 93)752 is divided by",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q088",
+      "num": 88,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Arun, Bikas and Chetakar have a total of 80 coins\namong them. Arun triples the number of coins with\nthe others by giving them some coins from his own\ncollection. Next, Bikas repeats the same process.\nAfter this Bikas now has 20 coins. Find the number\nof coins he had at the beginning.",
+      "options": {
+        "a": "22",
+        "b": "20",
+        "c": "18",
+        "d": "24"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q089",
+      "num": 89,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The super computer at Ram Mohan Roy Seminary\ntakes an input of a number N and a X where X is\na factor of the number N. In a particular case N is\nequal to 83p796161q and X is equal to 11 where 0 <\np < q. Find the sum of remainders when N is divided\nby (p + q) and p successively.",
+      "options": {
+        "a": "6",
+        "b": "3",
+        "c": "2",
+        "d": "9"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q090",
+      "num": 90,
+      "lod": 2,
+      "type": "mcq",
+      "text": "On March 1st 2016, Sherry saved Re.1. Everyday\nstarting from March 2nd 2016, he saved Re.1 more\nthan the previous day. Find the →rst date after March\n1st 2016 at the end of which his total savings will be\na perfect square.",
+      "options": {
+        "a": "17th March 2016",
+        "b": "18th April 2016",
+        "c": "26th March 2016",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q091",
+      "num": 91,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the rightmost digit preceding the zeroes in\nthe value of 2053?",
+      "options": {
+        "a": "2",
+        "b": "8",
+        "c": "1",
+        "d": "4"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q092",
+      "num": 92,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the remainder when 2(8!) – 21(6!) divides\n14(7!) + 14(13!)?",
+      "options": {
+        "a": "1",
+        "b": "7!",
+        "c": "8!",
+        "d": "9!"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q093",
+      "num": 93,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many integer values of x and y are there such\nthat 4x + 7y = 3, while |x | < 500 and |y| < 500?",
+      "options": {
+        "a": "144",
+        "b": "141",
+        "c": "143",
+        "d": "142"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q094",
+      "num": 94,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If n = 1 + m, where m is the product of four consecutive positive integers, then which of the following is/are\ntrue?\n(A) n is odd\n(B) n is not a multiple of 3\n(C) n is a perfect square",
+      "options": {
+        "a": "All three",
+        "b": "A and B only",
+        "c": "A and C only",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q095",
+      "num": 95,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many two-digit numbers less than or equal to\n50, have the product of the factorials of their digits\nless than or equal to the sum of the factorials of\ntheir digits?",
+      "options": {
+        "a": "18",
+        "b": "16",
+        "c": "15",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q096",
+      "num": 96,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A candidate takes a test and attempts all the 100\nquestions in it. While any correct answer fetches 1\nmark, wrong answers are penalised as follows; onetenth of the questions carry 1/10 negative mark each,\none-→fth of the questions carry 1/5 negative marks\neach and the rest of the questions carry ½ negative\nmark each. Unattempted questions carry no marks.\nWhat is the difference between the maximum and\nthe minimum marks that he can score?\nDirections for Questions 97 to 99: A mock test\nis taken at Mindworkzz. The test paper comprises of\nquestions in three levels of dif→culty—LOD1, LOD2 and\nLOD 3.\nThe following table gives the details of the positive and\nnegative marks attached to each question type:\nDif→culty\nlevel\nPositive marks for\nanswering the question\ncorrectly\nNegative marks for\nanswering the question\nwrongly\nLOD 1\n4\n2\nLOD 2\n3\n1.5\nLOD 3\n2\n1\nThe test had 200 questions with 80 on LOD 1 and 60 each\non LOD 2 and LOD 3.",
+      "options": {
+        "a": "100",
+        "b": "120",
+        "c": "140",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q097",
+      "num": 97,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If a student has solved 100 questions exactly and\nscored 120 marks, the maximum number of incorrect\nquestions that he/she might have marked is",
+      "options": {
+        "a": "44",
+        "b": "56",
+        "c": "60",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q098",
+      "num": 98,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If Amit attempted the least number of questions and\ngot a total of 130 marks, and if it is known that he\nattempted at least one of every type, then the number\nof questions he must have attempted is",
+      "options": {
+        "a": "34",
+        "b": "35",
+        "c": "36",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q099",
+      "num": 99,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In the above question, what is the least number of\nquestions he might have got incorrect?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q100",
+      "num": 100,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Amitabh has a certain number of toffees, such that if\nhe distributes them amongst ten children he has nine\nleft, if he distributes amongst 9 children he would\nhave 8 left, if he distributes amongst 8 children he\nwould have 7 left … and so on until if he distributes\namongst 5 children he should have 4 left. What is\nthe second lowest number of toffees he could have\nwith him?",
+      "options": {
+        "a": "2519",
+        "b": "7559",
+        "c": "8249",
+        "d": "5039"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q101",
+      "num": 101,
+      "lod": 2,
+      "type": "tita",
+      "text": "If a positive integer ‘n’ is subtracted from the squares\nof three consecutive terms of an Arithmetic Progression, the numbers obtained are 108, 220 and 364\nrespectively. What is the sum of the digits of ‘n’?",
+      "options": {},
+      "answer": "9",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q102",
+      "num": 102,
+      "lod": 2,
+      "type": "tita",
+      "text": "How many integers exist such that not only are they\nmultiples of 9042008 but also are factors of 9042015?",
+      "options": {},
+      "answer": "176",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q103",
+      "num": 103,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the remainder when 15 + 25 + 35 + ……+\n965 is divided by 194?\ns\ns\ns\n41",
+      "options": {},
+      "answer": "0",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q104",
+      "num": 104,
+      "lod": 2,
+      "type": "tita",
+      "text": "If ÈÍ ˘˙ + ÈÍ ˘˙ + ÈÍ ˘˙ =\ns where[s] is the greatest\nÎ 2 ˚ Î 3 ˚ Î 7 ˚ 42\ninteger less than or equal to ‘s’ and0 < s < 1000,\nthen →nd the number of possible values of ‘s’.\n Directions for questions 105 to 107:\n In a zoo with 100 rabbits, there are three kinds of\nrabbits, weight-wise viz. 1 kg rabbits, 2 kg rabbits\nand 5 kg rabbits. There are a minimum of 10 and a\nmaximum of 60 of each kind of rabbit. On a particular day, the zoo director transfers 40 rabbits from his\nstock and sends them off to the neighbouring zoo.\nOn weighing these rabbits, it was found that the total\nweight of these 40 rabbits, was 148 kgs. It was also\nfound that the weight of the remaining rabbits was\n212 kgs.",
+      "options": {},
+      "answer": "23",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q105",
+      "num": 105,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the minimum number of 1 kg rabbits that\nwere transferred?",
+      "options": {},
+      "answer": "1",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q106",
+      "num": 106,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the maximum possible number of 5 kg rabbits that remain?",
+      "options": {},
+      "answer": "37",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q107",
+      "num": 107,
+      "lod": 2,
+      "type": "tita",
+      "text": "If, a total of 26 5 kg rabbits were transferred, then\nwhat is the maximum possible numbers of 1 kg rabbits that remain in the zoo?",
+      "options": {},
+      "answer": "10",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q108",
+      "num": 108,
+      "lod": 2,
+      "type": "tita",
+      "text": "Let A be a two-digit number. The sum of the number\nA, the number formed by reversing the digits of A\nand the value of the product of the digits of A is\nfound to equal 117. Then what is the sum of the\ndigits of A?",
+      "options": {},
+      "answer": "9",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q109",
+      "num": 109,
+      "lod": 2,
+      "type": "tita",
+      "text": "Let M be the product of all natural numbers between\n35 and 250 that have an odd number of factors. Find\nthe highest power of 12 in M.",
+      "options": {},
+      "answer": "8",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q110",
+      "num": 110,
+      "lod": 2,
+      "type": "tita",
+      "text": "x and y are natural numbers such that they satisfy\nthe equation x + y + 21 = 3xy. Find the maximum\npossible integral power of 6 in (xy)!.[n! is the product\nof the →rst ‘n’ natural numbers.]",
+      "options": {},
+      "answer": "109",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q111",
+      "num": 111,
+      "lod": 2,
+      "type": "tita",
+      "text": "Let X is the set of all the natural numbers each of\nwhich is equal to the number of its factors & Y is\nthe set of all natural numbers from 1 to 100, each of\nwhich differ from the sum of its factors 1. Also, let\nx & y represent the number of elements in the sets\nrespectively. Then →nd the value of [y/x], where []\nrepresents the greatest integer function:",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q112",
+      "num": 112,
+      "lod": 2,
+      "type": "tita",
+      "text": "A four digit number X has 15 factors. What is the\nnumber of factors of X2?",
+      "options": {},
+      "answer": "113",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q113",
+      "num": 113,
+      "lod": 2,
+      "type": "tita",
+      "text": "How many four- digit odd numbers are possible such\nthat the hundreds digit is two more than the tens\ndigit?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q114",
+      "num": 114,
+      "lod": 2,
+      "type": "tita",
+      "text": "Three natural numbers X, Y, Z are prime numbers\nless than 20 are in arithmetic progression. If X >\nY > Z, then how many possible values can we get\nfor X + Y + Z?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q115",
+      "num": 115,
+      "lod": 2,
+      "type": "tita",
+      "text": "A 100- digit number is multiplied by a 200- digit\nnumber and the product is multiplied with a 300\ndigit number and this product is again multiplied\nwith a 400 digits number. What is the least number\nof digits in the product?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q116",
+      "num": 116,
+      "lod": 2,
+      "type": "tita",
+      "text": "What are the last two digits of the number 3400?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q117",
+      "num": 117,
+      "lod": 2,
+      "type": "tita",
+      "text": "The unit digit in 17 × 27 × 37 × …..× 97 × 117 ×\n127…..197 × 217……997 is",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q118",
+      "num": 118,
+      "lod": 2,
+      "type": "tita",
+      "text": "How many two digit numbers have their squares as\n1 more than a multiple of 24?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q119",
+      "num": 119,
+      "lod": 2,
+      "type": "tita",
+      "text": "There are 80 questions in a test. Each correct answer\nfetches 1 mark, each wrong answer & unanswered\nquestion attract a penalty of 1/4 mark & 1/8 mark\nrespectively each. Frodo scored 23 marks in the test.\nWhat is the minimum possible number of the question wrongly answered by him?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q120",
+      "num": 120,
+      "lod": 2,
+      "type": "mcq",
+      "text": "1777 has exactly 5 digits when converted to base\n‘x’ from the decimal system what is the minimum\npossible value of x?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "6",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q121",
+      "num": 121,
+      "lod": 2,
+      "type": "tita",
+      "text": "What will be the sum of all natural numbers between\n101 and 1000 which on division by 2, 4, 6, 8, 10\nleave remainders 1, 3, 5, 7, 9, respectively?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q122",
+      "num": 122,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Units digit of which of the following is the same as\nthe units digits of a17 + b17 for any positive integer\nvalue of a, b?\n13\n13\nNumber Systems I.63",
+      "options": {
+        "a": "a2 + b2",
+        "b": "a12 + b12",
+        "c": "a + b",
+        "d": "a10 + b10"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q123",
+      "num": 123,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many 4-digit numbers are there in the decimal\nsystem, which have exactly 4 digits when expressed\nin Base 6, Base 7 and Base 8?",
+      "options": {
+        "a": "158",
+        "b": "248",
+        "c": "296",
+        "d": "368"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q124",
+      "num": 124,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the difference between the highest and the\nleast 4-digit natural numbers that have exactly 4\ndigits when expressed in Base 6 and Base 7.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q125",
+      "num": 125,
+      "lod": 2,
+      "type": "tita",
+      "text": "If n is a natural number, then what is the sum of all\nthe possible distinct remainders when 9n + 6n + 4n\n+ 11n is divided by 10?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q126",
+      "num": 126,
+      "lod": 2,
+      "type": "tita",
+      "text": "If x, y, z and w are natural numbers, then what is\nthe sum of all the possible remainders when 9x + 6y\n+ 4z + 11z is divided by 10?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q127",
+      "num": 127,
+      "lod": 2,
+      "type": "tita",
+      "text": "What is the maximum possible sum of the number of\nMondays and Thursdays in two consecutive years?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q128",
+      "num": 128,
+      "lod": 2,
+      "type": "tita",
+      "text": "In the previous question →nd the minimum possible\nsum of the number of Mondays and Thursdays.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q129",
+      "num": 129,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What will be the value of remainder when\n(111111111……….64terms)*(22222222………\n.55terms) is divided by 18?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "17"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q130",
+      "num": 130,
+      "lod": 2,
+      "type": "tita",
+      "text": "Find the number of solutions of the equation: x2 – y2\n= 777314:\n Directions for questions 131 and 132:\n There was a table in a room & there were 100 coins\n(coin 1 to coin 100) in a row on the table. All the\ncoins were heads up initially. You entered the room\nand turned all the coins, the second time you entered\nSpace for Rough Work\nthe room and turned every 2nd coin (coin 2, coin\n4, …..), the 3rd time you entered the room and turned\nevery 3rd coin ( coin 3, coin 6, coin 9, …..) and so\non, if you visited the room 100 times and continued\nthis sequence every time. Then answer the following\nquestions.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q131",
+      "num": 131,
+      "lod": 2,
+      "type": "tita",
+      "text": "What were the states of 54th & 91st coin after the\n100th visit? Type 1 if both are heads; Type 2 if the\n→rst one is head and the other is tail; Type 3 if the\n→rst one is tail and the second is tail; Type 4 if both\nare tails.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q132",
+      "num": 132,
+      "lod": 2,
+      "type": "tita",
+      "text": "After your 100th visit how many coins were in the\nheads-up position?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q133",
+      "num": 133,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the digit at the hundredths place of the\nnumber (225)40?",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q134",
+      "num": 134,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Consider the set of the →rst 14 natural numbers.\nThree numbers a, b, c are selected from this set such\nthat a > 3b > 4c. How many such distinct triplets\n(a, b, c) are possible?",
+      "options": {
+        "a": "32",
+        "b": "26",
+        "c": "22",
+        "d": "18"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q135",
+      "num": 135,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many four-digit numbers having distinct digits\nusing the →rst →ve natural numbers (1 to 5) can be\nformed such that the numbers formed are divisible\nby each of the digits used in the number?\nLevel of Dif→culty (III)",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q001",
+      "num": 1,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What two-digit number is less than the sum of the\nsquare of its digits by 11 and exceeds their doubled\nproduct by 5?\n(b)",
+      "options": {
+        "a": "and",
+        "b": "95",
+        "c": "Both",
+        "d": "15, 95 and 12345"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q002",
+      "num": 2,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the lower of the two successive natural numbers\nif the square of the sum of those numbers exceeds\nthe sum of their squares by 112.",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod2-q003",
+      "num": 3,
+      "lod": 2,
+      "type": "tita",
+      "text": "First we increased the denominator of a positive fraction by 3 and then we decreased it by 5. The sum of\nthe resultin",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q004",
+      "num": 4,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the last two digits of: 15 × 37 × 63 × 51 × 97\n× 17.",
+      "options": {
+        "a": "35",
+        "b": "45",
+        "c": "55",
+        "d": "85"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q005",
+      "num": 5,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Let us consider a fraction whose denominator is\nsmaller than the square of the numerator by unity.\nIf we add 2 to the numerator and the denominator,\nthe fraction will exceed 1/3. If we subtract 3 from\nthe numerator and the denominator, the fraction will\nbe positive but smaller than 1/10. Find the value.\n3\n4\n(a)\n15\n5\n6\n(c)\n35",
+      "options": {
+        "b": "8",
+        "d": "24"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q006",
+      "num": 6,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the sum of all three-digit numbers that give a\nremainder of 4 when they are divided by 5.",
+      "options": {
+        "a": "98,270",
+        "b": "99,270",
+        "c": "1,02,090",
+        "d": "90,270"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q007",
+      "num": 7,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the sum of all two-digit numbers that give a\nremainder of 3 when they are divided by 7.",
+      "options": {
+        "a": "686",
+        "b": "676",
+        "c": "666",
+        "d": "656"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q008",
+      "num": 8,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the sum of all odd three-digit numbers that are\ndivisible by 5.",
+      "options": {
+        "a": "50,500",
+        "b": "50,250",
+        "c": "50,000",
+        "d": "49,500"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q009",
+      "num": 9,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The product of a two-digit number by a number\nconsisting of the same digits written in the reverse\norder is equal to 2430. Find the lower number.",
+      "options": {
+        "a": "54",
+        "b": "52",
+        "c": "63",
+        "d": "45"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q010",
+      "num": 10,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the lowest of three numbers as described: If\nthe cube of the →rst number exceeds their product\nby 2, the cube of the second number is smaller than\ntheir product by 3, and the cube of the third number\nexceeds their product by 3.\n(e) None of these",
+      "options": {
+        "a": "31/3",
+        "b": "91/3",
+        "c": "2",
+        "d": "Any of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q011",
+      "num": 11,
+      "lod": 3,
+      "type": "mcq",
+      "text": "How many pairs of natural numbers are there the\ndifference of whose squares is 45?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q012",
+      "num": 12,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find all two-digit numbers such that the sum of the\ndigits constituting the number is not less than 7; the\nsum of the squares of the digits is not greater than 30;\nthe number consisting of the same digits written in the\nreverse order is not larger than half the given number.",
+      "options": {
+        "a": "52",
+        "b": "51",
+        "c": "49",
+        "d": "53"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q013",
+      "num": 13,
+      "lod": 3,
+      "type": "mcq",
+      "text": "In a four-digit number, the sum of the digits in the\nthousands, hundreds and tens is equal to 14, and the\nsum of the digits in the units, tens and hundreds is\nequal to 15. Among all the numbers satisfying these\nconditions, →nd the number the sum of the squares\nof whose digits is the greatest.",
+      "options": {
+        "a": "2572",
+        "b": "1863",
+        "c": "2573",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q014",
+      "num": 14,
+      "lod": 3,
+      "type": "mcq",
+      "text": "In a four-digit number, the sum of the digits in the\nthousands and tens is equal to 4, the sum of the digits\nin the hundreds and the units is 15, and the digit of\nthe units exceeds by 7 the digit of the thousands.\nAmong all the numbers satisfying these conditions,\n→nd the number the sum of the product of whose\ndigit of the thousands by the digit of the units and\nthe product of the digit of the hundreds by that of\nthe tens assumes the least value.",
+      "options": {
+        "a": "4708",
+        "b": "1738",
+        "c": "2629",
+        "d": "1812"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q015",
+      "num": 15,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If we divide a two-digit number by a number consisting of the same digits written in the reverse order,\nwe get 4 as a quotient and 15 as a remainder. If we\nsubtract 9 from the given number, we get the sum\nof the squares of the digits constituting that number.\nFind the number.",
+      "options": {
+        "a": "71",
+        "b": "83",
+        "c": "99",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q016",
+      "num": 16,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the two-digit number the quotient of whose\ndivision by the product of its digits is equal to 8/3,\nand the difference between the required number and\nthe number consisting of the same digits written in\nthe reverse order is 18?\nNumber Systems I.65",
+      "options": {
+        "a": "86",
+        "b": "42",
+        "c": "75",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q017",
+      "num": 17,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the two-digit number if it is known that the ratio\nof the required number and the sum of its digits is 8\nas also the quotient of the product of its digits and\nthat of the sum is 14/9.",
+      "options": {
+        "a": "54",
+        "b": "72",
+        "c": "27",
+        "d": "45"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q018",
+      "num": 18,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If we divide the unknown two-digit number by the\nnumber consisting of the same digits written in the\nreverse order, we get 4 as a quotient and 3 as a\nremainder. If we divide the required number by the\nsum of its digits, we get 8 as a quotient and 7 as a\nremainder. Find the number.",
+      "options": {
+        "a": "81",
+        "b": "91",
+        "c": "71",
+        "d": "72"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q019",
+      "num": 19,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The last two-digits in the multiplication 122 × 123\n× 125 × 127 × 129 will be",
+      "options": {
+        "a": "20",
+        "b": "50",
+        "c": "30",
+        "d": "40"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q020",
+      "num": 20,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The remainder obtained when 43101 + 23101 is divided\nby 66 is",
+      "options": {
+        "a": "2",
+        "b": "10",
+        "c": "5",
+        "d": "0"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q021",
+      "num": 21,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The last three-digits of the multiplication 12345 ×\n54321 will be",
+      "options": {
+        "a": "865",
+        "b": "745",
+        "c": "845",
+        "d": "945"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q022",
+      "num": 22,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The sum of the digits of a three-digit number is 12.\nIf we subtract 495 from the number consisting of the\nsame digits written in reverse order, we shall get the\nrequired number. Find that three-digit number if the\nsum of all pairwise products of the digits constituting\nthat number is 41.\n(b)",
+      "options": {
+        "a": "and",
+        "b": "237",
+        "c": "197",
+        "d": "Both"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q023",
+      "num": 23,
+      "lod": 3,
+      "type": "mcq",
+      "text": "A three-digit positive integer abc is such that a2 + b2\n+ c2 = 74. a is equal to the doubled sum of the digits\nin the tens and units places. Find the number if it is\nknown that the difference between that number and\nthe number written by the same digits in the reverse\norder is 495.",
+      "options": {
+        "a": "813",
+        "b": "831",
+        "c": "613",
+        "d": "713"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q024",
+      "num": 24,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Represent the number 1.25 as a product of three\npositive factors so that the product of the →rst factor\nby the square of the second is equal to 5 if we have\nto get the lowest possible sum of the three factors.",
+      "options": {
+        "a": "x1 = 2.25, x2 = 5, x3 = 0.2",
+        "b": "x1 = 1.25, x2 = 4, x3 = 4.5",
+        "c": "x1 = 1.25, x2 = 2, x3 = 0.5",
+        "d": "x1 = 1.25, x2 = 4, x3 = 2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q025",
+      "num": 25,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find a number x such that the sum of that number\nand its square is the least.",
+      "options": {
+        "a": "–0.5",
+        "b": "0.5",
+        "c": "–1.5",
+        "d": "1.5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q026",
+      "num": 26,
+      "lod": 3,
+      "type": "mcq",
+      "text": "When 22225555 + 55552222 is divided by 7, the remainder is",
+      "options": {
+        "a": "0",
+        "b": "2",
+        "c": "4",
+        "d": "5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q027",
+      "num": 27,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If x is a number of →ve-digits which when divided by\n8, 12, 15 and 20 leaves respectively 5, 9, 12 and 17\nas remainders, then →nd x such that it is the lowest\nsuch number.\n2n\nn+3",
+      "options": {
+        "a": "10017",
+        "b": "10057",
+        "c": "10097",
+        "d": "10077"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q028",
+      "num": 28,
+      "lod": 3,
+      "type": "mcq",
+      "text": "3 – 1 is divisible by 2\nfor n =\n(\n)\nn",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q029",
+      "num": 29,
+      "lod": 3,
+      "type": "mcq",
+      "text": "10n – 5 + 17 is divisible by 2n + 2 for what whole\nnumber value of n?\n32\n3232\nwill leave a remainder\n9",
+      "options": {
+        "a": "4",
+        "b": "7",
+        "c": "1",
+        "d": "2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q031",
+      "num": 31,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder that the number 1989 ◊ 1990 ◊\n19923 gives when divided by 7.",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "5",
+        "d": "2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q032",
+      "num": 32,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder of 2100 when divided by 3.",
+      "options": {
+        "a": "3",
+        "b": "0",
+        "c": "1",
+        "d": "2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q033",
+      "num": 33,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder when the number 31989 is divided\nby 7.",
+      "options": {
+        "a": "1",
+        "b": "5",
+        "c": "6",
+        "d": "4"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q034",
+      "num": 34,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the last digit of the number 12 + 22 +…+ 992.\n100\n120",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q035",
+      "num": 35,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find gcd (2 – 1, 2 – 1).",
+      "options": {
+        "a": "220– 1",
+        "b": "240 – 1",
+        "c": "260 – 1",
+        "d": "210–1"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q036",
+      "num": 36,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the gcd (111…11 hundred ones ; 11…11 sixty\nones).",
+      "options": {
+        "a": "111…forty ones",
+        "b": "111…twenty →ve ones",
+        "c": "111…twenty ones",
+        "d": "111…sixty ones"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q037",
+      "num": 37,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the last digit of the number 13 + 23+ 33 + 43…\n+ 993.",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q038",
+      "num": 38,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the GCD of the numbers 2n + 13 and n + 7.\n32\n3232",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q040",
+      "num": 40,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The remainder when 1010 + 10100 + 101000 + …\n+ 1010000000000 is divided by 7 is",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q041",
+      "num": 41,
+      "lod": 3,
+      "type": "mcq",
+      "text": "n is a number, such that 2n has 28 factors and 3n\nhas 30 factors. 6n has",
+      "options": {
+        "a": "35",
+        "b": "32",
+        "c": "28",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q042",
+      "num": 42,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Suppose the sum of n consecutive integers is\nx + (x + 1) + (x + 2) + (x + 3) + … + (x + (n – 1))\n= 1000, then which of the following cannot be true\nabout the number of terms n",
+      "options": {
+        "a": "The number of terms can be 16",
+        "b": "The number of terms can be 5",
+        "c": "The number of terms can be 25",
+        "d": "The number of terms can be 20"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q043",
+      "num": 43,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The remainder when 22 + 222 + 2222 + 22222 +\n…….(222…..49 twos)2 is divided by 9 is",
+      "options": {
+        "a": "2",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q044",
+      "num": 44,
+      "lod": 3,
+      "type": "mcq",
+      "text": "N = 202 × 20002 × 200000002 × 20000000000000002\n× 200000000….2 (31 zeroes) The sum of digits in\nthis multiplication will be:",
+      "options": {
+        "a": "112",
+        "b": "160",
+        "c": "144",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q045",
+      "num": 45,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Twenty →ve sets of problems on Data Interpretation–\none each for the DI sections of 25 CATALYST tests\nwere prepared by the AMS research team. The DI\nsection of each CATALYST contained 50 questions\nof which exactly 35 questions were unique, i.e. they\nhad not been used in the DI section of any of the\nother 24 CATALYSTs. What could be the maximum\npossible number of questions prepared for the DI\nsections of all the 25 CATALYSTs put together?",
+      "options": {
+        "a": "1100",
+        "b": "975",
+        "c": "1070",
+        "d": "1055"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q046",
+      "num": 46,
+      "lod": 3,
+      "type": "mcq",
+      "text": "In the above question, what could be the minimum\npossible number of questions prepared?\nDirections for Questions 47 to 49: At a particular time\nin the twenty →rst century there were seven bowlers in the\nIndian cricket team’s list of 16 players short listed to play\nthe next world cup. Statisticians discovered that that if you\nlooked at the number of wickets taken by any of the 7\nbowlers of the current Indian cricket team, the number of\nwickets taken by them had a strange property. The numbers\nwere such that for any team selection of 11 players (having\n1 to 7 bowlers) by using the number of wickets taken by\neach bowler and attaching coef→cients of +1, 0, or –1 to\neach value available and adding the resultant values, any\nnumber from 1 to 1093, both included could be formed. If\nwe denote W1, W2, W3, W4, W5, W6 and W7 as the 7 values\nin the ascending order what could be the answer to the\nfollowing questions:",
+      "options": {
+        "a": "890",
+        "b": "875",
+        "c": "975",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q047",
+      "num": 47,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the value of W1 + 2W2 + 3W3 + 4W4 + 5W5 +\n6W6.",
+      "options": {
+        "a": "2005",
+        "b": "1995",
+        "c": "1985",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q048",
+      "num": 48,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the index of the largest power of 3 contained\nin the product W1 W2 W3 W4 W5 W6 W7.",
+      "options": {
+        "a": "15",
+        "b": "10",
+        "c": "21",
+        "d": "6"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q049",
+      "num": 49,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the sum of the seven coef→cients is 0, →nd the\nsmallest number that can be obtained.\nDirections for Questions 50 and 51: Answer these\nquestions on the basis of the information given below.\nIn the ancient game of Honololo the task involves\nsolving a puzzle asked by the chief of the tribe. Anybody\nanswering the puzzle correctly is given the hand of the most\nbeautiful maiden of the tribe. Unfortunately, for the youth\nof the tribe, solving the puzzle is not a cakewalk since the\nchief is the greatest mathematician of the tribe.\nIn one such competition the chief called everyone to\nattention and announced openly:\n“A three-digit number ‘mnp’ is a perfect square and\nthe number of factors it has is also a perfect square. It is\nalso known that the digits m, n and p are all distinct. Now\nanswer my questions and win the maiden’s hand.”",
+      "options": {
+        "a": "– 1067",
+        "b": "– 729",
+        "c": "– 1040",
+        "d": "– 1053"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q050",
+      "num": 50,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If (m + n + p) is also a perfect square, what is the\nnumber of factors of the six-digit number mnpmnp?",
+      "options": {
+        "a": "36",
+        "b": "72",
+        "c": "48",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q051",
+      "num": 51,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the fourth power of the product of the digits of the\nnumber mnp is not divisible by 5, what is the number\nof factors of the nine-digit number, mnpmnpmnp?",
+      "options": {
+        "a": "32",
+        "b": "72",
+        "c": "48",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q052",
+      "num": 52,
+      "lod": 3,
+      "type": "mcq",
+      "text": "In a cricket tournament organised by the ICC, a total\nof 15 teams participated. Australia, as usual won\nthe tournament by scoring the maximum number of\npoints. The tournament is organised as a single round\nrobin tournament—where each team plays with every other team exactly once. 3 points are awarded\nfor a win, 2 points are awarded for a tie/washed out\nmatch and 1 point is awarded for a loss. Zimbabwe\nNumber Systems I.67\nhad the lowest score (in terms of points) at the end\nof the tournament. Zimbabwe scored a total of 21\npoints. All the 15 national teams got a distinct score\n(in terms of points scored). It is also known that at\nleast one match played by the Australian team was\ntied/washed out. Which of the following is always\ntrue for the Australian team?",
+      "options": {
+        "a": "It had at least two ties/washouts.",
+        "b": "It had a maximum of 3 losses.",
+        "c": "It had a maximum of 9 wins.",
+        "d": "All of the above."
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q053",
+      "num": 53,
+      "lod": 3,
+      "type": "mcq",
+      "text": "What is the remainder when 1281000 is divided by\n153?\n52",
+      "options": {
+        "a": "103",
+        "b": "145",
+        "c": "118",
+        "d": "52"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q054",
+      "num": 54,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder when 5051 is divided by 11.\n34",
+      "options": {
+        "a": "6",
+        "b": "4",
+        "c": "7",
+        "d": "3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q055",
+      "num": 55,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder when 3233 is divided by 11.\n87",
+      "options": {
+        "a": "5",
+        "b": "4",
+        "c": "10",
+        "d": "1"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q056",
+      "num": 56,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder when 3072 is divided by 11.\n52",
+      "options": {
+        "a": "5",
+        "b": "9",
+        "c": "6",
+        "d": "3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q057",
+      "num": 57,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder when 5056 is divided by 11.\n35",
+      "options": {
+        "a": "7",
+        "b": "5",
+        "c": "9",
+        "d": "10"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q058",
+      "num": 58,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Find the remainder when 3334 is divided by 7.",
+      "options": {
+        "a": "5",
+        "b": "4",
+        "c": "6",
+        "d": "2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q059",
+      "num": 59,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Let Sm denote the sum of the squares of the →rst m\nnatural numbers. For how many values of m < 100,\nis Sm a multiple of 4?",
+      "options": {
+        "a": "50",
+        "b": "25",
+        "c": "36",
+        "d": "24"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q060",
+      "num": 60,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For the above question, for how many values will\nthe sum of cubes of the →rst m natural numbers be\na multiple of 5 (if m < 50)?",
+      "options": {
+        "a": "20",
+        "b": "21",
+        "c": "22",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q061",
+      "num": 61,
+      "lod": 3,
+      "type": "mcq",
+      "text": "How many integer values of x and y satisfy the\nexpression 4x + 7y = 3 where | x| < 1000 and |y| <\n1000?",
+      "options": {
+        "a": "284",
+        "b": "285",
+        "c": "286",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q062",
+      "num": 62,
+      "lod": 3,
+      "type": "tita",
+      "text": "N = 7777………………7777, where the digit 7 repeats itself 603 times. What is the remainder left\nwhen N is divided by 1144?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q063",
+      "num": 63,
+      "lod": 3,
+      "type": "tita",
+      "text": "How many factors of 19! are there, whose unit digit\nis 5?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q064",
+      "num": 64,
+      "lod": 3,
+      "type": "tita",
+      "text": "N = 1! – 2! + 3! – 4! +…..+ 47! – 48! + 49!, – 50!\n+ 51! Then what is the unit digit of NN?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q065",
+      "num": 65,
+      "lod": 3,
+      "type": "tita",
+      "text": "How many numbers less than 100 have exactly four\nfactors?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q066",
+      "num": 66,
+      "lod": 3,
+      "type": "tita",
+      "text": "Two odd numbers have 36 factors each and the HCF\nof these two numbers is 225. What is the minimum\npossible LCM of these two numbers if the power of\nany prime factor in these two numbers is not more\nthan 3?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q067",
+      "num": 67,
+      "lod": 3,
+      "type": "tita",
+      "text": "Find the remainder when [(7!)6!]17777 is divided by\n17?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q068",
+      "num": 68,
+      "lod": 3,
+      "type": "tita",
+      "text": "A four digit number wxyz is such that x + y= 2w\n& y + 6z= 2(w + x) & w + 5z= 2y. Find the sum\nof such four digit numbers which satisfy the given\nconditions.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q069",
+      "num": 69,
+      "lod": 3,
+      "type": "tita",
+      "text": "Find the remainder when (17)(9!)+2 (18!) is divided\nby (9!)17408.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q070",
+      "num": 70,
+      "lod": 3,
+      "type": "tita",
+      "text": "X is a number formed by writing the →rst 1002 natural numbers one after another from left to right then\n→nd the remainder when X is divided by 9 is",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q071",
+      "num": 71,
+      "lod": 3,
+      "type": "tita",
+      "text": "X is a number formed by writing the →rst 1002 whole\nnumbers one after another from left to right then\na vertical line is drawn which divides the number\nsuch that the number of digits on either side of line\nis the same. Find the remainder when the number\nformed by the digits on the left of the vertical line,\nis divided by 625.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q072",
+      "num": 72,
+      "lod": 3,
+      "type": "tita",
+      "text": "Amongst all the four digit natural numbers divisible\nby 24, how many have the number 24 in them?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q073",
+      "num": 73,
+      "lod": 3,
+      "type": "tita",
+      "text": "If X is a natural number & X < 100 then the number\nof values of X for which 18X + 2 & 12X + 1 are\nrelatively prime?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q074",
+      "num": 74,
+      "lod": 3,
+      "type": "mcq",
+      "text": "P is a natural number of at least 6 digits and its leftmost digit is 7. When this leftmost digit is removed\nfrom P, the number thus obtained is found to be\n1/21 times of P. What is the product of the all the\nnonzero digits of P.",
+      "options": {
+        "a": "126",
+        "b": "105",
+        "c": "60",
+        "d": "72"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q075",
+      "num": 75,
+      "lod": 3,
+      "type": "tita",
+      "text": "X! is completely divisible by1151 but not by 1152.\nWhat is the sum of digits of largest such number X?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q076",
+      "num": 76,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If ‘a’ is a natural number and HCF of a, a + 5 is 5. If\nthe LCM of the two numbers is a three-digit number,\nthen what is the difference between the maximum &\nminimum possible values of the smaller number?",
+      "options": {
+        "a": "25",
+        "b": "35",
+        "c": "40",
+        "d": "45"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q077",
+      "num": 77,
+      "lod": 3,
+      "type": "mcq",
+      "text": "How many times would 1 be used while writing all\nthe natural numbers from 8 to 127 in the Binary\nnumber system?",
+      "options": {
+        "a": "212",
+        "b": "218",
+        "c": "424",
+        "d": "436"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q078",
+      "num": 78,
+      "lod": 3,
+      "type": "tita",
+      "text": "What is the maximum number of elements that one\ncan pick from the set of natural numbers from 1 to\n20 such that the product of no two of them results\nin a perfect square or perfect cube?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q079",
+      "num": 79,
+      "lod": 3,
+      "type": "mcq",
+      "text": "abcdefghij is a ten digit number with distinct digits\nsuch that a > b > c, d > e > f, g > h > i > j. a, b,\nc are consecutive even digits and g, h, i, j are consecutive odd digits. If d + e+ f =9, then what is the\na×b×c×d ˘\nvalue of È\n(where [] denotes greatest\nÍÎ\n˙˚\ni\ninteger function)?\nSpace for Rough Work",
+      "options": {
+        "a": "42",
+        "b": "0",
+        "c": "54",
+        "d": "66"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q080",
+      "num": 80,
+      "lod": 3,
+      "type": "tita",
+      "text": "N= abc is a three digit number, the sum of whose\ndigits is 1/7th of the product of its digits. Then how\nmany possible sets of (a, b, c) are possible?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch01-lod3-q081",
+      "num": 81,
+      "lod": 3,
+      "type": "mcq",
+      "text": "(3132!)10 = ( x)34, then what will be the number of\nconsecutive zeroes at the end of ‘x’?\nNumber Systems I.69\nanswer key\nLevel of Dif→culty (I)",
+      "options": {
+        "a": "124",
+        "b": "167",
+        "c": "194",
+        "d": "None of these."
+      },
+      "answer": null,
+      "solution": null
+    }
+  ],
+  "questionCount": 385,
+  "lodCounts": {
+    "lod1": 174,
+    "lod2": 135,
+    "lod3": 76
+  }
+}

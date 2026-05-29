@@ -1,0 +1,1086 @@
+{
+  "id": "ch07",
+  "num": 7,
+  "title": "Interest",
+  "block": "III",
+  "blockName": "Arithmetic",
+  "topic": "Arithmetic",
+  "notes": {
+    "intro": "the second\nyear and due to mass exodus, it decreases by 5% in the\nthird year. What will be its population after 3 years, if\ntoday it is 10,000?\n(a) 11,540\n(b) 13,860\n(c) 12,860\n(d) 12,540",
+    "concepts": [
+      "the second\nyear and due to mass exodus, it decreases by 5% in the\nthird year. What will be its population after 3 years, if\ntoday it is 10,000?\n(a) 11,540\n(b) 13,860\n(c) 12,860\n(d) 12,540",
+      "At the end of third year it will be 13,200-5% of 13,200 =\n12,540.\nProblem 7.10 Seth Ankoosh Gawdekar borrows a sum\nof ` 1200 at the beginning of a year. After 4 months,\n` 1800 more is borrowed at a rate of interest double the\nprevious one. At the end of the year, the sum of interest\non both the loans is ` 216. What is the →rst rate of interest per annum?\n(a) 9%\n(b) 6%\n(c) 8%\n(d) 12%\nSolution Let the rate of interest be = r%\nThen, interest earned from ` 1200 at the end of year\n= (1200r)/100 = ` 12r\nAgain, interest earned from ` 1800 at the end of year =\n(1800/100) × (8/12) × 2r = ` 24r\nSo, total interest earned = 36r, which equals 216\nfi r = 216/36 = 6%\nAlternatively: Checking the options.\nOption (a) 9%\nInterest from ` 1200 = 9% of 1200 = 108\nInterest from ` 1800 = two-thirds of 18% on ` 1800 =\n12% on ` 1800 = ` 216\nTotal interest = ` 324\nOption (b) 6%\nInterest earned from ` 1200 = 6% on 1200 = ` 72\nInterest earned from ` 1800 = two-thirds of 12% on `\n1800 = ` 144\n(We were able to calculate the interest over second part\nvery easily after observing in option (a) that interest earned\nover second part is double the interest earned over →rst part).\nTotal interest = ` 216\nWe need not check any other option now.\nProblem 7.11 Rajiv lend out ` 9 to Anni on condition\nthat the amount is payable in 10 months by 10 equal instal-",
+      "ments of ` 1 each payable at the start of every month. What\nis the rate of interest per annum if the →rst instalment has\nto be paid one month from the date the loan is availed.\nSolution Money coming in : ` 9 today\nMoney going out:\n` 1 one month later + ` 1, 2 months later … + ` 1, 10\nmonths later.\nThe value of the money coming in should equal the value\nof the money going out for the loan to be completely paid\noff.\nIn the present case, for this to happen, the following\nequation has to hold:\n` 9 + Interest on ` 9 for 10 months = (` 1 + Interest on\n` 1 for 9 months) + (` 1 + interest on ` 1 for 8 months)\n+ (` 1 + interest on ` 1 for 7 months) + (` 1 + interest on\n` 1 for 6 months)\n+ (` 1 + interest on ` 1 for 5 months) + (` 1 + interest on\n` 1 for 4 months)\n+ (` 1 + interest on ` 1 for 3 months) + (` 1 + interest on\n` 1 for 2 months)\n+ (` 1 + interest on ` 1 for 1 months) + (` 1)\n` 9 + Interest on ` 1 for 90 months = ` 10 + Interest on\n` 10 for 45 months.\nÆ Interest on ` 1 for 90 months – Interest on ` 1 for 45\nmonths = ` 10 – ` 9\nÆ Interest on ` 1 for 45 months = ` 1 (i.e. money would\ndouble in 45 months.)\n100%\nHence the rate of interest =\n= 2.222% per month.\n45\nSo, the annual rate of interest = 26.66% per annum.",
+      "Note: The starting equation used to solve this problem\ncomes from crediting the borrower with the interest due\nto early payment for each of his →rst nine instalments.",
+      "l. ` 1200 is lent out at 5% per annum simple interest\nfor 3 years. Find the amount after 3 years.\n(a) ` 1380\n(b) ` 1290\n(c) ` 1470\n(d) ` 1200\n2. Interest obtained on a sum of ` 5000 for 3 years is\n` 1500. Find the rate percent.\n(a) 8%\n(b) 9%\n(c) 10%\n(d) 11%\n3. ` 2100 is lent at compound interest of 5% per\nannum for 2 years. Find the amount after two years.\n(a) ` 2300\n(b) ` 2315.25\n(c) ` 2310\n(d) ` 2320\n4. ` 1694 is repaid after two years at compound\ninterest. Which of the following is the value of the\nprincipal and the rate?\n(a) ` 1200, 20%\n(b) ` 1300, 15%\n(c) ` 1400, 10%\n(d) ` 1500, 12%\n5. Find the difference between the simple and the compound interest at 5% per annum for 2 years on a\nprincipal of ` 2000.\n(a) 5\n(b) 105\n(c) 4.5\n(d) 5.5\n6. Find the rate of interest if the amount after 2 years\nof simple interest on a capital of ` 1200 is ` 1440.\n(a) 8%\n(b) 9%\n(c) 10%\n(d) 11%\n7. After how many years will a sum of ` 12,500\nbecome ` 17,500 at the rate of 10% per annum?\n(a) 2 years\n(b) 3 years\n(c) 4 years\n(d) 5 years\n8. What is the difference between the simple interest\non a principal of ` 500 being calculated at 5% per\nannum for 3 years and 4% per annum for 4 years?\n(a) ` 5\n(b) ` 10\n(c) ` 20\n(d) ` 40\n9. What is the simple interest on a sum of `700 if the\nrate of interest for the →rst 3 years is 8% per annum\nand for the last 2 years is 7.5% per annum?\n(a) ` 269.5\n(b) ` 283\n(c) ` 273\n(d) ` 280\n10. What is the simple interest for 9 years on a sum of\n` 800 if the rate of interest for the →rst 4 years is\n8% per annum and for the last 4 years is 6% per\nannum?",
+      "(a) 400\n(b) 392\n(c) 352\n(d) Cannot be determined\n11. What is the difference between compound interest\nand simple interest for the sum of ` 20,000 over a\n2 year period if the compound interest is calculated\nat 20% and simple interest is calculated at 23%?\n(a) ` 400\n(b) ` 460\n(c) ` 440\n(d) ` 450\n12. Find the compound interest on ` 1000 at the rate\nof 20% per annum for 18 months when interest is\ncompounded half-yearly.\n(a) ` 331\n(b) ` 1331\n(c) ` 320\n(d) ` 325\n13. Find the principal if the interest compounded at the\nrate of 10% per annum for two years is ` 420.\n(a) ` 2000\n(b) ` 2200\n(c) ` 1000\n(d) ` 1100\n14. Find the principal if compound interest is charged\non the principal at the rate of 16 23 % per annum for\ntwo years and the sum becomes ` 196.\n(a) ` 140\n(b) ` 154\n(c) ` 150\n(d) ` 144\n15. The SBI lent ` 1331 to the Tata group at a compound interest and got ` 1728 after three years.\nWhat is the rate of interest charged if the interest\nis compounded annually?\n(a) 11%\n(b) 9.09%\n(c) 12%\n(d) 8.33%\n16. In what time will ` 3300 become ` 3399 at 6% per\nannum interest compounded half-yearly?\n(a) 6 months\n(b) 1 year\n1\n(d) 3 months\n(c) 1 2 year\n17. Ranjan purchased a Maruti van for ` 1,96,000 and\n2\nthe rate of depreciation is 14 % per annum. Find\n7\nthe value of the van after two years.\n(a) ` 1,40,000\n(b) ` 1,44,000\n(c) ` 1,50,000\n(d) ` 1,60,000\n18. At what percentage per annum, will ` 10,000 amount\nto 17,280 in three years? (Compound Interest being\nreckoned)\n(a) 20%\n(b) 14%\n(c) 24%\n(d) 11%\n19. Vinay deposited ` 8000 in ICICI Bank, which\npays him 12% interest per annum compounded"
+    ],
+    "formulas": [
+      "At the end of third year it will be 13,200-5% of 13,200 =",
+      "on both the loans is ` 216. What is the →rst rate of interest per annum?",
+      "Solution Let the rate of interest be = r%",
+      "= (1200r)/100 = ` 12r",
+      "Again, interest earned from ` 1800 at the end of year =",
+      "(1800/100) × (8/12) × 2r = ` 24r",
+      "So, total interest earned = 36r, which equals 216",
+      "fi r = 216/36 = 6%",
+      "Interest from ` 1200 = 9% of 1200 = 108",
+      "Interest from ` 1800 = two-thirds of 18% on ` 1800 =",
+      "12% on ` 1800 = ` 216",
+      "Total interest = ` 324",
+      "Interest earned from ` 1200 = 6% on 1200 = ` 72",
+      "Interest earned from ` 1800 = two-thirds of 12% on `",
+      "over second part is double the interest earned over →rst part)."
+    ]
+  },
+  "questions": [
+    {
+      "id": "ch07-lod1-q028",
+      "num": 28,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of money is borrowed and paid back in two\nequal annual instalments of ` 882, allowing 5%\ncompound interest. The sum borrowed was",
+      "options": {
+        "a": "` 1640",
+        "b": "` 1680",
+        "c": "` 1620",
+        "d": "` 1700"
+      },
+      "answer": "882",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q029",
+      "num": 29,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two equal sums were borrowed at 8% simple interest per annum for 2 years and 3 years respectively.\nThe difference in the interest was ` 56. The sum\nborrowed were",
+      "options": {
+        "a": "` 690",
+        "b": "` 700",
+        "c": "` 740",
+        "d": "` 780"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q030",
+      "num": 30,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In what time will the simple interest on ` 1750 at\n9% per annum be the same as that on ` 2500 at\n10.5% per annum in 4 years?",
+      "options": {
+        "a": "6 years and 8 months",
+        "b": "7 years and 3 months",
+        "c": "6 years",
+        "d": "7 years and 6 months"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q031",
+      "num": 31,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In what time will ` 500 give ` 50 as interest at the\nrate of 5% per annum simple interest?",
+      "options": {
+        "a": "2 years",
+        "b": "5 years",
+        "c": "3 years",
+        "d": "4 years"
+      },
+      "answer": "Interest",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q032",
+      "num": 32,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Shashikant derives an annual income of ` 688.25\nfrom ` 10,000 invested partly at 8% p.a. and partly\nat 5% p.a. simple interest. How much of his money\nis invested at 5% ?",
+      "options": {
+        "a": "` 5000",
+        "b": "` 4225",
+        "c": "` 4800",
+        "d": "` 3725"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q033",
+      "num": 33,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the difference between the simple interest and\ncompound interest on some principal amount at 20%\nper annum for 3 years is ` 48, then the principle\namount must be",
+      "options": {
+        "a": "` 550",
+        "b": "` 500",
+        "c": "` 375",
+        "d": "` 400"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q034",
+      "num": 34,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Raju lent ` 400 to Ajay for 2 years, and ` 100 to\nManoj for 4 years and received together from both\n` 60 as interest. Find the rate of interest, simple\ninterest being calculated.",
+      "options": {
+        "a": "5%",
+        "b": "6%",
+        "c": "8%",
+        "d": "9%"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q035",
+      "num": 35,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In what time will ` 8000 amount to 40,000 at 4%\nper annum? (simple interest being reckoned)",
+      "options": {
+        "a": "100 years",
+        "b": "50 years",
+        "c": "110 years",
+        "d": "160 years"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q036",
+      "num": 36,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What annual payment will discharge a debt of\n` 808 due in 2 years at 2% per annum?",
+      "options": {
+        "a": "` 200",
+        "b": "` 300",
+        "c": "` 400",
+        "d": "` 350"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q037",
+      "num": 37,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of money becomes 4 times at simple interest\nin 10 years. What is the rate of interest?",
+      "options": {
+        "a": "10%",
+        "b": "20%",
+        "c": "30%",
+        "d": "40%"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q038",
+      "num": 38,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of money doubles itself in 5 years. In how\nmany years will it become four fold (if interest is\ncompounded)?",
+      "options": {
+        "a": "15",
+        "b": "10",
+        "c": "20",
+        "d": "12"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q039",
+      "num": 39,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A difference between the interest received from two\ndifferent banks on ` 400 for 2 years is ` 4. What is\nthe difference between their rates?",
+      "options": {
+        "a": "0.5%",
+        "b": "0.2%",
+        "c": "0.23%",
+        "d": "0.52%"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q040",
+      "num": 40,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of money placed at compound interest doubles\nitself in 3 years. In how many years will it amount\nto 8 times itself?",
+      "options": {
+        "a": "9 years",
+        "b": "8 years",
+        "c": "27 years",
+        "d": "7 years"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q041",
+      "num": 41,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the compound interest on a certain sum for 2 years\nis ` 21. What could be the simple interest?",
+      "options": {
+        "a": "` 20",
+        "b": "` 16",
+        "c": "` 18",
+        "d": "` 20.5"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q042",
+      "num": 42,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Divide ` 6000 into two parts so that simple interest\non the →rst part for 2 years at 6% p.a. may be equal\nto the simple interest on the second part for 3 years\nat 8% p.a.",
+      "options": {
+        "a": "` 4000, ` 2000",
+        "b": "` 5000, ` 1000",
+        "c": "` 3000, ` 3000",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q043",
+      "num": 43,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Divide ` 3903 between Amar and Akbar such that\nAmar’s share at the end of 7 years is equal to Akbar’s share at the end of 9 years at 4% p.a. rate of\ncompound interest.",
+      "options": {
+        "a": "Amar = ` 2028, Akbar = ` 1875",
+        "b": "Amar = ` 2008, Akbar = ` 1000",
+        "c": "Amar = ` 2902, Akbar = ` 1001",
+        "d": "Amar = ` 2600, Akbar = ` 1303"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q044",
+      "num": 44,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of money becomes 7/4 of itself in 6 years\nat a certain rate of simple interest. Find the rate of\ninterest.\nSpace for Rough Work",
+      "options": {
+        "a": "12%",
+        "b": "12.5%",
+        "c": "8%",
+        "d": "14%"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q045",
+      "num": 45,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sanjay borrowed ` 900 at 4% p.a. and ` 1100 at\n5% p.a. for the same duration. He had to pay ` 364\nin all as interest. What is the time period in years?",
+      "options": {
+        "a": "5 years",
+        "b": "3 years",
+        "c": "2 years",
+        "d": "4 years"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q046",
+      "num": 46,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the difference between compound and simple interest on a certain sum of money for 3 years at 2%\np.a. is ` 604, what is the sum?",
+      "options": {
+        "a": "5,00,000",
+        "b": "4,50,000",
+        "c": "5,10,000",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q047",
+      "num": 47,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If a certain sum of money becomes double at simple\ninterest in 12 years, what would be the rate of interest\nper annum?",
+      "options": {
+        "a": "8.33",
+        "b": "10",
+        "c": "12",
+        "d": "14"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q048",
+      "num": 48,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Three persons Amar, Akbar and Anthony invested\ndifferent amounts in a →xed deposit scheme for one\nyear at the rate of 12% per annum and earned a total interest of ` 3,240 at the end of the year. If the\namount invested by Akbar is ` 5000 more than the\namount invested by Amar and the amount invested\nby Anthony is ` 2000 more than the amount invested\nby Akbar, what is the amount invested by Akbar?",
+      "options": {
+        "a": "` 12,000",
+        "b": "` 10,000",
+        "c": "` 7000",
+        "d": "` 5000"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q049",
+      "num": 49,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of ` 600 amounts to ` 720 in 4 years at\nsimple interest. What will it amount to if the rate\nof interest is increased by 2%?",
+      "options": {
+        "a": "` 648",
+        "b": "` 768",
+        "c": "` 726",
+        "d": "` 792"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q050",
+      "num": 50,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the amount of equal instalment, if a sum of\n`1428 due 2 years hence has to be completely repaid\nin 2 equal annual instalments starting next year.\nInterest III.81\nLevel of Dif→culty (II)",
+      "options": {
+        "a": "700",
+        "c": "650",
+        "b": "800",
+        "d": "cannot be determined"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of money invested at simple interest triples\nitself in 8 years at simple interest. Find in how many\nyears will it become 8 times itself at the same rate?",
+      "options": {
+        "a": "24 years",
+        "b": "28 years",
+        "c": "30 years",
+        "d": "21 years"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of money invested at simple interest triples\nitself in 8 years. How many times will it become in\n20 years time?",
+      "options": {
+        "a": "8 times",
+        "b": "7 times",
+        "c": "6 times",
+        "d": "9 times"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If ` 1100 is obtained after lending out ` x at 5%\nper annum for 2 years and ` 1800 is obtained after\nlending out ` y at 10% per annum for 2 years, →nd\nx + y.\nDirections for questions 4 to 6: Read the following\nand answer the questions that follow.",
+      "options": {
+        "a": "` 2500",
+        "b": "` 3000",
+        "c": "` 2000",
+        "d": "` 2200"
+      },
+      "answer": "2100",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A certain sum of money was lent under the following\nrepayment scheme based on Simple Interest:\n 8% per annum for the initial 2 years\n 9.5% per annum for the next 4 years\n 11% per annum for the next 2 years\n 12% per annum after the →rst 8 years\n Find the amount which a sum of ` 9000 taken for\n12 years becomes at the end of 12 years.",
+      "options": {
+        "a": "20,200",
+        "b": "19,800",
+        "c": "20,000",
+        "d": "20,160"
+      },
+      "answer": "1400",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If a person repaid ` 22,500 after 10 years of borrowing a loan, at 10% per annum simple interest →nd\nout what amount did he take as a loan?",
+      "options": {
+        "a": "11,225",
+        "b": "11,250",
+        "c": "10,000",
+        "d": "7500"
+      },
+      "answer": "Simple",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Mr. X, a very industrious person, wants to establish\nhis own unit. For this he needs an instant loan of\n` 5,00,000 and, every →ve years he requires an additional loan of `100,000. If he had to clear all his\noutstandings in 20 years, and he repays the principal\nof the →rst loan equally over the 20 years, →nd what\namount he would have to pay as interest on his initial\nborrowing if the rate of interest is 10% p.a. Simple\nInterest.",
+      "options": {
+        "a": "` 560,000",
+        "b": "` 540,000",
+        "c": "` 525,000",
+        "d": "` 500,000"
+      },
+      "answer": "Interest",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The population of a city is 200,000. If the annual\nbirth rate and the annual death rate are 6% and 3%\nrespectively, then calculate the population of the city\nafter 2 years.",
+      "options": {
+        "a": "212,090",
+        "b": "206,090",
+        "c": "212,000",
+        "d": "212,180"
+      },
+      "answer": "12500",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A part of ` 38,800 is lent out at 6% per six months.\nThe rest of the amount is lent out at 5% per annum\nafter one year. The ratio of interest after 3 years\nfrom the time when →rst amount was lent out is\n5 : 4. Find the second part that was lent out at 5%.",
+      "options": {
+        "a": "` 26,600",
+        "b": "` 28,800",
+        "c": "` 27,500",
+        "d": "` 28,000"
+      },
+      "answer": null,
+      "solution": "5% for 3 years (SI) = 15% of the amount; At the same time 4% SI for 4 years means 16% of the amount. The difference between the two is 1% of the amount. 1% of 500 = ` 5"
+    },
+    {
+      "id": "ch07-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the simple interest is 10.5% annual and compound\ninterest is 10% annual, →nd the difference between\nthe interests after 3 years on a sum of ` 1000.",
+      "options": {
+        "a": "` 15",
+        "b": "` 12",
+        "c": "` 16",
+        "d": "` 11"
+      },
+      "answer": "c",
+      "solution": "8% @ 700 = ` 56 per year for 3 years 7.5% @ 700 = ` 52.5 per year for 2 years Total interest = 56 ¥ 3 + 52.5 ¥ 2 = 273."
+    },
+    {
+      "id": "ch07-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sum of ` 1000 after 3 years at compound interest becomes a certain amount that is equal to the\namount that is the result of a 3 year depreciation\nfrom ` 1728. Find the difference between the rates\nof CI and depreciation. (Given CI is 10% p.a.). (Approximately)",
+      "options": {
+        "a": "3.33%",
+        "b": "0.66%",
+        "c": "3%",
+        "d": "2%"
+      },
+      "answer": "d",
+      "solution": "8% of 800 for 4 years + 6% of 800 for 4 years = 64 ¥ 4 + 48 ¥ 4 = 256 + 192 = 448. However, we do not know the rate of interest applicable in the 5th year and hence cannot determine the exact simple interest for 9 years."
+    },
+    {
+      "id": "ch07-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The RBI lends a certain amount to the SBI on simple\ninterest for two years at 20%. The SBI gives this\nentire amount to Bharti Telecom on compound interest for two years at the same rate annually. Find the\npercentage earning of the SBI at the end of two years\non the entire amount.\n(1/7)%\n(2/7)%\n(6/7)%",
+      "options": {
+        "a": "4%",
+        "b": "3",
+        "c": "3",
+        "d": "3"
+      },
+      "answer": null,
+      "solution": "Simple interest @ 23% = 4600 ¥ 2 = 9200 Compound interest @ 20% 10% ≠ 10% ≠"
+    },
+    {
+      "id": "ch07-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the compound interest on ` 64,000 for 1 year\nat the rate of 10% per annum compounded quarterly\n(to the nearest integer).",
+      "options": {
+        "a": "` 8215",
+        "b": "` 8205",
+        "c": "` 8185",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": "1000 æææÆ 1100 æææÆ 1210 æææÆ 1331. Compound interest = 1331 – 1000 = ` 331"
+    },
+    {
+      "id": "ch07-lod1-q013",
+      "num": 13,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If a principal P becomes Q in 2 years when interest R% is compounded half-yearly. And if the same\nprincipal P becomes Q in 2 years when interest S%\nis compound annually, then which of the following\nis true?",
+      "options": {
+        "a": "R > S",
+        "b": "R = S",
+        "c": "R < S",
+        "d": "R £ S"
+      },
+      "answer": "a",
+      "solution": "Solve using options. Thinking about option (a): 2000 Æ 2200 (after 1 year) Æ 2420 (after 2 years) which gives us an interest of `420 as required in the problem. Hence, this is the correct answer."
+    },
+    {
+      "id": "ch07-lod1-q014",
+      "num": 14,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the compound interest at the rate of 10% for 3\nyears on that principal which in 3 years at the rate\nof 10% per annum gives ` 300 as simple interest.",
+      "options": {
+        "a": "` 331",
+        "b": "` 310",
+        "c": "` 330",
+        "d": "` 333"
+      },
+      "answer": "d",
+      "solution": "P ¥ 7/6 ¥ 7/6 = 196 Æ P = (196 ¥ 6 ¥ 6)/7 ¥ 7 = 144."
+    },
+    {
+      "id": "ch07-lod1-q015",
+      "num": 15,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The difference between CI and SI on a certain sum\nof money at 10% per annum for 3 years is ` 620.\nFind the principal if it is known that the interest is\ncompounded annually.",
+      "options": {
+        "a": "` 200,000",
+        "b": "` 20,000",
+        "c": "` 10,000",
+        "d": "` 100,000"
+      },
+      "answer": null,
+      "solution": "1331 ¥ 1.090909 ¥ 1.090909 ¥ 1.090909 = 1331 ¥ 12/11 ¥ 12/11 ¥ 12/11 = 1728. Hence, the rate of compound interest is 9.09%."
+    },
+    {
+      "id": "ch07-lod1-q016",
+      "num": 16,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The population of Mangalore was 1283575 on 1\nJanuary 2011 and the growth rate of population\nwas 10% in the last year and 5% in the years prior\nto it, the only exception being 2009 when because\nof a huge exodus there was a decline of 20% in\npopulation. What was the population on January 1,\n2005?",
+      "options": {
+        "a": "1,000,000",
+        "b": "1,200,000",
+        "c": "1,250,000",
+        "d": "1,500,000"
+      },
+      "answer": null,
+      "solution": "Since compounding is half yearly, it is clear that the rate of interest charged for 6 months would be 3% 3% ≠ 3300 æææ Æ 3399."
+    },
+    {
+      "id": "ch07-lod1-q017",
+      "num": 17,
+      "lod": 1,
+      "type": "mcq",
+      "text": "According to the 2011 census, the population growth\nrate of Lucknow is going to be an increasing AP\nwith →rst year’s rate as 5% and common difference\nas 5%, but simultaneously the migration, rate is an\nincreasing GP with →rst term as 1% and common\nratio of 2. If the population on 31 December 2010\nis 1 million, then →nd in which year will Lucknow\nwitness its →rst fall in population?",
+      "options": {
+        "a": "2015",
+        "b": "2016",
+        "c": "2017",
+        "d": "2018"
+      },
+      "answer": "b",
+      "solution": "The value of the van would be 196000 ¥ 6/7 ¥ 6/7 = 144000"
+    },
+    {
+      "id": "ch07-lod1-q018",
+      "num": 18,
+      "lod": 1,
+      "type": "tita",
+      "text": "Mohit Anand borrows a certain sum of money from\nthe Mindworkzz Bank at 10% per annum at compound interest. The entire debt is discharged in full\nby Mohit Anand",
+      "options": {},
+      "answer": "a",
+      "solution": "Solve through options: 20% ≠ 20% ≠ 20% ≠ 10000 æææ Æ 12000 æææ Æ 14400 æææ Æ 17280."
+    },
+    {
+      "id": "ch07-lod2-q019",
+      "num": 19,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In order to buy a car, a man borrowed ` 180,000\non the condition that he had to pay 7.5% interest\nevery year. He also agreed to repay the principal\nin equal annual instalments over 21 years. After a\ncertain number of years, however, the rate of interest\nhas been reduced to 7%. It is also known that at the\nend of the agreed period, he will have paid in all\n` 270,900 in interest. For how many years does he\npay at the reduced interest rate?",
+      "options": {
+        "a": "7 years",
+        "b": "12 years",
+        "c": "14 years",
+        "d": "16 years"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q020",
+      "num": 20,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A sum of ` 8000 is borrowed at 5% p.a. compound\ninterest and paid back in 3 equal annual instalments.\nWhat is the amount of each instalment?",
+      "options": {
+        "a": "` 2937.67",
+        "b": "` 3000",
+        "c": "` 2037.67",
+        "d": "` 2739.76"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q021",
+      "num": 21,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Three amounts x, y and z are such that y is the simple\ninterest on x and z is the simple interest on y. If in\nall the three cases, rate of interest per annum and\nthe time for which interest is calculated is the same,\nthen →nd the relation between x, y and z.",
+      "options": {
+        "a": "xyz = 1",
+        "b": "x2 = yz",
+        "c": "z = x2y",
+        "d": "y2 = xz"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q022",
+      "num": 22,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A person lent out some money for 1 year at 6% per\nannum simple interest and after 18 months, he again\nlent out the same money at a simple interest of 24%\nper annum. In both the cases, he got ` 4704. Which\nof these could be the amount that was lent out in\neach case if interest is paid half-yearly?",
+      "options": {
+        "a": "` 4000",
+        "b": "` 4400",
+        "c": "` 4200",
+        "d": "` 3600"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q023",
+      "num": 23,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A person bought a motorbike under the following\nscheme: Down payment of ` 15,000 and the rest\namount at 8% per annum for 2 years. In this way,\nhe paid ` 28,920 in total. Find the actual price of\nthe motorbike. (Assume simple interest).",
+      "options": {
+        "a": "` 26,000",
+        "b": "` 27,000",
+        "c": "` 27,200",
+        "d": "` 26,500"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q024",
+      "num": 24,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Hans Kumar borrows ` 7000 at simple interest from\nthe village moneylender. At the end of 3 years, he\nagain borrows ` 3000 and closes his account after\npaying ` 4615 as interest after 8 years from the\ntime he made the →rst borrowing. Find the rate of\ninterest.",
+      "options": {
+        "a": "3.5%",
+        "b": "4.5%",
+        "c": "5.5%",
+        "d": "6.5%"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q025",
+      "num": 25,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Some amount was lent at 6% per annum simple interest. After one year, ` 6800 is repaid and the rest of\nthe amount is repaid at 5% per annum. If the second\nyear’s interest is half of the →rst year’s interest, →nd\nwhat amount of money was lent out.",
+      "options": {
+        "a": "` 17,000",
+        "b": "` 16,800",
+        "c": "` 16,500",
+        "d": "` 17,500"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q026",
+      "num": 26,
+      "lod": 2,
+      "type": "mcq",
+      "text": "An amount of ` 12820 due 3 years hence, is fully\nrepaid in three annual instalments starting after 1\nyear. The →rst instalment is 1/2 the second instalment and the second instalment is 2/3 of the third\ninstalment. If the rate of interest is 10% per annum,\n→nd the →rst instalment.\nDirections for questions 27 and 28: Read the following and answer the questions that follow.\nThe leading Indian bank ISBI, in the aftermath of the\nKargil episode, announced a loan scheme for the Indian\nArmy. under this scheme; the following options were\navailable.\nInterest III.83\nLoans upto\nSoft loan\nInterest\n(Normal)\nScheme 1\n` 50,000\n50% of total\n8%\nScheme 2\n` 75,000\n40% of total\n10%\nScheme 3\n` 100,000\n30% of total\n12%\nScheme 4\n` 200,000\n20% of total\n14%\nSoft loan is a part of the total loan and the interest on this\nloan is half the normal rate of interest charged.",
+      "options": {
+        "a": "` 2400",
+        "b": "` 1800",
+        "c": "` 2000",
+        "d": "` 2500"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q027",
+      "num": 27,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Soldier A took some loan under scheme 1, soldier\nB under scheme 2, soldier C under scheme 3 and\nsoldier D under scheme 4. If they get the maximum\nloan under their respective schemes for one year, →nd\nwhich loan is MUL (MUL—Maximum Utility Loan,\nis de→ned as the ratio of the total loan to interest paid\nover the time. Lower this ratio the better the MUL).",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q028",
+      "num": 28,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Extending this plan, ISBI further announced that\nwidows of all the martyrs can get the loans in which\nthe proportion of soft loan will be double. This\nincrease in the proportion of the soft loan component\nis only applicable for the →rst year. For all subsequent\nyears, the soft loan component applicable on the loan,\nSpace for Rough Work\nfollows the values provided in the table. The widow\nof a soldier takes ` 40,000 under scheme 1 in one\naccount for 1 year and ` 60,000 under scheme 2\nfor 2 years. Find the total interest paid by her over\nthe 2 year period.",
+      "options": {
+        "a": "` 11,600",
+        "b": "` 10,000",
+        "c": "` 8800",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q029",
+      "num": 29,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A sum is divided between A and B in the ratio of\n1 : 2. A purchased a car from his part, which depreciates 14 72 % per annum and B deposited his amount\nin a bank, which pays him 20% interest per annum\ncompounded annually. By what percentage will the\ntotal sum of money increase after two years due to\nthis investment pattern (approximately)?",
+      "options": {
+        "a": "20%",
+        "b": "26.66%",
+        "c": "30%",
+        "d": "25%"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q030",
+      "num": 30,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Michael Bolton has $90,000 with him. He purchases\na car, a laptop and a flat for $15,000, $13,000 and\n$35,000 respectively and puts the remaining money\nin a bank deposit that pays compound interest @15%\nper annum. After 2 years, he sells off the three items\nat 80% of their original price and also withdraws his\nentire money from the bank by closing the account.\nWhat is the total change in his asset?\nanswer key\nLevel of Dif→culty (I)",
+      "options": {
+        "a": "– 4.5%",
+        "b": "+3.5%",
+        "c": "– 4.32%",
+        "d": "+5.5%"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q001",
+      "num": 1,
+      "lod": 2,
+      "type": "tita",
+      "text": "The annual interest would be ` 60. After 3 years the\ntotal value would be 1200 + 60 × 3 = 1380",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q002",
+      "num": 2,
+      "lod": 2,
+      "type": "tita",
+      "text": "The interest earned per year would be 1500/3=500.\nThis represents a 10% rate of interest.",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q003",
+      "num": 3,
+      "lod": 2,
+      "type": "tita",
+      "text": "2100 + 5% of 2100 = 2100 + 105 = 2205 (after 1\nyear). Next year it would become:\n 2205 + 5% of 2205 = 2205 +110.25 = 2315.25\n10% ≠",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q004",
+      "num": 4,
+      "lod": 2,
+      "type": "tita",
+      "text": "1400 æææÆ 1540 æææÆ 1694.",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q005",
+      "num": 5,
+      "lod": 2,
+      "type": "tita",
+      "text": "Simple Interest for 2 years = 100 + 100 = 200.\n Compound interest for 2 years: Year 1 = 5% of 2000\n= 100.\n Year 2: 5% of 2100 = 105 Æ Total compound interest = ` 205.\n Difference between the Simple and Compound interest = 205 – 200 = ` 5",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q006",
+      "num": 6,
+      "lod": 2,
+      "type": "tita",
+      "text": "Interest in 2 years = ` 240.\n Interest per year = ` 120\n Rate of interest = 10%",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q007",
+      "num": 7,
+      "lod": 2,
+      "type": "tita",
+      "text": "12500 @ 10% simple interest would give an interest\nof ` 1250 per annum. For a total interest of ` 5000, it\nwould take 4 years.\n20% ≠\n 20000 æææÆ 24000 æææÆ 28800\nÆ ` 8800 compound interest.\n Difference = 9200 – 8800 = ` 400.\n10% ≠\nSolutions and Shortcuts\n10% ≠",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q008",
+      "num": 8,
+      "lod": 2,
+      "type": "tita",
+      "text": "5% for 3 years (SI) = 15% of the amount; At the\nsame time 4% SI for 4 years means 16% of the\namount. The difference between the two is 1% of\nthe amount. 1% of 500 = ` 5",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q009",
+      "num": 9,
+      "lod": 2,
+      "type": "tita",
+      "text": "8% @ 700 = ` 56 per year for 3 years\n 7.5% @ 700 = ` 52.5 per year for 2 years\n Total interest = 56 × 3 + 52.5 × 2 = 273.",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q010",
+      "num": 10,
+      "lod": 2,
+      "type": "tita",
+      "text": "8% of 800 for 4 years + 6% of 800 for 4 years =\n64 × 4 + 48 × 4 = 256 + 192 = 448. However, we\ndo not know the rate of interest applicable in the 5th\nyear and hence cannot determine the exact simple\ninterest for 9 years.",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q011",
+      "num": 11,
+      "lod": 2,
+      "type": "tita",
+      "text": "Simple interest @ 23% = 4600 × 2 = 9200\n Compound interest @ 20%\n10% ≠\n10% ≠",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q012",
+      "num": 12,
+      "lod": 2,
+      "type": "tita",
+      "text": "1000 æææÆ 1100 æææÆ 1210 æææÆ 1331.\n Compound interest = 1331 – 1000 = ` 331",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q013",
+      "num": 13,
+      "lod": 2,
+      "type": "tita",
+      "text": "Solve using options. Thinking about option \n  2000 Æ 2200 (after 1 year) Æ 2420 (after 2 years)\nwhich gives us an interest of `420 as required in the\nproblem. Hence, this is the correct answer.",
+      "options": {
+        "a": ":"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q014",
+      "num": 14,
+      "lod": 2,
+      "type": "tita",
+      "text": "P × 7/6 × 7/6 = 196 Æ P = (196 × 6 × 6)/7 × 7\n= 144.",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q015",
+      "num": 15,
+      "lod": 2,
+      "type": "tita",
+      "text": "1331 × 1.090909 × 1.090909 × 1.090909 = 1331 ×\n12/11 × 12/11 × 12/11 = 1728. Hence, the rate of\ncompound interest is 9.09%.",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q016",
+      "num": 16,
+      "lod": 2,
+      "type": "tita",
+      "text": "Since compounding is half yearly, it is clear that the\nrate of interest charged for 6 months would be 3%\n3% ≠\n  3300 æææ\nÆ 3399.",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q017",
+      "num": 17,
+      "lod": 2,
+      "type": "tita",
+      "text": "The value of the van would be 196000 × 6/7 × 6/7\n= 144000",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q018",
+      "num": 18,
+      "lod": 2,
+      "type": "tita",
+      "text": "Solve through options:\n20% ≠\n20% ≠\n20% ≠\n  10000 æææ\nÆ 12000 æææ\nÆ 14400 æææ\nÆ\n17280.",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q019",
+      "num": 19,
+      "lod": 2,
+      "type": "tita",
+      "text": "12% per annum compounded quarterly means that\nthe amount would grow by 3% every 3 months.\n Thus, 8000 Æ 8000 + 3% of 8000 = 8240 after\n3 months Æ 8240 + 3% of 8240 = 8487.2 after 6\nmonths and so on till →ve 3 month time periods get\nover. It can be seen that the value would turn out to\nbe 9274.2.",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q020",
+      "num": 20,
+      "lod": 2,
+      "type": "tita",
+      "text": "For the last 5 years, the interest earned would be:\n30% of 360 = 108. Thus, interest earned in the →rst\n4 years would be ` 72 Æ ` 18 every year on an\namount of ` 360- which means that the rate of interest\nis 5%",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q021",
+      "num": 21,
+      "lod": 2,
+      "type": "tita",
+      "text": "He will get 20000 + 45.5% of 20000 = 29100.\n [Note: In this case we can take 13% simple interest\nInterest III.85\ncompounded half yearly to mean 6.5% interest getting added every 6 months. Thus, in 42 months it\nwould amount to 6.5 × 7 = 45.5%]\n6% ≠\n6% ≠\n6% ≠\nÆ 53000 æææ\nÆ 56180 æææ\nÆ",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q022",
+      "num": 22,
+      "lod": 2,
+      "type": "tita",
+      "text": "50000 æææ\n6% ≠\n6% ≠\n59550.8 æææ\nÆ 63123.84 æææ\nÆ 66911.27",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q023",
+      "num": 23,
+      "lod": 2,
+      "type": "tita",
+      "text": "100000 + 6% of 100000 (after the →rst 6 months) =\n106000.\n After 1 year: 106000 + 6% of 106000 = 112360\n After 1 ½ years: 112360 + 6% of 112360 = 119101.6\n After 2 years: 119101.6 + 6% of 119101.6 = 126247.69",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q024",
+      "num": 24,
+      "lod": 2,
+      "type": "tita",
+      "text": "(73/365) × 0.09 × 700 = ` 12.6.\n (Since the time period is 73 days)",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch07-lod2-q025",
+      "num": 25,
+      "lod": 2,
+      "type": "tita",
+      "text": "The average rate of interest he pays is 186 × 100/1500\n= 12.4%.\n The average rate of interest being 12.4%, it means\nthat the",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    }
+  ],
+  "questionCount": 78,
+  "lodCounts": {
+    "lod1": 41,
+    "lod2": 37,
+    "lod3": 0
+  }
+}

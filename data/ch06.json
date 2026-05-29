@@ -1,0 +1,2238 @@
+{
+  "id": "ch06",
+  "num": 6,
+  "title": "Profit & Loss",
+  "block": "III",
+  "blockName": "Arithmetic",
+  "topic": "Arithmetic",
+  "notes": {
+    "intro": "Note: Whether a quadratic function is maximum or\nminimum is decided by redifferentiating the differentiated equation. We then look at the sign of the constant\nterm to determine whether the value got by equating the\ndifferentiated equation to zero corresponds to the maximum\nor the minimum. In the cas",
+    "concepts": [
+      "Note: Whether a quadratic function is maximum or\nminimum is decided by redifferentiating the differentiated equation. We then look at the sign of the constant\nterm to determine whether the value got by equating the\ndifferentiated equation to zero corresponds to the maximum\nor the minimum. In the case of the constant term, left being\nnegative, we say that the function is a maxima function and\nhence the solution point got would be a maximum point.\nIn the event that the →nal constant term is positive, it is a\nminimum function.\nShort cut Just look at the coef→cient of x2 in the function.\nIf it is positive, equating the →rst differentiation to zero\nwould yield the minimum point, and if the coef→cient of\nx2 is negative, the function is a maximum function.\nProblem 6.17 For Problem 6.16, what is the value of the\nmaximum pro→ts for AMS Corporate?\nSolution For this, continuing from the previous question’s\nsolution, we just put the value of p = 175 in the equation\nfor pro→t. Thus, substitute p = 175 in the equation. Pro→t\n= –2p2 + 700p – 300 and get the answer.\nProblem 6.18 A shopkeeper allows a rebate of 25% to\nthe buyer. He sells only smuggled goods and as a bribe,\nhe pays 10% of the cost of the article. If his cost price is\n` 2500, then →nd what should be the marked price if he\ndesires to make a pro→t of 9.09%.\nSolution Use solving-while-reading as follows: Cost\nprice (= 2500) + Bribe (= 10% of cost of article = 250)\n= Total cost to the shopkeeper (2500 + 250 = 2750).",
+      "He wants a pro→t of 9.09 percent on this value Æ Using\nfraction to percentage change table we get 2750 + 9.09%\nof 2750 = 2750 + 250 = ` 3000.\nBut this ` 3000 is got after a rebate of 25%. Since we\ndo not have the value of the marked price on which 25%\nrebate is to be calculated, it would be a good idea to work\nreverse through the percentage change graphic:\nGoing from the marked price to ` 3000 requires a 25%\nrebate. hence the reverse process will be got by increasing\n` 3000 by 33.33% and getting ` 4000.\n[Notice the use of percentage change graphic in general\nand the product constancy table in particular in the solving\nof this question]\nA man sells three articles, one at a loss of\n10%, another at a pro→t of 20% and the third one at a loss\nof 25%. If the selling price of all the three is the same,\n→nd by how much percent is their average CP lower than\nor higher than their SP.",
+      "Note: It is always convenient to solve questions involving\npercentages by using the number 100. The reason for this is\nthat it reduces the amount of effort required in calculating\nthe solution. Hence, it goes without saying that the variable to be →xed at 100 should be the one with the highest",
+      "number of calculations associated with it. Another thumb\nrule for this is that the variable to be →xed at 100 should\nbe the one with which the most dif→cult calculation set is\nassociated.\nWe have to calculate: (average CP – average SP)/average\nSP.\nHere, the selling price is equal in all three cases. Since\nthe maximum number of calculations are associated with\nthe SP, we assume it to be 100. This gives us an average SP\nof 100 for the three articles. Then, the →rst article will be\nsold at 111.11, the second at 83.33 and the third at 133.33.\n(The student is advised to be fluent at these calculations)\nFurther, the CP of the three articles is 111.11 + 83.33\n+ 133.33 = 327.77.\nThe average CP of the three articles is 327.77/3\n= 109.2566.\nHence, (average CP – average SP)/average SP\n= 9.2566%. higher\nAny other process adopted for this problem is likely to\nrequire much more effort and time.",
+      "Note: This process will be feasible if you have worked\nwell with the percentage calculation techniques of the previous chapter.",
+      "1. By selling a watch for ` 560, a shopkeeper incurs\na loss of 20%. Find the cost price of the watch for\nthe shopkeeper.\n(a) ` 600\n(b) ` 700\n(c) ` 610\n(d) ` 640\n2. By selling a cap for ` 29.75, a man gains 6.25%.\nWhat will be the CP of the cap?\n(a) ` 26\n(b) ` 27.5\n(c) ` 28\n(d) ` 27.80\n3. A cellular phone when sold for ` 3808 fetches a pro→t\nof 12%. Find the cost price of the cellular phone.\n(a) ` 3190\n(b) ` 3400\n(c) `3260\n(d) ` 3560\n4. A machine costs ` 1025. If it is sold at a loss of\n25%, what will be its cost price as a percentage of\nits selling price?\n(a) 125%\n(b) 116.67%\n(c) 120%\n(d) 133.33%\n5. A shopkeeper sold goods for `1800 and made a pro→t\nof 20% in the process. Find his pro→t per cent if he\nhad sold his goods for ` 1687.5.\n(a) 11.5%\n(b) 10.5%\n(c) 12.5%\n(d) 6.25%\n6. A tablet is sold for `6612.5 at a pro→t of 15%. What\nwould have been the actual pro→t or loss on it, if it\nhad been sold for ` 5380?\n(a) ` 370\n(b) ` 410\n(c) ` 480\n(d) ` 340\n7. A marble table when sold for ` 6400 gives a loss of\n11.11% to the merchant who sells it. Calculate his\nloss or gain per cent, if he sells it for ` 7812.\n(a) Loss of 8.625%\n(b) Pro→t of 8.5%\n(c) Loss of 8%\n(d) Pro→t of 7.5%\n8. By selling bouquets for ` 69, a florist gains 15%. At\nwhat price should he sell the bouquets to gain 20%\non the cost price?\n(a) ` 72\n(b) ` 75\n(c) ` 66\n(d) ` 78\n9. A shopkeeper bought 480 chocolates at ` 6 per dozen. If he sold all of them at ` 0.75 each, what was\nhis pro→t per cent?\n(a) 50%\n(b) 33(1/3)%\n(c) 75%\n(d) 20%\n10. A feeding bottle is sold for ` 150. Sales tax accounts\nfor one-→fth of this and pro→t one-third of the remainder. Find the cost price of the feeding bottle.\n(a) ` 72\n(b) ` 80\n(c) ` 90\n(d) ` 76\n11. An iron merchant makes a pro→t of 30% by selling"
+    ],
+    "formulas": [
+      "In the event that the →nal constant term is positive, it is a",
+      "Short cut Just look at the coef→cient of x2 in the function.",
+      "If it is positive, equating the →rst differentiation to zero",
+      "would yield the minimum point, and if the coef→cient of",
+      "maximum pro→ts for AMS Corporate?",
+      "solution, we just put the value of p = 175 in the equation",
+      "for pro→t. Thus, substitute p = 175 in the equation. Pro→t",
+      "= –2p2 + 700p – 300 and get the answer.",
+      "` 2500, then →nd what should be the marked price if he",
+      "desires to make a pro→t of 9.09%.",
+      "price (= 2500) + Bribe (= 10% of cost of article = 250)",
+      "= Total cost to the shopkeeper (2500 + 250 = 2750).",
+      "He wants a pro→t of 9.09 percent on this value Æ Using",
+      "of 2750 = 2750 + 250 = ` 3000.",
+      "10%, another at a pro→t of 20% and the third one at a loss"
+    ]
+  },
+  "questions": [
+    {
+      "id": "ch06-lod1-q023",
+      "num": 23,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A whole-seller allows a discount of 25% on the list\nprice to a retailer. The retailer sells at 10% discount\non the list price. If the customer paid ` 54 for an\narticle, what is the pro→t by the retailer?",
+      "options": {
+        "a": "12",
+        "b": "9",
+        "c": "5",
+        "d": "8"
+      },
+      "answer": "b",
+      "solution": "The customer pays `54 after a discount of 10%. Hence, the list price must be ` 60. This also means that at a 25% discount, the retailer buys the item at `45. Hence, the profit for the retailer will be `9 (54 – 45)."
+    },
+    {
+      "id": "ch06-lod1-q024",
+      "num": 24,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In Question 23, also →nd the retailer’s percentage\npro→t on his cost giving your answer correct to two\ndecimal places.",
+      "options": {
+        "a": "33.33%",
+        "b": "16.66%",
+        "c": "20%",
+        "d": "25%"
+      },
+      "answer": "c",
+      "solution": "The profit would be given by the percentage value of the ratio 9/45 = 20%."
+    },
+    {
+      "id": "ch06-lod1-q025",
+      "num": 25,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The cost of production of a cordless phone set in\n2016 is ` 1100, divided between material, labour\nand overheads in the ratio 4 : 5 : 2. If the cordless\nphone set is marked at a price that gives a 10% pro→t\non the component of price accounted for by labour,\nwhat is the marked price of the set?",
+      "options": {
+        "a": "` 1140",
+        "b": "` 1210",
+        "c": "` 1120",
+        "d": "` 1150"
+      },
+      "answer": "d",
+      "solution": "The labour price accounts for ` 500. Since the profit percentage gives a 10% profit on this component i.e. 50. Hence, the marked price is 1150."
+    },
+    {
+      "id": "ch06-lod1-q026",
+      "num": 26,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For Question 25, if subsequently in 2017, the cost\nof material, labour and overheads increased by 20%,\n30% and 10% respectively, calculate the cost of manufacturing in 2017.",
+      "options": {
+        "a": "` 1350",
+        "b": "` 1150",
+        "c": "` 1250",
+        "d": "` 1450"
+      },
+      "answer": "a",
+      "solution": "The costs in 2016 were 400, 500 and 200 respectively. An increase of 20% in material Æ increase of"
+    },
+    {
+      "id": "ch06-lod1-q027",
+      "num": 27,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What should be the new marked price if the criteria\nfor pro→t is to remain the same as for Question 25\nabove?",
+      "options": {
+        "a": "` 1420",
+        "b": "` 1405",
+        "c": "` 1415",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "For a 10% profit on labour cost, he should mark his goods at 1350 + 10% of 650 = 1415. Note, 650 is the new cost of labour after a 30% increase as described in Question 26."
+    },
+    {
+      "id": "ch06-lod1-q028",
+      "num": 28,
+      "lod": 1,
+      "type": "mcq",
+      "text": "By selling a casserole for ` 820, a man incurs a loss\nof 18%. At what price should he sell the casserole\nto gain 28%?",
+      "options": {
+        "a": "` 1180",
+        "b": "` 1280",
+        "c": "` 1220",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "SP = 820 = 0.82 ¥ CP Æ CP = 1000. To gain a profit of 28%, the marked price should be 128% of 1000 = 1280."
+    },
+    {
+      "id": "ch06-lod1-q029",
+      "num": 29,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man sells 5 articles for ` 15 and makes a pro→t\nof 20%. Find his gain or loss percent if he sells 8\nsuch articles for ` 18.40.",
+      "options": {
+        "a": "2.22% pro→t",
+        "b": "2.22% loss",
+        "c": "8% loss",
+        "d": "8% pro→t"
+      },
+      "answer": "c",
+      "solution": "The SP per article = ` 3. This represents a profit of 20%. Thus, CP = 3/1.2 = 2.5. 8 articles would cost ` 20 and hence selling at 18.40 would represent a loss of `1.6, which would mean an 8% loss on `20. Goods left"
+    },
+    {
+      "id": "ch06-lod1-q030",
+      "num": 30,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The cost price of 40 Oranges is equal to the selling\nprice of 30 Oranges. Find the percentage pro→t.",
+      "options": {
+        "a": "20%",
+        "b": "25%",
+        "c": "33.33%",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "The percentage profit = ¥ 100. Goods Sold = 10/30 ¥ 100 = 33.33% (Note: This formula can be used if the money got and money spent is equated.)"
+    },
+    {
+      "id": "ch06-lod1-q031",
+      "num": 31,
+      "lod": 1,
+      "type": "mcq",
+      "text": "P owns a house worth ` 20,000. He sells it to Q at\na pro→t of 25%. After some time, Q sells it back to\nP at 25% loss. Find P’s loss or gain percent.",
+      "options": {
+        "a": "25% gain",
+        "b": "6.25% gain",
+        "c": "31.56% gain",
+        "d": "31.25% gain"
+      },
+      "answer": "d",
+      "solution": "In the question, P’s investment has to be considered as ` 20,000 (the house he puts up for sale). He sells at `25000 and buys back at ` 18750. Hence his profit is ` 6250. Required answer = (6250 ¥ 100/20000) = 31.25%"
+    },
+    {
+      "id": "ch06-lod1-q032",
+      "num": 32,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A shopkeeper bought locks at the rate of 8 locks for\n` 34 and sold them at the rate of 12 locks for ` 57.\nCalculate his gain percent.",
+      "options": {
+        "a": "9.33%",
+        "b": "12.5%",
+        "c": "11.11%",
+        "d": "11.76%"
+      },
+      "answer": "d",
+      "solution": "For 12 locks, he would have paid `51, and sold them at ` 57. This would mean a profit percentage of 11.76%"
+    },
+    {
+      "id": "ch06-lod1-q033",
+      "num": 33,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Vikas bought an article at ` 150 and sold it at a pro→t\nof 20%. What would have been the increase in the\npro→t percent if it was sold for ` 195?",
+      "options": {
+        "a": "10%",
+        "b": "5%",
+        "c": "15%",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "195/150 = 1.3 Æ the profit percentage would be 30% if sold at 195. Thus, the increase in profit percent = 30% – 20% = 10%."
+    },
+    {
+      "id": "ch06-lod1-q034",
+      "num": 34,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A makes an article for ` 250 and sells it to B at a\npro→t of 20%. B sells it to C who sells it for ` 386.4,\nmaking a pro→t of 15%. What pro→t percent did B\nmake?",
+      "options": {
+        "a": "20%",
+        "b": "12%",
+        "c": "16.66%",
+        "d": "33.33%"
+      },
+      "answer": "b",
+      "solution": "A’s selling price = 1.2 ¥ 250 = 300. C’s Cost price = B’s selling price = 386.4/1.15 = 336. Thus, B’s profit = `36 and his profit percent = 36 ¥ 100/300 = 12%."
+    },
+    {
+      "id": "ch06-lod1-q035",
+      "num": 35,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A reduction of 20% in the price of sugar enables a\nhousewife to buy 5.4 kg. more for ` 432. Find the\nreduced price per kilogram",
+      "options": {
+        "a": "` 20",
+        "b": "`16",
+        "c": "` 18",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "A 20% reduction in price increases the consumption by 25% (Refer Table 4.1). But the increase in consumption is 5.4 kg. Hence, the consumption (original) will be 5.4 ¥ 4 = 21.6 kg. Hence, original price = 432/21.6 = ` 20. Hence, reduced price = ` 16"
+    },
+    {
+      "id": "ch06-lod1-q036",
+      "num": 36,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man buys 50 kg of oil at `10 per kilogram and\nanother 40 kg of oil at `12 kilogram and mixes them.\nHe sells the mixture at the rate of `11 per kilogram.\nWhat will be his gain percent if he is able to sell the\nwhole lot?\n(10/49)%\n(1/49)%",
+      "options": {
+        "a": "100/98%",
+        "b": "100",
+        "c": "10",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "Total cost = 50 ¥ 10 + 40 ¥ 12 = 980. Total revenue = 90 ¥ 11 = 990. Gain percent = (10 ¥ 100)/980 = 100/98 %. Goods left"
+    },
+    {
+      "id": "ch06-lod1-q037",
+      "num": 37,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the cost price of 25 articles is equal to the selling\nprice of 15 articles, →nd the pro→t percent.",
+      "options": {
+        "a": "33.33%",
+        "b": "20%",
+        "c": "66.67%",
+        "d": "50%"
+      },
+      "answer": "c",
+      "solution": "Percentage profit = ¥ 100 Goods Sold = 10/15 ¥ 100 = 66.67%"
+    },
+    {
+      "id": "ch06-lod1-q038",
+      "num": 38,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A shopkeeper sells sugar in such a way that the selling price of 850 gm is the same as the cost price of\none kilogram. Find his gain percent.\n(11/17)%",
+      "options": {
+        "a": "150/17%",
+        "b": "100/17%",
+        "c": "17",
+        "d": "1/17%"
+      },
+      "answer": "c",
+      "solution": "The profit percent would be equal to 150 ¥ 100 /850 = 15000/850 = 300/17% = 17 (11/17)% Profit & Loss III.65"
+    },
+    {
+      "id": "ch06-lod1-q039",
+      "num": 39,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A dealer buys eggs at ` 72 per gross. He sells the\neggs at a pro→t of 6.25% on the cost price. What is\nthe selling price per egg (approximately)?\nPro→t & Loss III.53",
+      "options": {
+        "a": "53 paise",
+        "b": "50 paise",
+        "c": "49 paise",
+        "d": "52 paise"
+      },
+      "answer": "a",
+      "solution": "A gross means 144 eggs. Thus, the cost price per egg = 50 paise and the selling price after a 6.25% profit = 53 paise (approximately)."
+    },
+    {
+      "id": "ch06-lod1-q040",
+      "num": 40,
+      "lod": 1,
+      "type": "mcq",
+      "text": "P sold a table to Q at a pro→t of 25%. Q sold the\nsame table to R for ` 90 thereby making a pro→t of\n20%. Find the price at which P bought the table from\nZ if it is known that Z gained 25% in the transaction.",
+      "options": {
+        "a": "` 80",
+        "b": "` 75",
+        "c": "` 90",
+        "d": "` 60"
+      },
+      "answer": "d",
+      "solution": "Q sold the table at 20% profit at ` 90. Thus cost price would be given by: CPQ¥ 1.2 = 90 Q’s Cost price = ` 75. We also know that P sold it to Q at 25% profit. Thus, P’s Cost price ¥ 1.25 = 75 Æ P’s cost price = 60."
+    },
+    {
+      "id": "ch06-lod1-q041",
+      "num": 41,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sold a table to B at a pro→t of 15%. Later on, B\nsold it back to A at a pro→t of 20%, thereby gaining\n` 69. How much did A pay for the table originally?",
+      "options": {
+        "a": "` 300",
+        "b": "` 320",
+        "c": "` 345",
+        "d": "` 350"
+      },
+      "answer": "a",
+      "solution": "From the options, checking option (a): 300 (A buys at this value) Æ 345 (sells it to B at a profit of 15%) Æ 414 (B sells it back to A at a profit of 20% gaining `69 in the process). Thus, A’s original cost = ` 300."
+    },
+    {
+      "id": "ch06-lod1-q042",
+      "num": 42,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A dealer sold two TV sets for ` 9600 each, gaining\n20% on one and losing 20% on the other set. Find\nhis net gain or net loss.",
+      "options": {
+        "a": "` 400 loss",
+        "b": "` 800 loss",
+        "c": "` 400 gain",
+        "d": "` 800 gain"
+      },
+      "answer": "b",
+      "solution": "Net loss = (20/10)2 = 4% of cost price. Thus, 19200 (total money realized) represents 96% of the value. Thus, the cost price would be ` 20,000 and the loss would be `800."
+    },
+    {
+      "id": "ch06-lod1-q043",
+      "num": 43,
+      "lod": 1,
+      "type": "mcq",
+      "text": "On selling tea at ` 20 per kg a loss of 10% is incurred. Calculate the amount of tea (in kg) sold if\nthe total loss incurred is `60.",
+      "options": {
+        "a": "27 kg",
+        "b": "21 kg",
+        "c": "15 kg",
+        "d": "30 kg"
+      },
+      "answer": "a",
+      "solution": "CP ¥ 0.9 = 20 Æ CP = `22.222, Loss per kg = `2.222. To incur a loss of ` 60, we need to sell 60/2.22 = 27 kgs of tea."
+    },
+    {
+      "id": "ch06-lod1-q044",
+      "num": 44,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A colour TV and a VCP were sold for ` 19,800 each.\nThe TV was sold at a loss of 10% whereas the VCP\nwas sold at a gain of 10%. Find gain or loss in the\nwhole transaction.\n (Note: In this case there will always be a loss)",
+      "options": {
+        "a": "` 400 loss",
+        "b": "` 1000 loss",
+        "c": "` 960 loss",
+        "d": "` 1040 loss"
+      },
+      "answer": "a",
+      "solution": "The CP of the TV Æ CPTV ¥ 0.9 = 19,800 Æ CPTV = 22,000 The CP of the VCP Æ CPVCP ¥ 1.1 = 19,800 Æ CPVCP = 18,000. Total sales value = 19,800 ¥ 2 = 39,600. Total cost price = 22000 + 18000 = 40,000. Loss = 40,000 – 39,600 = 400."
+    },
+    {
+      "id": "ch06-lod1-q045",
+      "num": 45,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man sells a TV set for ` 33000 and makes a pro→t\nof 10%. He sells another TV at a loss of 20%. If on\nthe whole, he neither gains nor loses, →nd the selling\nprice of the second TV set.",
+      "options": {
+        "a": "` 15,000",
+        "b": "` 12,000",
+        "c": "` 30,000",
+        "d": "` 27,000"
+      },
+      "answer": "b",
+      "solution": "This would leave us with a selling price of 405, which represents a profit percent of 12.5% on ` 360."
+    },
+    {
+      "id": "ch06-lod1-q046",
+      "num": 46,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man sells an article at 10% above its cost price. If\nhe had bought it at 15% less than what he paid for\nit and sold it for ` 33 less, he would have gained\n10%. Find the cost price of the article.",
+      "options": {
+        "a": "` 400",
+        "b": "` 260",
+        "c": "` 325",
+        "d": "` 200"
+      },
+      "answer": "d",
+      "solution": "Solve using options. The correct option (d) would work as follows: If CP = 200, the man sells at 220 (after 10% profit). If he bought for 15% less, he would have bought it at 0.85 ¥ 200 = 170. Also, selling for `33 less than 220, means he would have sold at 220 – 33 = 187. This represents the required profit of 10% on his new cost price of 170. Hence, this option is correct. (Note: For the wrong options, the last percentage profit would not match the required 10% profit)."
+    },
+    {
+      "id": "ch06-lod1-q047",
+      "num": 47,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A briefcase was sold at a pro→t of 5%. If its cost\nprice was 5% less and it was sold for ` 63 more,\nthe gain would have been 20%. Find the cost price\nof the briefcase.",
+      "options": {
+        "a": "` 800",
+        "b": "` 900",
+        "c": "`700",
+        "d": "` 960"
+      },
+      "answer": "c",
+      "solution": "Let the cost price be P. Then, P ¥ 0.95 ¥ 1.2 = P ¥ 1.05 + 63 Æ P = 700. Alternately, you could have solved this using options, as shown in the previous question."
+    },
+    {
+      "id": "ch06-lod1-q048",
+      "num": 48,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man sells a plot of land at 8% pro→t. If he had\nsold it at 15% pro→t, he would have received ` 630\nmore. What is the selling price of the land?",
+      "options": {
+        "a": "` 9320",
+        "b": "` 9600",
+        "c": "` 9820",
+        "d": "` 9720"
+      },
+      "answer": "d",
+      "solution": "7% of the cost price = ` 630. Thus, cost price = ` 9000 and selling price @ 8% profit = ` 9720."
+    },
+    {
+      "id": "ch06-lod1-q049",
+      "num": 49,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Ashok bought an article and spent ` 110 on its repairs. He then sold it to Bhushan at a pro→t of 20%.\nBhushan sold it to Charan at a loss of 10%. Charan\n→nally sold it for ` 1188 at a pro→t of 10%. How\nmuch did Ashok pay for the article?",
+      "options": {
+        "a": "` 890",
+        "b": "` 1000",
+        "c": "` 780",
+        "d": "` 840"
+      },
+      "answer": "a",
+      "solution": "From the last statement we have: Charan’s cost price = 1188/1.1 = 1080 = Bhushan’s selling price. Then, Bhushan’s CP would be given by the equation: CP ¥ 0.9 = 1080 Æ CP for Bhushan = 1200 = SP for Ashok. Also, Ashok gains 20%. Hence, CP for Ashok Æ CP ¥ 1.2 = 1200 Æ CP for Ashok = 1000. This includes ` 110 component of repairs. Thus, the purchase price for Ashok would be 1000 – 110 = 890."
+    },
+    {
+      "id": "ch06-lod1-q050",
+      "num": 50,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A man buys two cycles for a total cost of ` 900.\nBy selling one for 4/5 of its cost and other for 5/4\nof its cost, he makes a pro→t of ` 90 on the whole\ntransaction. Find the cost price of lower priced cycle.",
+      "options": {
+        "a": "` 360",
+        "b": "` 250",
+        "c": "` 300",
+        "d": "` 420"
+      },
+      "answer": "c",
+      "solution": "Solve through the values given in the options. Option (c) is correct because at 4/5 ¥ 300 + 5/4 ¥ 600 we see that the profit earned = `90."
+    },
+    {
+      "id": "ch06-lod1-q051",
+      "num": 51,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A merchant bought two transistors, which together\ncost him ` 480. He sold one of them at a loss of\n15% and other at a gain of 19%. If the selling price\nof both the transistors are equal, →nd the cost of the\nlower priced transistor.",
+      "options": {
+        "a": "` 300",
+        "b": "` 180",
+        "c": "` 200",
+        "d": "` 280"
+      },
+      "answer": "c",
+      "solution": "Solve this question using the options. The first thing you should realize is that the cost of the lower priced item should be less than 240. Thus, we can reject options (a) and (d). Checking option (c) we can see that if the lower priced item is priced at 200, the higher priced item would be priced at ` 280. Then: 1.19 ¥ 200 = 238 and 0.85 ¥ 280 = 238. It can be seen that in this condition the values of the selling price of both the items would be equal (as required by the conditions given in the problem). Thus, option (c) is the correct answer."
+    },
+    {
+      "id": "ch06-lod1-q052",
+      "num": 52,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A manufacturer makes a pro→t of 15% by selling a\ncolour TV for ` 5750. If the cost of manufacturing\nincreases by 30% and the price paid by the retailer\nis increased by 20%, →nd the pro→t percent made by\nthe manufacturer.\n(2/13)%\n(8/13)%\n(1/13)%\n(4/13)%",
+      "options": {
+        "a": "6",
+        "b": "4",
+        "c": "6",
+        "d": "7"
+      },
+      "answer": "a",
+      "solution": "Original Cost Price = ` 5000 New Cost Price = 1.3 ¥ 5000 = ` 6500 Price paid by retailer = 1.2 ¥ 5750 = ` 6900 Profit percentage = (400/6500) ¥ 100 = 6 (2/13)%"
+    },
+    {
+      "id": "ch06-lod1-q053",
+      "num": 53,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The cost of manufacturing an article is made up of\nmaterials, labour and overheads in the ratio 6 : 7 : 2.\nIf the cost of labour is ` 350, →nd the pro→t percent\nif the article is sold for ` 900.",
+      "options": {
+        "a": "30%",
+        "b": "33.33%",
+        "c": "20%",
+        "d": "25%"
+      },
+      "answer": "c",
+      "solution": "The total manufacturing cost of the article = 300 + 350 + 100 = 750. SP = 900. Thus, profit = ` 150. Profit Percent = 150 ¥ 100/750 = 20%"
+    },
+    {
+      "id": "ch06-lod1-q054",
+      "num": 54,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two dealers P and Q selling the same model of TV\nset mark them under the same selling prices. P gives\nsuccessive discounts of 20% and 15% and Q gives\nsuccessive discounts of 18% and 17%. From whom\nis it more pro→table to purchase the TV set?",
+      "options": {
+        "a": "From P",
+        "b": "From Q",
+        "c": "Indifferent between the two",
+        "d": "Cannot be determined"
+      },
+      "answer": "a",
+      "solution": "Assume marked price for both to be 100. P’s selling price = 100 ¥ 0.8 ¥ 0.85 = 68 Q’s selling price = 100 ¥ 0.82 ¥ 0.83 = 68.06. Buying from ‘P’ is more profitable."
+    },
+    {
+      "id": "ch06-lod1-q055",
+      "num": 55,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sells a car priced at ` 1,80,000. He gives a discount of 5% on the →rst ` 1,00,000 and 12.5% on the\nremaining ` 80,000. His competitor B sells a car on\nthe same marked priced at ` 1,80,000. If he wants to\nbe competitive what percent discount should B offer\non the marked price.",
+      "options": {
+        "a": "3.33%",
+        "b": "15.67%",
+        "c": "8.33%",
+        "d": "6.67%"
+      },
+      "answer": "c",
+      "solution": "The total discount offered by A = 5% on 1,00,000 + 12.5% on 80,000 = 5,000 + 10,000 = 15,000. If B wants to be as competitive, he should also offer a discount of ` 15,000 on 1,80,000. Discount percentage = 1500 0 ¥ 100/1,80,000 = 8.33% discount."
+    },
+    {
+      "id": "ch06-lod1-q056",
+      "num": 56,
+      "lod": 1,
+      "type": "mcq",
+      "text": "An article costs ` 1400 to a manufacturer who lists its\nprice at ` 1600. He sells it to a trader at a discount\nof 5%. The trader gets a further discount of 5% on\nhis net payment for paying in cash. Calculate the\namount that the trader pays to the manufacturer.",
+      "options": {
+        "a": "` 1444",
+        "b": "` 1420",
+        "c": "` 1434",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "The trader pays 1600 ¥ 0.95 ¥ 0.95 = ` 1444"
+    },
+    {
+      "id": "ch06-lod1-q057",
+      "num": 57,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In Question 56, →nd the pro→t percent that the manufacturer makes on the sale.",
+      "options": {
+        "a": "20/7%",
+        "b": "22/7%",
+        "c": "15/7%",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "Manufacturer’s profit percentage = (44/1400) ¥ 100 = (22/7)%"
+    },
+    {
+      "id": "ch06-lod1-q058",
+      "num": 58,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A →rm dealing in furniture allows 5% discount on\nthe marked price of each item. What price must be\nmarked on a dining table that cost `2000 to assemble,\nso as to make a pro→t of 14%?",
+      "options": {
+        "a": "` 3800",
+        "b": "` 2700",
+        "c": "` 2500",
+        "d": "` 2400"
+      },
+      "answer": "d",
+      "solution": "For a cost price of `2000, he needs a selling price of 2280 for a 14% profit. This selling price is arrived at after a discount of 5% on the marked price. Hence, the marked price MP = 2280/0.95 = 2400."
+    },
+    {
+      "id": "ch06-lod1-q059",
+      "num": 59,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A shopkeeper allows a discount of 10% on the\nmarked price of a certain article and makes a pro→t\nof 12.5%. If the article cost the shopkeeper ` 360,\nwhat price must be marked on the article?",
+      "options": {
+        "a": "` 410",
+        "b": "` 450",
+        "c": "` 480",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "Solve using options. Option (b) fits the situation as a 10% discount on 450 would mean a discount of"
+    },
+    {
+      "id": "ch06-lod1-q060",
+      "num": 60,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A Camera shop allows a discount of 15% on the\nadvertised price of a camera. What price must be\nmarked on the camera, that costs him ` 600, so that\nhe makes a pro→t of 19%?",
+      "options": {
+        "a": "` 840",
+        "b": "` 820",
+        "c": "` 750",
+        "d": "` 880"
+      },
+      "answer": "a",
+      "solution": "If he marks the camera at 840, a 15% discount would still allow him to sell at 714 – a profit of 19%. Alternately: Marked Price ¥ 0.85 = 600 ¥ 1.19 Æ Marked Price = 840 III.66 How to Prepare for Quantitative Aptitude for CAT"
+    },
+    {
+      "id": "ch06-lod1-q061",
+      "num": 61,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A watch dealer pays 20% custom duty on a watch\nthat costs ` 450 abroad. For how much should he\nmark it, if he desires to make a pro→t of 25% after\ngiving a discount of 20% to the buyer?\nSpace for Rough Work",
+      "options": {
+        "a": "` 800",
+        "b": "` 843.75",
+        "c": "` 810",
+        "d": "` 840.75"
+      },
+      "answer": "b",
+      "solution": "Cost price to the watch dealer = 450 + 20% of 450 = ` 540 Desired selling price for 25% profit = 1.25 ¥ 540 = 675 But 675 is the price after 20% discount on the marked price. Thus, Marked price ¥ 0.8 = 675 Æ MP = 843.75 Hence, he should mark the item at `843.75."
+    },
+    {
+      "id": "ch06-lod1-q062",
+      "num": 62,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A shopkeeper buys an article for ` 1200 and marks\nit for sale at a price that gives him 60% pro→t on\nhis cost. He, however, gives a 35% discount on the\nmarked price to his customer. Calculate the actual\npercentage pro→t made by the shopkeeper.",
+      "options": {
+        "a": "2%",
+        "b": "4%",
+        "c": "3%",
+        "d": "56%"
+      },
+      "answer": "b",
+      "solution": "If the cost price is 100, a mark up of 60% means a marked price of 160. Further a 35% discount on the marked price would be given by: 160 – 35% of 160 = 160 – 56 = 104. Thus, the percentage profit is 4%."
+    },
+    {
+      "id": "ch06-lod1-q063",
+      "num": 63,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the land of the famous milkman Merghese Durian,\na milkman sells his buffalo for `15400 at some pro→t.\nHad he sold his buffalo at ` 8200, the quantum of\nthe loss incurred would have been double that of the\npro→t earned. What is the cost price?",
+      "options": {
+        "a": "` 13200",
+        "b": "` 12900",
+        "c": "` 13500",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "A cost price of `13000 would meet the conditions in the problem as it would give us a loss of 4800 (if sold at 8200) and a profit of 2400 (when sold at 15400). You can think of this as: If you take the loss as 2x, the profit is x. Then, 3x = 15400 – 8200 = 7200 x = 2400. Thus, the profit is 2400 when he sells at 15400. Hence, the cost price must be 15400 – 2400 = 13000."
+    },
+    {
+      "id": "ch06-lod1-q064",
+      "num": 64,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A trader purchases apples at ` 70 per hundred. He\nspends 10% on the transportation. What should be\nthe selling price per 100 to earn a pro→t of 30%?",
+      "options": {
+        "a": "` 101.1",
+        "b": "` 100.1",
+        "c": "` 90.1",
+        "d": "` 99.1"
+      },
+      "answer": "b",
+      "solution": "Cost per 100 apples = 70 + 10% of 70 = `77. Selling price @ 30% profit = 1.3 ¥ 77 = `100.1"
+    },
+    {
+      "id": "ch06-lod1-q065",
+      "num": 65,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A dishonest dealer professes to sell at cost price\nbut uses a 800 gram weight instead of a 1 kilogram\nweight. Find the percent pro→t to the dealer.\nPro→t & Loss III.55\nLevel of Dif→culty (II)",
+      "options": {
+        "a": "25%",
+        "b": "20%",
+        "c": "12.5%",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "Profit percent = (200/800) ¥ 100 = 25%"
+    },
+    {
+      "id": "ch06-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Mithilesh makes 750 articles at a cost of 60 paise\nper article. He →xes the selling price such that if\nonly 600 articles are sold, he would have made a\npro→t of 40% on the outlay. However, 120 articles\ngot spoilt and he was able to sell 630 articles at this\nprice. Find his actual pro→t percent as the percentage\nof total outlay assuming that the unsold articles are\nuseless.",
+      "options": {
+        "a": "42%",
+        "b": "53%",
+        "c": "47%",
+        "d": "46%"
+      },
+      "answer": "b",
+      "solution": "0.8 ¥ Price = 560 Æ Price 700."
+    },
+    {
+      "id": "ch06-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A manufacturer estimates that on inspection 12% of\nthe articles he produces will be rejected. He accepts\nan order to supply 22,000 articles at ` 7.50 each.\nHe estimates the pro→t on his outlay including the\nmanufacturing of rejected articles, to be 20%. Find\nthe cost of manufacturing each article.",
+      "options": {
+        "a": "` 6",
+        "b": "` 5.50",
+        "c": "` 5",
+        "d": "` 4.50"
+      },
+      "answer": "c",
+      "solution": "The SP = 106.25% of the CP. Thus, CP = 29.75/1.0625 = ` 28."
+    },
+    {
+      "id": "ch06-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The cost of setting up the type of a magazine is\n` 1000. The cost of running the printing machine is\n` 120 per 100 copies. The cost of paper, ink and so\non is 60 paise per copy. The magazines are sold at\n` 2.75 each. 900 copies are printed, but only 784\ncopies are sold. What is the sum to be obtained from\nadvertisements to give a pro→t of 10% on the cost?",
+      "options": {
+        "a": "` 730",
+        "b": "` 720",
+        "c": "` 726",
+        "d": "` 736"
+      },
+      "answer": "b",
+      "solution": "1.12 ¥ Price = 3808 Æ Price = 3400."
+    },
+    {
+      "id": "ch06-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A tradesman →xed his selling price of goods at 30%\nabove the cost price. He sells half the stock at this\nprice, one-quarter of his stock at a discount of 15%\non the original selling price and rest at a discount\nof 30% on the original selling price. Find the gain\npercent altogether.",
+      "options": {
+        "a": "14.875%",
+        "b": "15.375%",
+        "c": "15.575%",
+        "d": "16.375%"
+      },
+      "answer": "d",
+      "solution": "A loss of 25% means a cost price of 100 corresponding to a selling price of 75. CP as a percentage of the SP would then be 133.33%"
+    },
+    {
+      "id": "ch06-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A tradesman marks an article at ` 205 more than\nthe cost price. He allows a discount of 10% on the\nmarked price. Find the pro→t percent if the cost price\nis ` x.\nÈ x\n˘\nÍ (18450) - 10˙\n[(18450)] - 10 x\nÎ\n˚\n(a)\nx\nÈ x\n˘\nÈ18450 - 100˘\nÍ (18450) - 100˙\n˙˚\n˚ \nx\nx",
+      "options": {
+        "b": "x",
+        "d": "ÍÎ x",
+        "c": "Î"
+      },
+      "answer": "c",
+      "solution": "1800 = 1.2 ¥ cost price Æ Cost price = 1500 Profit at 1687.5 = ` 187.5 Percentage profit = (187.5/1500) ¥ 100 = 12.5%"
+    },
+    {
+      "id": "ch06-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Dolly goes to a shop to purchase a doll priced at\n` 400. She is offered 4 discount options by the shop-\nkeeper. Which of these options should she opt for to\ngain maximum advantage of the discount offered?",
+      "options": {
+        "a": "Single discount of 30%",
+        "b": "2 successive discounts of 15% each",
+        "c": "2 successive discounts of 20% and 10%",
+        "d": "2 successive discounts of 20% and 12%"
+      },
+      "answer": "a",
+      "solution": "CP = 6612.5/1.15 = 5750. Selling this at 5380 would mean a loss of `370 on a CP of ` 5750."
+    },
+    {
+      "id": "ch06-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A dishonest dealer marks up the price of his goods\nby 20% and gives a discount of 10% to the customer. He also uses a 900 gram weight instead of a 1\nkilogram weight. Find his percentage pro→t due to\nthese maneuvers.",
+      "options": {
+        "a": "8%",
+        "b": "12%",
+        "c": "20%",
+        "d": "16%"
+      },
+      "answer": "b",
+      "solution": "The CP will be ` 7200 (got by 6400 ¥ 1.125). Hence at an S.P. of 7812 the percentage profit will be 8.5%"
+    },
+    {
+      "id": "ch06-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A dishonest dealer marks up the price of his goods\nby 20% and gives a discount of 10% to the customer. Besides, he also cheats both his supplier and\nhis buyer by 100 grams while buying or selling 1\nkilogram. Find the percentage pro→t earned by the\nshopkeeper.",
+      "options": {
+        "a": "20%",
+        "b": "25%",
+        "c": "32%",
+        "d": "27.5%"
+      },
+      "answer": "a",
+      "solution": "CP = 69/1.15 = 60. Thus, the required SP for 20% profit = 1.2 ¥ 60 = 72."
+    },
+    {
+      "id": "ch06-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "For Question 8, if it is known that the shopkeeper\ntakes a discount of 10% from his supplier and he\ndisregards this discount while marking up (i.e. he\nmarks up at the undiscounted price), →nd the percentage pro→t for the shopkeeper if there is no other\nchange from the previous problem.",
+      "options": {
+        "a": "32%",
+        "b": "36.66%",
+        "c": "40.33%",
+        "d": "46.66%"
+      },
+      "answer": "a",
+      "solution": "The buying price is ` 6 per dozen, while the sales price is ` 0.75 ¥ 12 = 9 per dozen – a profit of 50%"
+    },
+    {
+      "id": "ch06-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Cheap and Best, a kirana shop bought some apples\nat 4 per rupee and an equal number at 5 per rupee.\nHe then sold the entire quantity at 9 for 2 rupees.\nWhat is his percentage pro→t or loss?",
+      "options": {
+        "a": "1.23% loss",
+        "b": "6.66%",
+        "c": "8.888%",
+        "d": "No pro→t no loss"
+      },
+      "answer": "b",
+      "solution": "Sales tax = 150/5 = 30. Thus, the SP contains ` 30 component of sales tax. Of the remainder (150 – 30 = 120) 1/3rd is the profit. Thus, the profit = 120/3 ="
+    },
+    {
+      "id": "ch06-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A watch dealer sells watches at ` 600 per watch.\nHowever, he is forced to give two successive discounts of 10% and 5% respectively. However, he\nrecovers the sales tax on the net sale price from the\ncustomer at 5% of the net price. What price does a\ncustomer have to pay him to buy the watch?",
+      "options": {
+        "a": "` 539.75",
+        "b": "` 539.65",
+        "c": "` 538.75",
+        "d": "` 538.65"
+      },
+      "answer": "a",
+      "solution": "C.P ¥ 1.3 = 26 Æ CP = 20 At a selling price of ` 22.5, the profit percent 2.5/20 = 12.5%"
+    },
+    {
+      "id": "ch06-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Deb bought 100 kg of rice for ` 1100 and sold it at\na loss of as much money as he received for 20 kg\nrice. At what price did he sell the rice?",
+      "options": {
+        "a": "` 9 per kg",
+        "b": "` 9.1666 per kg",
+        "c": "` 9.5 per kg",
+        "d": "` 10.33 per kg"
+      },
+      "answer": "d",
+      "solution": "Solve using options. Option (d) gives you `220 as the cost of the trouser. Hence, the shirt will cost 15% more i.e. 220 + 22 + 11 = 253. This satisfies the total cost requirement of ` 473."
+    },
+    {
+      "id": "ch06-lod1-q013",
+      "num": 13,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A carpenter wants to sell 40 chairs. If he sells them\nat ` 156 per chair, he would be able to sell all the\nchairs. But for every ` 6 increase in price, he will\nbe left with one additional unsold chair. At what selling price would he be able to maximise his pro→ts\n(assuming unsold chairs remain with him)?\n(d)",
+      "options": {
+        "a": "198",
+        "b": "192",
+        "c": "204"
+      },
+      "answer": "d",
+      "solution": "The formula that satisfies this condition is: Loss of a2/100% (Where a is the common profit and loss percentage). Hence, in this case 625/100 = 6.25% loss."
+    },
+    {
+      "id": "ch06-lod2-q014",
+      "num": 14,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How many chocolates did she buy?",
+      "options": {
+        "a": "12",
+        "b": "9",
+        "c": "18",
+        "d": "15"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod2-q015",
+      "num": 15,
+      "lod": 2,
+      "type": "mcq",
+      "text": "How much would she have spent at the market\ncomplex?",
+      "options": {
+        "a": "` 6",
+        "b": "` 12",
+        "c": "` 9",
+        "d": "` 5"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod2-q016",
+      "num": 16,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A shopkeeper makes a pro→t of Q% by selling an\nobject for ` 24. Had the cost price and selling price\nbeen interchanged, it would have led to a loss of\n62.5Q%. With the latter cost price, what should be\nthe new selling price to get a pro→t of Q%?",
+      "options": {
+        "a": "` 34.40",
+        "b": "` 32.50",
+        "c": "` 25.60",
+        "d": "` 38.4"
+      },
+      "answer": "c",
+      "solution": "The given situation fits if we take Q as 60% profit and then the loss would be 37.5% (which is 62.5%) of Q). Thus, if ` 24 is the cost price, the selling price should be 24 ¥ 1.6 = ` 38.4"
+    },
+    {
+      "id": "ch06-lod2-q017",
+      "num": 17,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the change in the percentage pro→t for a fruit\nvendor who, after →nding 20% of the fruits rotten,\nincreased his selling price by 10% over and above\n15% that he was already charging?\nDirections for questions 18 and 19: Read the following and answer the questions that follow.\nRamu and Shyamu decided to sell their cars each at\n` 36,000. While Ramu decided to give a discount of 8%\non the →rst ` 8000, 5% on next ` 12,000 and 3% on the\nrest to buyer Sashi, Shyamu decided to give a discount of\n7% on the →rst 12,000, 6% on the next 8,000 and 5% on\nthe rest to buyer Rajesh. These discounts were, however,\nsubject to the buyers making the payment on time failing\nwhich the discount gets reduced by 1% for every delay of a\nweek. In each case, the selling price of 36,000 was arrived\nat by increasing the cost price by 25%.",
+      "options": {
+        "a": "–15",
+        "b": "+11.5",
+        "c": "–13.8",
+        "d": "–11.5"
+      },
+      "answer": "c",
+      "solution": "Assume the price of 1 kg as 100. He initially sells the kg at 115. His original profit is 15%. When he is able to sell only 80% of his items: his new revenue would be given by 80 ¥ 1.265 = 101.2 on a cost of"
+    },
+    {
+      "id": "ch06-lod2-q018",
+      "num": 18,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If each of them got the payments on time, what is the\napproximate percentage pro→t of the person getting\nthe higher pro→t?",
+      "options": {
+        "a": "19%",
+        "b": "21%",
+        "c": "25%",
+        "d": "17%"
+      },
+      "answer": "a",
+      "solution": "Ramu’s total discount: 8% on 8000 = ` 640 5% on 12000 = ` 600 3% on 16000 = ` 480 Total = ` 1720 on ` 36000. Hence, Realised value = 34280. Shyamu’s Discounts: 7% on 12000 = 840 6% on 8000 = 480 5% on 16000 = 800 ` 2120 on ` 36000 Hence, Realised value = 33880. The higher profit is for Ramu. Also, the CP has a mark up of 25% for the Marked price. Thus the CP must have been 28800 (This is got by 36000 – 20% of 36000 – PCG thinking) Thus, the profit % for Ramu would be: (5480*100)/28800 Æ 19% approx."
+    },
+    {
+      "id": "ch06-lod2-q019",
+      "num": 19,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If Sashi defaults by 1 and 2 weeks in the second\nand third payments respectively, what would be the\npro→t of Ramu in the sale of the car?",
+      "options": {
+        "a": "` 5920",
+        "b": "` 6240",
+        "c": "` 5860",
+        "d": "` 5980"
+      },
+      "answer": "b",
+      "solution": "In the case of the given defaults, the discount for Ramu would have gone down to: 4% on 12000 (the second payment) and the second discount would thus have been `480 meaning that the sale price would have risen by `120 (since there is a `120 drop in the discount) 1% on 16000 Æ A reduction of 2% of 16000 in the discount Æ a reduction of ` 320. Hence, Ramu’s profit would have gone up by `440 in all & would yield his new profit as: 5480 + 440 = ` 5920"
+    },
+    {
+      "id": "ch06-lod2-q020",
+      "num": 20,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What would be the difference in the pro→ts if both\nthe buyers default in each payment by a week?",
+      "options": {
+        "a": "` 200",
+        "b": "` 300",
+        "c": "` 400",
+        "d": "` 500"
+      },
+      "answer": "b",
+      "solution": "The following working would show the answer: Ramu’s Discounts 7% on 8000 = ` 560 4% on 12000 = ` 480 2% on 16000 = ` 320 Total = ` 1360 on ` 36,000. Shyamu’s discounts: 6% on 12000 = 720 5% on 8000 = 400 4% on 16000 = 640 ` 1760 on ` 36000 Thus, their profits would vary by ` 400 (since their cost price is the same)"
+    },
+    {
+      "id": "ch06-lod2-q021",
+      "num": 21,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Find the selling price of goods if two salesmen claim\nto make 25% pro→t each, one calculating it on cost\nprice while another on the selling price, the difference in the pro→ts earned being ` 100 and selling\nprice being the same in both the cases.",
+      "options": {
+        "a": "` 2000",
+        "b": "` 1600",
+        "c": "` 2400",
+        "d": "` 2500"
+      },
+      "answer": "a",
+      "solution": "Solve using options. Option (a) fits as if we take SP as 2000, we get CP1 as 1500 and CP2 as 1600 which gives us the required difference of ` 100."
+    },
+    {
+      "id": "ch06-lod2-q022",
+      "num": 22,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A shopkeeper calculates percentage pro→t on the buying price and another on the selling price. What will\nbe their difference in pro→ts if both claim a pro→t of\n20% on goods sold for ` 3000?",
+      "options": {
+        "a": "` 200",
+        "b": "` 100",
+        "c": "` 400",
+        "d": "` 150"
+      },
+      "answer": "b",
+      "solution": "The first one would get a profit of ` 500 (because his cost would be 2500 for him to get a 20% profit on cost price by selling at 3000). The second one would earn a profit of 600 (20% of 3000). Difference in profits = `100"
+    },
+    {
+      "id": "ch06-lod2-q023",
+      "num": 23,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A pharmaceutical company made 3000 strips of tablets at a cost of ` 4800. The company gave away\n1000 strips of tablets to doctors as free samples. A\ndiscount of 25% was allowed on the printed price.\nFind the ratio of pro→t if the price is raised from\n` 3.25 to ` 4.25 per strip and if at the latter price,\nsamples to doctors were done away with. (New\npro→t/old pro→t)",
+      "options": {
+        "a": "55.5",
+        "b": "63.5",
+        "c": "75",
+        "d": "99.25"
+      },
+      "answer": "a",
+      "solution": "Find out the total revenue realization for both the cases: Case 1: (Old) Total sales revenue = 2000 ¥ 3.25 ¥ 0.75. Profitold = Total sales revenue – 4800 Case 2: (New) Total sales revenue = 3000 ¥ 4.25 ¥ 0.75 III.68 How to Prepare for Quantitative Aptitude for CAT Profitnew = Total sales revenue – 4800 The ratio of profit will be given by Profitnew /Profitold"
+    },
+    {
+      "id": "ch06-lod2-q024",
+      "num": 24,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A merchant makes a pro→t of 20% by selling an\narticle. What would be the percentage change in the\npro→t percent had he paid 10% less for it and the\ncustomer paid 10% more for it?",
+      "options": {
+        "a": "120%",
+        "b": "125%",
+        "c": "133.33%",
+        "d": "150%"
+      },
+      "answer": "b",
+      "solution": "Profit in original situation = 20%. In new situation, the purchase price of 90 (buys at 10% less) would give a selling price of 132 (sells at 10% above 120). The new profit percent = [(132 – 90) ¥ 100]/90 = 46.66 Change in profit percent = [(46.66 – 20) ¥ 100]/20 = 133.33%"
+    },
+    {
+      "id": "ch06-lod2-q025",
+      "num": 25,
+      "lod": 2,
+      "type": "mcq",
+      "text": "An article costing ` 20 was marked 25% above the\ncost price. After two successive discounts of the\nsame percentage, the customer now pays ` 20.25.\nWhat would be the percentage change in pro→t had\nthe price been increased by the same percentage\ntwice successively instead of reducing it?",
+      "options": {
+        "a": "3600%",
+        "b": "3200%",
+        "c": "2800%",
+        "d": "4000%"
+      },
+      "answer": "d",
+      "solution": "The successive discounts must have been of 10% each. The required price will be got by reducing 25 by 10% twice consecutively. (use PCG application for successive change)"
+    },
+    {
+      "id": "ch06-lod2-q026",
+      "num": 26,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Divya goes to buy fruits and after a lot of bargaining\nis able to get the price of a dozen apples reduced\nPro→t & Loss III.57\nby ` 1 from the initial price, thereby enabling her\nto get 1 apple extra for every rupee saved. (Getting\nno discount on the extra apple). What is the initial\nprice of a dozen apples?",
+      "options": {
+        "a": "` 10",
+        "b": "` 13",
+        "c": "` 12",
+        "d": "` 15"
+      },
+      "answer": "c",
+      "solution": "From the options you can work out that if the original price was ` 12 per dozen, the cost per apple would be `1. If she is able to get a dozen apples at a reduced price (reduction of ` 1 per dozen), she would be able to purchase 1 extra apple for the 1 Rupee she saved. Thus, option (c) is correct."
+    },
+    {
+      "id": "ch06-lod2-q027",
+      "num": 27,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The accounts of a company show sales of ` 12,600.\nthe primary cost is 35% of sales and trading cost\naccounts for 25% of the gross pro→t. Gross pro→t\nis arrived at by excluding the primary cost plus the\ncost of advertising expenses of ` 1400, director’s\nsalary of ` 650 per annum plus 2% of annual sales\nas miscellaneous costs. Find the percentage pro→t\n(approx) on a capital investment of ` 14,000?",
+      "options": {
+        "a": "35%",
+        "b": "31%",
+        "c": "28%",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": "The following calculations will show the respective costs: Primary Cost: 35% of 12600 = 4410 Miscellaneous costs = 2% of 12600 = 252 Gross Profit = 12600 – 4410 – 1400 – 650 – 252 = 5888 Trading cost = 0.25 ¥ 5888 = 1472 Hence, Net profit = 4416. Percentage profit = 4416/14000 = 31.54%"
+    },
+    {
+      "id": "ch06-lod2-q028",
+      "num": 28,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Jonny has two cycles and one rickshaw. The rickshaw is worth ` 96. If he sells the rickshaw along\nwith the →rst cycle, he has an amount double that\nof the value of the second cycle. But if he decides\nto sell the rickshaw along with the second cycle, the\namount received would be less than the value of →rst\ncycle by ` 306. What is the value of →rst cycle?",
+      "options": {
+        "a": "` 900",
+        "b": "` 600",
+        "c": "` 498",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": "If we assume the value of the first cycle as ` 900. Then 900 + 96 = 996 should be equal to twice the value of the second cycle. Hence, the value of the second cycle works out to be: 498. Also 498 + 96 = 594 which is `306 less than 900. Hence, Option (a) fits the situation perfectly and will be the correct answer. Note here that if you had tried to solve this through equations, you would have got stuck for a very long time."
+    },
+    {
+      "id": "ch06-lod2-q029",
+      "num": 29,
+      "lod": 2,
+      "type": "mcq",
+      "text": "David sells his Laptop to Goliath at a loss of 20%\nwho subsequently sells it to Hercules at a pro→t\nof 25%. Hercules, after →nding some defect in the\nlaptop, returns it to Goliath but could recover only\n` 4.50 for every ` 5 he had paid. Find the amount\nof Hercules’ loss if David had paid ` 1.75 lakh for\nthe laptop.",
+      "options": {
+        "a": "` 3500",
+        "b": "` 2500",
+        "c": "` 17,500",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": "David (100) Æ Goliath (80) Æ Hercules (100) Æ Goliath (90) Hercules loss corresponds to 10 when David buys the laptop for 100. Hence, Hercules’s loss would be `17500 when David buys the laptop for 1,75,000."
+    },
+    {
+      "id": "ch06-lod2-q030",
+      "num": 30,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A dishonest shopkeeper, at the time of selling and\npurchasing, weighs 10% less and 20% more per kilogram respectively. Find the percentage pro→t earned\nby treachery. (Assuming he sells at Cost Price)",
+      "options": {
+        "a": "30%",
+        "b": "20%",
+        "c": "25%",
+        "d": "33.33%"
+      },
+      "answer": "d",
+      "solution": "While purchasing he would take 1200 grams for the price of 1000 grams. While selling he would sell 900 grams for the price of 1000 grams. Since CP = SP, the profit earned is through the weight manipulations. It will be given by: Goods left/goods sold = 300 ¥ 100/900 = 33.33%"
+    },
+    {
+      "id": "ch06-lod2-q031",
+      "num": 31,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A dealer marks articles at a price that gives him a\npro→t of 30%. 6% of the consignment of goods was\nlost in a →re in his premises, 24% was soiled and\nhad to be sold at half the cost price. If the remainder\nwas sold at the marked price, what percentage pro→t\nor loss did the dealer make on that consignment?",
+      "options": {
+        "a": "2%",
+        "b": "2.5%",
+        "c": "3%",
+        "d": "6.2%"
+      },
+      "answer": "b",
+      "solution": "Assume that for 100 items the cost price is ` 100, then the selling price is ` 130. Since 24 is sold at half the price, he would recover 24 ¥ 1/2 = `12 (since it is sold at half the cost price) The remaining 70 would be sold at 70 ¥ 1.3 = `91. Total revenue = 91 + 12 = 103 Æ a profit of 3% (on a cost of 100)."
+    },
+    {
+      "id": "ch06-lod2-q032",
+      "num": 32,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A book was sold for a certain sum and there was a loss\nof 20%. Had it been sold for ` 12 more, there would\nhave been a gain of 30%. What would be the pro→t\nif the book were sold for ` 4.8 more than what it\nwas sold for?\nFor questions 33 to 36 use the following data:",
+      "options": {
+        "a": "No pro→t, no loss",
+        "c": "10%",
+        "b": "20%",
+        "d": "25%"
+      },
+      "answer": "b",
+      "solution": "An increase in the price by `12 will correspond to 50% of the CP. Hence, The CP is `24 and initially the book was being sold at `19.2. Hence, if there is an increment of ` 4.8 in the selling price, there would be no profit or loss."
+    },
+    {
+      "id": "ch06-lod2-q033",
+      "num": 33,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Two thousand people lived in Business Village of\nwhich 55% were male and the rest were female.\nThe male population earned a pro→t of 5% and the\nfemale population earned 8% on an investment of `\n50 each. Find the change in the percentage pro→t of\nthe village if the ratio of male to female gets reversed\nthe next year, population remaining the same.",
+      "options": {
+        "a": "Drop of 0.3",
+        "b": "Increase of 0.3",
+        "c": "Increase of 0.45",
+        "d": "Drop of 0.45"
+      },
+      "answer": "b",
+      "solution": "In the first year, the profit percentage would be: 0.55 ¥ 5 + 0.45 ¥ 8 = 6.35% 1 0.55 ¥ 8 + 0.45 ¥ 5 New Profit Percentage = = 6.65 1 Old Profit Percentage ="
+    },
+    {
+      "id": "ch06-lod2-q034",
+      "num": 34,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In Question 33, →nd the change in the percentage\npro→t of the village, if the population increases by\n10%. (Assume the ratio remains the same)",
+      "options": {
+        "a": "Increase of 10%",
+        "b": "Increase of 11.11%",
+        "c": "No change",
+        "d": "Cannot be determined"
+      },
+      "answer": "c",
+      "solution": "Since the ratio remains unchanged the percentage profit of the village will remain unchanged too."
+    },
+    {
+      "id": "ch06-lod2-q035",
+      "num": 35,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For Question 34, →nd the percentage change in the\npro→t.",
+      "options": {
+        "a": "Increase of 10%",
+        "b": "Increase of 11.11%",
+        "c": "No change",
+        "d": "Cannot be determined"
+      },
+      "answer": "c",
+      "solution": "The profit would increase by 10% as there is no change in the percentage profit."
+    },
+    {
+      "id": "ch06-lod2-q036",
+      "num": 36,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For Question 33, what would be the change in the\npercentage pro→t, if alongwith the reversal of the\nratio of males to females, the pro→t also increases\nby 1% for both males and females?",
+      "options": {
+        "a": "Drop of 1.3",
+        "b": "Increase of 1.3",
+        "c": "Increase of 0.8",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "Since the answer to question 33 is 0.3, if we increase the percentage profit for both men and women by 1 % the overall percentage profit would also go up by 1% - thus 0.3 + 1 = 1.3%"
+    },
+    {
+      "id": "ch06-lod2-q037",
+      "num": 37,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A rickshaw dealer buys 30 rickshaws for ` 4725. Of\nthese, 8 are four-seaters and the rest are two-seaters.\nAt what price must he sell the four-seaters so that\nif he sells the two-seaters at 3/4th of this price, he\nmakes a pro→t of 40% on his outlay?",
+      "options": {
+        "a": "` 180",
+        "b": "` 270",
+        "c": "` 360",
+        "d": "` 450"
+      },
+      "answer": "b",
+      "solution": "x ¥ 8­ + 0.75x ¥ 22 = 1.4 ¥ 4725 Æ x = 270. On an investment of ` 4725, a profit of 40% means a profit of 1890. Hence, the targeted sales realization is ` 6615. The required equation would be: 8p + 22 (3p)/4 = 6615 Æ 8p + 33p/2 = 6615 In this expression for LHS to be equal to RHS, we need 33p/2 to be an odd number. This can only happen when p is not a multiple of 4 (why?? Apply your mind). Hence, options a & c get eliminated automatically."
+    },
+    {
+      "id": "ch06-lod2-q038",
+      "num": 38,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A flat and a piece of land were bought by two friends\nRaghav and Sita respectively at prices of ` 2 lakh\nand ` 2.2 lakh. The price of the flat rises by 20\npercent every year and that of land by 10% every\nyear. After two years, they decide to exchange their\npossessions. What is percentage gain of the gainer?",
+      "options": {
+        "a": "7.56%",
+        "b": "6.36%",
+        "c": "4.39%",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "After 2 years, the flat would be worth ` 288000, while the land would be worth ` 266200. The profit percentage of the gainer would be given by: (21800/266200) ¥ 100 = 8.189% Hence (d)."
+    },
+    {
+      "id": "ch06-lod2-q039",
+      "num": 39,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A, B and C form a company. A invests half of C\nexpecting a return of 10%. B invests three-fourths\nof C, expecting a return of 15% on it. C invests `\n3000 and the pro→t of the →rm is 25%. How much\nwould B’s share of pro→t be more than that of A’s\nshare if B gets an additional 8% for managing the\nbusiness? (Assume that their expectations with respect to returns on capital invested are met before\npro→t is divided in the ratio of capitals invested).",
+      "options": {
+        "a": "20%",
+        "b": "18%",
+        "c": "15%",
+        "d": "Cannot be determined"
+      },
+      "answer": "c",
+      "solution": "The total investment will be A + B + C. C being 3000, B will be 2250 and A will be 1500. The total investment is: 6750. Returns to be given on their expectations: A = 150, B = 337.5 and C = 0. From this point calculate the total profit, subtract A’s and B’s expected returns and B’s share of the profits Profit & Loss III.69 for managing the business before dividing the profits in the ratio of capital invested. However, most of this information is unknown. Hence option (d) is correct."
+    },
+    {
+      "id": "ch06-lod2-q040",
+      "num": 40,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A driver of a autorickshaw makes a pro→t of 20% on\nevery trip when he carries 3 passengers and the price\nof petrol is ` 30 a litre. Find the percentage pro→t\nfor the same journey if he goes for four passengers\nper trip and the price of petrol reduces to ` 24 litre.\n(Assume that revenue per passenger is the same in\nboth the cases.)",
+      "options": {
+        "a": "33.33%",
+        "b": "65.66",
+        "c": "100%",
+        "d": "Data inadequate"
+      },
+      "answer": "c",
+      "solution": "The cost of the trip would be proportional to the price of petrol. So, if initially the cost is 100, the new cost would be 80. Also, initially since his profit is 20%, his revenue would be 120. When he takes 4 passengers instead of 3 his revenue would go up to 160 – and his profit would become 100% (cost 80 and revenue 160)."
+    },
+    {
+      "id": "ch06-lod2-q041",
+      "num": 41,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Raghav bought 25 washing machines and microwave\novens for ` 2,05,000. He sold 80% of the washing\nmachines and 12 microwave ovens for a pro→t of\n` 40,000. Each washing machine was marked up by\n20% over cost and each microwave oven was sold at\na pro→t of ` 2,000. The remaining washing machines\nand 3 microwave ovens could not be sold. What is\nRaghav’s overall pro→t/loss?",
+      "options": {
+        "a": "` 1000 pro→t",
+        "b": "` 2500 loss",
+        "c": "` 1000 loss",
+        "d": "Cannot be determined"
+      },
+      "answer": "c",
+      "solution": "Total number of microwave ovens = 15 Hence, washing machines = 10 Thus, He sells 80% of both at a profit of ` 40,000. Cost of 80% of the goods = 0.8 ¥ 2,05,000 = 1,64,000. Total amount recovered = 1,64,000 + 40,000 = 2,04,000 Hence, loss = ` 1000"
+    },
+    {
+      "id": "ch06-lod2-q042",
+      "num": 42,
+      "lod": 2,
+      "type": "mcq",
+      "text": "After selling a watch, Shyam found that he had made\na loss of 10%. He also found that had he sold it for\n` 27 more, he would have made a pro→t of 5%. The\nactual initial loss was what percentage of the pro→t\nearned, had he sold the watch for a 5% pro→t?",
+      "options": {
+        "a": "23%",
+        "b": "180%",
+        "c": "200%"
+      },
+      "answer": "c",
+      "solution": "Since the actual initial loss was 10% and it is to be compared to a profit of 5%, it is 200% of the profit. Option (c) is correct."
+    },
+    {
+      "id": "ch06-lod2-q043",
+      "num": 43,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Sambhu buys rice at ` 10/kg and puts a price tag on\nit so as to earn a pro→t of 20%. However, his faulty\nbalance shows 1000 gm when it is actually 800 gm.\nWhat is his actual gain percentage?",
+      "options": {
+        "a": "50%",
+        "b": "40%",
+        "c": "18%",
+        "d": "10%"
+      },
+      "answer": "a",
+      "solution": "He would be selling 800 grams for `12. Since a kg costs `10 800 grams would cost ` 8. Hence, his profit percentage is 50%."
+    },
+    {
+      "id": "ch06-lod2-q044",
+      "num": 44,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The pro→t earned when an article is sold for ` 800\nis 20 times the loss incurred when it is sold for\n` 275. At what price should the article be sold if it\nis desired to make a pro→t of 25%.",
+      "options": {
+        "a": "` 300",
+        "b": "` 350",
+        "c": "` 375",
+        "d": "` 400"
+      },
+      "answer": "c",
+      "solution": "The interpretation of the first statement is that if the loss at 275 is L, the profit at 800 is 20L. Thus, 21L = 800 – 275 = 525 Æ L = 25. Thus, the cost price of the item is `300. To get a profit of 25%, the selling price should be 1.25 ¥ 300 = 375."
+    },
+    {
+      "id": "ch06-lod2-q045",
+      "num": 45,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A sells to B goods at →ve-thirds the rate of pro→t\nat which B has decided to sell it to C. C, on other\nhand, sells it to D at one-third the rate of pro→t at\nwhich B sold it to C. If D gives ` 2145 to C at 10%\npro→t, how much did A buy it for?\nSpace for Rough Work",
+      "options": {
+        "a": "` 1000",
+        "b": "` 2000",
+        "c": "` 1500",
+        "d": "` 1800"
+      },
+      "answer": "a",
+      "solution": "C’s purchase price = 2145 ¥ 10/11 =1950 B’s rate of profit is 3 times C’s rate of profit. Hence, B sells to C at 30% profit. B’s price + 30% profit = 1950 (C’s price). Space for Notes Hence, B’s Price = 1500. Further, since A’s profit rate is 5/3rd the rate of profit of B, A’s profit percent would be 30 ¥ 5/3 = 50%. Thus, A’s Price + 50% profit = 1500 (B’s price) Thus, A’s price = 1000"
+    },
+    {
+      "id": "ch06-lod2-q046",
+      "num": 46,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In the town of Andher Nagari Chaupat Raja, shopkeepers have to buy and sell goods in the range of\n` 500 to ` 999. A shopkeeper in such a town decides\nnot to buy or sell goods for amounts that contain\nthe digit 9 or for amounts that add up to 13 or are\na multiple of 13. What is the maximum possible\npro→t he can earn?",
+      "options": {
+        "a": "` 388",
+        "b": "` 389",
+        "c": "` 488",
+        "d": "None of these"
+      },
+      "answer": "a",
+      "solution": "He would buy at 500 and sell at 888 to get a profit of 388"
+    },
+    {
+      "id": "ch06-lod2-q047",
+      "num": 47,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Manish bought a combined total of 25 monitors and\nprinters. He marked up the monitors by 20% on the\ncost price, while each printer was marked up by\n` 2000. He was able to sell 75% of the monitors\nand 2 printers and make a pro→t of ` 49,000. The\nremaining monitors and 3 printers could not be sold\nby him. Find his overall pro→t or loss if he gets no\nreturn on unsold items and it is known that a printer\ncosts 50% of a monitor.",
+      "options": {
+        "a": "Loss of ` 48,500",
+        "b": "Loss of 21,000",
+        "c": "Loss of ` 41,000",
+        "d": "Inadequate data"
+      },
+      "answer": "a",
+      "solution": "There were 5 printers (2 + 3) and 20 monitors. He sells 2 printers for a profit of ` 2000 each. Hence, profit from printer sales = ` 4000. Then, profit from monitor sales = ` 45000 45000 Thus, profit per monitor = = ` 3000 15 (Since, 15 monitors were sold in all.) Hence, C.P. of monitor = ` 15000 And C.P. of Printer = ` 7500 Total cost = 15000 ¥ 20 + 7500 ¥ 5 = 3,37,500 Total Revenues = 18000 ¥ 15 + 9500 ¥ 2 = 28,900 Hence, loss of ` 48,500 48, 500"
+    },
+    {
+      "id": "ch06-lod2-q048",
+      "num": 48,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For Question 47, Manish’s approximate percentage\npro→t or loss is",
+      "options": {
+        "a": "14.37% loss",
+        "b": "16.5% loss",
+        "c": "12.14% loss",
+        "d": "Insuf→cient information"
+      },
+      "answer": "a",
+      "solution": "Loss% = ¥ 100 = 14.37% 3, 37, 500"
+    },
+    {
+      "id": "ch06-lod2-q049",
+      "num": 49,
+      "lod": 2,
+      "type": "mcq",
+      "text": "An orange vendor makes a pro→t of 20% by selling\noranges at a certain price. If he charges ` 1.2 higher\nper orange he would gain 40%. Find the original\nprice at which he sold an orange.",
+      "options": {
+        "a": "` 5",
+        "b": "` 4.8",
+        "c": "` 6",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": "By charging ` 1.2 more his profit should double to 40%. This means that his profit of 40% should be equal to ` 2.4. Thus, his cost price must be `6 and his original selling price should be 7.2. Hence, option (d) is correct."
+    },
+    {
+      "id": "ch06-lod2-q050",
+      "num": 50,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The Mindworkzz prints 5000 copies of a magazine\nfor ` 5,00,000 every month. In the July issue of the\nmagazine, Mindworkzz distributed 500 copies free.\nBesides, it was able to sell 2/3 of the remaining\nmagazines at 20% discount. Besides, the remaining magazines were sold at the printed price of the\nmagazine (which was ` 200). Find the percentage\npro→t of Mindworkzz in the magazine venture in the\nmonth of July (assume a uniform 20% of the sale\nprice as the vendor’s discount and also assume that\nMindworkzz earns no income from advertising for\nthe issue).\nPro→t & Loss III.59\nLevel of Dif→culty (III)\nThe charges of a taxi journey are decided on the basis of\nthe distance covered and the amount of the waiting time\nduring a journey. Distance wise, for the →rst 2 kilometres (or\nany part thereof) of a journey, the metre reading is →xed at\n` 10 (if there is no waiting). Also, if a taxi is boarded and\nit does not move, then the metre reading is again →xed at\n` 10 for the →rst ten minutes of waiting. For every additional\nkilometre the metre reading changes by ` 5 (with changes\nin the metre reading being in multiples of ` 1 for every 200\nmetres travelled). For every additional minute of waiting,\nthe metre reading changes by ` 1. (no account is taken of a\nfraction of a minute waited for or of a distance less than 200\nmetres travelled). The net metre reading is a function of the\namount of time waited for and the distance travelled.\nThe cost of running a taxi depends on the fuel ef→ciency\n(in terms of mileage/litre), depreciation (straight line over\n10 years) and the driver’s salary (not taken into account if\nthe taxi is self owned).\nDepreciation is ` 100 per day everyday of the →rst 10\nyears. This depreciation has to be added equally to the\ncost for every customer while calculating the pro→t for a\nparticular trip. Similarly, the driver’s daily salary is also\napportioned equally across the customers of the particular\nday. Assume, for simplicity, that there are 50 customers\nevery day (unless otherwise mentioned). The cost of fuel\nis ` 15 per litre (unless otherwise stated).\nThe customer has to pay 20% over the metre reading\nwhile settling his bill. Also assume that there is no fuel cost\nfor waiting time (unless otherwise stated).\nBased on the above facts, answer the following:",
+      "options": {
+        "a": "56%",
+        "b": "24.8%",
+        "c": "28.5%",
+        "d": "22.6%"
+      },
+      "answer": "b",
+      "solution": "Total cost = 5 lacs Total revenue = 3000 ¥ 160 + 1500 ¥ 200 – vendors discount of 20% of revenues = 7.8 lacs – 1.56 lacs = 6.24 lacs. Profit percent = (1.24 ¥ 100)/5 = 24.8% III.70 How to Prepare for Quantitative Aptitude for CAT 7 Interest Introduction The chapter on Interest forms another important topic from the CAT’s point of view. Questions from this chapter are a regular feature of QA section of the Online CAT. Besides, this chapter also has the additional importance of being a core chapter for Data Interpretation. Prior to studying this chapter however, you are required to ensure that a clear understanding of percentages and percentage calculation is a must. The faster you are at percentage calculation, the faster you will be in solving questions of interests. However, questions on interest are still important for exams like MAT, SNAP, ATMA, CMAT, IRMA and Bank P.O. exams. Hence, if you are planning to go for the entire spectrum of management exams—this chapter retains its importance in terms of mathematics too. Questions from LOD I and LOD II of the chapter regularly appear in exams like the Bank PO or others management exams. Concept of Time value of money The value of money is not constant. This is one of the principal facts on which the entire economic world is based. A rupee today will not be equal to a rupee tomorrow. Hence, a rupee borrowed today cannot be repaid by a rupee tomorrow. This is the basic need for the concept of interest. The rate of interest is used to determine the difference between what is borrowed and what is repaid. There are two basis on which interests are calculated: Simple Interest It is calculated on the basis of a basic amount borrowed for the entire period at a particular rate of interest. The amount borrowed is the principal for the entire period of borrowing. Compound Interest The interest of the previous year/s is/are added to the principal for the calculation of the compound interest. This difference will be clear from the following illustration: A sum of ` 1000 at 10% per annum will have Simple interest ` 100 ` 100 ` 100 ` 100 First year Second year Third year Fourth year Compound interest ` 100 ` 110 ` 121 ` 133.1 Note that the previous years’ interests are added to the original sum of ` 1000 to calculate the interest to be paid in the case of compound interest. Terminology Pertaining to Interest The man who lends money is the Creditor and the man who borrows money is the Debtor. The amount of money that is initially borrowed is called the Capital or Principal money. The period for which money is deposited or borrowed is called Time. The extra money, that will be paid or received for the use of the principal after a certain period is called the Total interest on the capital. The sum of the principal and the interest at the end of any time is called the Amount. So, Amount = Principal + Total Interest. Rate of interest is the rate at which the interest is calculated and is always specified in percentage terms."
+    },
+    {
+      "id": "ch06-lod2-q001",
+      "num": 1,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If Sardar Preetpal Singh’s taxi is 14 years old and\nhas a fuel ef→ciency of 12 km/litre of fuel, →nd his\npro→t in a run from Howrah Station to Park Street\n(a distance of 7 km) if the stoppage time is 8 minutes.\n(Assume he owns the taxi)",
+      "options": {
+        "a": "` 32.25",
+        "b": "` 40.85",
+        "c": "` 34.25",
+        "d": "` 42.85"
+      },
+      "answer": "c",
+      "solution": "Total outlay (initial investment) = 750 ¥ 0.6 = ` 450. By selling 600, he should make a 40% profit on the outlay. This means that the selling price for 600 should be 1.4 ¥ 450 Æ ` 630 Thus, selling price per article = 630/600 = 1.05. Since, he sells only 630 articles at this price, his total recovery = 1.05 ¥ 630 = 661.5 Profit percent (actual) = (211.5/450) ¥ 100 = 47%"
+    },
+    {
+      "id": "ch06-lod2-q002",
+      "num": 2,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For question 2, Sardar Preetpal Singh’s percentage\npro→t is",
+      "options": {
+        "a": "391.42%",
+        "b": "380%",
+        "c": "489.71%",
+        "d": "438.23%"
+      },
+      "answer": "b",
+      "solution": "In order to solve this problem, first assume that the cost of manufacturing 1 article is `1. Then 100 articles would get manufactured for `100. For a 20% profit on this cost, he should be able to sell the entire stock for `120. However since he would be able to sell only 88 articles (given that 12% of his manufactured articles would be rejected) he needs to recover `120 from selling 88 articles only. Thus, the profit he would need would be given by the ratio 32/88. Now it is given to us that his selling price is `7.5. The same ratio of profitability i.e.32/88 is achieved if his cost per article is ` 5.5."
+    },
+    {
+      "id": "ch06-lod2-q003",
+      "num": 3,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For the same journey as in question 1 if on another\nday, with heavier traf→c, the waiting time increases to\n13 minutes, →nd the percentage change in the pro→t.",
+      "options": {
+        "a": "12%",
+        "b": "14%",
+        "c": "13%",
+        "d": "16%"
+      },
+      "answer": "b",
+      "solution": "The total cost to print 900 copies would be given by: Cost for setting up the type + cost of running the printing machine + cost of paper/ink etc = 1000 + 120 ¥ 9 + 900 ¥ 0.6 = 1000 +1080 + 540 = 2620. A 10% profit on this cost amounts to ` 262. Hence, the total amount to be recovered is ` 2882. Out of this, 784 copies are sold for ` 2.75 each to recover ` 2156. The remaining money has to be recovered through advertising. Hence, The money to be recovered through advertising = 2882 – 2156 = ` 726. Option (c) is correct."
+    },
+    {
+      "id": "ch06-lod2-q004",
+      "num": 4,
+      "lod": 2,
+      "type": "mcq",
+      "text": "For Question 3, if Sardar Preetpal Singh idled his\ntaxi for 7 minutes and if the fuel consumption dur-\ning idling is 50 ml per minute, →nd the percentage\ndecrease in the pro→ts.\nDirections for questions 5 to 10: Answer questions\nbased on this additional information:\nMr. Vikas Verma owns a fleet of 3 taxis, where he pays\nhis driver ` 3000 per month. He also insists on keeping an\nattendant for ` 1500 per month in each of his taxis. Idling\nrequires 50 ml of fuel for every minute of idling. For a\nmoving taxi, the fuel consumption is given by 12 km/per\nlitre. On a particular day, he received the following reports\nabout the three taxis.\nTaxi\nTotal\nWaiting time Waiting time Waiting time\ncode kilometres\nwith idling without idling\nA\n260\n190 min\n30 min\nB\n264\n170 min\n80 min\nC\n275\n180 min\n60 min",
+      "options": {
+        "a": "10.74%",
+        "b": "11.21%",
+        "c": "10.87%",
+        "d": "9.94%"
+      },
+      "answer": "a",
+      "solution": "Total cost (assume) = 100. Recovered amount = 65 + 0.85 ¥ 32.5 + 0.7 ¥ 32.5 = 65 + 27.625 + 22.75 = 115.375 Hence, profit percent = 15.375%"
+    },
+    {
+      "id": "ch06-lod2-q005",
+      "num": 5,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The maximum revenue has been generated by which\ntaxi?\n If it is to be assumed that every customer travelled\nat least 2 kilometres:",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "Cannot be determined"
+      },
+      "answer": "b",
+      "solution": "Cost price = x Marked Price = x + 205 Selling Price = 0.9x + 184.5 Percentage Profit = [(– 0.1x + 184.5)/x] ¥ 100. 18450 - 10x x"
+    },
+    {
+      "id": "ch06-lod2-q006",
+      "num": 6,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Which of the three taxis generated the maximum\nrevenue?\n(e) Cannot be determined",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "Both A & B"
+      },
+      "answer": "a",
+      "solution": "She should opt for a straight discount of 30% as that gives her the maximum benefit."
+    },
+    {
+      "id": "ch06-lod2-q007",
+      "num": 7,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What percentage of the total revenue was generated\nby taxi B?",
+      "options": {
+        "a": "32.30",
+        "b": "33.36",
+        "c": "34.32",
+        "d": "34.36"
+      },
+      "answer": "b",
+      "solution": "If you assume that his cost price is ` 1 per gram, his cost for 1000 grams would be ` 1000. For supposed 1 kg sale he would charge a price of 1080 (after an increase of 20% followed by a decrease of 10%). But, since he gives away only 900 grams the cost for him would be ` 900. Thus he is buying at 900 and selling at 1080 – a profit percentage of 20%"
+    },
+    {
+      "id": "ch06-lod2-q008",
+      "num": 8,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The highest pro→t was yielded by which taxi?",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "Both A & B"
+      },
+      "answer": "c",
+      "solution": "While buying He buys 1100 gram instead of 1000 grams (due to his cheating). Suppose he bought 1100 grams for ` 1000 While selling: He sells only 900 grams when he takes the money for 1 kg. Now according to the problems he sells at a 8% profit (20% mark up and 10% discount). Hence his selling price is ` 1080 for 900 grams. To calculate profit percentage, we either equate the goods or the money. In this case, let us equate the money as follows: Buying; 1100 grams for ` 1000 Hence 1188 grams for ` 1080 Selling: 900 grams for ` 1080 Hence, profit% = 288/900 = 32% (using goods left by goods sold formula)"
+    },
+    {
+      "id": "ch06-lod2-q009",
+      "num": 9,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The taxi which had the highest percentage pro→t for\nthe day was",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "B & C"
+      },
+      "answer": "d",
+      "solution": "The new situation is Buying: 1100 grams for ` 900 = Profit & Loss III.67 Hence, 1320 grams for ` 1080 Selling: 900 grams for ` 1080 420 ¥ 100 = 46.66% Profit % = 900"
+    },
+    {
+      "id": "ch06-lod2-q010",
+      "num": 10,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The pro→t as a percentage of costs for the day was:\nDirections for questions 11 to 15: Read the following\nand answer the questions that follow.\nThe Coca-Cola Company is setting up a plant for\nmanufacture and sale of the soft drink.\nThe investment for the plant is ` 10 crore (to be invested\nin plant, machinery, advertising, infrastructure, etc.).\nThe following information is available about the different\nbottle sizes planned:\nBottle\nsize\nBottling\ncost\nCost of\nliquid\nTra",
+      "options": {
+        "a": "179.46%",
+        "b": "150.76%",
+        "c": "163.28%",
+        "d": "173.48%"
+      },
+      "answer": "a",
+      "solution": "Assume he bought 20 apples each. Net investment ﬁ ` 5 + ` 4 = ` 9 for 40 apples. He would sell 40 apples @ (40 ¥ 2)/9 = ` 8.888 Æ Loss of ` 0.111 on ` 9 investment Loss percentage = 1.23%"
+    },
+    {
+      "id": "ch06-lod3-q011",
+      "num": 11,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For which bottle should Coca-Cola try to maximise\nsales to maximise its pro→ts? (Assume that the total\nnumber of litres of Coca-Cola sold is constant irrespective of the break up of the sales in terms of\nthe bottle sizes)",
+      "options": {
+        "a": "300 ml",
+        "b": "500 ml",
+        "c": "1.5 litres",
+        "d": "Indifferent between the three sizes"
+      },
+      "answer": "Coca-Cola",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q012",
+      "num": 12,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the company sells only 300 ml bottles in the →rst\nyear, how many bottles should it sell to recover the\ninvestment made in the →rst year only?",
+      "options": {
+        "a": "23,255,814",
+        "b": "232,558,140",
+        "c": "32,255,814",
+        "d": "322,558,140"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q013",
+      "num": 13,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If sales of 300 ml bottles to 500 ml bottles is 4 : 1,\nand there is no sale of 1500 ml bottles how many\n300 ml bottles will be required to recover the investment?",
+      "options": {
+        "a": "1,73,53,580",
+        "b": "2,93,25,512",
+        "c": "16,25,848",
+        "d": "16,25,774"
+      },
+      "answer": "2",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q014",
+      "num": 14,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 13, the total number of both the types\nto be sold in India in order to recover the whole\ninvestment is",
+      "options": {
+        "a": "3665890",
+        "b": "2032310",
+        "c": "21691975",
+        "d": "21723165"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q015",
+      "num": 15,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If we add administrative costs @ ` 1 per litre, which\nbottle size will have the maximum pro→tability?",
+      "options": {
+        "a": "300 ml",
+        "b": "500 ml",
+        "c": "1.5 litres",
+        "d": "Indifferent between the three sizes"
+      },
+      "answer": "Maximum",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q016",
+      "num": 16,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Hotel Chanakya in Chankyapuri has a →xed monthly\ncost of ` 1,000,00. The advertising cost is ` 10,000\nper month. It has 5 A/C rooms, which cost ` 600\nper day and 10 non-A/C rooms, which cost ` 350\nper day. Direct costs are ` 100 per day for an A/C\nroom, and ` 50 for a non-A/C room. In the month of\nApril 2020, the occupancy rate of A/C rooms is 50%\nwhile that of non-A/C rooms is 45%. Find the pro→t\nof the hotel in rupee terms for the month of April\n2020.\n(32,000) Loss\n(17,750) Loss",
+      "options": {
+        "a": "33,600",
+        "b": "28,800",
+        "c": "",
+        "d": ""
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q017",
+      "num": 17,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For the above question, keeping the A/C occupancy\nconstant at 50%, what should be the minimum occupancy rate for non-A/C rooms for incurring no\nloss for the month?",
+      "options": {
+        "a": "75.66%",
+        "b": "80.66%",
+        "c": "83.33%",
+        "d": "86.66%"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q018",
+      "num": 18,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Questions 15 and 16: ` 25,000 worth of advertising a sales promotion of 20% off on the bill doubles\nthe occupancy rate. If this is done, what is the change\nin the pro→t or loss?",
+      "options": {
+        "a": "Reduction of loss by ` 5,900",
+        "b": "Reduction of loss to ` 5,900",
+        "c": "Reduction of loss by ` 26,100",
+        "d": "Both b and c"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q019",
+      "num": 19,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Advertising worth ` 50,000 is done for the sales promotion of A/C rooms (advertising a 20% reduction\nin the bill for A/C rooms). This leads to a doubling\nof the occupancy rate of A/C rooms. Besides, it also\nhas an effect of increasing non-A/C room occupancy\nby 20%. Is this advised?\n A restaurant has a pricing policy that allows for the\nfollowing mark-ups:\nSoups\nStarters\nMeals\nBreads\nSweets\nMark-up of\nMark-up of\nMark-up of\nMark-up of\nMark-up of\n40%\n50%\n25%\n75%\n75%",
+      "options": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Indifferent",
+        "d": "Cannot be determined"
+      },
+      "answer": "Profit",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q020",
+      "num": 20,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Mr. Amarnath and his family of 4 went to the restaurant and got a bill for: Soups (` 126), Starters\n(` 180), Meals (` 300), Breads (` 245) and Sweets\n(` 210). Find the pro→t for the restaurant.",
+      "options": {
+        "a": "` 341",
+        "b": "` 351",
+        "c": "` 361",
+        "d": "` 371"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q021",
+      "num": 21,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The approximate percentage pro→t for the restaurant\non the bill is\nPro→t & Loss III.61",
+      "options": {
+        "a": "40%",
+        "b": "45%",
+        "c": "50%",
+        "d": "55%"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q022",
+      "num": 22,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Which of these are true:\n(i) Pro→t increases if a part of the money spent on\nstarters was spent on breads and another part of\nthe starters was spent on snacks.\n(ii) Pro→t increases if a part of the money spent on\nmeal items was spent on starters and another part\nspent on soups was spent on breads.\n(iii) Pro→t decreases if a certain amount (say x) of the\nspending on soups was spent on starters and the\nsame amount (` x) of the spending on soups is\nspent on meal items.\n(ii) only\n(iii) only\n(ii) and (iii)\nDirections for questions 23 to 28: Read the following\nand answer the questions that follow.\nPrabhat Ranjan inaugurates his internet cafe on the 1st of\nJanuary 2003. He invests in 10 computers @ ` 30,000 per\ncomputer. Besides, he also invests in the other infrastructure\nof the centre, a sum of ` 1 lakh only. He charges his\ncustomers on the time spent on the internet a flat rate of\n` 50 per hour. His initial investment on computers has to\nbe written off equally in 3 years (1 lakh per year) and the\ninfrastructure has to be written off in 5 years (@ ` 20,000\nper year).\nHe has to pay a →xed rental of ` 8000 per month for\nthe space and also hires an assistant at ` 2000 per month.\nFor every hour that he is connected to the internet, he\nhas to bear a telephone charge of ` 20 irrespective of the\nnumber of machines operational on the internet at that time.\nOn top of this, he also has to pay an electricity charge of\n` 5 per computer per hour. Assume that there are no other\ncosts involved unless otherwise mentioned. The internet\ncafe is open 12 hours a day and is open on all 7 days of\nthe week. (Assume that if a machine is not occupied, it is\nput off and hence consumes no electricity).",
+      "options": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "All the three"
+      },
+      "answer": "Observe",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q023",
+      "num": 23,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Assuming a uniform 80% occupancy rate for the\nmonth of April 2003, →nd his pro→t or loss for the\nmonth.",
+      "options": {
+        "a": "` 1,02,400",
+        "b": "` 1,22,400",
+        "c": "` 1,23,600",
+        "d": "` 1,20,733.33"
+      },
+      "answer": "Revenues",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q024",
+      "num": 24,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the occupancy rate drops to 60% in the month of\nJune, what is the value of the pro→t for the month?",
+      "options": {
+        "a": "` 90,000",
+        "b": "` 70,000",
+        "c": "` 1,23,600",
+        "d": "` 90,633.33"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q025",
+      "num": 25,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If Prabhat estimates a →xed occupancy rate of 80%\nduring the peak hours of 2 to 8 pm and 40% in the\noff peak hours of 8 am to 2 pm →nd the expected\npro→t for him in the month of July 2006.",
+      "options": {
+        "a": "` 73,000",
+        "b": "` 93,000",
+        "c": "` 96,000",
+        "d": "` 1,27,500"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q026",
+      "num": 26,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The percentage margin is de→ned as the margin as a\npercentage of the variable cost for an hour of opera-\ntion. Find the percentage margin of the cyber cafe\nPrabhat runs.",
+      "options": {
+        "a": "600 %",
+        "b": "533.33%",
+        "c": "525%",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q027",
+      "num": 27,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 25 above, how many 30-day months\nwill be required for Prabhat to recover back the\ninvestment?",
+      "options": {
+        "a": "3.58 months",
+        "b": "3.72 months",
+        "c": "5.71 months",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q028",
+      "num": 28,
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the internet rates per hour have to be dropped\ndrastically to ` 20 per hour in the fourth year of\noperation, what is Prabhat’s expected pro→t for the\ncalendar year 2010 assuming an average of 60%\noccupancy rate for the year?\nDirections for questions 29 to 33: Read the following\nand answer the questions that follow.\nA train journey from Patna to Delhi by the Magadh\nExpress has 4 classes:\nThe fares of the 4 classes are as follows:\n3 tier: ` 330\nNo. of berths per\nbogey: 72\nNo. of bogeys: 8\nAC 3 tier: ` 898\nNo. of berths per\nbogey: 64\nNo. of bogeys: 2\nAC 2 tier: ` 1388\nNo. of berths per\nbogey: 45\nNo. of bogeys: 2\nAC →rst: ` 2691\nNo. of berths per\nbogey: 26\nNo. of bogeys: 1\nPatna to Delhi distance: 1100 kilometres. Assume the\ntrain does not stop at any station unless otherwise indicated.\nRunning cost per kilometre: AC bogey Æ ` 25, non AC\nbogey Æ ` 10.",
+      "options": {
+        "a": "` 2,66,600",
+        "b": "` 1,66,600",
+        "c": "` 88,500",
+        "d": "` 91,500"
+      },
+      "answer": "Will",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q029",
+      "num": 29,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Assuming full occupancy, a bogey of which class\nexhibits the highest pro→t margin?",
+      "options": {
+        "a": "AC 3 tier",
+        "b": "AC 2 tier",
+        "c": "AC →rst class",
+        "d": "3 tier"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q030",
+      "num": 30,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Assuming full occupancy in all the classes, for a\njourney between Patna to Delhi, the pro→t margin\n(as a percentage of the running costs) of the class\nshowing the lowest pro→t is approximately.",
+      "options": {
+        "a": "116%",
+        "b": "127%",
+        "c": "109%",
+        "d": "None of these"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q031",
+      "num": 31,
+      "lod": 3,
+      "type": "mcq",
+      "text": "What is the approximate pro→t for the railways in\nrupees if the Magadh Express runs at full occupancy\non a particular day?",
+      "options": {
+        "a": "` 250,000",
+        "b": "` 275,000",
+        "c": "` 300,000",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q032",
+      "num": 32,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 31, the percentage of the total pro→t\nthat comes out of AC bogeys is (approximately)",
+      "options": {
+        "a": "50%",
+        "b": "60%",
+        "c": "70%",
+        "d": "80%"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q033",
+      "num": 33,
+      "lod": 3,
+      "type": "mcq",
+      "text": "The highest revenue for a journey from Patna to\nDelhi will always be generated by",
+      "options": {
+        "a": "3 tier",
+        "b": "AC 3 tier",
+        "c": "AC 2 tier",
+        "d": "Cannot be determined"
+      },
+      "answer": "Revenues",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q034",
+      "num": 34,
+      "lod": 3,
+      "type": "mcq",
+      "text": "A newspaper vendor sells three kinds of periodicalsdailies, weeklies and monthlies.\n The weeklies sell for ` 12 at a pro→t of 20%, the\nmonthlies sell for ` 50 at a pro→t of 25%, while\nthe dailies sell at ` 3 at a pro→t of 50%. If there\nis a government restriction on the total number of\nperiodicals that one particular news vendor, can sell,\nand Kalu a newspaper vendor, has suf→cient demand\nfor all the three types of periodicals, what should he\ndo to maximise pro→ts?",
+      "options": {
+        "a": "Sell maximum weeklies",
+        "b": "Sell maximum monthlies",
+        "c": "Sell maximum dailies",
+        "d": "Cannot be determined"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q035",
+      "num": 35,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Without the restriction mentioned in the problem\nabove, what should the newspaper vendor do to\nmaximise his pro→ts if his capital is limited?",
+      "options": {
+        "a": "Sell maximum weeklies",
+        "b": "Sell maximum monthlies",
+        "c": "Sell maximum dailies",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q036",
+      "num": 36,
+      "lod": 3,
+      "type": "mcq",
+      "text": "A fruit vendor buys fruits from the fruit market at\nwholesale prices and sells them at his shop at retail\nprices. He operates his shop 30 days a month, as a\nrule. He buys in multiples of 100 fruits and sells\nthem in multiples of a dozen fruits. He purchases\nmangoes for ` 425 per hundred and sells at ` 65\nper dozen, he buys apples at ` 150 per hundred and\nsells at ` 30 per dozen, he buys watermelons (always\nof equal size) at ` 1800 per hundred and sells at `\n360 per dozen. Which of the three fruits yields him\nthe maximum percentage pro→t?\nSpace for Rough Work\n(c)",
+      "options": {
+        "a": "Mangoes",
+        "b": "and",
+        "c": "Watermelons",
+        "d": "Both"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q037",
+      "num": 37,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 36, if he adds oranges, which he buys\nat ` 180 per hundred and sells at ` 33 per dozen,\nwhat can be his maximum pro→t on a particular day\nif he invests ` 1800 in purchasing fruits everyday\nand he sells everything that he buys?",
+      "options": {
+        "a": "` 1200",
+        "b": "` 1180",
+        "c": "` 1260",
+        "d": "` 1320"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q038",
+      "num": 38,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Questions 36 and 37, if the fruit vendor hires\nyou as a consultant and pays you 20% of his pro→t\nin the month of July 2006 as a service charge, what\ncan be the maximum fees that you will get for your\nconsultancy charges?",
+      "options": {
+        "a": "` 7200",
+        "b": "` 14,400",
+        "c": "` 7440",
+        "d": "Cannot be determined"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q039",
+      "num": 39,
+      "lod": 3,
+      "type": "mcq",
+      "text": "A newspaper costs ` 11 to print on a daily basis.\nIts sale price (printed) is ` 3. The newspaper gives\na sales incentive of 40% on the printed price, to the\nnewspaper vendors. The newspaper makes up for the\nloss through advertisements, which are charged on\nthe basis of per column centimetre rates. The advertisement rates of the newspaper are ` 300 per cc (column centimetre). It has to give an incentive of 15%\non the advertising bill to the advertising agency. If\nthe newspaper has a circulation of 12,000 copies, what\nis the approximate minimum advertising booking\nrequired if the newspaper has to break-even on a\nparticular day. (Assume there is no wastage)",
+      "options": {
+        "a": "300 cc",
+        "b": "350 cc",
+        "c": "435 cc",
+        "d": "450 cc"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q040",
+      "num": 40,
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 39, if it is known that the newspaper\nhouse is unable to recover 20% of its dues, what\nwould be the approximate advertising booking target\non a particular day in order to ensure the break-even\npoint?\nPro→t & Loss III.63\nanswer key\nLevel of Dif→culty (I)",
+      "options": {
+        "a": "375 cc",
+        "b": "438 cc",
+        "c": "544 cc",
+        "d": "562.5 cc"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q011",
+      "num": 11,
+      "lod": 3,
+      "type": "tita",
+      "text": "Coca-Cola earns (10 – 3) – (2 + 0.6 + 0.1) = ` 4.3\nper 300 ml bottle.\n Similarly, for 500 ml bottle, the pro→t is\n12 – 6.15 = ` 5.85.\n and for 1500 ml bottle, 28 – 13.2 = 14.8 for 1500\nml bottle.\n The pro→t per ml sold has to be maximised.\n` 10 crore",
+      "options": {},
+      "answer": "Coca-Cola",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q012",
+      "num": 12,
+      "lod": 3,
+      "type": "tita",
+      "text": "= 2,32,55,814.\n4.3\n13-14. The earning for one set of 5 bottles = 4.3 × 4 + 5.85\n= ` 23.05.\nMargin per bottle",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q015",
+      "num": 15,
+      "lod": 3,
+      "type": "tita",
+      "text": "Maximum pro→tability =\n.\nCost per bottle\n16-19. Pro→t = Revenue – Expenses.\n20-22. Observe the pro→tability rates for each type of item.",
+      "options": {},
+      "answer": "Maximum",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q023",
+      "num": 23,
+      "lod": 3,
+      "type": "tita",
+      "text": "Revenues = 8 computers × ` 50/hr × 12 hours × 30\ndays\nDepreciation\n Costs = monthly cost +\n+ Hourly cost\n12\n× 12 hours × 30 days.\n24-28. Will be solved on the same principle as question 23.\n29-33. Revenues = occupancy × cost/ticket.\nCost\n× no. of kilometres.\nKilometer\nSolutions and Shortcuts\nLevel of Dif→culty (I)",
+      "options": {},
+      "answer": "Revenues",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q001",
+      "num": 1,
+      "lod": 3,
+      "type": "tita",
+      "text": "0.8 × Price = 560 Æ Price 700.",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q002",
+      "num": 2,
+      "lod": 3,
+      "type": "tita",
+      "text": "The SP = 106.25% of the CP. Thus, CP = 29.75/1.0625\n= ` 28.",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q003",
+      "num": 3,
+      "lod": 3,
+      "type": "tita",
+      "text": "1.12 × Price = 3808 Æ Price = 3400.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q004",
+      "num": 4,
+      "lod": 3,
+      "type": "tita",
+      "text": "A loss of 25% means a cost price of 100 corresponding to a selling price of 75. CP as a percentage of\nthe SP would then be 133.33%",
+      "options": {},
+      "answer": "3",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q005",
+      "num": 5,
+      "lod": 3,
+      "type": "tita",
+      "text": "1800 = 1.2 × cost price Æ Cost price = 1500\n Pro→t at 1687.5 = ` 187.5\n Percentage pro→t = (187.5/1500) × 100 = 12.5%",
+      "options": {},
+      "answer": "85",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q006",
+      "num": 6,
+      "lod": 3,
+      "type": "tita",
+      "text": "CP = 6612.5/1.15 = 5750. Selling this at 5380 would\nmean a loss of `370 on a CP of ` 5750.",
+      "options": {},
+      "answer": "15",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q007",
+      "num": 7,
+      "lod": 3,
+      "type": "tita",
+      "text": "The CP will be ` 7200 (got by 6400 × 1.125). Hence\nat an S.P. of 7812 the percentage pro→t will be 8.5%",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q008",
+      "num": 8,
+      "lod": 3,
+      "type": "tita",
+      "text": "CP = 69/1.15 = 60. Thus, the required SP for 20%\npro→t = 1.2 × 60 = 72.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q009",
+      "num": 9,
+      "lod": 3,
+      "type": "tita",
+      "text": "The buying price is ` 6 per dozen, while the sales\nprice is ` 0.75 × 12 = 9 per dozen – a pro→t of 50%",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q010",
+      "num": 10,
+      "lod": 3,
+      "type": "tita",
+      "text": "Sales tax = 150/5 = 30. Thus, the SP contains ` 30\ncomponent of sales tax. Of the remainder (150 – 30\n= 120) 1/3rd is the pro→t. Thus, the pro→t = 120/3 =",
+      "options": {},
+      "answer": "Concentrate",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q040",
+      "num": 40,
+      "lod": 3,
+      "type": "tita",
+      "text": "Cost price = 120 – 40 = 80.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q011",
+      "num": 11,
+      "lod": 3,
+      "type": "tita",
+      "text": "C.P × 1.3 = 26 Æ CP = 20\n At a selling price of ` 22.5, the pro→t percent 2.5/20\n= 12.5%",
+      "options": {},
+      "answer": "Coca-Cola",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q012",
+      "num": 12,
+      "lod": 3,
+      "type": "tita",
+      "text": "Solve using options. Option \nthe cost of the trouser. Hence, the shirt will cost 15%\nmore i.e. 220 + 22 + 11 = 253.\n This satis→es the total cost requirement of ` 473.",
+      "options": {
+        "d": "gives you `220 as"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q013",
+      "num": 13,
+      "lod": 3,
+      "type": "tita",
+      "text": "The formula that satis→es this condition is:\n Loss of a2/100% (Where a is the common pro→t and\nloss percentage). Hence, in this case 625/100 = 6.25%\nloss.",
+      "options": {},
+      "answer": "2",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q014",
+      "num": 14,
+      "lod": 3,
+      "type": "tita",
+      "text": "Cost price = ` 1000, selling price = 0.9 of 1200 =\n1080.\n Hence, 8% is the correct answer.",
+      "options": {},
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch06-lod3-q015",
+      "num": 15,
+      "lod": 3,
+      "type": "tita",
+      "text": "The cost per toffee = 75/125 = ` 0.6 = 60 paise.\nCost of 1 million toffees = 600",
+      "options": {},
+      "answer": "Maximum",
+      "solution": null
+    }
+  ],
+  "questionCount": 153,
+  "lodCounts": {
+    "lod1": 56,
+    "lod2": 47,
+    "lod3": 50
+  }
+}
