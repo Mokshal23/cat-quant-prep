@@ -1,9 +1,7 @@
-import { getManifest } from '@/lib/data';
 import QuizPageClient from './QuizPageClient';
 
-export function generateStaticParams() {
-  return getManifest().chapters.map(c => ({ id: c.id }));
-}
+// Dynamic rendering — avoids SSG + useSearchParams conflicts
+export const dynamic = 'force-dynamic';
 
 export default async function QuizPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
