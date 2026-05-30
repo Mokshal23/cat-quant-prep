@@ -1,0 +1,182 @@
+{
+  "totalChapters": 11,
+  "totalQuestions": 1967,
+  "chapters": [
+    {
+      "id": "ch01",
+      "num": 1,
+      "title": "Number Systems",
+      "block": "I",
+      "blockName": "Numbers",
+      "topic": "Numbers",
+      "questionCount": 385,
+      "lodCounts": {
+        "lod1": 174,
+        "lod2": 134,
+        "lod3": 77
+      },
+      "answeredCount": 174,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch02",
+      "num": 2,
+      "title": "Progressions",
+      "block": "I",
+      "blockName": "Numbers",
+      "topic": "Numbers",
+      "questionCount": 169,
+      "lodCounts": {
+        "lod1": 55,
+        "lod2": 62,
+        "lod3": 52
+      },
+      "answeredCount": 54,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch03",
+      "num": 3,
+      "title": "Averages",
+      "block": "II",
+      "blockName": "Averages & Mixtures",
+      "topic": "Averages & Mixtures",
+      "questionCount": 197,
+      "lodCounts": {
+        "lod1": 94,
+        "lod2": 54,
+        "lod3": 49
+      },
+      "answeredCount": 94,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch04",
+      "num": 4,
+      "title": "Alligations",
+      "block": "II",
+      "blockName": "Averages & Mixtures",
+      "topic": "Averages & Mixtures",
+      "questionCount": 80,
+      "lodCounts": {
+        "lod1": 41,
+        "lod2": 26,
+        "lod3": 13
+      },
+      "answeredCount": 41,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch05",
+      "num": 5,
+      "title": "Percentages",
+      "block": "III",
+      "blockName": "Arithmetic",
+      "topic": "Arithmetic",
+      "questionCount": 169,
+      "lodCounts": {
+        "lod1": 59,
+        "lod2": 60,
+        "lod3": 50
+      },
+      "answeredCount": 58,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch06",
+      "num": 6,
+      "title": "Profit & Loss",
+      "block": "III",
+      "blockName": "Arithmetic",
+      "topic": "Arithmetic",
+      "questionCount": 153,
+      "lodCounts": {
+        "lod1": 65,
+        "lod2": 48,
+        "lod3": 40
+      },
+      "answeredCount": 64,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch07",
+      "num": 7,
+      "title": "Interest",
+      "block": "III",
+      "blockName": "Arithmetic",
+      "topic": "Arithmetic",
+      "questionCount": 79,
+      "lodCounts": {
+        "lod1": 49,
+        "lod2": 30,
+        "lod3": 0
+      },
+      "answeredCount": 49,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch08",
+      "num": 8,
+      "title": "Ratio, Proportion & Variation",
+      "block": "III",
+      "blockName": "Arithmetic",
+      "topic": "Arithmetic",
+      "questionCount": 138,
+      "lodCounts": {
+        "lod1": 59,
+        "lod2": 54,
+        "lod3": 25
+      },
+      "answeredCount": 58,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch09",
+      "num": 9,
+      "title": "Time and Work",
+      "block": "III",
+      "blockName": "Arithmetic",
+      "topic": "Arithmetic",
+      "questionCount": 126,
+      "lodCounts": {
+        "lod1": 60,
+        "lod2": 40,
+        "lod3": 26
+      },
+      "answeredCount": 60,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch10",
+      "num": 10,
+      "title": "Time, Speed and Distance",
+      "block": "III",
+      "blockName": "Arithmetic",
+      "topic": "Arithmetic",
+      "questionCount": 191,
+      "lodCounts": {
+        "lod1": 83,
+        "lod2": 58,
+        "lod3": 50
+      },
+      "answeredCount": 83,
+      "solvedCount": 0
+    },
+    {
+      "id": "ch11",
+      "num": 11,
+      "title": "Geometry & Mensuration",
+      "block": "IV",
+      "blockName": "Geometry",
+      "topic": "Geometry",
+      "questionCount": 280,
+      "lodCounts": {
+        "lod1": 149,
+        "lod2": 131,
+        "lod3": 0
+      },
+      "answeredCount": 74,
+      "solvedCount": 0
+    }
+  ]
+}

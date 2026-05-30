@@ -1,5 +1,5 @@
 import { getManifest } from '@/lib/data';
-import ChapterClientLoader from './ChapterClientLoader';
+import ChapterPageClient from './ChapterPageClient';
 
 export function generateStaticParams() {
   return getManifest().chapters.map(c => ({ id: c.id }));
@@ -7,5 +7,5 @@ export function generateStaticParams() {
 
 export default async function ChapterPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  return <ChapterClientLoader chapterId={id} />;
+  return <ChapterPageClient chapterId={id} />;
 }
