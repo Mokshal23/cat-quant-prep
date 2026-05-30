@@ -6,34 +6,436 @@
   "blockName": "Arithmetic",
   "topic": "Arithmetic",
   "notes": {
-    "intro": "25 days.\nHence, to complete the remaining 60% of the work, he\nwould require 50% more days (i.e. 37.5 days) (Since,\n60% is 1.5 times of 40%)\nHence, the work would be done 12.5 days behind\nschedule.\n(b) how much increase in ef→ciency is required from the\nwork force to complete the work in time?\nSoluti",
+    "intro": "d2 is unknown\nand\nt1 is 8 hours a day\nt2 is 12 hours a day\nThen we get (200 × 10 × 20)/(400 × 10 × 15) = (20 × 8\n× 10)/(25 × 12 × d2)",
     "concepts": [
-      "25 days.\nHence, to complete the remaining 60% of the work, he\nwould require 50% more days (i.e. 37.5 days) (Since,\n60% is 1.5 times of 40%)\nHence, the work would be done 12.5 days behind\nschedule.\n(b) how much increase in ef→ciency is required from the\nwork force to complete the work in time?\nSolution If the number of men working is kept constant,\nthe only way to →nish the work in time is by increasing\nthe ef→ciency so that more work is done every man-day.\nThis should be mathematically looked at as follows:\nSuppose, that 1 man-day takes care of 1 unit of work.\nThen, in the →rst 25 days, work done = 25 (days) × 50\n(men) × 1 (work unit per man-day) = 1250 units of work.\nNow, this 1250 units of work is just 40% of the work.\nHence, work left = 1875 units of work.\nThen, 25 (days) × 50 (men) × z (work units per man-day)\n= 1875 Æ z = 1.5\nThus, the work done per man-day has to rise from 1 to\n1.5, that is, by 50%. Hence, the ef→ciency of work has to\nrise by 50%.\nProblem 9.4 A is twice as ef→cient as B. If they complete a work in 30 days →nd the times required by each to\ncomplete the work individually.\nSolution When we say that A is twice as ef→cient as B,\nit means that A takes half the time that B takes to complete\nthe same work.\nThus, if we denote A’s 1 day’s work as A and B’s one\nday’s work as B, we have\nA = 2B\nThen, using the information in the problem, we have: 30\nA + 30 B = 100% work\nThat is, 90 B = 100% work Æ B = 1.11 % (is the work\ndone by B in 1 day) Æ B requires 90 days to complete the\nwork alone.\nSince, A = 2B Æ we have A = 2.22 % Æ A requires 45\ndays to do the work alone.\nYou should be able to solve this mentally with the\nfollowing thought process while reading for the →rst time:\n100\n3.33\n= 3.33%.\n= 1.11%. Hence, work done is 1.11%\n30\n3\nper day and 2.22% per day Æ 90 and 45 days.\nProblem 9.5 A is two times more ef→cient than B. If they\ncomplete a work in 30 days, then →nd the times required\nby each to complete the work individually.\nSolution Interpret the →rst sentence as A = 3B and solve\naccording to the process of the previous problem to get\nthe answers. (You should get A takes 40 days and B takes\n120 days.)",
-      "1. Raju can do 25% of a piece of work in 5 days. How\nmany days will he take to complete the work ten\ntimes?\n(a) 150 days\n(b) 250 days\n(c) 200 days\n(d) 180 days\n2. 6 men can do a piece of work in 12 days. How many\nmen are needed to do the work in 18 days.\n(a) 3 men\n(b) 6 men\n(c) 4 men\n(d) 2 men\n3. A can do a piece of work in 20 days and B can do\nit in 15 days. How long will they take if both work\ntogether?\n6\n(a) 8 Ê ˆ days\nË 7¯",
-      "4. In question 3 if C, who can →nish the same work in\n25 days, joins them, then how long will they take\nto complete the work?\n18\n(a) 6 Ê ˆ days\nË 47 ¯",
-      "5. Nishu and Archana can do a piece of work in 10\ndays and Nishu alone can do it in 12 days. In how\nmany days can Archana do it alone?\n(a) 60 days\n(b) 30 days\n(c) 50 days\n(d) 45 days\n6. Baba alone can do a piece of work in 10 days. Anshu\nalone can do it in 15 days. If the total wages for\nthe work is ` 50. How much should Baba be paid\nif they work together for the entire duration of the\nwork?\n(a) ` 30\n(b) ` 20\n(c) ` 50\n(d) ` 40\n7. 4 men and 3 women →nish a job in 6 days, and 5\nmen and 7 women can do the same job in 4 days.\nHow long will 1 man and 1 woman take to do the\nwork?\n2\n(a) 22 Ê ˆ days\nË 7¯",
-      "8. If 8 boys and 12 women can do a piece of work in\n25 days, in how many days can the work be done\nby 6 boys and 11 women working together?\n(a) 15 days\n(b) 10 days\n(c) 12 days\n(d) Cannot be determined\n9. A can do a piece of work in 10 days and B can do\nthe same work in 20 days. With the help of C, they\n→nish the work in 5 days. How long will it take for\nC alone to →nish the work?\n(a) 20 days\n(b) 10 days\n(c) 35 days\n(d) 15 days\n10. A can do a piece of work in 20 days. He works at\nit for 5 days and then B →nishes it in 10 more days.\nIn how many days will A and B together →nish the\nwork?\n(a) 8 days\n(b) 10 days\n(c) 12 days\n(d) 6 days\n11. A and B undertake to do a piece of work for ` 100.\nA can do it in 5 days and B can do it in 10 days.\nWith the help of C, they →nish it in 2 days. How\nmuch should C be paid for his contribution?\n(a) ` 40\n(b) ` 20\n(c) ` 60\n(d) ` 30\n12. Twenty workers can →nish a piece of work in 30\ndays. After how many days should 5 workers leave\nthe job so that the work is completed in 35 days?\n(a) 5 days\n(b) 10 days\n(c) 15 days\n(d) 20 days\n13. Arun and Vinay together can do a piece of work in\n7 days. If Arun does twice as much work as Vinay\nin a given time, how long will Arun alone take to\ndo the work.\n(a) 6.33 days\n(b) 10.5 days\n(c) 11 days\n(d) 72 days\n14. Subhash can copy 50 pages in 10 hours; Subhash and\nPrakash together can copy 300 pages in 40 hours. In\nhow much time can Prakash copy 30 pages?\n(a) 13 h\n(b) 12 h\n(c) 11 h\n(d) 9 h\n15. X number of men can →nish a piece of work in 30\ndays. If there were 6 men more, the work could be\n→nished in 10 days less. What is the original number\nof men?\n(a) 10\n(b) 11\n(c) 12\n(d) 15\n16. Sashi can do a piece of work in 25 days and Rishi\ncan do it in 20 days. They work for 5 days and then",
-      "Sashi goes away. In how many more days will Rishi\n→nish the work?\n(a) 10 days\n(b) 12 days\n(c) 14 days\n(d) None of these\n17. Raju can do a piece of work in 10 days, Vicky in 12\ndays and Tinku in 15 days. They all start the work\ntogether, but Raju leaves after 2 days and Vicky\nleaves 3 days before the work is completed. In how\nmany days is the work completed?\n(a) 5 days\n(b) 6 days\n(c) 7 days\n(d) 8 days\n18. Sambhu can do 1/2 of the work in 8 days while Kalu\ncan do 1/3 of the work in 6 days. How long will it\ntake for both of them to →nish the work?\n(a)"
+      "d2 is unknown\nand\nt1 is 8 hours a day\nt2 is 12 hours a day\nThen we get (200 × 10 × 20)/(400 × 10 × 15) = (20 × 8\n× 10)/(25 × 12 × d2)",
+      "Alternatively, you can also directly write the equation as\nfollows:\nd2 = 10 × (400/200) × (10/10) × (20/15) × (20/25) × (8/12)\nThis can be done by thinking of the problem as follows:\nThe number of days have to be found out in the second\ncase. Hence, on the LHS of the equation write down the\nunknown and on the RHS of the equation write down the\ncorresponding knowns.\nd2 = 10 × ....\nThen, the length of the wall has to be factored in. There\nare only two options for doing so, viz.\nMultiplying by 200/400 (< 1, which will reduce the\nnumber of days) or multiplying by 400/200 (>1, which will\nincrease the number of days).\nThe decision of which one of these is to be done is\nmade on the basis of the fact that when the length of the wall\nis increasing, the number of days required will also increase.\nHence, we take the value of the fraction greater than 1 to\nget\nd2 = 10 × (400/200)\nWe continue in the same way to get\nNo change in the breadth of the wall → hence, multiply\nby 10/10 (no change in d2)\nHeight of the wall is decreasing → hence, multiply by\n15/20 (< 1 to reduce d2)\nNumber of men working is increasing → hence, multiply\nby 20/25 (< 1 to reduce d2)\nNumber of hours per day is increasing → hence, multiply\nby 8/12 (< 1 to reduce the number of days)",
+      "The Concept of Ef→ciency\nThe concept of ef→ciency is closely related to the concept of\nwork rate.\nWhen we make a statement saying A is twice as ef→cient\nas B, we mean to say that A does twice the work as B in the\nsame time. In other words, we can also understand this as A\nwill require half the time required by B to do the same work.\nIn the context of ef→ciency, another statement that you\nmight come across is A is two times more ef→cient than B.\nThis is the same as A is thrice as ef→cient as B or A does the\nsame work as B in 1/3rd of the time.",
+      "Equating Men, Women and Children This is\ndirectly derived from the concept of ef→ciencies.\nExample: 8 men can do a work in 12 days while 20\nwomen can do it in 10 days. In how many days can 12\nmen and 15 women complete the same work.\nSolution: Total work to be done = 8 × 12 = 96 man-days.\nor total work to be done = 20 × 10 = 200 woman-days.\nSince, the work is the same, we can equate 96 man-days\n= 200 woman-days.\nHence, 1 man-day = 2.08333 woman-days.\nNow, if 12 men and 15 women are working on the work\nwe get\n12 men are equal to 12 × 2.08333 = 25 women\nHence, the work done per day is equivalent to 25 + 15\nwomen working per day.\nThat is, 40 women working per day.\nHence, 40 × no. of days = 200 woman days\nNumber of days = 5 days.",
+      "Problem 9.1 A can do a piece of work in 10 days and B\nin 12 days. Find how much time they will take to complete\nthe work under the following conditions:\n(a) Working together\n(b) Working alternately starting with A.\n(c) Working alternately starting with B.\n(d) If B leaves 2 days before the actual completion of\nthe work.\n(e) If B leaves 2 days before the scheduled completion\nof the work.\n(f) If another person C who does negative work (i.e.,\nworks against A and B and can completely destroy\nthe work in 20 days) joins them and they work together all the time.\nSolution\n(a) 1 day’s work for A is 1/10 and 1 day’s work for B is\n1/12.\nThen, working together, the work in one day is equal to:\n1\n1\n11\n+\n=\nof the work. Thus working together they\n10 12\n60\nneed 60/11 days to complete the work → 5.45 days.\nAlternately, you can use percentage values to solve\nthe above question:\nA’s work =10%, B’s work = 8.33%. Hence, A + B\n= 18.33% of the work in one day.\nHence, to complete 100% work, we get the number of\ndays required = 100/18.33 → 5.55 days.\nThis can be calculated as\n@ 18.33% per day in 5 days, they will cover 18.33 ×\n5 = 91.66%. (The decimal value 0.33 is not dif→cult to\nhandle if you have internalised the fraction to percentage\nconversion table of the chapter of percentages).\nWork left on the sixth day is: 8.33%, which will\nrequire: 8.33/18.33 of the sixth day.\nSince, both these numbers are divisible by 1.66 we\nget 5/11 of the sixth day will be used → 0.45 of the sixth\nday is used.\nHence, 5.45 days are required to →nish the work.\nNote: Although the explanation to the question through\npercentages seems longer, the student should realise\nthat if the values in the fraction-to-percentage table\nis internalised by the student, the process of solution\nthrough percentage will take much lesser time because\nwe are able to eliminate the need for the calculation of\nLCMs, which are often cumbersome. (if the numbers\nin the problem are those that are covered in the fraction",
+      "to percentage conversion table). In fact, the percentage\nmethod allows for solving while reading.\n(b) Working alternately: When two people are working\nalternately the question has to be solved by taking 2 days\nas a unit of time instead of 1 day.\nSo in (a) above, the work done in 1 day will be\ncovered in 2 days here.\nThus, in 2 days the work done will be 18.33%. In\n10 days it will be 91.66%. On the 11th day A works by\nhimself.\nBut A’s work in 1 day is 10%. Therefore, he will require\n4/5 of the 11th day to →nish the work.\n(c) Working alternately starting with B: Here, there will be\nno difference in work completed by the 10th day. On the\n11th day, B works alone and does 8.33% of the work\n(which was required to complete the work). Hence, the\nwhole of the 11th day will get used.\n(d) If B leaves 2 days before the actual completion of the\nwork: In this case, the actual completion of the work\nis after 2 days of B’s leaving. This means, that A has\nworked alone for the last 2 days to complete the work.\nBut A does, 10% work in a day. Hence, A and B must\nhave done 80% of the work together (@18.33% per day).\nThen, the answer can be found by\n80/18.33 + 20/10 days.\nNote: For calculation of 80/18.33, we can use the fact\nthat the decimal value is a convenient one. If they worked\ntogether they would complete 73.33% of the work in 4\ndays and the work that they would have done on the 5th\nday would be 6.66%.\nAt the rate of 18.33% work per day while working\ntogether, they would work together for 6.66/18.33 of\nthe 5th day. Since both the numerator and denominator\nare divisible by 1.66 the above ratio is converted into\n4/11 = 0.3636.\nHence, they work together for 4.3636 days after\nwhich B leaves and then A completes the work in 2 more\ndays. Hence, the time required to →nish the work would\nbe = 6.3636 days.\n(e) If B leaves 2 days before the scheduled completion of\nthe work: Completion of the work would have been\nscheduled assuming that A and B both worked together\nfor completing the work (say, this is x days). Then, the\nproblem has to be viewed as x – 2 days was the time for\nwhich A and B worked together. The residual amount of\nwork left (which will be got by 2 days work of A and B\ntogether) would be done by A alone at his own pace of\nwork.\nThus we can get the solution by:"
     ],
     "formulas": [
-      "(b) how much increase in ef→ciency is required from the",
-      "the only way to →nish the work in time is by increasing",
-      "the ef→ciency so that more work is done every man-day.",
-      "Then, in the →rst 25 days, work done = 25 (days) × 50",
-      "(men) × 1 (work unit per man-day) = 1250 units of work.",
-      "Hence, work left = 1875 units of work.",
-      "= 1875 Æ z = 1.5",
-      "Problem 9.4 A is twice as ef→cient as B. If they complete a work in 30 days →nd the times required by each to",
-      "Solution When we say that A is twice as ef→cient as B,",
-      "A + 30 B = 100% work",
-      "That is, 90 B = 100% work Æ B = 1.11 % (is the work",
-      "Since, A = 2B Æ we have A = 2.22 % Æ A requires 45",
-      "following thought process while reading for the →rst time:",
-      "= 1.11%. Hence, work done is 1.11%",
-      "Problem 9.5 A is two times more ef→cient than B. If they"
+      "Then we get (200 × 10 × 20)/(400 × 10 × 15) = (20 × 8",
+      "d2 = 10 × (400/200) × (10/10) × (20/15) × (20/25) × (8/12)",
+      "d2 = 10 × (400/200)",
+      "Solution: Total work to be done = 8 × 12 = 96 man-days.",
+      "or total work to be done = 20 × 10 = 200 woman-days.",
+      "= 200 woman-days.",
+      "Hence, 1 man-day = 2.08333 woman-days.",
+      "12 men are equal to 12 × 2.08333 = 25 women",
+      "Hence, 40 × no. of days = 200 woman days",
+      "Number of days = 5 days.",
+      "A’s work =10%, B’s work = 8.33%. Hence, A + B",
+      "= 18.33% of the work in one day."
     ]
   },
   "questions": [
+    {
+      "id": "ch09-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Raju can do 25% of a piece of work in 5 days. How\nmany days will he take to complete the work ten\ntimes?",
+      "options": {
+        "a": "150 days",
+        "b": "250 days",
+        "c": "200 days",
+        "d": "180 days"
+      },
+      "answer": "6",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "6 men can do a piece of work in 12 days. How many\nmen are needed to do the work in 18 days.",
+      "options": {
+        "a": "3 men",
+        "b": "6 men",
+        "c": "4 men",
+        "d": "2 men"
+      },
+      "answer": "Increase",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A can do a piece of work in 20 days and B can do\nit in 15 days. How long will they take if both work\ntogether?\n6\n\nË 7¯\n\n4\n\nË 7¯\n\n3\n\nË 7¯\n\n4\n\nË 7¯",
+      "options": {
+        "a": "8 Ê ˆ days",
+        "b": "8 Ê ˆ days",
+        "c": "9 Ê ˆ days",
+        "d": "9 Ê ˆ days"
+      },
+      "answer": "33",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In question 3 if C, who can →nish the same work in\n25 days, joins them, then how long will they take\nto complete the work?\n18\n\nË 47 ¯\n8\n\nË 11¯\n\n6\n\nË 18 ¯",
+      "options": {
+        "a": "6 Ê ˆ days",
+        "b": "12 days",
+        "c": "2 Ê ˆ days",
+        "d": "47 Ê ˆ days"
+      },
+      "answer": "Find",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Nishu and Archana can do a piece of work in 10\ndays and Nishu alone can do it in 12 days. In how\nmany days can Archana do it alone?",
+      "options": {
+        "a": "60 days",
+        "b": "30 days",
+        "c": "50 days",
+        "d": "45 days"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Baba alone can do a piece of work in 10 days. Anshu\nalone can do it in 15 days. If the total wages for\nthe work is ` 50. How much should Baba be paid\nif they work together for the entire duration of the\nwork?",
+      "options": {
+        "a": "` 30",
+        "b": "` 20",
+        "c": "` 50",
+        "d": "` 40"
+      },
+      "answer": "66",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "4 men and 3 women →nish a job in 6 days, and 5\nmen and 7 women can do the same job in 4 days.\nHow long will 1 man and 1 woman take to do the\nwork?\n2\n\nË 7¯\n\n1\n\nË 2¯\n\n1\n\nË 7¯\n\n7\n\nË 22 ¯",
+      "options": {
+        "a": "22 Ê ˆ days",
+        "b": "25 Ê ˆ days",
+        "c": "5 Ê ˆ days",
+        "d": "12 Ê ˆ days"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 8 boys and 12 women can do a piece of work in\n25 days, in how many days can the work be done\nby 6 boys and 11 women working together?",
+      "options": {
+        "a": "15 days",
+        "b": "10 days",
+        "c": "12 days",
+        "d": "Cannot be determined"
+      },
+      "answer": "33",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A can do a piece of work in 10 days and B can do\nthe same work in 20 days. With the help of C, they\n→nish the work in 5 days. How long will it take for\nC alone to →nish the work?",
+      "options": {
+        "a": "20 days",
+        "b": "10 days",
+        "c": "35 days",
+        "d": "15 days"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A can do a piece of work in 20 days. He works at\nit for 5 days and then B →nishes it in 10 more days.\nIn how many days will A and B together →nish the\nwork?",
+      "options": {
+        "a": "8 days",
+        "b": "10 days",
+        "c": "12 days",
+        "d": "6 days"
+      },
+      "answer": "Interpretation",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A and B undertake to do a piece of work for ` 100.\nA can do it in 5 days and B can do it in 10 days.\nWith the help of C, they →nish it in 2 days. How\nmuch should C be paid for his contribution?",
+      "options": {
+        "a": "` 40",
+        "b": "` 20",
+        "c": "` 60",
+        "d": "` 30"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Twenty workers can →nish a piece of work in 30\ndays. After how many days should 5 workers leave\nthe job so that the work is completed in 35 days?",
+      "options": {
+        "a": "5 days",
+        "b": "10 days",
+        "c": "15 days",
+        "d": "20 days"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q013",
+      "num": 13,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Arun and Vinay together can do a piece of work in\n7 days. If Arun does twice as much work as Vinay\nin a given time, how long will Arun alone take to\ndo the work.",
+      "options": {
+        "a": "6.33 days",
+        "b": "10.5 days",
+        "c": "11 days",
+        "d": "72 days"
+      },
+      "answer": "If",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q014",
+      "num": 14,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Subhash can copy 50 pages in 10 hours; Subhash and\nPrakash together can copy 300 pages in 40 hours. In\nhow much time can Prakash copy 30 pages?",
+      "options": {
+        "a": "13 h",
+        "b": "12 h",
+        "c": "11 h",
+        "d": "9 h"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q015",
+      "num": 15,
+      "lod": 1,
+      "type": "mcq",
+      "text": "X number of men can →nish a piece of work in 30\ndays. If there were 6 men more, the work could be\n→nished in 10 days less. What is the original number\nof men?",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "15"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q016",
+      "num": 16,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sashi can do a piece of work in 25 days and Rishi\ncan do it in 20 days. They work for 5 days and then\n\nSashi goes away. In how many more days will Rishi\n→nish the work?",
+      "options": {
+        "a": "10 days",
+        "b": "12 days",
+        "c": "14 days",
+        "d": "None of these"
+      },
+      "answer": "66",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q017",
+      "num": 17,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Raju can do a piece of work in 10 days, Vicky in 12\ndays and Tinku in 15 days. They all start the work\ntogether, but Raju leaves after 2 days and Vicky\nleaves 3 days before the work is completed. In how\nmany days is the work completed?",
+      "options": {
+        "a": "5 days",
+        "b": "6 days",
+        "c": "7 days",
+        "d": "8 days"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q018",
+      "num": 18,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sambhu can do 1/2 of the work in 8 days while Kalu\ncan do 1/3 of the work in 6 days. How long will it\ntake for both of them to →nish the work?\n\ndays\n17\ndays\n17\ndays\n17",
+      "options": {
+        "a": "88",
+        "b": "144",
+        "c": "72",
+        "d": "8 days"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q019",
+      "num": 19,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Manoj takes twice as much time as Anjay and thrice\nas much as Vijay to →nish a piece of work. Together\nthey →nish the work in 1 day. What is the time taken\nby Manoj to →nish the work?",
+      "options": {
+        "a": "6 days",
+        "b": "3 days",
+        "c": "2 days",
+        "d": "4 days"
+      },
+      "answer": "Length",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q020",
+      "num": 20,
+      "lod": 1,
+      "type": "mcq",
+      "text": "An engineer undertakes a project to build a road 15\nkm long in 300 days and employs 45 men for the\npurpose. After 100 days, he →nds only 2.5 km of the\nroad has been completed. Find the (approx.) number\nof extra men he must employ to →nish the work in time.",
+      "options": {
+        "a": "43",
+        "b": "45",
+        "c": "55",
+        "d": "68"
+      },
+      "answer": "In",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q021",
+      "num": 21,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Apurva can do a piece of work in 12 days. Apurva\nand Amit complete the work together and were paid\n` 54 and ` 81 respectively. How many days must\nthey have taken to complete the work together?",
+      "options": {
+        "a": "4 days",
+        "b": "4.5 days",
+        "c": "4.8 days",
+        "d": "5 days"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q022",
+      "num": 22,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Raju is twice as good as Vijay. Together, they →nish\nthe work in 14 days. In how many days can Vijay\nalone do the same work?",
+      "options": {
+        "a": "16 days",
+        "b": "21 days",
+        "c": "32 days",
+        "d": "42 days"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q023",
+      "num": 23,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a company XYZ Ltd. a certain number of engineers can develop a design in 40 days. If there were\n5 more engineers, it could be →nished in 10 days less.\nHow many engineers were there in the beginning?",
+      "options": {
+        "a": "18",
+        "b": "20",
+        "c": "25",
+        "d": "15"
+      },
+      "answer": "At",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q024",
+      "num": 24,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 12 men and 16 boys can do a piece of work in 5\ndays and 13 men and 24 boys can do it in 4 days,\n\ncompare the daily work done by a man with that\ndone by a boy?",
+      "options": {
+        "a": "1 : 2",
+        "b": "1 : 3",
+        "c": "2 : 1",
+        "d": "3 : 1"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q025",
+      "num": 25,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A can do a work in 10 days and B can do the same\nwork in 20 days. They work together for 5 days and\nthen A goes away. In how many more days will B\n→nish the work?\n1\n3",
+      "options": {
+        "a": "5 days",
+        "b": "6.5 days",
+        "c": "10 days",
+        "d": "8 days"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q026",
+      "num": 26,
+      "lod": 1,
+      "type": "mcq",
+      "text": "30 men working 5 h a day can do a work in 16 days.\nIn how many days will 20 men working 6 h a day\ndo the same work?\n1\n2",
+      "options": {
+        "b": "20 days",
+        "a": "22 days",
+        "c": "21 days",
+        "d": "none of these"
+      },
+      "answer": "66",
+      "solution": null
+    },
+    {
+      "id": "ch09-lod1-q027",
+      "num": 27,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Ajay and Vijay undertake to do a piece of work for\n` 200. Ajay alone can do it in 24 days while Vijay\nalone can do it in 30 days. With the help of Pradeep,\nthey →nish the work in 12 days. How much should\nPradeep get for his work?",
+      "options": {
+        "a": "` 20",
+        "b": "` 100",
+        "c": "` 180",
+        "d": "` 50"
+      },
+      "answer": "b",
+      "solution": null
+    },
     {
       "id": "ch09-lod1-q028",
       "num": 28,
@@ -47,7 +449,7 @@
         "d": "50 days"
       },
       "answer": "c",
-      "solution": "Total work = 15 ¥ 210 = 3150 mandays. After 100 days, work done = 15 ¥ 100 = 1500 mandays. Work left = 3150 – 1500 = 1650 mandays. This work has to be done with 30 men working each day. The number of days (more) required = 1650/30 = 55 days. 29. A+V+S =1 (1) A + V = 19/23 V + S = 8/23 Æ A + 2V + S = 27/23 (2) (2)–(1) gives us: V = 4/23."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q029",
@@ -61,7 +463,7 @@
         "c": "` 300",
         "d": "` 345"
       },
-      "answer": "d",
+      "answer": "a",
       "solution": null
     },
     {
@@ -76,8 +478,8 @@
         "c": "15 days",
         "d": "20 days"
       },
-      "answer": "a",
-      "solution": "Interpret the starting statement as: Anmol takes 30 days and Vinay takes 90 days. Hence, the answer will be got by: (1/30 + 1/90) * n = 1 Alternatively, you can also solve using percentages as: 3.33 + 1.11 = 4.44% is the daily work. Hence, the no. of days required is 100/4.44 = 22.5 days."
+      "answer": "b",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q031",
@@ -92,22 +494,22 @@
         "d": "6 days"
       },
       "answer": "d",
-      "solution": "After 27 days, food left = 4 ¥ 200 = 800 soldier days worth of food. Since, now there are only 80 soldiers, this food would last for 800/80 = 10 days. Number of extra days for which the food lasts = 10 – 4 = 6 days."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q032",
       "num": 32,
       "lod": 1,
       "type": "mcq",
-      "text": "Anju, Manju and Sanju together can reap a →eld in 6\ndays. If Anju can do it alone in 10 days and Manju\nin 24 days. In how many days will Sanju alone be\nable to reap the →eld?",
+      "text": "Anju, Manju and Sanju together can reap a →eld in 6\ndays. If Anju can do it alone in 10 days and Manju\n\nable to reap the →eld?",
       "options": {
         "a": "40 days",
         "b": "36 days",
         "c": "35 days",
         "d": "32 days"
       },
-      "answer": "a",
-      "solution": "Total work of Anju, Manju and Sanju = 16.66% Anju’s work = 10% Manju’s work = 4.166% Sanju’s work = 2.5% So Sanju can reap the field in 40 days."
+      "answer": "504",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q033",
@@ -121,8 +523,8 @@
         "c": "75 days",
         "d": "70 days"
       },
-      "answer": "a",
-      "solution": "Ajay + Vijay = 1/28 and Ajay + Vijay + Manoj = 1/21. Hence, Manoj = 1/21 – 1/28 = 1/84. Hence, Manoj will take 84 days to do the work."
+      "answer": "41",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q034",
@@ -136,8 +538,8 @@
         "c": "25 days",
         "d": "35 days"
       },
-      "answer": "b",
-      "solution": "A + M = 8.33, M + B = 6.66 and A = 2B Æ A’s 1 days work = 3.33%, M’s = 5% and B’s = 1.66%. Thus, Mohan would require 100/5 = 20 days to complete the work if he works alone."
+      "answer": "10",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q035",
@@ -151,8 +553,8 @@
         "c": "25 days",
         "d": "30 days"
       },
-      "answer": "b",
-      "solution": "A + V = 16.66% and A = 10% Æ V = 6.66%. Consequently Vijay would require 100/6.66 = 15 days to do it alone."
+      "answer": "9.8",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q036",
@@ -166,8 +568,8 @@
         "c": "30 h",
         "d": "15 h"
       },
-      "answer": "c",
-      "solution": "The rate of filling will be 20% and the net rate of filling (including the leak) is 16.66%. Hence, the leak accounts for 3.33% per hour, i.e., it will take 30 hours to empty the tank."
+      "answer": "19/36",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q037",
@@ -181,8 +583,8 @@
         "c": "10 min, 15 min",
         "d": "25 min, 20 min"
       },
-      "answer": "c",
-      "solution": "A + B = 16.66%. From here solve this one using the options. Option (c) fits the situation as it gives us A’s work = 10%, B’s work = 6.66% as also that B takes 5 minutes more than A (as stipulated in the problem)."
+      "answer": "3",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q038",
@@ -196,8 +598,8 @@
         "c": "4.66 days",
         "d": "5 days"
       },
-      "answer": "b",
-      "solution": "A + B = 5.55 + 11.11 = 16.66. In two days, 33.33% of the work will be done. C adds 16.66% of work to that of A and B. Hence, the rate of working will go to 33.33%. At this rate it would take 2 more days to complete the work. Hence, in total it will take 4 days to complete the entire work."
+      "answer": "161",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q039",
@@ -211,8 +613,8 @@
         "c": "34",
         "d": "36"
       },
-      "answer": "b",
-      "solution": "24 ¥ 8 ¥ 10 = N ¥ 10 ¥ 6 Æ N = 32"
+      "answer": "5.33",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q040",
@@ -226,15 +628,15 @@
         "c": "36",
         "d": "40"
       },
-      "answer": "a",
-      "solution": "n ¥ 20 = (n – 12) ¥ 32 Æ n = 32."
+      "answer": "5",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q041",
       "num": 41,
       "lod": 1,
       "type": "mcq",
-      "text": "12 men complete a work in 18 days. 6 days after\nthey had started working, 4 men join them. How\nmany more days will all of them take to complete\nthe remaining work?",
+      "text": "12 men complete a work in 18 days. 6 days after\nthey had started working, 4 men join them. How\n\nmany more days will all of them take to complete\nthe remaining work?",
       "options": {
         "a": "10 days",
         "b": "12 days",
@@ -242,7 +644,7 @@
         "d": "9 days"
       },
       "answer": "d",
-      "solution": "12 ¥ 18 = 12 ¥ 6 + 16 ¥ t Æ t = 9"
+      "solution": null
     },
     {
       "id": "ch09-lod1-q042",
@@ -257,7 +659,7 @@
         "d": "20 days"
       },
       "answer": "c",
-      "solution": "(A + B)’s work = C’s work. Also if A takes ‘a’ days B would take ‘a – 5’ days and C would take ‘a – 9’ days. Solving through options, option ‘c’ fits. A (15 days) Æ A’s work = 6.66% B (10 days) Æ B’s work = 10% C (6 days) Æ C’s work = 16.66%"
+      "solution": null
     },
     {
       "id": "ch09-lod1-q043",
@@ -272,7 +674,7 @@
         "d": "None of these"
       },
       "answer": "a",
-      "solution": "The cistern fills in 6 hours normally, means that the rate of filling is 16.66% per hour. With the leak in the bottom, the rate of filling becomes 10% per hour (as it takes 10 hours to fill with the leak). This means that the leak drains out water at the rate of 6.66% per hour. This in turn means that the leak would take 100/6.66 = 15 hours to drain out the entire cistern."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q044",
@@ -287,7 +689,7 @@
         "d": "Fills the tank in 10 h"
       },
       "answer": "c",
-      "solution": "Since the net work of the three taps is 10% and the first and second do 20% + 10% = 30%. Hence, the third pipe must be a waste pipe emptying at the rate of 20% per hour. Hence, the waste pipe will take a total of 5 hours to empty the tank."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q045",
@@ -302,7 +704,7 @@
         "d": "33.33 hours"
       },
       "answer": "b",
-      "solution": "A’s work = 10% B’s negative work = 6.66% (A + B)’s work = 3.33% Time and Work III.133 To fill a half empty tank, they would take 50/3.33 = 15 hours."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q046",
@@ -317,7 +719,7 @@
         "d": "16.5 days"
       },
       "answer": "d",
-      "solution": "The work rate would be 10% on the first day, 5% on the second day and 2.5% on the third day. For every block of 3 days there would be 17.5% work done. In 15 days, the work completed would be 17.5 ¥ 5 = 87.5%. On the sixteenth day, work done = 10% Æ 2.5% work would be left after 16 days. On the 17th day the rate of work would be 5% and hence it would take half of the 17th day to complete the work. Thus, it would take 16.5 days to finish the work in this fashion."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q047",
@@ -332,14 +734,14 @@
         "d": "120 days"
       },
       "answer": "c",
-      "solution": "(A + B) = 2C. Also, (A + C) = 3B 36(A + B + C) = 1 Solving for C, we get: 36 (2C + C) = 1 Æ 108C = 1 C = 1/108 Hence, C takes 108 days."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q048",
       "num": 48,
       "lod": 1,
       "type": "mcq",
-      "text": "There are three Taps A, B and C in a tank. They can\n→ll the tank in 10 hrs, 20 hrs and 25 hrs, respectively.\nAt →rst, all of them are opened simultaneously. Then\nafter 2 hours, tap C is closed and A and B are kept\nrunning. After the 4th hour, tap B is also closed.\nThe remaining work is done by Tap A alone. Find\nthe percentage of the work done by Tap A by itself.\nTime and Work III.123",
+      "text": "There are three Taps A, B and C in a tank. They can\n→ll the tank in 10 hrs, 20 hrs and 25 hrs, respectively.\nAt →rst, all of them are opened simultaneously. Then\nafter 2 hours, tap C is closed and A and B are kept\nrunning. After the 4th hour, tap B is also closed.\nThe remaining work is done by Tap A alone. Find\nthe percentage of the work done by Tap A by itself.",
       "options": {
         "a": "32%",
         "b": "52%",
@@ -347,7 +749,7 @@
         "d": "None of these"
       },
       "answer": "d",
-      "solution": "A + B + C = 19%. In the first two hours they will do 38 % of the work. Further, for the next two hours work will be done at the rate of 15% per hour. Hence, after 4 hours 68% of the work will be completed, when tap B is also closed. The last 32% of the work will be done by A alone. Hence, A does 40% (first 4 days) + 32% = 72% of the work."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q049",
@@ -362,7 +764,7 @@
         "d": "40 hours"
       },
       "answer": "b",
-      "solution": "Without the leak: Rate of work = 20% + 5% = 25%. Thus, it would have taken 4 hours to complete the work. Due to the leak the filling gets delayed by 1 hour. Thus, the tank gets filled in 5 hours. This means that the effective rate of filling would be 20% per hour. This means that the rate at which the leak empties the tank is 5% per hour and hence it would have taken 20 hours to empty a filled tank."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q050",
@@ -377,7 +779,7 @@
         "d": "20"
       },
       "answer": "c",
-      "solution": "In 6 days A would do 25% of the work and in 8 days B would do 25% of the work himself. So, C has to complete 50% of the work by himself. In all C would require 30 days to do 50% of the work. So, he would require 22 more days."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q051",
@@ -386,8 +788,8 @@
       "type": "tita",
       "text": "A alone can complete a job in 4 days. He is twice\nas fast as B while B is twice as fast as C. If all of\nthem work together, in how many days would the\njob get completed?",
       "options": {},
-      "answer": "2",
-      "solution": "A is twice fast as B therefore B can complete the job in 8 days. Similarly C can complete the job in 16 days. Therefore, together they can complete the 1 16 job in = = 2.29 days. 1 1 1 7 + + 4 8 16 Alternately, you could have solved this using percentages. A’s work for 1 day = 25%, B’s work for 1 day = 12.5%, while C’s work for 1 day would be = 6.25%. Thus, the total work of A,B and C for 1 day would be = (25 + 12.5 + 6.25)% = 43.75%. Hence, they would complete the work in 100/43.75 = 400/175 = 16/7 days = 2.29 days."
+      "answer": "2.29",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q052",
@@ -397,17 +799,17 @@
       "text": "36 men take 18 days to complete a piece of work.\nThey worked for a period of 8 days. After that, they\nwere joined by 4 more men. How many more days\nwill be taken by them to complete the remaining\nwork?",
       "options": {},
       "answer": "9",
-      "solution": "If they take ' x ' more days to complete the work then: 36 ¥ 18 – (36 ¥ 8) = (36 + 4)x By solving we get x = 9 days 1 96 = = 24 hours. (Note: This"
+      "solution": null
     },
     {
       "id": "ch09-lod1-q053",
       "num": 53,
       "lod": 1,
       "type": "tita",
-      "text": "Tap M alone can →ll a tank completely in 8 hrs.\nAnother tap N alone can empty the same tank in 12\nhrs. If both the taps are opened simultaneously in\nwhat time (in hours) would the tank get full?\nSpace for Notes",
+      "text": "Tap M alone can →ll a tank completely in 8 hrs.\nAnother tap N alone can empty the same tank in 12\nhrs. If both the taps are opened simultaneously in\nwhat time (in hours) would the tank get full?\n\nSpace for Notes",
       "options": {},
       "answer": "24",
-      "solution": "Required time = 1 1 4 − 8 12 too can be solved using percentages as: Work of Tap M = 12.5%, Work of Tap N = –8.33%. Net work if both the taps are opened together = (12.5-8.33)% = 4.16%. To do 100% of the work, the time required would be 100/4.16 = 24 days. 50 × 35 250 × 18 54. = 70 × 40 300 × x x= 250 × 18 70 × 40 × = 24 days. 300 50 × 35"
+      "solution": null
     },
     {
       "id": "ch09-lod1-q054",
@@ -427,7 +829,7 @@
       "text": "The wages of 8 men and 4 women amount to ` 3500\nper week and the wages of 5 men and 3 women to\n` 2275 per week . Find the daily wages of a man\n(in rupees, assuming that the wages for a week are\npaid on the basis of 7 day weeks):",
       "options": {},
       "answer": "50",
-      "solution": "8m + 4w = 3500\b 5m + 3w = 2275\b By solving equations 1 and 2 we get : m = ` 350/week or ` 50/day."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q056",
@@ -436,8 +838,8 @@
       "type": "tita",
       "text": "5 women can paint a building in 30 working hours.\nAfter 16 hours of work, 2 women decided to leave.\nHow many hours will it take for the work to be\n→nished?",
       "options": {},
-      "answer": "39",
-      "solution": "Let the work will be finishing in x hours. 5 ¥ 30 – 5 ¥ 16 = 3 ¥ (x – 16) 118 By solving we get x = = 39.33 hours. 3 (1) (2) If there were ' x ' men originally then according to the question : x ¥ 60 = (x + 8)(60 – 10) 60x = 50x + 400 57. x = 40"
+      "answer": "39.33",
+      "solution": null
     },
     {
       "id": "ch09-lod1-q057",
@@ -457,7 +859,7 @@
       "text": "In a garrison, there was food for 1000 soldiers for\none month. After 10 days, 1000 more soldiers joined\nthe garrison. How many days would the soldiers be\nable to carry on with the remaining food?",
       "options": {},
       "answer": "10",
-      "solution": "Let soldiers would be able to carry on the remaining food for x more days. 1000 ¥ 30 – 1000 ¥ 10 = (1000 + 1000)x 1000 × 20 = 10 days. x= 2000"
+      "solution": null
     },
     {
       "id": "ch09-lod1-q059",
@@ -467,22 +869,22 @@
       "text": "The tank-full petrol in Ajay’s motor-cycle lasts for\n10 days. If he starts using 25% more every day, how\nmany days will the tank-full petrol last?",
       "options": {},
       "answer": "8",
-      "solution": "Mathematical approach: If initially he uses x litres every day and now he is using 1.25x litre petrol every day then tank full petrol will last in x × 10 =8 1.25 x Short cut approach using Percentage change graphic: You can solve this by using the logic that if we increase the consumption by 25%, the number of days would drop by 20% (since the product of daily consumption and the number of days would be constant). Thus, the tank-full petrol would last for 20% less than 10 days = 8 days."
+      "solution": null
     },
     {
       "id": "ch09-lod1-q060",
       "num": 60,
       "lod": 1,
       "type": "tita",
-      "text": "A cistern has two pipes. One can →ll it with water in\n8 hours and other can empty it in 5 hours. In how\nmany hours will the cistern be emptied if both the\npipes are opened together when ¾ of the cistern is\nalready full of water?\nLevel of Dif→culty (II)",
+      "text": "A cistern has two pipes. One can →ll it with water in\n8 hours and other can empty it in 5 hours. In how\nmany hours will the cistern be emptied if both the\npipes are opened together when ¾ of the cistern is\nalready full of water?",
       "options": {},
       "answer": "10",
-      "solution": "Required time to empty the tank (in hours) = 3 / 4 3/ 4 = = 10 hours. 1 1 3 / 40 − 5 8 III.134 How to Prepare for Quantitative Aptitude for CAT Short cut approach using percentage: You can again solve this by interpreting that 3/4th of the tank to be emptied means 75% of the tank needs to be emptied – a net work of –75. Also, the work of the inlet pipe is 12.5% per hour, while the work of the outlet pipe is –20% per hour. Net work when both the inlet and the outlet pipes are opened would be –7.5% per hour. This would mean that to empty 75% of the tank, it would take 75/7.5 = 10 hours."
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q001",
+      "id": "ch09-lod2-q001",
       "num": 1,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Two forest of→cials in their respective divisions were\ninvolved in the harvesting of tendu leaves. One division had an average output of 21 tons from a hectare\nand the other division, which had 12 hectares of land\nless, dedicated to tendu leaves, got 25 tons of tendu\nfrom a hectare. As a result, the second division harvested 300 tons of tendu leaves more than the →rst.\nHow many tons of tendu leaves did the →rst division\nharvest?",
       "options": {
@@ -491,13 +893,13 @@
         "c": "3500",
         "d": "3600"
       },
-      "answer": "c",
-      "solution": "He will complete the work in 20 days. Hence, he will complete ten times the work in 200 days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q002",
+      "id": "ch09-lod2-q002",
       "num": 2,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "According to a plan, a drilling team had to drill to\na depth of 270 metres below the ground level. For\nthe →rst three days the team drilled as per the plan.\nHowever, subsequently →nding that their resources\nwere getting underutilised according to the plan, it\nstarted to drill 8 metres more than the plan every day.\nTherefore, a day before the planned date they had\ndrilled to a depth of 280 metres. How many metres\nof drilling was the plan for each day.",
       "options": {
@@ -506,26 +908,26 @@
         "c": "27 metres",
         "d": "28 metres"
       },
-      "answer": "c",
-      "solution": "6 men for 12 days means 72 mandays. This would be equal to 4 men for 18 days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q003",
+      "id": "ch09-lod2-q003",
       "num": 3,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "A pipe can →ll a tank in x hours and another can\nempty it in y hours. If the tank is 1/3rd full then the\nnumber of hours in which they will together →ll it\nin is\n(a)\n(3 xy )\n2( y - x )\n(b)\n(3xy )\n( y - x)\n3( y - x)\n3( y - x)",
+      "text": "A pipe can →ll a tank in x hours and another can\nempty it in y hours. If the tank is 1/3rd full then the\nnumber of hours in which they will together →ll it\nin is\n(a)\n\n(3 xy )\n2( y - x )\n\n(b)\n\n(3xy )\n( y - x)\n3( y - x)\n3( y - x)",
       "options": {
         "c": "xy",
         "d": "2 xy"
       },
-      "answer": "b",
-      "solution": "A’s one day work will be 5%, while B will do 6.66 % of the work in one day. Hence, their total work will be 11.66% in a day. In 8 days they will complete Æ 11.66 ¥ 8 = 93.33% Time and Work III.131 This will leave 6.66% of the work. This will correspond to 4/7 of the ninth day since in 6.66/11.66 both the numerator and the denominator are divisible by 1.66."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q004",
+      "id": "ch09-lod2-q004",
       "num": 4,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Dev and Tukku can do a piece of work in 45 and 40\ndays respectively. They began the work together, but\nDev leaves after some days and Tukku →nished the\nremaining work in 23 days. After how many days\ndid Dev leave",
       "options": {
@@ -534,43 +936,43 @@
         "c": "9 days",
         "d": "11 days"
       },
-      "answer": "a",
-      "solution": "A’s work = 5% per day B’s work = 6.66% per day C’s work = 4% per day. Total no. of days = 100/15.66 = 300/47 = 6(18/47)"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q005",
+      "id": "ch09-lod2-q005",
       "num": 5,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "A →nishes 6/7th of the work in 2z hours, B works\ntwice as fast and →nishes the remaining work. For\nhow long did B work?\n2\nË 3¯\n6\nË 7¯\n6\nË 49 ¯\n3\nË 18 ¯\nDirections for questions 6 to 10: Read the following\nand answer the questions that follow.\nA set of 10 pipes (set X ) can →ll 70% of a tank in\n7 minutes. Another set of 5 pipes (set Y ) →lls 3/8 of the tank\nin 3 minutes. A third set of 8 pipes (set Z ) can empty 5/10 of\nthe tank in 10 minutes.",
+      "text": "A →nishes 6/7th of the work in 2z hours, B works\ntwice as fast and →nishes the remaining work. For\nhow long did B work?\n2\n\nË 3¯\n\n6\n\nË 7¯\n\n6\n\nË 49 ¯\n\n3\n\nË 18 ¯\n\nDirections for questions 6 to 10: Read the following\nand answer the questions that follow.\nA set of 10 pipes (set X ) can →ll 70% of a tank in\n7 minutes. Another set of 5 pipes (set Y ) →lls 3/8 of the tank\nin 3 minutes. A third set of 8 pipes (set Z ) can empty 5/10 of\nthe tank in 10 minutes.",
       "options": {
         "a": "Ê ˆ z",
         "b": "Ê ˆ z",
         "c": "Ê ˆ z",
         "d": "Ê ˆ z"
       },
-      "answer": "a",
-      "solution": "N + A = 10% N = 8.33% Hence A = 1.66% Æ 60 days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q006",
+      "id": "ch09-lod2-q006",
       "num": 6,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "How many minutes will it take to →ll the tank if all the\n23 pipes are opened at the same time?\n5\n7\n5\n7",
+      "text": "How many minutes will it take to →ll the tank if all the\n23 pipes are opened at the same time?\n5\n\n7\n5\n\n7",
       "options": {
         "a": "5 minutes",
         "b": "5 minutes",
         "c": "6 minutes",
         "d": "6 minutes"
       },
-      "answer": "a",
-      "solution": "The ratio of the wages will be the inverse of the ratio of the number of days required by each to do the work. Hence, the correct answer will be 3:2 Æ ` 30"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q007",
+      "id": "ch09-lod2-q007",
       "num": 7,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If only half the pipes of set X are closed and only\nhalf the pipes of set Y are open and all other pipes are\nopen, how long will it take to →ll 49% of the tank?",
       "options": {
@@ -579,13 +981,13 @@
         "c": "7 minutes",
         "d": "None of these"
       },
-      "answer": "a",
-      "solution": "24 man days + 18 women days = 20 man days + 28 woman days Æ 4 man days = 10 woman days. Æ 1 man day = 2.5 woman days Total work = 24 man days + 18 woman days = 60 woman days + 18 woman days = 78 woman days. Hence, 1 man + 1 woman = 3.5 women can do it in 78/3.5 = 156/7 = 22(2/7) days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q008",
+      "id": "ch09-lod2-q008",
       "num": 8,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If 4 pipes are closed in set Z, and all others remain\nopen, how long will it take to →ll the tank?",
       "options": {
@@ -594,13 +996,13 @@
         "c": "7 minutes",
         "d": "7.5 minutes"
       },
-      "answer": "d",
-      "solution": "The data is insufficient, since we only know that the work gets completed in 200 boy days and 300 women days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q009",
+      "id": "ch09-lod2-q009",
       "num": 9,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If the tank is half full and set X and set Y are closed,\nhow many minutes will it take for set Z to empty\nthe tank if alternate taps of set Z are closed.",
       "options": {
@@ -609,13 +1011,13 @@
         "c": "40 minutes",
         "d": "16 minutes"
       },
-      "answer": "a",
-      "solution": "A = 10%, B = 5% and Combined work is 20%. Hence, C’s work is 5% and will require 20 days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q010",
+      "id": "ch09-lod2-q010",
       "num": 10,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If one pipe is added for set X and set Y and set Z’s\ncapacity is increased by 20% on its original value\nand all the taps are opened at 2.58 p.m., then at\nwhat time does the tank get →lled? (If it is initially\nempty.)",
       "options": {
@@ -624,13 +1026,13 @@
         "c": "3.10 p.m.",
         "d": "3.03 p.m."
       },
-      "answer": "a",
-      "solution": "In 5 days, A would do 25% of the work. Since, B finishes the remaining 75% work in 10 days, we can conclude that B’s work in a day = 7.5% Thus, (A + B) = 12.5% per day. Together they would take 100/12.5 = 8 days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q011",
+      "id": "ch09-lod2-q011",
       "num": 11,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Ajit can do as much work in 2 days as Baljit can do\nin 3 days and Baljit can do as much in 4 days as\nDiljit in 5 days. A piece of work takes 20 days if all\nwork together. How long would Baljit take to do all\nthe work by himself?",
       "options": {
@@ -639,28 +1041,28 @@
         "c": "66 days",
         "d": "50 days"
       },
-      "answer": "a",
-      "solution": "A = 20%, B = 10% and A + B + C = 50%. Hence, C = 20%. Thus, in two days, C contributes 40% of the total work and should be paid 40% of the total amount."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q012",
+      "id": "ch09-lod2-q012",
       "num": 12,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "Two pipes can →ll a cistern in 14 and 16 hours respectively. The pipes are opened simultaneously and it is\nfound that due to leakage in the bottom of the cistern,\nit takes 32 minutes extra for the cistern to be →lled\nTime and Work III.125\nup. When the cistern is full, in what time will the\nleak empty it?",
+      "text": "Two pipes can →ll a cistern in 14 and 16 hours respectively. The pipes are opened simultaneously and it is\nfound that due to leakage in the bottom of the cistern,\nit takes 32 minutes extra for the cistern to be →lled\n\nup. When the cistern is full, in what time will the\nleak empty it?",
       "options": {
         "a": "114 h",
         "b": "112 h",
         "c": "100 h",
         "d": "80 h"
       },
-      "answer": "c",
-      "solution": "Total man days required = 600 man -days. If 5 workers leave the job after ‘n’ days, the total work would be done in 35 days. We have to find the value of ‘n’ to satisfy: 20 ¥ n + (35 – n) ¥ 15 = 600. Solving for n, we get 20n – 15n + 35 ¥ 15 = 600 5n = 75 n = 15."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q013",
+      "id": "ch09-lod2-q013",
       "num": 13,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A tank holds 100 gallons of water. Its inlet is 7 inches\nin diametre and →lls the tank at 5 gallons/min. The\noutlet of the tank is twice the diametre of the inlet.\nHow many minutes will it take to empty the tank\nif the inlet is shut off, when the tank is full and the\noutlet is opened? (Hint: Rate of →lling or emptying\nis directly proportional to the diametre)",
       "options": {
@@ -669,13 +1071,13 @@
         "c": "0.7 min",
         "d": "5.0 min"
       },
-      "answer": "b",
-      "solution": "Let the time taken by Arun be ‘t’ days. Then, time taken by Vinay = 2t days. 1/t + 1/2t = 1/7 Æ t = 10.5"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q014",
+      "id": "ch09-lod2-q014",
       "num": 14,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A tank of capacity 25 litres has an inlet and an outlet tap. If both are opened simultaneously, the tank\nis →lled in 5 minutes. But if the outlet flow rate is\ndoubled and taps opened the tank never gets →lled\nup. Which of the following can be outlet flow rate\nin litres/min?",
       "options": {
@@ -684,13 +1086,13 @@
         "c": "4",
         "d": "3"
       },
-      "answer": "b",
-      "solution": "Subhash can copy 200 pages in 40 hours (reaction to the first sentence). Hence, Prakash can copy 100 pages in 40 hours. Thus, he can copy 30 pages in 30% of the time, i.e., 12 hours."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q015",
+      "id": "ch09-lod2-q015",
       "num": 15,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "X takes 4 days to complete one-third of a job, Y\ntakes 3 days to complete one-sixth of the same work\nand Z takes 5 days to complete half the job. If all\nof them work together for 3 days and X and Z quit,\nhow long will it take for Y to complete the remaining\nwork done.",
       "options": {
@@ -699,13 +1101,13 @@
         "c": "5.1 days",
         "d": "7 days"
       },
-      "answer": "c",
-      "solution": "30X = 20 (X + 6) Æ 10X = 120 Æ X = 12."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q016",
+      "id": "ch09-lod2-q016",
       "num": 16,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A completes 2/3 of a certain job in 6 days. B can\ncomplete 1/3 of the same job in 8 days and C can\ncomplete 3/4 of the work in 12 days. All of them\nwork together for 4 days and then A and C quit. How\nlong will it take for B to complete the remaining\nwork alone?",
       "options": {
@@ -714,13 +1116,13 @@
         "c": "2.22 days",
         "d": "4.3 days"
       },
-      "answer": "d",
-      "solution": "Sashi = 4%, Rishi = 5%. In five days, they do a total of 45% work. Rishi will finish the remaining 55% work in 11 more days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q017",
+      "id": "ch09-lod2-q017",
       "num": 17,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Three diggers dug a ditch of 324 m deep in six days\nworking simultaneously. During one shift, the third\ndigger digs as many metres more than the second as\nthe second digs more than the →rst. The third digger’s\nwork in 10 days is equal to the →rst digger’s work\nin 14 days. How many metres does the →rst digger\ndig per shift?",
       "options": {
@@ -729,13 +1131,13 @@
         "c": "21 m",
         "d": "27 m"
       },
-      "answer": "c",
-      "solution": "Raju = 10%, Vicky = 8.33% and Tinku = 6.66%. Hence, total work for a day if all three work = 25%. In 2 days they will complete, 50% work. On the third day onwards Raju doesn’t work. The rate of work will become 15%. Also, since Vicky leaves 3 days before the actual completion of the work, Tinku works alone for the last 3 days (and must have done the last 6.66 ¥ 3 = 20% work alone). This would mean that Vicky leaves after 80% work is done. Thus, Vicky and Tinku must be doing 30% work together over two days. Hence, total time required = 2 days (all three) + 2 days (Vicky and Tinku) + 3 days (Tinku alone)"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q018",
+      "id": "ch09-lod2-q018",
       "num": 18,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A, B and C working together completed a job in 10\ndays. However, C only worked for the →rst three days\nwhen 37/100 of the job was done. Also, the work\ndone by A in 5 days is equal to the work done by\nB in 4 days. How many days would be required by\nthe fastest worker to complete the entire work?",
       "options": {
@@ -744,18 +1146,23 @@
         "c": "30 days",
         "d": "40 days"
       },
-      "answer": "b",
-      "solution": "Sambhu requires 16 days to do the work while Kalu requires 18 days to do the work. (1/16 + 1/18) ¥ n = 1 Æ n = 288/34 = 144/17"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod1-q019",
+      "id": "ch09-lod2-q019",
       "num": 19,
-      "lod": 1,
-      "type": "tita",
-      "text": "A and B completed a work together in 5 days. Had\nA worked at twice the",
-      "options": {},
-      "answer": "a",
-      "solution": "Let Anjay take 3t days, Vijay take 2t days and Manoj take 6t days in order to complete the work. Then we get: 1/3t + 1/2t + 1/6t = 1 Æ t = 1. Thus, Manoj would take 6t = 6 days to complete the work."
+      "lod": 2,
+      "type": "mcq",
+      "text": "A and B completed a work together in 5 days. Had\nA worked at twice the speed and B at half the speed,\nit would have taken them four days to complete the\njob. How much time would it take for A alone to do\nthe work?",
+      "options": {
+        "a": "10 days",
+        "b": "20 days",
+        "c": "25 days",
+        "d": "15 days"
+      },
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q020",
@@ -769,8 +1176,8 @@
         "c": "12 minutes",
         "d": "20 minutes"
       },
-      "answer": "b",
-      "solution": "Since the first typist types for 4 minutes and the second typist types for exactly 6 minutes, the work left (which is given as 1/5 of the total work) would be the work the first typist can do in 2 minutes. Thus, the time taken by the first typist to do the work would be 10 minutes and his rate of work would be 10% per minute. Also, since both the typists can do the work together in 6 minutes, their combined rate of work would be 100/6 = 16.66% per minute. Thus, the second typist’s rate of work would be 16.66 – 10 = 6.66% per minute. He would take 100/6.66 = 15 minutes to complete the task alone."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q021",
@@ -784,8 +1191,8 @@
         "c": "32 minutes",
         "d": "40 minutes"
       },
-      "answer": "c",
-      "solution": "From the condition of the problem and a little bit of trial and error we can see that the first cook worked for 4 minutes and the 2nd and 3rd cooks also worked for 4 minutes. As 4(A) + 4(B + C) = 4(A + B + C) and we know that A + B + C = 20 idlis per minute. Thus, the first cook make 20 idlis in 4 minutes. To make 160 idlis he would take 32 minutes."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q022",
@@ -799,8 +1206,8 @@
         "c": "5 times",
         "d": "6 times"
       },
-      "answer": "d",
-      "solution": "Solve this using options. If we check for option (c), i.e., the work of a man exceeds the work of a woman by 5 times, we would get the following thought process: Total work = 6 days ¥ (3 women + 2 men) = 18 woman days + 12 man days = 18 woman days + 60 woman days = 78 woman days. Thus, 9 women would take 78/9 days = 8.66 days and hence 3 men should do the same work in 3.66 days. This translates to 3 ¥ 3.66 = 10 man days or 50 woman days which is incorrect as the number of woman days should have been 78. Thus, we can reject this option. If we check for option (d), i.e., the work of a man exceeds the work of a woman by 6 times, we would get the following thought process: Total work = 6 days ¥ (3 women + 2 men) = 18 woman days + 12 man days = 18 woman days + 72 woman days = 90 woman days. Thus, 9 women would take 90/9 days = 10 days and hence 3 men should do the same work in 5 days. This translates to 3 ¥ 5 = 15 man days or 90 woman days which is correct as the number of woman days should be 90. Thus, we select this option."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q023",
@@ -814,8 +1221,8 @@
         "c": "50%",
         "d": "66.66%"
       },
-      "answer": "c",
-      "solution": "0.5(A + B + C) = 50% of the work. Means Æ A, B and C can do the full work in 1 hour. Thus, (A + B + C) = 100% From this point it is better to solve through options. Option (c) gives the correct answer based on the following thought process. If c = 50% work per hour, it means C takes 2 hours to complete the work. III.136 How to Prepare for Quantitative Aptitude for CAT Consequently, A would take 3 hours and hence do 33.33% work per hour. Since, A + B + C = 100%, this gives us B’s hourly work rate = 16.66%. For this option to be correct these nos. should match the second instance and the information given there. According to the second condition: A + 4B should be equal to 100%. Putting A = 33.33% and B = 16.66% we see that the condition is satisfied. Hence, this option is correct."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q024",
@@ -824,28 +1231,27 @@
       "type": "mcq",
       "text": "Two women Renu and Ushi are working on an embroidery design. If Ushi worked alone, she would\nneed eight hours more to complete the design than\nif they both worked together. Now if Renu worked\nalone, it would need 4.5 hours more to complete the\ndesign than they both working together. What time\nwould it take Renu alone to complete the design?",
       "options": {
-        "a": "10.5 hours",
         "b": "12.5 hours",
         "c": "14.5 hours",
         "d": "18.5 hours"
       },
-      "answer": "a",
-      "solution": "Option (a) is correct because: 1/10.5 + 1/14 = 1/6 which matches all the conditions of the problem."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q025",
       "num": 25,
       "lod": 2,
       "type": "mcq",
-      "text": "Mini and Vinay are quiz masters preparing for a\nquiz. In x minutes, Mini makes y questions more\nthan Vinay. If it were possible to reduce the time\nneeded by each to make a question by two minutes,\nthen in x minutes Mini would make 2y questions\nmore than Vinay. How many questions does Mini\nmake in x minutes?\n(x + y) –\n(2 x 2 + 4 y 2 ) ]\n(x – y) –\n(2 x 2 + 4 y 2 ) ]\n(x – y) –\n2\n2\n(2 x - 4 y ) ]",
+      "text": "Mini and Vinay are quiz masters preparing for a\nquiz. In x minutes, Mini makes y questions more\nthan Vinay. If it were possible to reduce the time\nneeded by each to make a question by two minutes,\nthen in x minutes Mini would make 2y questions\nmore than Vinay. How many questions does Mini\nmake in x minutes?\n(x + y) –\n\n(2 x 2 + 4 y 2 ) ]\n\n(x – y) –\n\n(2 x 2 + 4 y 2 ) ]\n(x – y) –\n\n2\n\n2\n\n(2 x - 4 y ) ]",
       "options": {
         "a": "1/4[2",
         "b": "1/4[2",
         "c": "Either a or b",
         "d": "1/4 [2"
       },
-      "answer": "a",
-      "solution": "Solve by trial and error by putting values for x and y in the options."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q026",
@@ -859,8 +1265,8 @@
         "d": "80 m3/min",
         "c": "60 m /min"
       },
-      "answer": "c",
-      "solution": "Use options for this question as follows: If discharging delivery is 40, filling delivery will be 16.66% less (this will give a decimal value right at the start and is unlikely to be the answer. Hence, put this option aside for the time being.) Option (c) gives good values. If discharging delivery is 60, filling delivery will be 50. Also, time taken for discharge of 3600 cu m will be 60 minutes and the time taken for delivery will be 72 minutes (12 minutes more — which is the basic condition of the problem)."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q027",
@@ -874,8 +1280,8 @@
         "c": "3.6 hours",
         "d": "6 hours"
       },
-      "answer": "b",
-      "solution": "The interpretation of the first statement is that (a) and (b) do 41.66 percent of the work per hour. From this point if we go through the options, option (b) fits the situation as 4 hours per one person means 25 percent work per hour per person. Consequently this means 16.66 percent per work per hour per other person."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q028",
@@ -889,38 +1295,38 @@
         "c": "15 hours",
         "d": "18 hours"
       },
-      "answer": "c",
-      "solution": "From the last statement we know that since both the pipes would require 17 hours to fill the tank together, they would discharge 425/17 = 25 litres per hour together. From this point try to fit the values from the options in order to see which one satisfies all the conditions. In the case of option (a): Second pipe open for 10 hours, first pipe open for 15 hours. When the interchange occurs: Second pipe open for 15 hours, first pipe open for 10 hours Æ gives us that the respective rates of the two pipes would be 3:4 (as the first pipe delivers half the amount of the second pipe— if it delivers 3 litres per minute the second pipe would need to deliver 4 litres per minute). Thus, if the delivery of the first pipe is 3n litres per minute, the delivery of the second pipe would be 4n litres per minute. Then, in 10 hours of the second pipe and 15 hours of the first pipe, the total water would be 85n, which should be equal to the total water of the two pipes in 17 hours each. But in 17 hours each, the two pipes would discharge 17 ¥ 7n = 119n. Thus, we reject this option. In the case of option (c): Second pipe open for 15 hours, first pipe open for 20 hours. When the interchange occurs: Second pipe open for 20 hours, first pipe open for 15 hours Æ gives us that the respective rates of the two pipes would be 2:3 (as the first pipe delivers half the amount of the second pipe- if it delivers 2 litre per minute the second pipe would need to deliver 3 litres per minute). Thus, if the delivery of the first pipe is 2n litres per minute, the delivery of the second pipe would be 3n litres per minute. Then, in 15 hours of the second pipe and 20 hours of the first pipe, the total water would be 85n, which should be equal to the total water of the two pipes in 17 hours each. In 17 hours each, the two pipes would discharge 17 ¥ 5n = 85n. Thus, we realize that this is the correct option."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q029",
       "num": 29,
       "lod": 2,
       "type": "mcq",
-      "text": "Two men and a woman are entrusted with a task.\nThe second man needs three hours more to cope\nwith the job than the →rst man and the woman would\nneed working together. The →rst man, working alone,\nwould need as much time as the second man and\nthe woman working together. The →rst man, working alone, would spend eight hours less than the\ndouble period of time the second man would spend\nworking alone. How much time would the two men\nand the woman need to complete the task if they all\nworked together?",
+      "text": "Two men and a woman are entrusted with a task.\nThe second man needs three hours more to cope\nwith the job than the →rst man and the woman would\nneed working together. The →rst man, working alone,\nwould need as much time as the second man and\nthe woman working together. The →rst man, working alone, would spend eight hours less than the\ndouble period of time the second man would spend\nworking alone. How much time would the two men\n\nand the woman need to complete the task if they all\nworked together?",
       "options": {
         "a": "2 hours",
         "b": "3 hours",
         "c": "4 hours",
         "d": "5 hours"
       },
-      "answer": "a",
-      "solution": "In order to solve this question, if we look at the first statement, we could think of the following scenarios: If the time taken by the first man and the woman is 1 hour (100% work per hour) , the time taken by the second man would be 4 hours (25% work per hour). In such a case, the total time taken by all three to complete the task would be 100/125 = 0.8 hours. But this value is not there in the options. Hence, we reject this set of values. If the time taken by the first man and the woman is 2 hours (50% work per hour) , the time taken by the second man would be 5 hours (20% work per hour). In such a case, the total time taken by all three to complete the task would be 100/70 = 10/7 hours. But this value is not there in the options. Hence, we reject this set of values. If the time taken by the first man and the woman is 3 hours (33.33% work per hour) , the time taken by the second man would be 6 hours (16.66% work per hour). In such a case, the total time taken by all three to complete the task would be 100/50 = 2 hours. Since this value is there in the options we should try to see whether this set of values meets the other conditions in the question. In this case, it is given that the first man working alone takes as much time as the second man and the woman. Since, the work of all three is 50%, this means that the work of the first man is 25%. Consequently the work of the woman is 8.33%. Looking at the third condition given in the problem – the time taken by the first man to do the work alone (@ 25% per hour he would take 4 hours) should be 8 hours less than double the time taken by the second man. This condition can be seen to be fulfilled here because the second man would take 6 hours to complete his work (@ 16.66% per hour) and hence, double his time would be 12 hours— which satisfies the difference of 8 hours. Thus, the total time taken is 2 hours. Time and Work III.137"
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q030",
       "num": 30,
       "lod": 2,
       "type": "mcq",
-      "text": "The Bubna dam has four inlets. Through the →rst\nthree inlets, the dam can be →lled in 12 minutes;\nthrough the second, the third and the fourth inlet,\nit can be →lled in 15 minutes; and through the →rst\nand the fourth inlet, in 20 minutes. How much time\nwill it take all the four inets to →ll up the dam?\nDirections for question number 31 & 32:\nDipen Loomba builds an overhead tank in his house, which\nhas three taps attached to it. While the →rst tap can →ll the\ntank in 12 hours, the second one takes one and a half times\nthe →rst one to →ll it completely. A third tap is attached to the\ntank, which empties it in 36 hours. Now, one day, in order to\n→ll the tank, Dipen opens the →rst tap and after an hour opens\nthe second tap as well. However, at the end of the fourth\nhour, he realises that the third tap has been kept open right\nfrom the beginning and promptly closes it.",
+      "text": "The Bubna dam has four inlets. Through the →rst\nthree inlets, the dam can be →lled in 12 minutes;\nthrough the second, the third and the fourth inlet,\nit can be →lled in 15 minutes; and through the →rst\nand the fourth inlet, in 20 minutes. How much time\nwill it take all the four inets to →ll up the dam?\nDirections for question number 31 & 32:\nDipen Loomba builds an overhead tank in his house, which\nhas three taps attached to it. While the →rst tap can →ll the\ntank in 12 hours, the second one takes one and a half times\nthe →rst one to →ll it completely. A third tap is attached to the\ntank, which empties it in 36 hours. Now, one day, in order to\n→ll the tank, Dipen opens the →rst tap and after an hour opens\nthe second tap as well. However, at the end of the fourth\nhour, he realises that the t",
       "options": {
         "a": "8 min",
         "b": "10 min",
         "c": "12 min",
         "d": "None of these"
       },
-      "answer": "b",
-      "solution": "Let the inlets be A, B, C and D. A + B + C = 8.33% B + C + D = 6.66% A + D = 5% Thus, 2A + 2B + 2C + 2D = 20% and A + B + C + D = 10% Æ 10 minutes would be required to fill the tank completely."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q031",
@@ -929,8 +1335,8 @@
       "type": "tita",
       "text": "What is the ratio of volume occupied by water to\nvolume of remaining part of the tank after 6 hours?",
       "options": {},
-      "answer": "2:1",
-      "solution": "Short cut Solution: The best way to think in this situation is to assume the tank to have a capacity of 36 litres (LCM of 12,18 and 36). In such a case, the first tap would be filling the tank at the rate of 3 litres per hour, the second one would be filling at the rate of 2 litres per hour while the third one would be emptying the tank at the rate of 1 litre per hour. In 6 hours, the total quantity of water in the tank would be 6 ¥ 3 + 5 ¥ 2 – 4 ¥ 1 = 24. Hence, the ratio of volume occupied by water to the volume that is not occupied by water is 24 : 12 = 2 : 1."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q032",
@@ -939,8 +1345,8 @@
       "type": "tita",
       "text": "What will be the total time required to →ll the tank\n(in minutes)?\nDirections for question number 33 & 34:",
       "options": {},
-      "answer": "504",
-      "solution": "Based on the previous solution, we have seen that after 6 hours 24 litres of the tank are filled. To fill the remaining 12 litres, when both the inlet taps are open, we would need 12 ÷ 5 = 2.4 hours = 2 hours 24 minutes. Thus, it would take a total of 6 hours + 2 hours 24 minutes to fill the tank, i.e., 8 hours 24 minutes = 504 minutes."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q033",
@@ -949,8 +1355,8 @@
       "type": "tita",
       "text": "In the ancient city of Portheus, the emperor has installed an overhead tank that is →lled by two pumps\n— X and Y. X can →ll the tank in 12 hours while Y\ncan →ll the tank in 15 hours. There is a pipe Z which\ncan empty the tank in 10 hours. Both the pumps are\nopened simultaneously. The supervisor of the tank,\nbefore going out on a work, asks his assistant to open\nZ when the tank is exactly 40% →lled so that tank is\nexactly →lled up by the time he is back. If he starts\nX and Y at exactly 11:00 AM and he comes back at\nA:B. Then →nd the value of A+ B.",
       "options": {},
-      "answer": "41",
-      "solution": "Let the total capacity of the tank be 180 litres: Efficiency of X = 15 l/hr. Efficiency of Y = 12 l/hr. Efficiency of Z = –18 l/hr. Time taken to fill the tank to 40% of it’s capacity (i.e., 72 litres) = 72/27 = 2 hours 40 minutes. After 2 hours 40 minutes, Z starts working. The rate at which the tank would be filled after this would be: 15 + 12 – 18 = 9 litres per hour. The total quantity to be filled in order to fill up the tank = 180 – 72 = 108 litres. This will take 108/9=12 hours to complete. Hence, the supervisor comes back after: 12 hours + 2 hours 40 minutes = 14 hours 40 minutes. Hence, he is supposed to come back at: 1:40 AM (the next day). The value of A + B = 41."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q034",
@@ -959,18 +1365,18 @@
       "type": "tita",
       "text": "Due to a miscalculation by the assistant, he opens Z\nwhen the tank is one fourth →lled. If the supervisor\ncomes back as per the plan what percent of the tank\nis still empty?",
       "options": {},
-      "answer": "10",
-      "solution": "Z opens when the tank is filled with 45 litres of water. This means that Z opened after 45/27 = 1 hour 40 minutes. In the next 13 hours, 13 ¥ 9 = 117 litres of water will get added to the tank. Thus, 10% of the tank would be empty when the supervisor comes back."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q035",
       "num": 35,
       "lod": 2,
       "type": "tita",
-      "text": "Three students A,B and C were working on a project.\nA is 40% more ef→cient than B, who is 40% more\nef→cient than C. A takes 10 days less than B to\ncomplete the project. A starts the project and works\nfor 10 days and then B takes over. B works on the\nproject for the next 14 days and then stops the work,\nhanding it over to C to complete it. In how many\ndays, would C complete the remaining project?\nDirections for questions 36 and 37:\nThree water pipes, A, B and C are all used to full a container.\nThese pipes can →ll the container individually in 6 minutes,\nTime and Work III.127\n12 minutes and 18 minutes, respectively. All the three pipes\nwere opened simultaneously. However, it was observed that\npipes A and B were supplying water at 2/3rd of their normal\nrates for the →rst minute after which they supplied water at\nthe normal rate. Pipe C supplied water at half of its normal\nrate for →rst 3 minutes, after which it supplied water at its\nnormal rate. Now answer the following questions:",
+      "text": "Three students A,B and C were working on a project.\nA is 40% more ef→cient than B, who is 40% more\nef→cient than C. A takes 10 days less than B to\ncomplete the project. A starts the project and works\nfor 10 days and then B takes over. B works on the\nproject for the next 14 days and then stops the work,\nhanding it over to C to complete it. In how many\ndays, would C complete the remaining project?\nDirections for questions 36 and 37:\nThree water pipes, A, B and C are all used to full a container.\nThese pipes can →ll the container individually in 6 minutes,\n\n12 minutes and 18 minutes, respectively. All the three pipes\nwere opened simultaneously. However, it was observed that\npipes A and B were supplying water at 2/3rd of their normal\nrates for the →rst minute after which they supplied water at",
       "options": {},
-      "answer": "9",
-      "solution": "According to the situation provided in the question, A can do the work in 25 days, B in 35 days. The thought process that gives us these numbers is: Since it is given than A is 40% more efficient than B, it means that A would take 5/7th of the time that B takes. Since it is given to us that A takes, 10 days less than B, the number of days can be worked out as 25 and 35 for A and B respectively. If you notice, when it is given that A is 40% more efficient than B, then B’s number of days can be worked out by increasing A’s number of days by 40% directly. This can be thought of as: If A is 40% more efficient than"
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod2-q036",
@@ -979,7 +1385,7 @@
       "type": "tita",
       "text": "What fraction of the tank is empty after 2 hours?",
       "options": {},
-      "answer": "19/36",
+      "answer": null,
       "solution": null
     },
     {
@@ -989,7 +1395,7 @@
       "type": "tita",
       "text": "In how much time (in minutes and to the closest\nsecond), would the container be →lled?",
       "options": {},
-      "answer": "3",
+      "answer": null,
       "solution": null
     },
     {
@@ -997,9 +1403,9 @@
       "num": 38,
       "lod": 2,
       "type": "tita",
-      "text": "A contract is to be completed in 72 days and 104\nmen are set to work, each working 8 hours a day.\nSpace for Notes\nAfter 30 days, only 1/5th of the work is →nished.\nHow many additional men need to be employed so\nthat the work may be completed on time. (If each\nman is now working 9 hours per day)?",
+      "text": "A contract is to be completed in 72 days and 104\nmen are set to work, each working 8 hours a day.\n\nSpace for Notes\n\nAfter 30 days, only 1/5th of the work is →nished.\nHow many additional men need to be employed so\nthat the work may be completed on time. (If each\nman is now working 9 hours per day)?",
       "options": {},
-      "answer": "161",
+      "answer": null,
       "solution": null
     },
     {
@@ -1009,7 +1415,7 @@
       "type": "tita",
       "text": "X, Y, Z can complete a work in 4, 6 and 8 hours,\nrespectively. At the most only one person can work in\neach hour and nobody can work for two consecutive\nhours. Find the minimum number of hours that they\nwill take to →nish the work?",
       "options": {},
-      "answer": "5",
+      "answer": null,
       "solution": null
     },
     {
@@ -1017,25 +1423,25 @@
       "num": 40,
       "lod": 2,
       "type": "tita",
-      "text": "The rate at which tap M →lls a tank is 60% more than\nthat of tap N. If both the taps are opened simultaneously, they take 50 hours to →ll the rank. The time\ntaken by N alone to →ll the tank is (in hours).\nLevel of Dif→culty (III)\nDirections for questions 1 to 10: Study the following\ntables and answers the questions that follow.\nDarbar toy company has to go through the following\nstages for the launch of a new toy:",
+      "text": "The rate at which tap M →lls a tank is 60% more than\nthat of tap N. If both the taps are opened simultaneously, they take 50 hours to →ll the rank. The time\ntaken by N alone to →ll the tank is (in hours).",
       "options": {},
-      "answer": "130",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch09-lod2-q005",
+      "id": "ch09-lod3-q005",
       "num": 5,
-      "lod": 2,
+      "lod": 3,
       "type": "tita",
-      "text": "Design and development\nPrototype creation\nMarket survey\nManufacturing setup\nMarketing and launch\nExpert\nman-days\nrequired\n30\n15\n30\n15\n15\nNon-expert\nman-days\nrequired\n60\n20\n40\n30\n20\nThe pro→le of the company’s manpower is\nWorker\nname\nA\nB\nC\nD\nE\nExpert at\nDesign and development\nPrototype creation\nMarket survey and\nmarketing and\nlaunch\nManufacturing\nMarket survey\nNon-Expert\nat\nAll others\nRefusal to\nwork on\nMarket survey\nAll others\nAll others\ndevelopment\nMarket survey\nDesign and\nAll others\nAll others\nMarket survey\nManufacturing",
+      "text": "Design and development\nPrototype creation\nMarket survey\nManufacturing setup\nMarketing and launch\n\nExpert\nman-days\nrequired\n30\n15\n30\n15\n15\n\nNon-expert\nman-days\nrequired\n60\n20\n40\n30\n20\n\nThe pro→le of the company’s manpower is\nWorker\nname\nA\nB\nC\n\nD\nE\n\nExpert at\nDesign and development\nPrototype creation\nMarket survey and\nmarketing and\nlaunch\nManufacturing\nMarket survey\n\nNon-Expert\nat\nAll others\n\nRefusal to\nwork on\nMarket survey\n\nAll others\nAll others\ndevelopment\n\nMarket survey\nDesign and\n\nAll others\nAll others\n\nMarket survey\nManufacturing",
       "options": {},
-      "answer": "d",
-      "solution": "Since A finishes 6/7th of the work in 2z hours . B would finish 12/7 of the work in 2z hours. Thus, to do 1/7th of the work (which represents the remaining work), B would require 2z/12 = z/6 hours. Option (d) is correct. 6–10. Set X can fill 10% in a minute. Hence, every Pipe of set X can do 1% work per minute. Set Y has a filling capacity of 12.5% per minute (or 2.5% per minute for each tap in set Y). Set Z has a capacity of emptying the tank at the rate of 5% per minute and each tap of set Z can empty at the rate of 0.625% per minute."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q001",
+      "id": "ch09-lod3-q001",
       "num": 1,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Given this situation, the minimum number of days\nin which the company can launch a new toy going\nthrough all the stages is",
       "options": {
@@ -1044,13 +1450,13 @@
         "c": "45 days",
         "d": "44 days"
       },
-      "answer": "a",
-      "solution": "25 (n – 12) = 21 n + 300. Solving this equation, n = 150. Hence, the first division harvest 3150 tons."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q002",
+      "id": "ch09-lod3-q002",
       "num": 2,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If A and C refuse to have anything to do with the\nmanufacturing set up. the number of days by which\nthe project will get delayed will be",
       "options": {
@@ -1059,13 +1465,13 @@
         "c": "3 days",
         "d": "6 days"
       },
-      "answer": "b",
-      "solution": "Let n be the number of metres planned per day. Start from the options to find the number of planned days. In the options the 2 feasible values are 30 metres and 27 metres (as these divide 270). Suppose we check for 30 metres per day, the work would have got completed in 9 days as per the original plan. In the new scenario: 3n + 5(n + 8) = 280 Æ n = 30 too. Hence, this option is correct. Note that if we tried with 27 metres per day the final equation would not match as we would get: 3n + 6(n + 8) = 280 Æ which does not give us the value of n as 27 and hence this option is rejected."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q003",
+      "id": "ch09-lod3-q003",
       "num": 3,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If each of the →ve works is equally valued at `10,000,\nthe maximum amount will be received by",
       "options": {
@@ -1074,13 +1480,13 @@
         "c": "D",
         "d": "E"
       },
-      "answer": "d",
-      "solution": "To solve this question first assume the values of x and y (such that x < y). If you take x as 10 hours and y as 15 hours, you will get a net work of 3.33% per hour. At this rate it will take 20 hours to fill the tank from one third full. Using this condition try to put these values of x and y into the options to check the values. For instance option (a) gives the value as 3 ¥ 10 ¥ 15/10 = 45 which is not equal to 20."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q004",
+      "id": "ch09-lod3-q004",
       "num": 4,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "For question 3, the second highest amount will be\nreceived by",
       "options": {
@@ -1089,13 +1495,13 @@
         "c": "D",
         "d": "E"
       },
-      "answer": "c",
-      "solution": "n(1/45 + 1/40) + 23/40 = 1 Æ n = 9."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q005",
+      "id": "ch09-lod3-q005",
       "num": 5,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If C works at 90.909% of his ef→ciency during marketing and launch, who will be highest paid amongst\nthe →ve of them?",
       "options": {
@@ -1104,28 +1510,28 @@
         "c": "D",
         "d": "E"
       },
-      "answer": "d",
-      "solution": "Since A finishes 6/7th of the work in 2z hours . B would finish 12/7 of the work in 2z hours. Thus, to do 1/7th of the work (which represents the remaining work), B would require 2z/12 = z/6 hours. Option (d) is correct. 6–10. Set X can fill 10% in a minute. Hence, every Pipe of set X can do 1% work per minute. Set Y has a filling capacity of 12.5% per minute (or 2.5% per minute for each tap in set Y). Set Z has a capacity of emptying the tank at the rate of 5% per minute and each tap of set Z can empty at the rate of 0.625% per minute."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q006",
+      "id": "ch09-lod3-q006",
       "num": 6,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
-      "text": "If the company decides that the →rst 4 works can\nbe started simultaneously and the experts will be\nallocated to their respective work areas only and a\nwork will be done by a non-expert only if the work\nin his area of expertise is completed, then the expert\nwho will →rst be assisted in his work will be (assume\nthat marketing and launch can only be done after the\n→rst four are fully completed)",
+      "text": "If the company decides that the →rst 4 works can\nbe started simultaneously and the experts will be\n\nallocated to their respective work areas only and a\nwork will be done by a non-expert only if the work\nin his area of expertise is completed, then the expert\nwho will →rst be assisted in his work will be (assume\nthat marketing and launch can only be done after the\n→rst four are fully completed)",
       "options": {
         "a": "A",
         "b": "B",
         "c": "C",
         "d": "D"
       },
-      "answer": "b",
-      "solution": "If all the 23 pipes are opened the per minute rate will be: 10 + 12.5 – 5 = 17.5% Æ Option (b) is correct."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q007",
+      "id": "ch09-lod3-q007",
       "num": 7,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "For the question above, the minimum number of\ndays in which the whole project will get completed\n(assume everything is utilised ef→ciently all the time,\nand nobody is utilised in a work that he refuses to\nwork upon)",
       "options": {
@@ -1134,13 +1540,13 @@
         "c": "24.75 days",
         "d": "25.25 days"
       },
-      "answer": "d",
-      "solution": "Set X will do 5 % per minute and Set Y will do 6.25% per minute, while set Z will do 5% per minute (negative work). Hence, Net work will be 6.25% per minute. To fill 49% it will take slightly less than eight minutes and the value will be a fraction. None of the first three options matches this requirement. Hence, the answer will be (d)."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q008",
+      "id": "ch09-lod3-q008",
       "num": 8,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "For the situation in question 6, the highest earning\nwill be for",
       "options": {
@@ -1149,13 +1555,13 @@
         "c": "C",
         "d": "Cannot be determined"
       },
-      "answer": "a",
-      "solution": "If 4 of the taps of set Z are closed, the net work done by Set Z would be –2.5% while the work done by Sets X and Y would remain 10% and 12.5% respectively. Thus, the total work per minute would be 20% and hence the tank would take 5 minutes to fill up."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q009",
+      "id": "ch09-lod3-q009",
       "num": 9,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If each work has an equal payment of `10,000, the\nlowest earning for the above situation will be for",
       "options": {
@@ -1164,28 +1570,28 @@
         "c": "C",
         "d": "B"
       },
-      "answer": "b",
-      "solution": "Again if we close 4 taps of set Z, the rate of emptying by set Z would be 2.5% per minute. A half filled tank would contain 50% of the capacity and hence would take 50/2.5 = 20 minutes to empty."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q010",
+      "id": "ch09-lod3-q010",
       "num": 10,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
-      "text": "The value of the earning for the highest earning\nperson, (if the data for questions 6–9 are accurate)\nwill be\nDirections for questions 11 to 20: Read the following\nand answer the questions that follow.\nA fort contains a granary, that has 1000 tons of grain. The\nfort is under a siege from an enemy army that has blocked\noff all the supply routes.\nThe army in the fort has three kinds of soldiers:\nSepoys Æ 2,00,000.\nMantris Æ 1,00,000\nFooties Æ 1,00,000\n100 Sepoys can hold 5% of the enemy for one month.\n100 Mantris can hold 10% of the enemy for 15 days.\n50 Footies can hold 5% of the enemy for one month.\nA sepoy eats 1 kg of food per month, a Mantri eats 0.5 kg\nof food per month and a footie eats 3 kg of food. (Assume 1\nton = 1000 kg).\nThe king has to make some decisions based on the longest\npossible resistance that can be offered to the enemy.\nIf a king selects a soldier, he will have to feed him for\nthe entire period of the resistance. The king is not obliged to\nfeed a soldier not selected for the resistance.\n(Assume that the entire food allocated to a particular\nsoldier for the estimated length of the resistance is\nTime and Work III.129\nredistributed into the king’s palace in case a soldier dies and\nis not available for the other soldiers.)",
+      "text": "The value of the earning for the highest earning\nperson, (if the data for questions 6–9 are accurate)\nwill be\nDirections for questions 11 to 20: Read the following\nand answer the questions that follow.\nA fort contains a granary, that has 1000 tons of grain. The\nfort is under a siege from an enemy army that has blocked\noff all the supply routes.\nThe army in the fort has three kinds of soldiers:\nSepoys → 2,00,000.\nMantris → 1,00,000\nFooties → 1,00,000\n100 Sepoys can hold 5% of the enemy for one month.\n100 Mantris can hold 10% of the enemy for 15 days.\n50 Footies can hold 5% of the enemy for one month.\nA sepoy eats 1 kg of food per month, a Mantri eats 0.5 kg\nof food per month and a footie eats 3 kg of food. (Assume 1\nton = 1000 kg).\nThe king has to make some decisions based on the longest\npo",
       "options": {
         "a": "19,312.5",
         "b": "13,250",
         "c": "12,875",
         "d": "B"
       },
-      "answer": "d",
-      "solution": "The rate per minute with the given changes (in percentage terms) would be: Set X =11%, Set Y = 15% and Set Z = –6%. Hence, the net rate = 11 + 15 – 6 = 20% per minute and it would take 5 minutes for the tank to fill. If all pipes are opened at 7:58, the tank would get filled at 3:03."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q011",
+      "id": "ch09-lod3-q011",
       "num": 11,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If the king wants to maximise the time for which\nhis resistance holds up, he should",
       "options": {
@@ -1194,13 +1600,13 @@
         "c": "select all sepoys",
         "d": "none of these"
       },
-      "answer": "c",
-      "solution": "Let Ajit’s rate of work be 100/2 = 50 work units per day. Baljit would do 100/3 = 33.33 work units per day and Diljit does 133.33/5 = 26.66 units of work per day. Their 1 days work = 50 + 33.33 + 26.66 = 110 units of work per day. In 20 days, the total work done would be 2200 units of work and hence for Baljit to do it alone it would take: 2200/33.33 = 66 days to complete the same work."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q012",
+      "id": "ch09-lod3-q012",
       "num": 12,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Based on existing resources, the maximum number\nof months for which the fort’s resistance can last is",
       "options": {
@@ -1209,13 +1615,13 @@
         "c": "7.5 months",
         "d": "cannot be determined"
       },
-      "answer": "b",
-      "solution": "The 32 minutes extra represents the extra time taken by the pipes due to the leak. Normal time for the pipes Æ n ¥ (1/14 + 1/16) = 1 Æ n = 112/15 = 7 hrs 28 minutes. Thus, with 32 minutes extra, the pipes would take 8 hours to fill the tank. Thus, 8(1/14 + 1/16) – 8 ¥ (1/L) = 1 Æ 8/L = 8(15/112) – 1 1/L = 15/112 – 1/8 = 1/112. Thus, L = 112 hours."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q013",
+      "id": "ch09-lod3-q013",
       "num": 13,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If the king makes a decision error, the maximum\nreduction in the time of resistance could be",
       "options": {
@@ -1224,13 +1630,13 @@
         "c": "16.66 months",
         "d": "cannot be determined"
       },
-      "answer": "b",
-      "solution": "The outlet pipe will empty the tank at a rate which is double the rate of filling (Hence, 10 gallons per minute). If the inlet is shut off, the tank will get emptied of 100 gallons of water in ten minutes."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q014",
+      "id": "ch09-lod3-q014",
       "num": 14,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If the king estimates that the attackers can last for\nonly 50 months, what should the king do to ensure\nvictory?",
       "options": {
@@ -1239,13 +1645,13 @@
         "c": "select the footies",
         "d": "the king cannot achieve this"
       },
-      "answer": "b",
-      "solution": "The net inflow when both pipes are opened is 5 litres a minute. The outlet flow should be such that if its rate is doubled the net inflow rate should be negative or 0. Only an option greater than or equal to ‘5’ would satisfy this condition. Option (b) is the only possible value."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q015",
+      "id": "ch09-lod3-q015",
       "num": 15,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If a reduction in the ration allocation by 10% reduces\nthe capacity of any soldier to hold off the enemy by\n10%, the number of whole months by which the king\ncan increase the life of the resistance by reducing\nthe ration allocation by 10% is",
       "options": {
@@ -1254,13 +1660,13 @@
         "c": "no change",
         "d": "This will reduce the time"
       },
-      "answer": "c",
-      "solution": "XÆ12 days Æ 8.33% of the work per day. Y Æ 18 days Æ 5.55% of the work per day Time and Work III.135 Z Æ 10 days Æ 10% of the work per day. In three days, the work done will be 25 + 16.66 + 30 = 71.66%. The remaining work will get done by Y in 28.33/5.55 = 5.1 days. [Note: You need to be fluent with your fraction to percentage conversions in order to do well at these kinds of calculations.]"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q016",
+      "id": "ch09-lod3-q016",
       "num": 16,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "The minimum amount of grain that should be available in the granary to ensure that the fort is not\nlost (assuming the estimate of the king of 50 months\nbeing the duration for which the enemy can last is\ncorrect) is",
       "options": {
@@ -1269,13 +1675,13 @@
         "c": "5000 tons",
         "d": "cannot be determined"
       },
-      "answer": "b",
-      "solution": "A takes 9 days to complete the work B takes 24 days to complete the work C takes 16 days to complete the work In 4e days, work done by all three would be: 4 ¥ (1/9 + 1/24 + 1/16) (16 + 6 + 9) = 124/144 =4¥ 144 = 31/36 of the work. Work left for B would be 5/36 of the work. B would require: (5/36) ¥ 24 = 3.33 days."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q017",
+      "id": "ch09-lod3-q017",
       "num": 17,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If the king made the worst possible selection of\nhis soldiers to offer the resistance, the percentage\nincrease in the minimum amount of grain that should\nbe available in the granary to ensure that the fort is\nnot lost is",
       "options": {
@@ -1284,13 +1690,13 @@
         "c": "600%",
         "d": "cannot be determined"
       },
-      "answer": "a",
-      "solution": "The per day digging of all three combined is 54 metres. Hence, their average should be 18. This means that the first should be 18 – x, the second, 18 & the third 18 + x. The required conditions are met if we take the values as 15, 18 and 21 metres for the first, second and third diggers, respectively. Hence, (a) is the correct answer."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q018",
+      "id": "ch09-lod3-q018",
       "num": 18,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "The difference in the minimum grain required for the\nsecond worst choice and the worst choice to ensure\nthat the resistance lasts for 50 months is",
       "options": {
@@ -1299,13 +1705,13 @@
         "c": "10000 tons",
         "d": "cannot be determined"
       },
-      "answer": "a",
-      "solution": "The equations are: 3(A + B + C) = 37/100 = 37% of the work. 7(A + B) = 63/10 Æ A + B = 9/100 = 9% (Where A, B and C are 1 day’s work of the three respectively). Further, 5A = 4B gives us A = 4% and B = 5% work per day. In 3 days (A + B + C) do 37% of the work. Out of this A and B would do 27% (= 3 ¥ 9%) of the work. So, C would do 3.33% of the work per day. 37 - 27 3 Thus, B is the fastest and he would require 20 days to complete the work."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q019",
+      "id": "ch09-lod3-q019",
       "num": 19,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If the king strategically attacks the feeder line on\nthe →rst day of the resistance so that the grain is no\nlonger a constraint, the maximum time for which the\nresistance can last is",
       "options": {
@@ -1314,18 +1720,23 @@
         "c": "250 months",
         "d": "cannot be determined"
       },
-      "answer": "a",
-      "solution": "A + B = 20% of the work. Use trial and error with the options to get the answer. Checking for option (a), A = 10% and B = 10%. If A doubles his work and B halves his work rate, the total work in a day would become A = 20, B = 5. This would mean that the total work would get completed in 4 days which is the required condition that needs to be matched if the option is to be correct. Hence, this option is correct."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch09-lod2-q020",
+      "id": "ch09-lod3-q020",
       "num": 20,
-      "lod": 2,
-      "type": "tita",
-      "text": "If the feeder line is opened after 6 months and prior\nto that the king h",
-      "options": {},
-      "answer": "b",
-      "solution": "Since the first typist types for 4 minutes and the second typist types for exactly 6 minutes, the work left (which is given as 1/5 of the total work) would be the work the first typist can do in 2 minutes. Thus, the time taken by the first typist to do the work would be 10 minutes and his rate of work would be 10% per minute. Also, since both the typists can do the work together in 6 minutes, their combined rate of work would be 100/6 = 16.66% per minute. Thus, the second typist’s rate of work would be 16.66 – 10 = 6.66% per minute. He would take 100/6.66 = 15 minutes to complete the task alone."
+      "lod": 3,
+      "type": "mcq",
+      "text": "If the feeder line is opened after 6 months and prior\nto that the king had made decisions based on food\navailability being a constraint then the number of\nmonths (maximum) for which the resistance could\nlast is\nDirections for questions 21 to 25: Study the following\nand answer the questions that follow.\nA gas cylinder can discharge gas at the rate of 1 cc/minute\nfrom burner A and at the rate of 2 cc/minute from burner\nB (maximum rates of discharge). The capacity of the gas\ncylinder is 1000 cc of gas.\nThe amount of heat generated is equal to 1 kcal per cc\nof gas.\nHowever, there is wastage of the heat as per follows:\nGas discharge@\n0–0.5 cc/minute\n0.5–1 cc/minute\n1–1.5 cc/minute\n1.5 + cc/minute\n\nLoss of heat\n10%\n20%\n25%\n30%\n\n@(Include higher extremes)",
+      "options": {
+        "a": "100 months",
+        "b": "150 months",
+        "c": "5 months",
+        "d": "cannot be determined"
+      },
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch09-lod3-q021",
@@ -1339,7 +1750,7 @@
         "c": "200 minutes",
         "d": "None of these"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1354,7 +1765,7 @@
         "c": "Either",
         "d": "None of these"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1369,7 +1780,7 @@
         "c": "750 kcal",
         "d": "cannot be determined"
       },
-      "answer": "At",
+      "answer": null,
       "solution": null
     },
     {
@@ -1384,7 +1795,7 @@
         "c": "750 kcal",
         "d": "cannot be determined"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1392,241 +1803,21 @@
       "num": 25,
       "lod": 3,
       "type": "mcq",
-      "text": "For Question 24, the amount of time required to\n→nish a full gas cylinder will be\nanswer key\nLevel of Dif→culty (I)",
+      "text": "For Question 24, the amount of time required to\n→nish a full gas cylinder will be",
       "options": {
         "a": "900 minutes",
         "b": "833.33 minutes",
         "c": "800 minutes",
         "d": "none of these"
       },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q037",
-      "num": 37,
-      "lod": 3,
-      "type": "tita",
-      "text": "3 minutes 49 seconds",
-      "options": {},
       "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q039",
-      "num": 39,
-      "lod": 3,
-      "type": "tita",
-      "text": "5.33\nLevel of Dif→culty (III)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q002",
-      "num": 2,
-      "lod": 3,
-      "type": "tita",
-      "text": "Increase of number of days Æ\n1000\n If mantris are chosen, the food will last for\n100\n× 0.5\n= 20 months.\n Hence, all mantris must be chosen.\n19–20. For these questions, since food is no longer a\nconstraint, the constraint then becomes the number\nof lives. Then, the assumption will be that the resistance lasts for one month with a loss of either 2000\nsepoys, 2000 mantris or 1000 footies.\n200000 100000 100000\n+\n+",
-      "options": {},
-      "answer": "Increase",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q019",
-      "num": 19,
-      "lod": 3,
-      "type": "tita",
-      "text": "Length of resistance =\n2000\n2000\n1000\n= 250 months.",
-      "options": {},
-      "answer": "Length",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q020",
-      "num": 20,
-      "lod": 3,
-      "type": "tita",
-      "text": "In 6 months, the resistance will have lost 12000\nmantris. He would also have lost all other soldiers\nsince he has not fed them.",
-      "options": {},
-      "answer": "In",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q023",
-      "num": 23,
-      "lod": 3,
-      "type": "tita",
-      "text": "At 1 cc/minute, the loss of heat is 20%. Hence, when\n1000 cc of the gas is used, out of the 1000 kcal of\nheat generated 200 kcal will be lost.\nSolutions and Shortcuts\nLevel of Dif→culty (I)",
-      "options": {},
-      "answer": "At",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q001",
-      "num": 1,
-      "lod": 3,
-      "type": "tita",
-      "text": "He will complete the work in 20 days. Hence, he\nwill complete ten times the work in 200 days.",
-      "options": {},
-      "answer": "6",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q002",
-      "num": 2,
-      "lod": 3,
-      "type": "tita",
-      "text": "6 men for 12 days means 72 mandays. This would\nbe equal to 4 men for 18 days.",
-      "options": {},
-      "answer": "Increase",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q003",
-      "num": 3,
-      "lod": 3,
-      "type": "tita",
-      "text": "A’s one day work will be 5%, while B will do 6.66\n% of the work in one day. Hence, their total work\nwill be 11.66% in a day.\n In 8 days they will complete Æ 11.66 × 8 = 93.33%\nTime and Work III.131\n This will leave 6.66% of the work. This will correspond to 4/7 of the ninth day since in 6.66/11.66\nboth the numerator and the denominator are divisible\nby 1.66.",
-      "options": {},
-      "answer": "33",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q004",
-      "num": 4,
-      "lod": 3,
-      "type": "tita",
-      "text": "A’s work = 5% per day\nB’s work = 6.66% per day\nC’s work = 4% per day.\n Total no. of days = 100/15.66 = 300/47 = 6(18/47)",
-      "options": {},
-      "answer": "Find",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q005",
-      "num": 5,
-      "lod": 3,
-      "type": "tita",
-      "text": "N + A = 10%\nN = 8.33%\n  Hence A = 1.66% Æ 60 days.",
-      "options": {},
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q006",
-      "num": 6,
-      "lod": 3,
-      "type": "tita",
-      "text": "The ratio of the wages will be the inverse of the\nratio of the number of days required by each to do\nthe work. Hence, the correct answer will be 3:2 Æ\n` 30",
-      "options": {},
-      "answer": "66",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q007",
-      "num": 7,
-      "lod": 3,
-      "type": "tita",
-      "text": "24 man days + 18 women days = 20 man days + 28\nwoman days\nÆ 4 man days = 10 woman days.\nÆ 1 man day = 2.5 woman days\n Total work = 24 man days + 18 woman days = 60\nwoman days + 18 woman days = 78 woman days.\n    Hence, 1 man + 1 woman = 3.5 women can do it\nin 78/3.5 = 156/7 = 22(2/7) days.",
-      "options": {},
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q008",
-      "num": 8,
-      "lod": 3,
-      "type": "tita",
-      "text": "The data is insuf→cient, since we only know that\nthe work gets completed in 200 boy days and 300\nwomen days.",
-      "options": {},
-      "answer": "33",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q009",
-      "num": 9,
-      "lod": 3,
-      "type": "tita",
-      "text": "A = 10%, B = 5% and Combined work is 20%.\nHence, C’s work is 5% and will require 20 days.",
-      "options": {},
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q010",
-      "num": 10,
-      "lod": 3,
-      "type": "tita",
-      "text": "In 5 days, A would do 25% of the work. Since, B\n→nishes the remaining 75% work in 10 days, we can\nconclude that B’s work in a day = 7.5%\n    Thus, (A + B) = 12.5% per day.\n Together they would take 100/12.5 = 8 days.",
-      "options": {},
-      "answer": "Interpretation",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q011",
-      "num": 11,
-      "lod": 3,
-      "type": "tita",
-      "text": "A = 20%, B = 10% and A + B + C = 50%. Hence,\nC = 20%. Thus, in two days, C contributes 40% of\nthe total work and should be paid 40% of the total\namount.",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q012",
-      "num": 12,
-      "lod": 3,
-      "type": "tita",
-      "text": "Total man days required = 600 man -days. If 5 workers leave the job after ‘n’ days, the total work would\nbe done in 35 days. We have to →nd the value of ‘n’\nto satisfy:\n20 × n + (35 – n) × 15 = 600.\n Solving for n, we get\n20n – 15n + 35 × 15 = 600\n5n = 75\nn = 15.",
-      "options": {},
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q013",
-      "num": 13,
-      "lod": 3,
-      "type": "tita",
-      "text": "Let the time taken by Arun be ‘t’ days. Then, time\ntaken by Vinay = 2t days.\n  1/t + 1/2t = 1/7 Æ t = 10.5",
-      "options": {},
-      "answer": "If",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q014",
-      "num": 14,
-      "lod": 3,
-      "type": "tita",
-      "text": "Subhash can copy 200 pages in 40 hours (reaction\nto the →rst sentence). Hence, Prakash can copy 100\npages in 40 hours. Thus, he can copy 30 pages in\n30% of the time, i.e., 12 hours.",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q015",
-      "num": 15,
-      "lod": 3,
-      "type": "tita",
-      "text": "30X = 20 (X + 6) Æ 10X = 120 Æ X = 12.",
-      "options": {},
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch09-lod3-q016",
-      "num": 16,
-      "lod": 3,
-      "type": "tita",
-      "text": "Sashi = 4%, Rishi = 5%",
-      "options": {},
-      "answer": "66%",
       "solution": null
     }
   ],
-  "questionCount": 121,
+  "questionCount": 126,
   "lodCounts": {
-    "lod1": 52,
-    "lod2": 42,
-    "lod3": 27
+    "lod1": 60,
+    "lod2": 40,
+    "lod3": 26
   }
 }

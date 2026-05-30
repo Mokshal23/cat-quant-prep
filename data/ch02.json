@@ -6,48 +6,202 @@
   "blockName": "Numbers",
   "topic": "Numbers",
   "notes": {
-    "intro": "Both these are AP’s with values of a and d as Æ\na = 1, n = 50 and d = 1 and a = 6, n = 50 and d = 1,\nrespectively.\nUsing the formula for sum of an A.P. we get:",
+    "intro": "Of course, an appropriate adjustment will have to\nbe made when n2 does not fall into the series. This\nwill be done as follows:\nFor instance, if we have to →nd how many terms of\nthe series 107, 114, 121, 128 ... are below 258, then\nwe have by the formula:",
     "concepts": [
-      "Both these are AP’s with values of a and d as Æ\na = 1, n = 50 and d = 1 and a = 6, n = 50 and d = 1,\nrespectively.\nUsing the formula for sum of an A.P. we get:",
-      "Alternatively, we can do this faster by considering\n(1 – 6), (2 – 7), and so on as one unit or one term.\n1 – 6 = 2 – 7 = … = –5. Thus the above series is\nequivalent to a series of →fty – 5’s added to each other.\nSo, (1 – 6) + (2 – 7) + (3 – 8) + … 50 terms = –5 × 50\n= –250",
-      "So, (c) is the correct option.\nAlternatively, you could have solved through the\nfollowing process.\nx, y and z are given as logarithmic functions.",
-      "Problem 2.3 Find the sum of all numbers divisible by 6\nin between 100 to 400.",
-      "Assume x = 1, y = 10 and z = 100 as x, y, z are in G.P.",
-      "Solution Here 1st term = a = 102 (which is the 1st term\ngreater than 100 that is divisible by 6.)\nThe last term less than 400, which is divisible by 6 is 396.\nThe number of terms in the AP; 102, 108, 114…396 is\ngiven by [(396 – 102)/6] + 1= 50 numbers.\nCommon difference = d = 6\nSo,\nS = 25 (204 + 294) = 12450"
+      "Of course, an appropriate adjustment will have to\nbe made when n2 does not fall into the series. This\nwill be done as follows:\nFor instance, if we have to →nd how many terms of\nthe series 107, 114, 121, 128 ... are below 258, then\nwe have by the formula:",
+      "(258 – 107)/7 + 1 = 151/7 + 1 = 21.57 + 1. = 22.57.\nThis will be adjusted by taking the lower integral\nvalue = 22. → The number of terms in the series\nbelow 258.\nThe student is advised to try and experiment on these\nprinciples to get a clear picture.",
+      "Problem 2.1 Two persons—Ramu Dhobi and Kalu Mochi\nhave joined Donkey-work Associates. Ramu Dhobi and\nKalu Mochi started with an initial salary of ` 500 and\n` 640, respectively with annual increments of ` 25 and\n` 20 each respectively. In which year will Ramu Dhobi\nstart earning more salary than Kalu Mochi?\nSolution The current difference between the salaries of\nthe two is ` 140. The annual rate of reduction of this\ndfference is ` 5 per year. At this rate, it will take Ramu\nDhobi 28 years to equalise his salary with Kalu Dhobi’s\nsalary.\nThus, in the 29th year he will earn more.\nThis problem should be solved while reading and the\nthought process should be 140/5 = 28. Hence, answer is\n29th year.\nProblem 2.2",
+      "(1 + log10y) and 1/(1 + log10z) will be in:\n(a) A.P.\n(b) G.P.\n(c) H.P.\n(d) Cannot be said\nSolution Go through the options.\nChecking option (a), the three will be in A.P. if the 2nd\nexpression is the average of the 1st and 3rd expressions.\nThis can be mathematically written as\n2/(1 + log10 y) = [1/(1 + log10x)] + [1/(1 + log10z)]",
+      "1 – 6 + 2 – 7 + 3 – 8 +……… to 100 terms\n(a) – 250\n(b) –500\n(c) –450\n(d) –300\nSolution The series (1 – 6 + 2 – 7 + 3 – 8 +……… to\n100 terms) can be rewritten as:\n→ (1 + 2 + 3 + … to 50 terms) – (6 + 7 + 8 + … to 50\nterms)",
+      "[1 + (1 + log10 x) + 1 + (1 + log10 z )]\n[(1 + log10 x)(1 + log10 z )"
     ],
     "formulas": [
-      "a = 1, n = 50 and d = 1 and a = 6, n = 50 and d = 1,",
-      "1 – 6 = 2 – 7 = … = –5. Thus the above series is",
-      "equivalent to a series of →fty – 5’s added to each other.",
-      "So, (1 – 6) + (2 – 7) + (3 – 8) + … 50 terms = –5 × 50",
-      "Assume x = 1, y = 10 and z = 100 as x, y, z are in G.P.",
-      "Solution Here 1st term = a = 102 (which is the 1st term",
-      "given by [(396 – 102)/6] + 1= 50 numbers.",
-      "Common difference = d = 6",
-      "S = 25 (204 + 294) = 12450",
-      "fi Thus we →nd that since 1, 2 and 3 are in A.P., we can",
-      "fi Hence, by de→nition of an H.P. we have that 1/(1 +",
-      "1 + log10x = 1, 1 + log10 y = 2 and 1 + log10z = 3",
-      "a, b and c is given and it is mentioned that a + b + c =",
-      "not required. This process will be very bene→cial for",
-      "Solution This is an A.P. with →rst term 1 and common"
+      "(258 – 107)/7 + 1 = 151/7 + 1 = 21.57 + 1. = 22.57.",
+      "value = 22. → The number of terms in the series",
+      "thought process should be 140/5 = 28. Hence, answer is",
+      "2/(1 + log10 y) = [1/(1 + log10x)] + [1/(1 + log10z)]"
     ]
   },
   "questions": [
+    {
+      "id": "ch02-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "There is an AP 11, 13, 15.... Which term of this AP\nis 65?",
+      "options": {
+        "a": "25th",
+        "b": "26th",
+        "c": "27th",
+        "d": "28th"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the 25th term of the sequence 50, 45, 40, ...",
+      "options": {
+        "a": "−55",
+        "b": "−65",
+        "c": "−70",
+        "d": "−75"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If Ajit saves Rs. 400 more each year than he did the\nyear before and if he saves Rs. 2000 in the →rst year,\nafter how many years will his savings be more than\nRs.100000 altogether?",
+      "options": {
+        "a": "19 years",
+        "b": "20 years",
+        "c": "21 years",
+        "d": "18 years"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The 6th and 20th terms of an AP are 8 and −20\nrespectively. Find the 30th term.",
+      "options": {
+        "a": "−34",
+        "b": "−40",
+        "c": "−32",
+        "d": "−30"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "How many terms are there in the AP 10, 15, 20,\n25,... 120?",
+      "options": {
+        "a": "21",
+        "b": "22",
+        "c": "23",
+        "d": "24"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of terms of the series 1/27, 1/9,\n1/3,... 729.",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "13"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the →fth term of a G.P. is 80 and →rst term is 5,\nwhat will be the 4th term of the G.P.?",
+      "options": {
+        "a": "20",
+        "b": "15",
+        "c": "40",
+        "d": "25"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Binay was appointed to Mindworkzz in the pay scale\nof 12000–1500–22,500. Find how many years he will\ntake to reach the maximum of the scale.",
+      "options": {
+        "a": "7 years",
+        "b": "8 years",
+        "c": "9 years",
+        "d": "10 years"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "How many natural numbers between 100 to 500 are\nmultiples of 9?",
+      "options": {
+        "a": "44",
+        "b": "48",
+        "c": "47",
+        "d": "50"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The sum of the →rst 20 terms of an AP whose →rst\nterm and third term are 25 and 35, respectively is",
+      "options": {
+        "a": "1200",
+        "b": "1250",
+        "c": "1400",
+        "d": "1450"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch02-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number 39 is divided into three parts which are\nin A.P. and the sum of their squares is 515. Find the\nlargest number.",
+      "options": {
+        "a": "17",
+        "b": "15",
+        "c": "13",
+        "d": "11"
+      },
+      "answer": "c",
+      "solution": null
+    },
     {
       "id": "ch02-lod1-q012",
       "num": 12,
       "lod": 1,
       "type": "mcq",
-      "text": "Sushil agrees to work at the rate of 10 rupee on the\n→rst day, 20 rupees on the second day, 40 rupees on\nthe third day and so on. How much will Sushil get\nif he starts working on the 1st of April and →nishes\non the 20th of April?\n20",
+      "text": "Sushil agrees to work at the rate of 10 rupee on the\n→rst day, 20 rupees on the second day, 40 rupees on\nthe third day and so on. How much will Sushil get\n\nif he starts working on the 1st of April and →nishes\non the 20th of April?\n20",
       "options": {
         "a": "10.220",
         "b": "10.220 − 10",
         "c": "10.2 − 1",
         "d": "219"
       },
-      "answer": "Let",
-      "solution": "4x + 40 = 5(x + 4) Æ x = 20 (average after 4 innings). Hence, new average = 20 + 4 = 24."
+      "answer": "c",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q013",
@@ -61,8 +215,8 @@
         "c": "4320",
         "d": "4160"
       },
-      "answer": "b",
-      "solution": "(5+10+15+20+25+30)/6 = 105/6 = 17.5"
+      "answer": "a",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q014",
@@ -76,8 +230,8 @@
         "c": "1/27",
         "d": "1/9"
       },
-      "answer": "d",
-      "solution": "1/5 + 1/8 + C = 3 ¥ 1/10 Æ C = –1/40."
+      "answer": "c",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q015",
@@ -91,8 +245,8 @@
         "c": "6",
         "d": "8"
       },
-      "answer": "b",
-      "solution": "His total score is 90 + 70 + 150 = 310 out of 450. This works out to a percentage score of = 68.88%"
+      "answer": "a",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q016",
@@ -106,38 +260,32 @@
         "c": "Both a and b",
         "d": "15"
       },
-      "answer": "a",
-      "solution": "Average income over 9 months = [3 ¥ (2250 + 500) + 3 ¥ (2150 + 500) + 3 ¥ (5750+500)]/9 = 3883.33"
+      "answer": "c",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q017",
       "num": 17,
       "lod": 1,
       "type": "mcq",
-      "text": "Find the lowest number in an AP such that the sum\nof all the terms is 105 and greatest term is 6 times\nthe least.\n(c)",
+      "text": "Find the lowest number in an AP such that the sum\nof all the terms is 105 and greatest term is 6 times\nthe least.\n(d) (c)",
       "options": {
         "a": ",",
         "b": "&",
-        "c": "15",
-        "d": ""
+        "c": "15"
       },
       "answer": "b",
-      "solution": "Total age (at present) = 5 ¥ 20 = 100 years. Total age of the family excluding the youngest member (for II.26 How to Prepare for Quantitative Aptitude for CAT the remaining 5 people) = 100 –5 = 95. Average age of the other 4 people in the family = 95/4 years. 5 years ago their average age = 95/4 – 5 = 75/4 = 18.75 years."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q018",
       "num": 18,
       "lod": 1,
-      "type": "mcq",
-      "text": "Find the general term of the GP with the third term\n1 and the seventh term 8.\n(23/4)n−3\n(23/2)n−3\n3/4 3−n\n(2 )\n(23/4)2−n",
-      "options": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
-      "answer": "a",
-      "solution": "If the average age of 5 persons has gone up by 10 years it means the total age has gone up by 50 years. Thus the total age of the two women would be: 30 + 40 + 50 = 120. Hence, their average age = 60 years."
+      "type": "tita",
+      "text": "Find the general term of the GP with the third term\n1 and the seventh term 8.\n(a) (23/4)n−3\n(b) (23/2)n−3\n3/4 3−n\n(c) (2 )\n(d) (23/4)2−n",
+      "options": {},
+      "answer": "b",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q019",
@@ -151,8 +299,8 @@
         "c": "Both of these",
         "d": "None of these"
       },
-      "answer": "b",
-      "solution": "W + T + F = 60; T + F + S = 63 Æ S – W = 3. Hence temperature on Wednesday = 22 – 3 = 19. 2 ¥ 60 ¥ 40"
+      "answer": "d",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q020",
@@ -166,8 +314,8 @@
         "c": "6 years",
         "d": "Cannot be determined"
       },
-      "answer": "d",
-      "solution": "Average speed = = 48 km/hr. 60 + 40"
+      "answer": "a",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q021",
@@ -182,14 +330,14 @@
         "d": "Rs. 1000"
       },
       "answer": "d",
-      "solution": "Thus, the numbers would be 18, 19, 20, 21, 22, 23 and 24. The highest of these numbers would be 24."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q022",
       "num": 22,
       "lod": 1,
       "type": "mcq",
-      "text": "The sum of three numbers in a G.P. is 13 and the\nsum of their squares is 91. Find the smallest number.\nProgressions I.107",
+      "text": "The sum of three numbers in a G.P. is 13 and the\nsum of their squares is 91. Find the smallest number.",
       "options": {
         "a": "1",
         "b": "3",
@@ -197,7 +345,7 @@
         "d": "12"
       },
       "answer": "b",
-      "solution": "3 ¥ 20 – 2 ¥ 25 = 60 – 50 = 10."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q023",
@@ -211,8 +359,8 @@
         "c": "25",
         "d": "30"
       },
-      "answer": "Option",
-      "solution": "The weight of the new man would be 29 ¥ 5 kgs more than the weight of the man he replaces. New man’s weight = 120 + 29 ¥ 5 = 265 kgs."
+      "answer": "d",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q024",
@@ -227,7 +375,7 @@
         "d": "13631"
       },
       "answer": "b",
-      "solution": "Let their current ages be x and 3x. Then their ages after 10 years would be x + 10 and 3x + 10. Now it is given that (x + 10)/(3x + 10) = 1/2Æx = 10 and hence their current ages are 10 years and 30 years, respectively. So their current average age is 20 years. After 20 years their average age would be 20+20 = 40 years."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q025",
@@ -242,7 +390,7 @@
         "d": "32900"
       },
       "answer": "d",
-      "solution": "The average would be given by the average of the first and last numbers (since the series 1, 2, 3, 4…100 is an Arithmetic Progression). Hence, the average = (1 + 100)/2 = 50.50"
+      "solution": null
     },
     {
       "id": "ch02-lod1-q026",
@@ -257,7 +405,7 @@
         "d": "Nothing can be said"
       },
       "answer": "a",
-      "solution": "We need the average of the numbers: 23, 29, 31, 37, 41, 43 and 47 Average = Total/number of numbers Æ 251/7 = 35.85"
+      "solution": null
     },
     {
       "id": "ch02-lod1-q027",
@@ -272,7 +420,7 @@
         "d": "10"
       },
       "answer": "a",
-      "solution": "Let the numbers be a, b, c and d, respectively. a + b + c = 20 ¥ 3 = 60 and b + c + d = 25 ¥ 3 = 75. Also, since d-a = 15, we have 30- a = 15 or a = 15."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q028",
@@ -287,7 +435,7 @@
         "d": "20"
       },
       "answer": "b",
-      "solution": "Required average = (15 ¥ 40 + 25¥ 48)/40 = 1800/40 = 45."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q029",
@@ -297,7 +445,7 @@
       "text": "Four geometric means are inserted between 5 and",
       "options": {},
       "answer": "b",
-      "solution": "The numbers would form an AP with common difference 1 and the middle term (also the 4th term) as"
+      "solution": null
     },
     {
       "id": "ch02-lod1-q160",
@@ -327,7 +475,7 @@
         "d": "2"
       },
       "answer": "d",
-      "solution": "Required average = (8 ¥ 11 + 15 + 17)/10 = 120/10 = 12."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q031",
@@ -342,7 +490,7 @@
         "d": "None of these."
       },
       "answer": "b",
-      "solution": "The new average would also go up by 4. Hence, 14 + 4 = 18."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q032",
@@ -357,7 +505,7 @@
         "d": "536"
       },
       "answer": "c",
-      "solution": "If the numbers are a + 1, a + 2, a + 3, a + 4,a + 5….a+11 the average would be a + 6. If we take 13 numbers as: a + 1, a + 2, a + 3, a + 4, a + 5, a + 6…. and a + 13 their average would be a+7. Hence, the average increases by 1. You can also experimentally verify this by taking any 11 consecutive numbers and find- ing their average, then adding the next two numbers and finding the average of the 13 numbers."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q033",
@@ -372,7 +520,7 @@
         "d": "25"
       },
       "answer": "b",
-      "solution": "Total of 38 numbers = 40 ¥ 45 – 65 – 25 = 1710. Average of 38 numbers = 1710/38 = 45."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q034",
@@ -387,7 +535,7 @@
         "d": "3 : 1"
       },
       "answer": "d",
-      "solution": "When we multiply each number by 9, the average would also get multiplied by 9. Hence, the new average = 18 ¥ 9 = 162."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q035",
@@ -402,7 +550,7 @@
         "d": "Rs. 41000"
       },
       "answer": "d",
-      "solution": "Let the number of ladies be n. Then we have 5 ¥ 12 + n¥ 8 = (5 + n) ¥ (9) Æ 60 + 8n = 45 + 9n Æ n = 15."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q036",
@@ -417,7 +565,7 @@
         "d": "43"
       },
       "answer": "d",
-      "solution": "(3 ¥ 63 + 67)/4 = 256/4 = 64."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q037",
@@ -432,7 +580,7 @@
         "d": "None of these."
       },
       "answer": "c",
-      "solution": "2100 ¥ 3 – 2250 ¥ 2 = 1800."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q038",
@@ -447,7 +595,7 @@
         "d": "333"
       },
       "answer": "a",
-      "solution": "(2000 ¥ 15 + 1000 ¥ 15)/30 = (2000 + 1000)/2 = 1500."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q039",
@@ -462,7 +610,7 @@
         "d": "520"
       },
       "answer": "a",
-      "solution": "The decrease in weight would be 20 kgs (10 people’s average weight drops by 2 kgs). Hence, the new person’s weight = 140 - 20 = 120."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q040",
@@ -476,8 +624,8 @@
         "c": "332.5",
         "d": "350"
       },
-      "answer": "Option",
-      "solution": "When a person aged 26 years, is replaced by a person aged 56 years, the total age of the group goes up by 30 years. Since this leads to an increase in the average by 6 years, it means that there are 30/6 = 5 persons in the group."
+      "answer": "c",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q041",
@@ -492,7 +640,7 @@
         "d": "Either 1 or 2"
       },
       "answer": "d",
-      "solution": "(33 ¥ 3 + 23 ¥ 2)/5 = 145/5 = 29."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q042",
@@ -507,7 +655,7 @@
         "d": "1111111"
       },
       "answer": "22/5",
-      "solution": "Let the number of marks in the 8th paper be M. Then the total of the first eight papers = 8 ¥ 48 while the total of the last 8 (i.e., 8th to 15th papers) would be 8 ¥ 54. Total of 1st 8 + total of 8th to 15th = total of all 15 + marks in the 8th paper Æ 8 ¥ 48 + 8¥ 54 = 15 ¥ 50 + M 816 = 750 + M Æ M = 66 (Note: We write this equation since marks in the eighth paper is counted in both the first 8 and the last 8)"
+      "solution": null
     },
     {
       "id": "ch02-lod1-q043",
@@ -522,44 +670,29 @@
         "d": "4096"
       },
       "answer": "c",
-      "solution": "Let the captain’s age by C. Then: 11 ¥ 28 = 26 ¥ 5 + 29 ¥ 5 + CÆ308 = 130 + 145 + C ÆC = 33."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q044",
       "num": 44,
       "lod": 1,
       "type": "mcq",
-      "text": "The sum of the →rst two terms of an in→nite geometric series is 36. Also, each term of the series is\nequal to the sum of all the terms that follow. Find\nthe sum of the series",
-      "options": {
-        "a": "48",
-        "b": "54",
-        "c": "72",
-        "d": "96"
-      },
-      "answer": "A",
-      "solution": "His earning in the 12th month should be: 4000 ¥ 12 – 3200 ¥ 11 = 48000 – 35200 = 12800."
-    },
-    {
-      "id": "ch02-lod1-q045",
-      "num": 45,
-      "lod": 1,
-      "type": "mcq",
-      "text": "An equilateral triangle is drawn by joining the midpoints of the sides of another equilateral triangle. A\nthird equilateral triangle is drawn inside the second\none joining the midpoints of the sides of the second\nequilateral triangle, and the process continues in→nitely. Find the sum of the areas of all the equilateral\ntriangles, if the side of the largest equilateral triangle\nis 8 units.",
+      "text": "The sum of the →rst two terms of an in→nite geometric series is 36. Also, each term of the series is\nequal to the sum of all the terms that follow. Find\nthe sum of the series\nthird equilateral triangle is drawn inside the second\none joining the midpoints of the sides of the second\nequilateral triangle, and the process continues in→nitely. Find the sum of the areas of all the equilateral\ntriangles, if the side of the largest equilateral triangle\nis 8 units.",
       "options": {
         "a": "32 3 units",
         "b": "64 3 units",
         "c": "64 units",
         "d": "64/ 3 units"
       },
-      "answer": "9849/50",
-      "solution": "Total distance divided by total time = 1440/17 = 84.705."
+      "answer": "A",
+      "solution": null
     },
     {
       "id": "ch02-lod1-q046",
       "num": 46,
       "lod": 1,
       "type": "mcq",
-      "text": "After striking a floor a rubber ball rebounds (5/6)th\nof the height from which it has fallen. Find the total\ndistance (in metres) that it travels before coming to\nrest, if it is gently dropped from a height of 210\nmetres.\nFor questions 47 to 57, there are no options. Kindly solve these and put down your answer to the\nquestion asked.",
+      "text": "After striking a floor a rubber ball rebounds (5/6)th\nof the height from which it has fallen. Find the total\ndistance (in metres) that it travels before coming to\nrest, if it is gently dropped from a height of 210\nmetres.\n\t\t\nFor questions 47 to 57, there are no options. Kindly solve these and put down your answer to the\nquestion asked.",
       "options": {
         "a": "2960",
         "b": "2310",
@@ -567,7 +700,7 @@
         "d": "2360"
       },
       "answer": "b",
-      "solution": "In three quarters of an hour the train has traveled 57 km. Thus, in a full hour the train would have traveled 1/3rd more (as it gets 1/3rd time more). Thus, the speed of the train = 57+ 1 ¥ 57/3 = 57 + 19 = 76."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q047",
@@ -577,17 +710,17 @@
       "text": "In an in→nite geometric progression, each term is\nequal to 3 times the sum of the terms that follow.\nIf the →rst term of the series is 4, →nd the product\nof →rst three terms of the series?",
       "options": {},
       "answer": "13",
-      "solution": "Total weight of all 6 = 58.5 ¥ 6. Total weight of Ram and Tram = 65 ¥ 2 = 130. Average weight of the 4 people excluding Ram and Tram = (58.5 ¥ 6 – 130)/4 = 55.25 kg."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q048",
       "num": 48,
       "lod": 1,
       "type": "tita",
-      "text": "A student takes a test consisting of 100 questions\nwith differential marking is told that each question\nafter the →rst is worth 5 marks more than the preceding question. If the 5th question of the test is worth 25\nmarks, What is the maximum score that the student\ncan obtain by attempting 90 questions?\nSpace for Rough Work",
+      "text": "A student takes a test consisting of 100 questions\nwith differential marking is told that each question\nafter the →rst is worth 5 marks more than the preceding question. If the 5th question of the test is worth 25\nmarks, What is the maximum score that the student\ncan obtain by attempting 90 questions?\n\nSpace for Rough Work",
       "options": {},
       "answer": "24",
-      "solution": "10 ¥ 59 + 20 ¥A = 30 ¥ 56 ÆA = (1680 – 590)/20 = 1090/20 = 54.5"
+      "solution": null
     },
     {
       "id": "ch02-lod1-q049",
@@ -597,17 +730,17 @@
       "text": "In Narora nuclear power plant a technician is allowed\nan interval of maximum 100 minutes. A timer with\na bell rings at speci→c intervals of time such that\nthe minutes when the timer rings are not divisible\nby 2, 3, 5 and 7. The last alarm rings with a buzzer\nto give time for decontamination of the technician.\nHow many times will the bell ring within these 100\nminutes and what is the value of the last minute when\nthe bell rings for the last time in a 100 minute shift?",
       "options": {},
       "answer": "¾",
-      "solution": "(60 ¥ 23 + 40 ¥ 35)/100 = 2780/100 = 27.8"
+      "solution": null
     },
     {
       "id": "ch02-lod1-q050",
       "num": 50,
       "lod": 1,
       "type": "tita",
-      "text": "The internal angles of a plane polygon are in AP. The\nsmallest angle is 100° and the common difference is\n10°. Find the number of sides of the polygon.\na n +1 + b n +1\nis the arithmetic mean of a and b then\na n + bn\n→nd the value of n.\na n +1 + b n +1",
+      "text": "The internal angles of a plane polygon are in AP. The\nsmallest angle is 100° and the common difference is\n10°. Find the number of sides of the polygon.\n\na n +1 + b n +1\n\nis the arithmetic mean of a and b then\na n + bn\n→nd the value of n.\na n +1 + b n +1",
       "options": {},
       "answer": "reciprocals",
-      "solution": "If we take the first number as 6n, the second number would be 3n and the third would be 2n. Sum of the three numbers = 6n + 3n + 2n = 11n = 132 ¥ 3 Æn = 36. The smallest number would be 2n = 72."
+      "solution": null
     },
     {
       "id": "ch02-lod1-q052",
@@ -665,19 +798,9 @@
       "solution": null
     },
     {
-      "id": "ch02-lod1-q051",
-      "num": 51,
-      "lod": 1,
-      "type": "tita",
-      "text": "If\nProgressions I.109\nLevel of Dif→culty (II)",
-      "options": {},
-      "answer": "126",
-      "solution": null
-    },
-    {
-      "id": "ch02-lod1-q001",
+      "id": "ch02-lod2-q001",
       "num": 1,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If a times the ath term of an A.P. is equal to b times\nthe bth term, →nd the (a + b)th term.",
       "options": {
@@ -686,13 +809,13 @@
         "c": "a - b",
         "d": "1"
       },
-      "answer": "Let",
-      "solution": "Required average = (1 + 2 + 3 + … + 15)/15 = 120/15 = 8. Alternately you could use the formula for sum of the first n natural numbers as n (n + 1)/2 with n as 15. Then average = Sum/15 = (15 ¥ 16/2)/ 15 = 8"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q002",
+      "id": "ch02-lod2-q002",
       "num": 2,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A number 28 is divided into four parts that are in\nAP such that the product of the →rst and fourth is\nto the product of the second and third is 5: 6. Find\nthe smallest part.",
       "options": {
@@ -701,13 +824,13 @@
         "c": "8",
         "d": "6"
       },
-      "answer": "Each",
-      "solution": "Required average = (0 + 1 + 2 + … + 9)/10 = 45/10 = 4.5"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q003",
+      "id": "ch02-lod2-q003",
       "num": 3,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Find the value of the expression: 1 – 3 + 5 - 7…\nto 100 terms.",
       "options": {
@@ -716,13 +839,13 @@
         "c": "−50",
         "d": "75"
       },
-      "answer": "If",
-      "solution": "Required average = (2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20)/10 = 110/10 = 11. Alternately you could use the formula for sum of the first n even natural numbers as n (n + 1) with n as 10. Then average = Sum/10 = 10 ¥ 11/10 = 11."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q004",
+      "id": "ch02-lod2-q004",
       "num": 4,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If a clock strikes once at 12 A.M., twice at 1 A.M.,\nthrice at 2 A.M. and so on, how many times will the\nclock be struck in the course of 3 days? (Assume a\n24 hour clock)",
       "options": {
@@ -731,13 +854,13 @@
         "c": "678",
         "d": "1288"
       },
-      "answer": "For",
-      "solution": "The sum of the first n odd numbers = n2. In this case n = 10 Æ Sum = 102 = 100. Required average = 100/10 = 10."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q005",
+      "id": "ch02-lod2-q005",
       "num": 5,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "What will be the maximum sum of 54, 52, 50, ... ?",
       "options": {
@@ -746,13 +869,13 @@
         "c": "756",
         "d": "700"
       },
-      "answer": "If",
-      "solution": "Required average = (2 + 3 + 5 + 7 + 11 + 13 + 17 + 19 + 23 + 29)/10 = 129/10 = 12.9."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q006",
+      "id": "ch02-lod2-q006",
       "num": 6,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Find the sum of the integers between 100 and 300\nthat are multiples of 7.\n1",
       "options": {
@@ -761,13 +884,13 @@
         "c": "10646",
         "d": "10546"
       },
-      "answer": "If",
-      "solution": "Required average = (4 + 6 + 8 + 9 + 10 + 12 + 14 + 15 + 16 + 18)/10 = 112/10 = 11.2."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q007",
+      "id": "ch02-lod2-q007",
       "num": 7,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If x > 1, y > 1, z > 1 are in G.P., then\n,\n1 + log x\n1\n1\n,\nare in\n1 + log y 1 + log z",
       "options": {
@@ -776,13 +899,13 @@
         "c": "G.P.",
         "d": "None of the above"
       },
-      "answer": "Elements",
-      "solution": "Required average = (3 + 5 + 7 + 11 + 13 + 17 + 19 + 23 + 29 + 31)/10 = 158/10 = 15.8."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q008",
+      "id": "ch02-lod2-q008",
       "num": 8,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Find the sum of all odd numbers lying between 1000\nand 2000.",
       "options": {
@@ -791,13 +914,13 @@
         "c": "7,55,000",
         "d": "7,65,000"
       },
-      "answer": "Every",
-      "solution": "P = 14 ¥ 10 – 13 ¥ 8 = 140 –104 = 36"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q009",
+      "id": "ch02-lod2-q009",
       "num": 9,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Find the sum of all integers of 3 digits that are divisible by 11.",
       "options": {
@@ -806,23 +929,23 @@
         "c": "44,550",
         "d": "47,300"
       },
-      "answer": "Further,",
-      "solution": "D’s weight = 4 ¥ 70 – 3 ¥ 74 = 280 – 222 = 58. E’s weight = 58 + 3 = 61. Now, we know that A + B + C + D = 4 ¥ 70 = 280 and B + C + D + E = 75 ¥ 4 = 300. Hence, A’s weight is 20 kg less than E ’s weight. A = 61 - 20 = 41 kg."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q010",
+      "id": "ch02-lod2-q010",
       "num": 10,
-      "lod": 1,
+      "lod": 2,
       "type": "tita",
       "text": "The →rst and the last terms of an A.P. are 113 and",
       "options": {},
-      "answer": "Let",
-      "solution": "Monday + Tuesday + Wednesday = 3 ¥ 35 = 105; Tuesday + Wednesday + Thursday = 3 ¥ 30 = 90. Thus, Monday – Thursday = 15 and Thursday = Monday/2 Æ Monday = 30 and Thursday = 15"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch02-lod1-q253",
+      "id": "ch02-lod2-q253",
       "num": 253,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If there are six terms in this sequence, →nd the\nsum of sequence.",
       "options": {
@@ -835,23 +958,26 @@
       "solution": null
     },
     {
-      "id": "ch02-lod1-q011",
+      "id": "ch02-lod2-q011",
       "num": 11,
-      "lod": 1,
-      "type": "tita",
+      "lod": 2,
+      "type": "mcq",
       "text": "Find the value of 1 − 2 − 3 + 2 − 3 − 4 +... + upto\n100 terms.",
       "options": {
-        "a": "−"
+        "a": "−694",
+        "b": "−626",
+        "c": "−624",
+        "d": "−660"
       },
-      "answer": "Let",
-      "solution": "Total present age of A, B and C = 25 ¥ 3 + 15 = 75 + 15 = 90. Total present age of B and C = 20 ¥ 2 + 20 = 60. A ’s age = 90 – 60 = 30."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch02-lod2-q012",
       "num": 12,
       "lod": 2,
       "type": "mcq",
-      "text": "What will be the sum to n terms of the series 7 +\n77 + 777 +...?\n(10n − 9n)/81\n(10n + 1 −10 − 9n)/81\nn−1\n(10\n− 10)\n(10n + 1 − 10)",
+      "text": "What will be the sum to n terms of the series 7 +\n77 + 777 +...?\n\n(10n − 9n)/81\n(10n + 1 −10 − 9n)/81\nn−1\n(10\n− 10)\n(10n + 1 − 10)",
       "options": {
         "a": "7",
         "b": "7",
@@ -895,14 +1021,9 @@
       "id": "ch02-lod2-q015",
       "num": 15,
       "lod": 2,
-      "type": "mcq",
-      "text": "If x be the →rst term, y be the nth term and p be the\nproduct of n terms of a G.P., then the value of p2\nwill be\n(xy)n\n(xy)n−1\n1−n\n(xy)\n(xy)n/2",
-      "options": {
-        "b": "",
-        "a": "",
-        "c": "",
-        "d": ""
-      },
+      "type": "tita",
+      "text": "If x be the →rst term, y be the nth term and p be the\nproduct of n terms of a G.P., then the value of p2\nwill be\n(b) (xy)n\n(a) (xy)n−1\n1−n\n(c) (xy)\n(d) (xy)n/2",
+      "options": {},
       "answer": null,
       "solution": null
     },
@@ -1018,7 +1139,6 @@
       "type": "mcq",
       "text": "Four numbers are inserted between the numbers 4\nand 34 such that an A.P. results. Find the smallest\nof these four numbers.",
       "options": {
-        "a": "11.5",
         "b": "11",
         "c": "12",
         "d": "10"
@@ -1181,7 +1301,7 @@
       "num": 34,
       "lod": 2,
       "type": "mcq",
-      "text": "The sum of the series 3 × 5 + 5 × 7 + 7 × 9 +….\nupto n terms will be:\n(a)\n(\n) ( 4n2 + 18n + 23)\nn 4n 2 + 18n + 23\n3\n(\n2\n)\n6",
+      "text": "The sum of the series 3 × 5 + 5 × 7 + 7 × 9 +….\nupto n terms will be:\n(a)\n\n(\n\n) ( 4n2 + 18n + 23)\n\nn 4n 2 + 18n + 23\n\n3\n(\n\n2\n\n)\n\n6",
       "options": {
         "b": "n",
         "c": "n 4n + 18n + 23",
@@ -1210,7 +1330,7 @@
       "num": 36,
       "lod": 2,
       "type": "mcq",
-      "text": "For the above question 35, what is the sum of the\nseries if taken to in→nite terms:\nDirections for Questions 37 to 39: Answer these\nquestions based on the following information. There\nare 250 integers a1, a2,… a250, not all of them necessarily different. Let the greatest integer of these\n250 integers be referred to as Max, and the smallest\ninteger be referred to as Min. The integers al through\na124 form sequence A and the rest form sequence\nB. Each member of A is less than or equal to each\nmember of B.",
+      "text": "For the above question 35, what is the sum of the\nseries if taken to in→nite terms:\n\t\t\nDirections for Questions 37 to 39: Answer these\nquestions based on the following information. There\nare 250 integers a1, a2,… a250, not all of them necessarily different. Let the greatest integer of these\n250 integers be referred to as Max, and the smallest\ninteger be referred to as Min. The integers al through\na124 form sequence A and the rest form sequence\nB. Each member of A is less than or equal to each\nmember of B.",
       "options": {
         "a": "1.1",
         "b": "1",
@@ -1225,7 +1345,7 @@
       "num": 37,
       "lod": 2,
       "type": "mcq",
-      "text": "All values in A are changed in sign, while those in\nB remain unchanged. Which of the following statements is true?\nevery member of B.\nsign, then after the change of sign, the largest\nnumber of A and B is in A.",
+      "text": "All values in A are changed in sign, while those in\nB remain unchanged. Which of the following statements is true?\n\nevery member of B.\nsign, then after the change of sign, the largest\nnumber of A and B is in A.",
       "options": {
         "a": "Every member of A is greater than or equal to",
         "b": "Max is in A.",
@@ -1255,12 +1375,11 @@
       "num": 39,
       "lod": 2,
       "type": "mcq",
-      "text": "Every element of A is made greater than or equal to\nevery clement of B by adding to each element of A\nan integer x. Then, x cannot be less than:\n(Maximm-Minimum)\nProgressions I.111",
+      "text": "Every element of A is made greater than or equal to\nevery clement of B by adding to each element of A\nan integer x. Then, x cannot be less than:\n(d) (Maximm-Minimum)",
       "options": {
         "a": "210",
         "b": "the smallest value of B",
-        "c": "the largest value of B",
-        "d": ""
+        "c": "the largest value of B"
       },
       "answer": null,
       "solution": null
@@ -1285,7 +1404,7 @@
       "num": 41,
       "lod": 2,
       "type": "mcq",
-      "text": "How many four digit numbers have the property\nthat their digits taken from left to right form an\nArithmetic or a Geometric Progression?\nDirections for Questions 42 and 43: These questions are based on the following data. At Goli Vadapav—a famous fast food centre in Andheri in\nMumbai, vadapavs are made only on an automatic\nvadapav making machine. The machine continuously\nmakes different sorts of vadapavs by adding different\nsorts of →llings on a common bread. The machine\nmakes the vadapavs at the rate of 1 vadapav per\nhalf a minute. The various →llings are added to the\nvadapavs in the following manner. The 1st, 3rd, 5th,\n7th,…vadapavs are →lled with a chicken patty; the\n1st , 5th , 9th, …..vadapavs with vegetable patty; the\n1st, 8th, 17th, …..vadapavs with mushroom patty;\nand the rest with plain cheese and tomato →llings.\nThe machine makes exactly 500 vadapavs per day.",
+      "text": "How many four digit numbers have the property\nthat their digits taken from left to right form an\nArithmetic or a Geometric Progression?\n\t\t\nDirections for Questions 42 and 43: These questions are based on the following data. At Goli Vadapav—a famous fast food centre in Andheri in\nMumbai, vadapavs are made only on an automatic\nvadapav making machine. The machine continuously\nmakes different sorts of vadapavs by adding different\nsorts of →llings on a common bread. The machine\nmakes the vadapavs at the rate of 1 vadapav per\nhalf a minute. The various →llings are added to the\nvadapavs in the following manner. The 1st, 3rd, 5th,\n7th,…vadapavs are →lled with a chicken patty; the\n1st , 5th , 9th, …..vadapavs with vegetable patty; the\n1st, 8th, 17th, …..vadapavs with mushroom patty;\nand the rest wi",
       "options": {
         "a": "15",
         "b": "21",
@@ -1335,7 +1454,7 @@
       "num": 45,
       "lod": 2,
       "type": "mcq",
-      "text": "For the above question, if the Common Difference\nbetween the terms of P1 is 6, what is the common\ndifference of P?\nDirection for question number 46 to 48:\nIf S = a, b, b, c, c, c, d, d, d, d, …..z,z,z.",
+      "text": "For the above question, if the Common Difference\nbetween the terms of P1 is 6, what is the common\ndifference of P?\n\t\t\nDirection for question number 46 to 48:\n\t\t\nIf S = a, b, b, c, c, c, d, d, d, d, …..z,z,z.",
       "options": {
         "a": "2",
         "b": "3",
@@ -1415,10 +1534,9 @@
       "num": 52,
       "lod": 2,
       "type": "mcq",
-      "text": "Find the sum of →rst n groups of 1 + (1 + 2) + (1\n+ 2 + 3) + …..\nn ( n + 1)( n + 2)\n6\nn ( n + 1)( n + 2)\nn ( n + 1)( n + 2) (n + 3)\n(a)",
+      "text": "Find the sum of →rst n groups of 1 + (1 + 2) + (1\n+ 2 + 3) + …..\nn ( n + 1)( n + 2)\n6\nn ( n + 1)( n + 2)\n\nn ( n + 1)( n + 2) (n + 3)\n(c)\n6\n\n(a)",
       "options": {
         "b": "12",
-        "c": "6",
         "d": "None of these."
       },
       "answer": null,
@@ -1429,11 +1547,10 @@
       "num": 53,
       "lod": 2,
       "type": "mcq",
-      "text": "If A= 1 + x + x2+ x3+ …..& B = 1 + y + y2 + y3 +\n….. and 0 < x, y < 1, then the value of 1 + xy +\nx2y2 + x3y3 + …..is:\n(A + B)\n(A + B − 1)\n(AB − 1)/(A + B)",
+      "text": "If A= 1 + x + x2+ x3+ …..& B = 1 + y + y2 + y3 +\n….. and 0 < x, y < 1, then the value of 1 + xy +\nx2y2 + x3y3 + …..is:\n(A + B)\n(A + B − 1)\n(c) (AB − 1)/(A + B)",
       "options": {
         "a": "AB/",
         "b": "AB/",
-        "c": "",
         "d": "AB"
       },
       "answer": null,
@@ -1519,15 +1636,15 @@
       "num": 61,
       "lod": 2,
       "type": "tita",
-      "text": "Find the 12 term of the series 3, 14, 61, 252, …..\nLevel of Dif→culty (III)",
+      "text": "Find the 12 term of the series 3, 14, 61, 252, …..",
       "options": {},
       "answer": null,
       "solution": null
     },
     {
-      "id": "ch02-lod2-q001",
+      "id": "ch02-lod3-q001",
       "num": 1,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "If in any decreasing arithmetic progression, sum of\nall its terms, except for the →rst term, is equal to\n– 36, the sum of all its terms, except for the last term,\nis zero, and the difference of the tenth and the sixth\nterm is equal to –16, then what will be →rst term of\nthis series?",
       "options": {
@@ -1539,9 +1656,9 @@
       "solution": null
     },
     {
-      "id": "ch02-lod2-q002",
+      "id": "ch02-lod3-q002",
       "num": 2,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "The sum of all terms of the arithmetic progression\nhaving ten terms except for the →rst term, is 99, and\nexcept for the sixth term, 89. Find the third term of\nthe progression if the sum of the →rst and the →fth\nterm is equal to 10.",
       "options": {
@@ -1554,9 +1671,9 @@
       "solution": null
     },
     {
-      "id": "ch02-lod2-q003",
+      "id": "ch02-lod3-q003",
       "num": 3,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Product of the fourth term and the →fth term of an\narithmetic progression is 456. Division of the ninth\nterm by the fourth term of the progression gives\nquotient as 11 and the remainder as 10. Find the\n→rst term of the progression.",
       "options": {
@@ -1569,9 +1686,9 @@
       "solution": null
     },
     {
-      "id": "ch02-lod2-q004",
+      "id": "ch02-lod3-q004",
       "num": 4,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "A number of saplings are lying at a place by the side\nof a straight road. These are to be planted in a straight\nline at a distance interval of 10 metres between two\nconsecutive saplings. Mithilesh, the country’s greatest\nforester, can carry only one sapling at a time and has\nto move back to the original point to get the next\nsapling. In this manner he covers a total distance of\n1.32 kms. How many saplings does he plant in the\nprocess if he ends at the starting point?",
       "options": {
@@ -1584,12 +1701,17 @@
       "solution": null
     },
     {
-      "id": "ch02-lod2-q005",
+      "id": "ch02-lod3-q005",
       "num": 5,
-      "lod": 2,
-      "type": "tita",
-      "text": "A geometric progression consists of 500 terms. Sum\nof the terms occupying the odd places is P1 and the\nsum of the ter",
-      "options": {},
+      "lod": 3,
+      "type": "mcq",
+      "text": "A geometric progression consists of 500 terms. Sum\nof the terms occupying the odd places is P1 and the\nsum of the terms occupying the even places is P2.\nFind the common ratio.",
+      "options": {
+        "a": "P2 /P1",
+        "b": "P1/P2",
+        "c": "P2 + P1/P1",
+        "d": "P2 + P1/P2"
+      },
       "answer": null,
       "solution": null
     },
@@ -1598,11 +1720,9 @@
       "num": 6,
       "lod": 3,
       "type": "mcq",
-      "text": "The sum of the →rst ten terms of the geometric progression is S1 and the sum of the next ten terms (11th\nthrough 20th) is S2. Find the common ratio.\n(S1/S2)1/10\n(S1/S2)1/10\n(S1/S2)1/5",
+      "text": "The sum of the →rst ten terms of the geometric progression is S1 and the sum of the next ten terms (11th\nthrough 20th) is S2. Find the common ratio.\n(a) (S1/S2)1/10\n(S1/S2)1/10\n\n(d) (S1/S2)1/5",
       "options": {
-        "a": "",
         "b": "–",
-        "d": "",
         "c": "± 10 S2 / S1"
       },
       "answer": null,
@@ -1613,7 +1733,7 @@
       "num": 7,
       "lod": 3,
       "type": "mcq",
-      "text": "The →rst and the third terms of an arithmetic progression are equal, respectively, to the →rst and\nthe third term of a geometric progression, and the\nsecond term of the arithmetic progression exceeds\nthe second term of the geometric progression by\n0.25. Calculate the sum of the →rst →ve terms of\nthe arithmetic progression if its →rst term is equal\nto 2.",
+      "text": "The →rst and the third terms of an arithmetic progression are equal, respectively, to the →rst and\nthe third term of a geometric progression, and the\nsecond term of the arithmetic progression exceeds\nthe second term of the geometric progression by\n\n0.25. Calculate the sum of the →rst →ve terms of\nthe arithmetic progression if its →rst term is equal\nto 2.",
       "options": {
         "a": "2.25 or 25",
         "b": "2.5",
@@ -1642,13 +1762,9 @@
       "id": "ch02-lod3-q009",
       "num": 9,
       "lod": 3,
-      "type": "mcq",
-      "text": "(666…. n digits)2 + (888… n digits) is equal to\n4\n4\n(10n – 1) ×\n(102n – 1) ×\n9\n9\n4 (10n - 10n - 1 - 1)\n4 (10n + 1)\n9",
-      "options": {
-        "a": "",
-        "b": "",
-        "d": "9"
-      },
+      "type": "tita",
+      "text": "(666…. n digits)2 + (888… n digits) is equal to\n4\n4\n(a) (10n – 1) ×\n(b) (102n – 1) ×\n9\n9\n4 (10n - 10n - 1 - 1)\n4 (10n + 1)\n(d)\n9\n9",
+      "options": {},
       "answer": null,
       "solution": null
     },
@@ -1672,10 +1788,9 @@
       "num": 11,
       "lod": 3,
       "type": "mcq",
-      "text": "Find the sum to n terms of the series 11 + 103 + 1005\n+…\n10 (10n - 1)\n10 (10n - 1)\n+n\n9\n(10n - 1)\n10 (10n + 1)\n+ n 2 \n9\n11",
+      "text": "Find the sum to n terms of the series 11 + 103 + 1005\n+…\n10 (10n - 1)\n10 (10n - 1)\n+n\n\n(b)\n9\n9\n(10n - 1)\n10 (10n + 1)\n+ n 2 \n9\n11",
       "options": {
         "a": "+1",
-        "b": "9",
         "c": "10",
         "d": "+ n2"
       },
@@ -1716,14 +1831,9 @@
       "id": "ch02-lod3-q014",
       "num": 14,
       "lod": 3,
-      "type": "mcq",
-      "text": "The sum of the squares of the →fth and the eleventh\nterm of an AP is 3 and the product of the second and\nthe fourteenth term is equal it P. Find the product\nof the →rst and the →fteenth term of the AP.\n(58P – 39)/45\n(98P + 39)/72\n(116P – 39)/90\n(98P + 39)/90",
-      "options": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
+      "type": "tita",
+      "text": "The sum of the squares of the →fth and the eleventh\nterm of an AP is 3 and the product of the second and\nthe fourteenth term is equal it P. Find the product\nof the →rst and the →fteenth term of the AP.\n(a) (58P – 39)/45\n(b) (98P + 39)/72\n(c) (116P – 39)/90\n(d) (98P + 39)/90",
+      "options": {},
       "answer": null,
       "solution": null
     },
@@ -1757,11 +1867,11 @@
       "num": 100,
       "lod": 3,
       "type": "mcq",
-      "text": "2100.\n101",
+      "text": "2100.\n(c)\n101",
       "options": {
-        "c": "99.2 + 2",
         "a": "100.2101 + 2",
         "b": "99.2100 + 2",
+        "c": "99.2 + 2",
         "d": "None of these"
       },
       "answer": null,
@@ -1817,7 +1927,7 @@
       "num": 20,
       "lod": 3,
       "type": "mcq",
-      "text": "Sum to n terms of the series log m + log m2/n +\nlog m3/n2 + log m4/n3… is\nn\nÊ mn + 1 ˆ 2\nËn\n¯\nn\nÊ mn ˆ 2\nËn ¯\nn\nÊ nn - 1 ˆ 2\nËm ¯\nn\nÊ m1 - n ˆ 2\nËn\n¯",
+      "text": "Sum to n terms of the series log m + log m2/n +\nlog m3/n2 + log m4/n3… is\nn\n\nÊ mn + 1 ˆ 2\n\nËn\n¯\nn\n\nÊ mn ˆ 2\n\nËn ¯\n\nn\n\nÊ nn - 1 ˆ 2\n\nËm ¯\nn\n\nÊ m1 - n ˆ 2\n\nËn\n¯",
       "options": {
         "a": "log Á n - 1 ˜",
         "c": "log Á n ˜",
@@ -1876,14 +1986,9 @@
       "id": "ch02-lod3-q024",
       "num": 24,
       "lod": 3,
-      "type": "mcq",
-      "text": "If a1, a2, a3…an are in AP, where ai > 0, then what\nwill be the value of the expression\n  1/( a1 + a2 ) + 1/( a2 +\na4 ) + … to n terms?\n(1 – n)/( a1 +\nan )\n(n – 1)/( a1 +\nan )\n(n – 1)/( a1 –\nan )\na3 ) + 1/( a3 +\n(1 – n)/( a1 + an )",
-      "options": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
+      "type": "tita",
+      "text": "If a1, a2, a3…an are in AP, where ai > 0, then what\nwill be the value of the expression\n\t\t1/( a1 + a2 ) + 1/( a2 +\na4 ) + … to n terms?\n(a) (1 – n)/( a1 +\n\nan )\n\n(b) (n – 1)/( a1 +\n\nan )\n\n(c) (n – 1)/( a1 –\n\nan )\n\na3 ) + 1/( a3 +\n\n(d) (1 – n)/( a1 + an )",
+      "options": {},
       "answer": null,
       "solution": null
     },
@@ -1936,13 +2041,9 @@
       "id": "ch02-lod3-q028",
       "num": 28,
       "lod": 3,
-      "type": "mcq",
-      "text": "In Problem 27, →nd the sum of areas of all the triangles.\nA\n5\nA\n3\n3\n5\nA\n4\n4",
-      "options": {
-        "a": "4",
-        "b": "4",
-        "d": "A"
-      },
+      "type": "tita",
+      "text": "In Problem 27, →nd the sum of areas of all the triangles.\n(a)\n\n4\nA\n5\n\n(b)\n\n4\nA\n3\n\n3\n5\nA\n(d)\nA\n4\n4",
+      "options": {},
       "answer": null,
       "solution": null
     },
@@ -2011,11 +2112,10 @@
       "num": 33,
       "lod": 3,
       "type": "mcq",
-      "text": "Find the sum of all three-digit whole numbers less\nthan 500 that leave a remainder of 2 when they are\ndivided by 3.",
+      "text": "Find the sum of all three-digit whole numbers less\nthan 500 that leave a remainder of 2 when they are\ndivided by 3.\n(c)",
       "options": {
-        "c": "49634",
-        "a": "49637",
         "b": "39767",
+        "c": "49634",
         "d": "39770"
       },
       "answer": null,
@@ -2026,9 +2126,8 @@
       "num": 34,
       "lod": 3,
       "type": "mcq",
-      "text": "If a be the arithmetic mean and b, c be the two\ngeometric means between any two positive numbers,\nthen (b3 + c3) /abc equals\n(ab)1/2/c",
+      "text": "If a be the arithmetic mean and b, c be the two\ngeometric means between any two positive numbers,\nthen (b3 + c3) /abc equals\n(a) (ab)1/2/c",
       "options": {
-        "a": "",
         "b": "1",
         "c": "a2c/b",
         "d": "None of these"
@@ -2041,7 +2140,7 @@
       "num": 35,
       "lod": 3,
       "type": "mcq",
-      "text": "If p, q, r are three consecutive distinct natural numbers then the expression (q + r – p)(p + r – q)(p +\nq – r) is\nÈ\nË 3 ¯ ˙˚ Î\n2\n˘È\nË 3¯ ˚ Î\n4\n˘\nË 3¯ ˚\n8",
+      "text": "If p, q, r are three consecutive distinct natural numbers then the expression (q + r – p)(p + r – q)(p +\nq – r) is\nÈ\nË 3 ¯ ˙˚ Î\n\n2\n˘È\nË 3¯ ˚ Î\n\n4\n˘\nË 3¯ ˚\n\n8",
       "options": {
         "a": "Positive",
         "b": "Negative",
@@ -2056,7 +2155,7 @@
       "num": 36,
       "lod": 3,
       "type": "mcq",
-      "text": "If S = È1 + ÊÁ - 1 ˆ˜ ˘ Í1 + ÊÁ - 1 ˆ˜ ˙ Í1 + ÊÁ - 1 ˆ˜ ˙ [1 + ÊÁ - 1 ˆ˜ º..\nÍÎ\nË 3¯\ntill n terms. Then S = ?\n(102n − 1)\n(10n − 1)\nn\n(10 − 1)",
+      "text": "If S = È1 + ÊÁ - 1 ˆ˜ ˘ Í1 + ÊÁ - 1 ˆ˜ ˙ Í1 + ÊÁ - 1 ˆ˜ ˙ [1 + ÊÁ - 1 ˆ˜ º..\nÍÎ\n\nË 3¯\n\ntill n terms. Then S = ?\n(102n − 1)\n(10n − 1)\nn\n(10 − 1)",
       "options": {
         "a": "4",
         "b": "4/3",
@@ -2085,10 +2184,9 @@
       "num": 38,
       "lod": 3,
       "type": "mcq",
-      "text": "1st term of an A.P. of consecutive integers is n2 + 1\n(n is a positive integer). Sum of 1st 2n terms of the\nseries will be.\n( 2n2 + 2n + 1)\n(2n2 + 2n + 3)\n2\n(2n + 2n + 3)\n1\n1\n1\n1",
+      "text": "1st term of an A.P. of consecutive integers is n2 + 1\n(n is a positive integer). Sum of 1st 2n terms of the\nseries will be.\n( 2n2 + 2n + 1)\n(b) (2n2 + 2n + 3)\n2\n(2n + 2n + 3)\n\n1\n1\n1\n1",
       "options": {
         "a": "n",
-        "b": "",
         "c": "n",
         "d": "None of these."
       },
@@ -2123,7 +2221,7 @@
       "num": 46,
       "lod": 3,
       "type": "mcq",
-      "text": "Two series X (x1, x2, x3, x4, ….xn) and Y (y1, y2, y3,\ny4, ….., yn) are in A.P., such that xn – yn = n − 2.\n It is also known that x3= b5. Find the value of x99 –\ny197 .",
+      "text": "Two series X (x1, x2, x3, x4, ….xn) and Y (y1, y2, y3,\ny4, ….., yn) are in A.P., such that xn – yn = n − 2.\n\t\t It is also known that x3= b5. Find the value of x99 –\ny197 .",
       "options": {
         "a": "47",
         "b": "48",
@@ -2158,7 +2256,7 @@
       "num": 49,
       "lod": 3,
       "type": "tita",
-      "text": "If\n˘\n1 È\n1 2˘È\n1 4˘È\n1 8\nS = ÈÍ1 + ÊÁ - ˆ˜ ˘˙ Í1 + ÊÁ - ˆ˜ ˙ Í1 + ÊÁ - ˆ˜ ˙ Í1 + ÊÁ - ˆ˜ º..˙\nÎ Ë 3¯ ˚ Î Ë 3¯ ˚ Î Ë 3¯ ˚ Î Ë 3¯\n˚\n  then S =",
+      "text": "If\n˘\n1 È\n1 2˘È\n1 4˘È\n1 8\nS = ÈÍ1 + ÊÁ - ˆ˜ ˘˙ Í1 + ÊÁ - ˆ˜ ˙ Í1 + ÊÁ - ˆ˜ ˙ Í1 + ÊÁ - ˆ˜ º..˙\nÎ Ë 3¯ ˚ Î Ë 3¯ ˚ Î Ë 3¯ ˚ Î Ë 3¯\n˚\n\t\tthen S =",
       "options": {},
       "answer": null,
       "solution": null
@@ -2178,7 +2276,7 @@
       "num": 51,
       "lod": 3,
       "type": "tita",
-      "text": "Sum of the series 1 + 1 + 2 + 1 + 2 + 3 + º. to\n1\n1+ 3\n1+ 3 + 5\n10 terms:\nanswer key\n1\n1\n2! 20!\nn\nn",
+      "text": "Sum of the series 1 + 1 + 2 + 1 + 2 + 3 + º. to\n1\n1+ 3\n1+ 3 + 5\n10 terms:\n\nanswer key\n\n1\n1\n2! 20!\nn\n\nn",
       "options": {},
       "answer": null,
       "solution": null
@@ -2203,7 +2301,7 @@
       "num": 41,
       "lod": 3,
       "type": "tita",
-      "text": "The sum to 17 terms of the series\n3\n5\n7\n +\n+ 2 2 + º. is:\n2 2\n2 2\n1 .2\n2 .3\n3 .4",
+      "text": "The sum to 17 terms of the series\n3\n5\n7\n\t\t +\n+ 2 2 + º. is:\n2 2\n2 2\n1 .2\n2 .3\n3 .4",
       "options": {},
       "answer": null,
       "solution": null
@@ -2213,7 +2311,7 @@
       "num": 42,
       "lod": 3,
       "type": "tita",
-      "text": "Find the value of S if\n4 44 444 4444\nS = + 2 + 3 + 4 + ...•\n11\n11\n11\n11\n1\n1\n1",
+      "text": "Find the value of S if\n4 44 444 4444\nS = + 2 + 3 + 4 + ...•\n11\n11\n11\n11\n\t\t\n1\n1\n1",
       "options": {},
       "answer": null,
       "solution": null
@@ -2238,26 +2336,16 @@
       "num": 44,
       "lod": 3,
       "type": "tita",
-      "text": "A= a + A1 + A2 + …..+ AN + b\n  B = a + G1+ G2+ ….+ GN + b\n  A is the sum of n + 2 terms of an A.P. with →rst term\na & last term b.\n  B is the sum of n + 2 terms of a G.P. with →rst term\na &last term b.\nLevel of Dif→culty (I)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch02-lod3-q056",
-      "num": 56,
-      "lod": 3,
-      "type": "tita",
-      "text": "A.P.\nLevel of Dif→culty (II)",
+      "text": "A= a + A1 + A2 + …..+ AN + b\n\t\tB = a + G1+ G2+ ….+ GN + b\n\t\tA is the sum of n + 2 terms of an A.P. with →rst term\na & last term b.\n\t\tB is the sum of n + 2 terms of a G.P. with →rst term\na &last term b.",
       "options": {},
       "answer": null,
       "solution": null
     }
   ],
-  "questionCount": 161,
+  "questionCount": 169,
   "lodCounts": {
-    "lod1": 58,
-    "lod2": 55,
-    "lod3": 48
+    "lod1": 55,
+    "lod2": 62,
+    "lod3": 52
   }
 }

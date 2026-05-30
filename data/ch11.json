@@ -6,53 +6,768 @@
   "blockName": "Geometry",
   "topic": "Geometry",
   "notes": {
-    "intro": "(d) 30 cm\n4. Two isosceles Ds have equal angles and their areas\nare in the ratio 16 : 25. Find the ratio of their corresponding heights.\n(a) 4/5\n(b) 5/4\n(c) 3/2\n(d) 5/7\n5. The areas of two similar Ds are respectively 9 cm2\nand 16 cm2. Find the ratio of their corresponding\nsides.\n(a) 3 : 4\n(b) 4 : 3\n",
+    "intro": "therefore, 2 (Area CODB) = 2[(1/2)] p r2 = p r2\n→ surface area of each piece = (1/2) p r2 + p r2\n\t\t\t\t\n= (3/2) p r2\n\t\t\t\t\n= 24p\nProblem 11.5 A solid metal sphere is melted and smaller\nspheres of equal radii are formed. 10% of the volume of\nthe sphere is lost in the process. The smaller spheres have\na",
     "concepts": [
-      "(d) 30 cm\n4. Two isosceles Ds have equal angles and their areas\nare in the ratio 16 : 25. Find the ratio of their corresponding heights.\n(a) 4/5\n(b) 5/4\n(c) 3/2\n(d) 5/7\n5. The areas of two similar Ds are respectively 9 cm2\nand 16 cm2. Find the ratio of their corresponding\nsides.\n(a) 3 : 4\n(b) 4 : 3\n(c) 2 : 3\n(d) 4 : 5\n6. Two poles of height 6 m and 11 m stand vertically\nupright on a plane ground. If the distance between\ntheir foot is 12 m, →nd the distance between their\ntops.\n(a) 12 m\n(b) 14 m\n(c) 13 m\n(d) 11 m\n7. The radius of a circle is 9 cm and length of one of\nits chords is 14 cm. Find the distance of the chord\nfrom the centre.\n(a) 5.66 cm\n(b) 6.3 cm\n(c) 4 cm\n(d) 7 cm",
-      "(a) 35°\n(b) 30°\n(c) 39°\n(d) 40°\n10. Find the value of – x in the given →gure.",
-      "(a) 120°\n(b) 130°\n(c) 110°\n(d) 100°\n11. Find the value of x in the →gure, if it is given that\nAC and BD are diameters of the circle.",
-      "(a) 60°\n(b) 45°\n(c) 15°\n(d) 30°\n12. Find the value of x in the given →gure.",
-      "13. Find the value of x in the given →gure.\nT\n12\nP",
-      "(a) 16 cm\n(b) 9 cm\n(c) 12 cm\n(d) 7 cm\n14. Find the value of x in the given →gure."
+      "therefore, 2 (Area CODB) = 2[(1/2)] p r2 = p r2\n→ surface area of each piece = (1/2) p r2 + p r2\n\t\t\t\t\n= (3/2) p r2\n\t\t\t\t\n= 24p\nProblem 11.5 A solid metal sphere is melted and smaller\nspheres of equal radii are formed. 10% of the volume of\nthe sphere is lost in the process. The smaller spheres have\na radius, that is 1/9th the larger sphere. If 10 litres of paint\nwere needed to paint the larger sphere, how many litres are\nneeded to paint all the smaller spheres?\n(a) 90\n(b) 81\n(c) 900\n(d) 810\nSolution questions like this require, along with your\nknowledge of formulae, your ability to form equations.\nStepwise, it will be something like this\nStep 1: Assume values.\nstep 2: Find out volume left.\nstep 3: Find out the number of small spheres possible.\nstep 4: Find out the total surface area of each small spheres\nas a ratio of the original sphere.\nstep 5: Multiply it by 10.",
+      "Step 1: Let radius of the larger sphere be R and that of\nsmaller ones be r.",
+      "4\n90\n4p R3 × 0.9\n=\np R3 ×\n3\n100\n3\nStep 3: Number of small spheres possible = Volume left/\nVolume of the smaller sphere\n4\np R3 × 0.9\n3\n=\n= 93 × 0.9\n4\n3\np × ( R / 9)\n3\nStep 4: Surface area of larger sphere = 4pR2\nSurface area of smaller sphere = 4pr2 = 4p (R/9)2\n4p R 2\n=\n81\nSurface area of all smaller spheres = Number of small\nspheres × Surface area of smaller sphere\nVolume left =",
+      "ÈÎ8.1 × (4p R 2 ) ˘˚\ntherefore, ratio of the surface area is\n= 8.1\n4p R 2\nStep 5:\n8.1 × number of litres = 8.1 × 10 = 81\nProblem 11.6 A solid wooden toy in the shape of a right\ncircular cone is mounted on a hemisphere. If the radius of\nthe hemisphere is 4.2 cm and the total height of the toy is\n10.2 cm, →nd the volume of the wooden toy.\n(a) 104 cm3\n(b) 162 cm3\n3\n(c) 427 cm\n(d) 266 cm2\nB",
+      "Problem 11.4 A spherical pear of\nradius 4 cm is to be divided into\neight equal parts by cutting it in\nhalves along the same axis. Find\nthe surface area of each of the →nal\npiece.\n(a) 20 p\t\t (b) 25 p\n(c) 24 p\t\t (d) 19 p",
+      "Solution Volume of the cone is given by –1/3 × pr2h\nHere, r = 4.2 cm; h = 10.2 – r = 6 cm\nTherefore the volume of the cone = 1/3 p × (4.2)2 × 6 cm\n= 110.88 cm3\n1 4\n×\npr3 = 155.23\n2 3\nTotal volume = 110.88 + 155.232 = 266.112"
     ],
     "formulas": [
-      "their foot is 12 m, →nd the distance between their",
-      "intersect each other at O. If –SOT = 75°, →nd the",
-      "AB = 8 cm. A circle with centre O and radius x has",
-      "– PAB = 25°. Find –TPA.",
-      "(a) a = 84°, b = 21°, c = 48°",
-      "(b) a = 48°, b = 20°, c = 50°",
-      "(c) a = 72°, b = 24°, c = 54°",
-      "(d) a = 64°, b = 28°, c = 45°",
-      "– AOC = 140°. Find –ABC.",
-      "centre of the circle and – ABO =",
-      "∠ABC = 90°, BD ⊥ AC. If AB:AC = 3:5 and area of",
-      "|| TM || AN, and BR : RS : ST : TA = 3 : 5 : 2 : 7. If it",
-      "is known that CN = 1.333 BR. Find the ratio of",
-      "(AB + BC) – AC = 20 cm and perimeter of ∆ABC =",
-      "∠QPS = 40°, ∠TRQ = 30°, then∠PSQ = ?"
+      "therefore, 2 (Area CODB) = 2[(1/2)] p r2 = p r2",
+      "→ surface area of each piece = (1/2) p r2 + p r2",
+      "Step 3: Number of small spheres possible = Volume left/",
+      "Step 4: Surface area of larger sphere = 4pR2",
+      "Surface area of smaller sphere = 4pr2 = 4p (R/9)2",
+      "Surface area of all smaller spheres = Number of small",
+      "8.1 × number of litres = 8.1 × 10 = 81",
+      "Here, r = 4.2 cm; h = 10.2 – r = 6 cm",
+      "Therefore the volume of the cone = 1/3 p × (4.2)2 × 6 cm",
+      "Total volume = 110.88 + 155.232 = 266.112"
     ]
   },
   "questions": [
     {
-      "id": "ch11-lod1-q062",
-      "num": 62,
+      "id": "ch11-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A vertical stick 20 m long casts a shadow 10 m long\non the ground. At the same time, a tower casts the\nshadow 50 m long on the ground. Find the height\nof the tower.",
+      "options": {
+        "a": "100 m",
+        "b": "120 m",
+        "c": "25 m",
+        "d": "200 m"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q002",
+      "num": 2,
       "lod": 1,
       "type": "tita",
-      "text": "In a right angle triangle BAC given below, AD is the\naltitude of the hypotenuse BC. The →gure is followed\nby three possible inferences.\nB\nD\nS\n50°\nR\nO\nQ\nP\nA\nC",
+      "text": "In the →gure, D ABC is similar to DEDC.",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the length of a chord that is at a distance of 12\ncm from the centre of a circle of radius 13 cm.",
+      "options": {
+        "a": "9 cm",
+        "b": "8 cm",
+        "c": "12 cm",
+        "d": "10 cm"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If O is the centre of circle, →nd –x\nX\n\nA\n\n35\nO\n\nB\n\nD\n\nC\nE\n\n\t\t If we have AB = 4 cm,\n\t\tED = 3 cm, CE = 4.2 and\n\t\tCD = 4.8 cm, →nd the value of CA and CB",
+      "options": {
+        "a": "6 cm, 6.4 cm",
+        "b": "4.8 cm, 6.4 cm",
+        "c": "5.4 cm, 6.4 cm",
+        "d": "5.6 cm, 6.4 cm"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The area of similar triangles, ABC and DEF are 144 cm2\nand 81 cm2 respectively. If the longest side of larger\nD ABC be 36 cm, then the longest side of smaller\nDDEF is",
+      "options": {
+        "a": "20 cm",
+        "b": "26 cm",
+        "c": "27 cm",
+        "d": "30 cm"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two isosceles Ds have equal angles and their areas\nare in the ratio 16 : 25. Find the ratio of their corresponding heights.",
+      "options": {
+        "a": "4/5",
+        "b": "5/4",
+        "c": "3/2",
+        "d": "5/7"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The areas of two similar Ds are respectively 9 cm2\nand 16 cm2. Find the ratio of their corresponding\nsides.",
+      "options": {
+        "a": "3 : 4",
+        "b": "4 : 3",
+        "c": "2 : 3",
+        "d": "4 : 5"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two poles of height 6 m and 11 m stand vertically\nupright on a plane ground. If the distance between\ntheir foot is 12 m, →nd the distance between their\ntops.",
+      "options": {
+        "a": "12 m",
+        "b": "14 m",
+        "c": "13 m",
+        "d": "11 m"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The radius of a circle is 9 cm and length of one of\nits chords is 14 cm. Find the distance of the chord\nfrom the centre.",
+      "options": {
+        "a": "35°",
+        "b": "30°",
+        "c": "39°",
+        "d": "40°"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the value of – x in the given →gure.",
+      "options": {
+        "a": "120°",
+        "b": "130°",
+        "c": "110°",
+        "d": "100°"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the value of x in the →gure, if it is given that\nAC and BD are diameters of the circle.",
+      "options": {
+        "a": "60°",
+        "b": "45°",
+        "c": "15°",
+        "d": "30°"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the value of x in the given →gure.\nT\n12\nP\n\nx\n\n7\n\n2c\n\nB\n\nA\n\n4b\n\n9 cm\n\nP\n\n5 cm\n\nR\n\nP",
+      "options": {
+        "a": "16 cm",
+        "c": "12 cm",
+        "b": "9 cm",
+        "d": "7 cm"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q014",
+      "num": 14,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the value of x in the given →gure.\n\n6 cm",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q018",
+      "num": 18,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the given →gure, two straight lines PQ and RS\nintersect each other at O. If –SOT = 75°, →nd the\nvalue of a, b and c.\n\nx\nC\n\nD",
+      "options": {
+        "a": "13 cm",
+        "b": "12 cm",
+        "c": "16 cm",
+        "d": "15 cm"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q015",
+      "num": 15,
+      "lod": 1,
+      "type": "mcq",
+      "text": "ABC is a right angled triangle with BC = 6 cm and\nAB = 8 cm. A circle with centre O and radius x has\nbeen inscribed in D ABC. What is the value of x?",
+      "options": {
+        "a": "2.4 cm",
+        "b": "2 cm",
+        "c": "3.6 cm",
+        "d": "4 cm"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q016",
+      "num": 16,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the given →gure AB is the diameter of the circle and\n– PAB = 25°. Find –TPA.",
+      "options": {
+        "a": "50°",
+        "b": "65°",
+        "c": "70°",
+        "d": "45°"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q017",
+      "num": 17,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the given →gure, →nd – ADB.\n\na\nb\nQ\n\nS\nT\n\nB\n\nA\n\n75° O",
+      "options": {
+        "a": "a = 84°, b = 21°, c = 48°",
+        "b": "a = 48°, b = 20°, c = 50°",
+        "c": "a = 72°, b = 24°, c = 54°",
+        "d": "a = 64°, b = 28°, c = 45°"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q019",
+      "num": 19,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the following →gure A, B, C and D are the concyclic points. Find the value of x.",
+      "options": {
+        "a": "130°",
+        "b": "50°",
+        "c": "60°",
+        "d": "30°"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q020",
+      "num": 20,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the following →gure, it is given\nthat o is the centre of the circle and\n– AOC = 140°. Find –ABC.",
+      "options": {
+        "a": "110°",
+        "b": "120°",
+        "c": "115°",
+        "d": "130°"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q021",
+      "num": 21,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the following →gure, O is the\ncentre of the circle and – ABO =\n30°, →nd –ACB.",
+      "options": {
+        "a": "60°",
+        "b": "120°",
+        "c": "75°",
+        "d": "90°"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q022",
+      "num": 22,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the following →gure, →nd the\nvalue of x",
+      "options": {
+        "a": "40°",
+        "b": "25°",
+        "c": "30°",
+        "d": "45°"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q023",
+      "num": 23,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If L1 || L2 in the →gure below, what is the value\nof x.\nL3\nx°\n\nA\n\n140°\nB\n\nL4\n80°\nO\n\nL1\nL2\n\nC",
+      "options": {
+        "b": "100°",
+        "d": "Cannot be determined",
+        "a": "80°",
+        "c": "40°"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q024",
+      "num": 24,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the perimeter of the given →gure.",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q027",
+      "num": 27,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the length of SR (in cm).",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q028",
+      "num": 28,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the length of SQ (in cm).",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q029",
+      "num": 29,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the given diagram ∆ABC is a right angled triangle,\n∠ABC = 90°, BD ⊥ AC. If AB:AC = 3:5 and area of\n∆ABD is 90 cm2, then the area of ∆ABC (in cm2) is:\nB\n\n(a) (32 + 3p) cm\n(b) (36 + 6p) cm\n(c) (46 + 3p) cm\n(d) (26 + 6p) cm",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q025",
+      "num": 25,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the →gure, AB is parallel to CD and RD | | SL\n|| TM || AN, and BR : RS : ST : TA = 3 : 5 : 2 : 7. If it\nis known that CN = 1.333 BR. Find the ratio of\nBF : FG : GH : HI : IC\nB\nF\n\nR\n\nD\n\nG\n\nS\nT\n\nL\n\nH\n\nA\n\nI\n\nM\nN\n\nA\n\nC\n\nD",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q030",
+      "num": 30,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If the inradius of an equilateral triangle is\nthen its area is:\n3 cm,",
+      "options": {
+        "a": "7 3 cm2",
+        "b": "9 3 cm2",
+        "c": "10 3 cm2",
+        "d": "12 3 cm2"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q031",
+      "num": 31,
+      "lod": 1,
+      "type": "tita",
+      "text": "If ∆ABC is a right angled triangle such that ∠B = 90°,\n(AB + BC) – AC = 20 cm and perimeter of ∆ABC =\n60 cm, then area of the triangle (in cm2) is.",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q032",
+      "num": 32,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find the sum of the squares of the medians of a\ntriangle whose sides are 6 cm, 7 cm, 8 cm.",
       "options": {},
       "answer": "b",
       "solution": null
     },
     {
-      "id": "ch11-lod1-q001",
-      "num": 1,
+      "id": "ch11-lod1-q033",
+      "num": 33,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the diagram given below RT ⊥ PQ. S is a point\non QR such that:\n\t\t ∠QPS = 40°, ∠TRQ = 30°, then∠PSQ = ?\n\nC\n\nP",
+      "options": {
+        "a": "3 : 7 : 2 : 5 : 4",
+        "b": "3 : 5 : 2 : 7 : 4",
+        "c": "4 : 7 : 2 : 5 : 3",
+        "d": "4 : 5 : 2 : 7 : 3"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q026",
+      "num": 26,
       "lod": 1,
       "type": "tita",
-      "text": "Triangle ABD and triangle CAD are similar.",
+      "text": "In ∆ABC, if ∠A = 60° and the angle bisectors of ∠B\nand ∠C meet at X then ∠BXC (in degrees) is = ?\n\n40°\nT\n90°\n30°\n\nA\nQ\n\nS\n\nR",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q034",
+      "num": 34,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the given diagram, PQ touches the circle at R.\nT, S, U are the points on the circle. If ∠SRQ = 60°\nthen ∠SUR = ?\n\nX\n\nS\nT\nB\n\nC\n\n\t\t Directions for 27 and 28: ∆PQR is a right angled\ntriangle and ∠Q = 90°, PQ = 15 cm, QR = 20 cm\nand QS ⊥ PR, then answer the following questions.\nP\nS\n\nQ\n\nR\n\nU\n\nP\n\nR\n\nQ",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q035",
+      "num": 35,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a right angled triangle ∆PQR, ∠Q = 90°, if A and\nB are points on the sides PQ and QR respectively\nthen:\n(PR2 + AB2)\n\n(PR2 + AB2)\nthe given options is true.\nA\n\nE\nC\n\na\n\nc\n\nb\nB\n\nD\n\nF",
+      "options": {
+        "a": "AR2 + PB2 = 2",
+        "b": "AR2 + PB2 = PR2 + AB2",
+        "c": "AR2 + RB2 = 0.5",
+        "d": "None of these"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q042",
+      "num": 42,
+      "lod": 1,
+      "type": "mcq",
+      "text": "∆ABC is a",
+      "options": {
+        "a": "Right angled triangle",
+        "b": "Equilateral triangle",
+        "c": "Acute angled triangle",
+        "d": "Obtuse angled triangle"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q043",
+      "num": 43,
+      "lod": 1,
+      "type": "tita",
+      "text": "If ∆ABC is an isosceles triangle then ∠BDC =",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q044",
+      "num": 44,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the diagram given below if AB = AC and ∠ADC\n= 2∠ABD, ∠DAC = 30° Then ∠BAD =\nA\na c b\na b c\nb a c\nc b a",
+      "options": {
+        "a": "1 - 1 = 1",
+        "b": "1 + 1 = 1",
+        "c": "1 - 1 = 1",
+        "d": "1 - 1 = 1"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q037",
+      "num": 37,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the given →gure PR = QR = PS, ∠PSR = x, ∠TPS\n= 90° then x = ?\nT\nP\n\nR\n\nD\n\nC",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q045",
+      "num": 45,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the given diagram two concentric circles with\ncenter O are shown.\n\t\tIf ∠AOB = 120°\n\t\tThen ∠OAP =\n\n90°\n\nX\nQ\n\nB\n\nS",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q038",
+      "num": 38,
+      "lod": 1,
+      "type": "tita",
+      "text": "If the sides of a triangle measure 72, 75 and 21.\nWhat is the measure of its inradius?",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q039",
+      "num": 39,
+      "lod": 1,
+      "type": "tita",
+      "text": "ABCD has area equals to 28. BC is parallel to AD.\nBA is perpendicular to AD. If BC is 6 and AD is 8,\nthen what is AB?\n\nO\n\nA\n\nB\n\nP\n\nC\n\nB\n\nA\n\nD",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q040",
+      "num": 40,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the previous question, →nd BC.",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q041",
+      "num": 41,
+      "lod": 1,
+      "type": "tita",
+      "text": "Two tangents are drawn to a circle from an exterior\npoint A; they touch the circle at points B and C,\nrespectively. A third tangent intersects segment AB\nin P and AC in R, and touches the circle at Q. If AB\n= 20, then the perimeter of triangle APR is:\n\t\t Question 42 & 43:In the diagram given below, if\nD is the mid-point of side AC and DB = AD = DC\nthen answer the following questions:",
       "options": {},
       "answer": "b",
-      "solution": "(a) When the length of stick = 20 m, then length of shadow = 10 m i.e. in this case length = 2 ¥ shadow. With the same angle of inclination of the sun, the length of tower that casts a shadow of 50 m ﬁ 2 ¥ 50 m = 100 m i.e. height of tower = 100 m"
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q046",
+      "num": 46,
+      "lod": 1,
+      "type": "tita",
+      "text": "If the interior angle of a regular polygon is 120o,\n→nd the number of diagonals of the polygon ___.",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q047",
+      "num": 47,
+      "lod": 1,
+      "type": "tita",
+      "text": "The internal angle of a regular polygon exceeds the\ninternal angle of another regular polygon by 18o. If\nthe second polygon has half the number of sides as\nthe →rst, then the number of sides in the →rst polygon\nis___.",
+      "options": {},
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q048",
+      "num": 48,
+      "lod": 1,
+      "type": "tita",
+      "text": "The sum of the interior angles of a regular polygon\nis 40 times the exterior angle. Find the number of\nsides of the polygon.",
+      "options": {},
+      "answer": "6",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q049",
+      "num": 49,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the given diagram, O is the center of the circle.\n∠AOC = 140°. If AB = BC then →nd ∠BCA = _____.\nB\n\nA\n\nA\n\nO\n\nD\n\nC\n\nB\n\nC",
+      "options": {},
+      "answer": "16",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q050",
+      "num": 50,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the given diagram, if ‘O’ is the center of the circle,\nchord PR and SQ intersect each other at O, ∠POQ\n= 80°, then ∠QSR = ?\n\nP\n\nS",
+      "options": {},
+      "answer": "4096",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q056",
+      "num": 56,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Lines joining midpoint of a quadrilateral form a____",
+      "options": {
+        "a": "square",
+        "b": "parallelogram",
+        "c": "rectangle",
+        "d": "None of these"
+      },
+      "answer": "814",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q057",
+      "num": 57,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the given diagram  ABCD is a trapezium. If AB\n= 4 cm, CD = 6 cm and OB = 5 cm, then BD =\n____cm.\nA\n\nB\n\nO\n\n80°\n\nO\n\nQ\n\nR\nD",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q051",
+      "num": 51,
+      "lod": 1,
+      "type": "tita",
+      "text": "O is the center and AC is the tangent of the circle\nat B. In the diagram given below, if ∠OBE = 70°.\nFind ∠BOE:\nD\n\nC\n\n\t\t Direction for question numbers 58 & 59: In the\ngiven diagram PQRS is a trapezium and SR = 4 6\ncm and ∠SQR = 60°∠QSR = 45°. Answer the following questions:\n\nE\nA\n\nB\n\nC\n\nA\n\nD\n\nB\n\n45°\n\nS",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q052",
+      "num": 52,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the previous question →nd ∠BAO.\n\t\t\nDirections for question numbers 53 & 54: Two\ncircles having equal radius intersect each other at A\nand B as shown in the diagram below. The diameters\nAC and AD intersect at A. If C, B, D are collinear and\n∠ACB = 30°, then answer the following questions:\n\nC\n\nQ\n\nP\n\nO",
+      "options": {},
+      "answer": "162",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q053",
+      "num": 53,
+      "lod": 1,
+      "type": "tita",
+      "text": "Find ∠CAD = ____",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q054",
+      "num": 54,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If BC = 2 cm, then AD (in cm) =",
+      "options": {
+        "a": "4",
+        "b": "4 / 2",
+        "c": "3",
+        "d": "None of these"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q055",
+      "num": 55,
+      "lod": 1,
+      "type": "tita",
+      "text": "In the diagram O is the center of the circle. PS is the\ntangent of the circle at S. ∠OSQ = 50°. Find ∠SPR.\n\nR",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q058",
+      "num": 58,
+      "lod": 1,
+      "type": "tita",
+      "text": "Length of QR is ___cm",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q059",
+      "num": 59,
+      "lod": 1,
+      "type": "tita",
+      "text": "PS + QR = ___cm",
+      "options": {},
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q060",
+      "num": 60,
+      "lod": 1,
+      "type": "tita",
+      "text": "ABCD is a rectangle with AD = 10. P is a point\non BC such that ∠ APD = 90°. If DP = 8, then the\nlength of BP is ___?",
+      "options": {},
+      "answer": "2.31",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q061",
+      "num": 61,
+      "lod": 1,
+      "type": "mcq",
+      "text": "ABCD is a quadrilateral. The diagonals of ABCD\nintersect at the point P. The area of the triangles\nAPD and BPC are 27 and 12, respectively. If the\nareas of the triangles APB and CPD are equal then\nthe area of triangle APB is",
+      "options": {
+        "a": "12",
+        "b": "15",
+        "c": "16",
+        "d": "18"
+      },
+      "answer": "112m2",
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q062",
+      "num": 62,
+      "lod": 1,
+      "type": "tita",
+      "text": "In a right angle triangle BAC given below, AD is the\naltitude of the hypotenuse BC. The →gure is followed\nby three possible inferences.\nB\n\nD\n\nS\n50°\nR\n\nO\n\nQ\n\nP\nA\n\nC",
+      "options": {},
+      "answer": "2",
+      "solution": null
     },
     {
       "id": "ch11-lod1-q002",
@@ -61,15 +776,15 @@
       "type": "tita",
       "text": "Triangle ADB and triangle CDA are congruent.",
       "options": {},
-      "answer": "d",
-      "solution": "(d) D ABC ~ DEDC AC BC AB Then = = EC DC ED Then AC 4 = = AC = 5.6 cm and 4.2 3 Geometry and Mensuration IV.63 BC 4 = = BC = 6.4 cm 4.8 3"
+      "answer": "a",
+      "solution": null
     },
     {
       "id": "ch11-lod1-q003",
       "num": 3,
       "lod": 1,
       "type": "mcq",
-      "text": "Triangle ADB and triangle CAB are similar.\n Mark the correct option",
+      "text": "Triangle ADB and triangle CAB are similar.\n\t\t Mark the correct option",
       "options": {
         "a": "1 and 2 are correct",
         "b": "1 and 3 are correct",
@@ -77,7 +792,7 @@
         "d": "All three are correct"
       },
       "answer": "b",
-      "solution": "(c) For similar triangles ﬁ (Ratio of sides)2 = Ratio of areas 36 Then as per question = ÊÁ ˆ˜ Ë x¯ 2 ="
+      "solution": null
     },
     {
       "id": "ch11-lod1-q063",
@@ -91,7 +806,7 @@
         "c": "10 cm",
         "d": "9cm"
       },
-      "answer": "b",
+      "answer": "100",
       "solution": null
     },
     {
@@ -109,7 +824,7 @@
       "num": 65,
       "lod": 1,
       "type": "mcq",
-      "text": "What is the value of c2 in the given →gure, where\nthe radius of the circle is ‘a’ units?\nA\nb\nc\na\nB\nΘ\na\nC\na",
+      "text": "What is the value of c2 in the given →gure, where\nthe radius of the circle is ‘a’ units?\nA\nb\nc\na\n\nB\n\nΘ\na\n\nC\n\na",
       "options": {
         "a": "c 2 = a 2 + b 2 - 2 ab cosθ",
         "b": "c 2 = a 2 + b 2 - 2ab sinθ",
@@ -126,7 +841,7 @@
       "type": "tita",
       "text": "In a circle, the height of an arc is 21 cm and the\ndiameter is 84 cm. Find the chord of ‘half of the\narc’.",
       "options": {},
-      "answer": "42",
+      "answer": "900",
       "solution": null
     },
     {
@@ -148,12 +863,9 @@
       "id": "ch11-lod1-q068",
       "num": 68,
       "lod": 1,
-      "type": "mcq",
-      "text": "A 25 feet long ladder is placed against the wall with\nits base 7 feet from the wall. The base of the ladder\nis drawn out so that the top comes down by half the\ndistance that the base is drawn out. This distance is\nin the range:\n(2,7)\n(5, 8)\n(9, 10)",
+      "type": "tita",
+      "text": "A 25 feet long ladder is placed against the wall with\nits base 7 feet from the wall. The base of the ladder\nis drawn out so that the top comes down by half the\ndistance that the base is drawn out. This distance is\nin the range:\n(a) (2,7)\n(b) (5, 8)\n(c) (9, 10)",
       "options": {
-        "a": "",
-        "b": "",
-        "c": "",
         "d": "None of these"
       },
       "answer": "9240",
@@ -164,14 +876,14 @@
       "num": 69,
       "lod": 1,
       "type": "mcq",
-      "text": "In KyaKya Island, there is a circular park. There\nare four points of entry into the park, namely – P,\nQ, R and S. The king of the island His excellency\nMr. Honolulu got three paths constructed which connected the points PQ, RS, and PS. The length of the\npath PQ is 10 units, and the length of the path RS\nis 7 units. Later, the municipal corporation extended\nthe paths PQ and RS past Q and R respectively, and\nthey meet at a point T on the main road outside the\npark. The path from Q to T measures 8 units, and it\nwas found that the ∠PTS is 60°. Find the area (in\nsquare units) enclosed by the paths PT, TS, and PS.\nP\n10\nQ\n8\n60°\nT\nS\n7\nR",
+      "text": "In KyaKya Island, there is a circular park. There\nare four points of entry into the park, namely – P,\nQ, R and S. The king of the island His excellency\nMr. Honolulu got three paths constructed which connected the points PQ, RS, and PS. The length of the\npath PQ is 10 units, and the length of the path RS\n\nis 7 units. Later, the municipal corporation extended\nthe paths PQ and RS past Q and R respectively, and\nthey meet at a point T on the main road outside the\npark. The path from Q to T measures 8 units, and it\nwas found that the ∠PTS is 60°. Find the area (in\nsquare units) enclosed by the paths PT, TS, and PS.\nP\n10\nQ\n8\n\n60°\n\nT\n\nS\n\n7\n\nR",
       "options": {
         "a": "36 3",
         "b": "54 3",
         "c": "72 3",
         "d": "90 3"
       },
-      "answer": "c",
+      "answer": "510",
       "solution": null
     },
     {
@@ -186,7 +898,7 @@
         "c": "> 14 and < 15",
         "d": ">15 and ≤16"
       },
-      "answer": "c",
+      "answer": "20",
       "solution": null
     },
     {
@@ -201,7 +913,7 @@
         "c": "> 14 and < 16",
         "d": ">16 and <18"
       },
-      "answer": "b",
+      "answer": "c",
       "solution": null
     },
     {
@@ -234,7 +946,7 @@
       "num": 74,
       "lod": 1,
       "type": "tita",
-      "text": "In a square PQRS, A and B are two points on PS\nand SR such that PA = 2AS, and RB = 2BS. If PQ =\n6, the area of the triangle ABQ is\n6\nP\nQ\n4\n6\nA\n2\nS\n2\nB\n4\nR\nGeometry and Mensuration IV.43",
+      "text": "In a square PQRS, A and B are two points on PS\nand SR such that PA = 2AS, and RB = 2BS. If PQ =\n6, the area of the triangle ABQ is\n6\n\nP\n\nQ\n\n4\n6\n\nA\n2\nS\n\n2\n\nB\n\n4\n\nR",
       "options": {},
       "answer": "10",
       "solution": null
@@ -244,15 +956,1014 @@
       "num": 75,
       "lod": 1,
       "type": "tita",
-      "text": "A pole has to be erected on the boundary of a circular\npark of diameter 13 meters in such a way that the\ndifference of it’s distances from two diametrically\nSpace for Rough Work\nopposite →xed gates A and B on the boundary is 7\nmeters. The shortest distance of the pole from one\nof the gates is ____\nLevel of Dif→culty (II)",
+      "text": "A pole has to be erected on the boundary of a circular\npark of diameter 13 meters in such a way that the\ndifference of it’s distances from two diametrically\n\nSpace for Rough Work\n\nopposite →xed gates A and B on the boundary is 7\nmeters. The shortest distance of the pole from one\nof the gates is ____",
       "options": {},
       "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod1-q001",
-      "num": 1,
+      "id": "ch11-lod1-q076",
+      "num": 76,
       "lod": 1,
+      "type": "mcq",
+      "text": "In a right angled triangle, →nd the hypotenuse if\nbase and perpendicular are respectively 36015 cm\nand 48020 cm.",
+      "options": {
+        "a": "69125 cm",
+        "b": "60025 cm",
+        "c": "391025 cm",
+        "d": "60125 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q077",
+      "num": 77,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The perimeter of an equilateral triangle is 72 3 m.\nFind its height.",
+      "options": {
+        "a": "63 meters",
+        "b": "24 meters",
+        "c": "18 meters",
+        "d": "36 meters"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q078",
+      "num": 78,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The inner circumference of a circular track is 440\ncm. The track is 14 cm wide. Find the diameter of\nthe outer circle of the track.",
+      "options": {
+        "a": "84 cm",
+        "b": "168 cm",
+        "c": "336 cm",
+        "d": "77 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q079",
+      "num": 79,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A race track is in the form of a ring whose inner and\nouter circumference are 352 meter and 396 meter\nrespectively. Find the width of the track.",
+      "options": {
+        "a": "7 meters",
+        "b": "14 meters",
+        "c": "14p meters",
+        "d": "7p meters"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q080",
+      "num": 80,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The outer circumference of a circular track is 220\nmeter. The track is 7 meter wide everywhere. Calculate the cost of levelling the track at the rate of\n50 paise per square meter.",
+      "options": {
+        "a": "` 1556.5",
+        "b": "` 3113",
+        "c": "` 593",
+        "d": "` 693"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q081",
+      "num": 81,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the area of a quadrant of a circle whose circumference is 44 cm\n2",
+      "options": {
+        "a": "77 cm2",
+        "b": "38.5 cm2",
+        "c": "19.25 cm",
+        "d": "19.25p cm2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q082",
+      "num": 82,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A pit 7.5 meter long, 6 meter wide and 1.5 meter deep\nis dug in a →eld. Find the volume of soil removed\nin cubic meters.",
+      "options": {
+        "a": "135 m3",
+        "b": "101.25 m3",
+        "c": "50.625 m3",
+        "d": "67.5 m3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q083",
+      "num": 83,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the length of the longest pole that can be placed\nin an indoor stadium 24 meter long, 18 meter wide\nand 16 meter high.",
+      "options": {
+        "a": "30 meters",
+        "b": "25 meters",
+        "c": "34 meters",
+        "d": "580 meters"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q084",
+      "num": 84,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The length, breadth and height of a room are in the\nratio of 3 : 2 : 1. If its volume be 1296 m3, →nd its\nbreadth",
+      "options": {
+        "a": "18 meters",
+        "b": "18 meters",
+        "c": "16 meters",
+        "d": "12 meters"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q085",
+      "num": 85,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The volume of a cube is 216 cm3. Part of this cube\nis then melted to form a cylinder of length 8 cm.\nFind the volume of the cylinder.",
+      "options": {
+        "a": "342 cm3",
+        "b": "216 cm3",
+        "c": "36 cm3",
+        "d": "Data inadequate"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q086",
+      "num": 86,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The whole surface of a rectangular block is 8788\nsquare cm. If length, breadth and height are in the\nratio of 4 : 3 : 2, →nd length.",
+      "options": {
+        "a": "26 cm",
+        "b": "52 cm",
+        "c": "104 cm",
+        "d": "13 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q087",
+      "num": 87,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Three metal cubes with edges 6 cm, 8 cm and 10\ncm respectively are melted together and formed into\na single cube. Find the side of the resulting cube.",
+      "options": {
+        "a": "11 cm",
+        "b": "12 cm",
+        "c": "13 cm",
+        "d": "24 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q088",
+      "num": 88,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find curved and total surface area of a conical flask\nof radius 6 cm and height 8 cm.",
+      "options": {
+        "a": "60p, 96p",
+        "b": "20p, 96p",
+        "c": "60p, 48p",
+        "d": "30p, 48p"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q089",
+      "num": 89,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The volume of a right circular cone is 100p cm3 and\nits height is 12 cm. Find its curved surface area.",
+      "options": {
+        "a": "130 p cm2",
+        "b": "65 p cm2",
+        "c": "204 p cm2",
+        "d": "65 cm2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q090",
+      "num": 90,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The diameters of two cones are equal. If their slant\nheight be in the ratio 5 : 7, →nd the ratio of their\ncurved surface areas.",
+      "options": {
+        "a": "25 : 7",
+        "b": "25 : 49",
+        "c": "5 : 49",
+        "d": "5 : 7"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q091",
+      "num": 91,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The curved surface area of a cone is 2376 square\ncm and its slant height is 18 cm. Find the diameter.",
+      "options": {
+        "a": "6 cm",
+        "b": "18 cm",
+        "c": "84 cm",
+        "d": "12 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q092",
+      "num": 92,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The ratio of radii of a cylinder to a that of a cone is\n1 : 2. If their heights are equal, →nd the ratio of their\nvolumes?",
+      "options": {
+        "a": "1 : 3",
+        "b": "2 : 3",
+        "c": "3 : 4",
+        "d": "3 : 1"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q093",
+      "num": 93,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A silver wire when bent in the form of a square,\nencloses an area of 484 cm2. Now if the same wire\nis bent to form a circle, the area enclosed by it would\nbe",
+      "options": {
+        "a": "308 cm2",
+        "b": "196 cm2",
+        "c": "616 cm2",
+        "d": "88 cm2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q094",
+      "num": 94,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The circumference of a circle exceeds its diameter\nby 16.8 cm. Find the circumference of the circle.",
+      "options": {
+        "a": "12.32 cm",
+        "b": "49.28 cm",
+        "c": "58.64 cm",
+        "d": "24.64 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q095",
+      "num": 95,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A bicycle wheel makes 5000 revolutions in moving\n11 km. What is the radius of the wheel?",
+      "options": {
+        "a": "70 cm",
+        "b": "135 cm",
+        "c": "17.5 cm",
+        "d": "35 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q096",
+      "num": 96,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The volume of a right circular cone is 100p cm3 and\nits height is 12 cm. Find its slant height.",
+      "options": {
+        "a": "13 cm",
+        "b": "16 cm",
+        "c": "9 cm",
+        "d": "26 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q097",
+      "num": 97,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The short and the long hands of a clock are 4 cm\nand 6 cm long respectively. What will be sum\nof distances travelled by their tips in 4 days?\n(Take p = 3.14)",
+      "options": {
+        "a": "954.56 cm",
+        "b": "3818.24 cm",
+        "c": "2909.12 cm",
+        "d": "2703.56 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q098",
+      "num": 98,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The surface areas of two spheres are in the ratio of\n1 : 4. →nd the ratio of their volumes.",
+      "options": {
+        "a": "1 : 2",
+        "b": "1 : 8",
+        "c": "1 : 4",
+        "d": "2 : 1"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q099",
+      "num": 99,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The outer and inner diameters of a spherical shell\nare 10 cm and 9 cm respectively. Find the volume\nof the metal contained in the shell. (Use p = 22/7)\n3",
+      "options": {
+        "b": "141.95 cm3",
+        "a": "6956 cm3",
+        "c": "283.9 cm",
+        "d": "478.3 cm3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q100",
+      "num": 100,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The radii of two spheres are in the ratio of 1 : 2. Find\nthe ratio of their surface areas.",
+      "options": {
+        "a": "1 : 3",
+        "b": "2 : 3",
+        "c": "1 : 4",
+        "d": "3 : 4"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q101",
+      "num": 101,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sphere of radius r has the same volume as that\nof a cone with a circular base of radius r. Find the\nheight of cone.\n(d) (2/3)r",
+      "options": {
+        "a": "2r",
+        "b": "r/3",
+        "c": "4r"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q102",
+      "num": 102,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the number of bricks, each measuring 25 cm\n× 12.5 cm × 7.5 cm, required to construct a wall\n12 m long, 5 m high and 0.25 m thick, while the\nsand and cement mixture occupies 5% of the total\nvolume of wall.",
+      "options": {
+        "a": "6080",
+        "b": "3040",
+        "c": "1520",
+        "d": "12160"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q103",
+      "num": 103,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A road that is 7 m wide surrounds a circular path\nwhose circumference is 352 m. What will be the area\nof the road?\n2",
+      "options": {
+        "b": "654.5 m2",
+        "a": "2618 m2",
+        "c": "1309 m",
+        "d": "5236 m2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q104",
+      "num": 104,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a shower, 10 cm of rain falls. What will be the volume of water that falls on 1 hectare area of ground?\n3",
+      "options": {
+        "a": "500 m3",
+        "b": "650 m3",
+        "c": "1000 m",
+        "d": "750 m3"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q105",
+      "num": 105,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Seven equal cubes each of side 5 cm are joined\nend to end. Find the surface area of the resulting\ncuboid.",
+      "options": {
+        "a": "750 cm2",
+        "b": "1500 cm2",
+        "c": "2250 cm2",
+        "d": "700 cm2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q106",
+      "num": 106,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a swimming pool measuring 90 m by 40 m, 150\nmen take a dip. If the average displacement of water\nby a man is 8 cubic meters, what will be the rise in\nthe water level?",
+      "options": {
+        "a": "30 cm",
+        "b": "50 cm",
+        "c": "20 cm",
+        "d": "33.33 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q107",
+      "num": 107,
+      "lod": 1,
+      "type": "mcq",
+      "text": "How many meters of cloth 5 m wide will be required\nto make a conical tent, the radius of whose base is\n7 m and height is 24 m?",
+      "options": {
+        "a": "55 m",
+        "b": "330 m",
+        "c": "220 m",
+        "d": "110 m"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q108",
+      "num": 108,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two cones have their heights in the ratio 1 : 2 and the\ndiameters of their bases are in the ratio 2 : 1. What\nwill be the ratio of their volumes?",
+      "options": {
+        "a": "4 : 1",
+        "b": "2 : 1",
+        "c": "3 : 2",
+        "d": "1 : 1"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q109",
+      "num": 109,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A conical tent is to accommodate 10 persons. Each\nperson must have 6 m2 space to sit and 30 m3 of air\nto breathe. What will be the height of the cone?",
+      "options": {
+        "a": "37.5 m",
+        "b": "150 m",
+        "c": "75 m",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q110",
+      "num": 110,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A closed wooden box measures externally 10 cm\nlong, 8 cm broad and 6 cm high. Thickness of wood\nis 0.5 cm. Find the volume of wood used.",
+      "options": {
+        "a": "230 cubic cm",
+        "b": "165 cubic cm",
+        "c": "330 cubic cm",
+        "d": "300 cubic cm."
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q111",
+      "num": 111,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A cuboid of dimension 24 cm × 9 cm × 8 cm is\nmelted and smaller cubes of side 3 cm are formed.\nFind how many such cubes can be formed.",
+      "options": {
+        "a": "27",
+        "b": "64",
+        "c": "54",
+        "d": "32"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q112",
+      "num": 112,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Three cubes each of volume of 216 m3 are joined end\nto end. Find the surface area of the resulting →gure.",
+      "options": {
+        "a": "504 m2",
+        "b": "216 m2",
+        "c": "432 m2",
+        "d": "480 m2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q113",
+      "num": 113,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A hollow spherical shell is made of a metal of density\n4.9 g/cm3. If its internal and external radii are 10\ncm and 12 cm respectively, →nd the weight of the\nshell.\n(Take p = 3.1416)\n2",
+      "options": {
+        "a": "15.28 cm2",
+        "b": "61.14 cm2",
+        "c": "30.57 cm",
+        "d": "40.76 cm2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q122",
+      "num": 122,
+      "lod": 1,
+      "type": "tita",
+      "text": "The diagram represents the area swept by the wiper\nof a car. With the dimensions given in the →gure,\ncalculate the shaded area swept by the wiper.\n\nm\n\nO\n\n30°\n\nD\n\n14\n\ncm\n\nA\n\n7c",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q114",
+      "num": 114,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The largest cone is formed at the base of a cube of\nside measuring 7 cm. Find the ratio of volume of\ncone to cube.",
+      "options": {
+        "a": "20 : 21",
+        "b": "22 : 21",
+        "c": "21 : 22",
+        "d": "11 : 42"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q115",
+      "num": 115,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A spherical cannon ball, 28 cm in diameter, is melted\nand cast into a right circular conical mould the base\nof which is 35 cm in diameter. Find the height of\nthe cone correct up to two places of decimals.",
+      "options": {
+        "a": "8.96 cm",
+        "b": "35.84 cm",
+        "c": "5.97 cm",
+        "d": "17.92 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q116",
+      "num": 116,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the area of the circle circumscribed about a\nsquare each side of which is 10 cm.\n2",
+      "options": {
+        "a": "314.28 cm2",
+        "b": "157.14 cm2",
+        "c": "150.38 cm",
+        "d": "78.57 cm2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q117",
+      "num": 117,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the radius of the circle inscribed in a triangle\nwhose sides are 8 cm, 15 cm and 17 cm.",
+      "options": {
+        "a": "4 cm",
+        "b": "5 cm",
+        "c": "3 cm",
+        "d": "2 2 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q118",
+      "num": 118,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the given diagram a rope is wound\nround the outside of a circular drum\nwhose diameter is 70 cm and a bucket\nis tied to the other end of the rope. Find\nthe number of revolutions made by the\ndrum if the bucket is raised by 11 m.",
+      "options": {
+        "a": "10",
+        "b": "2.5",
+        "c": "5",
+        "d": "5.5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q119",
+      "num": 119,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A cube whose edge is 20 cm long has circles on each\nof its faces painted black. What is the total area of\nthe unpainted surface of the cube if the circles are\nof the largest area possible?\n2",
+      "options": {
+        "a": "85.71 cm2",
+        "b": "257.14 cm2",
+        "c": "514.28 cm",
+        "d": "331.33 cm2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q120",
+      "num": 120,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The areas of three adjacent faces of a cuboid are x,\ny, z. If the volume is V, then V 2 will be equal to",
+      "options": {
+        "a": "xy/z",
+        "b": "yz/x2",
+        "c": "x2y2/z2",
+        "d": "xyz"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q121",
+      "num": 121,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In the adjacent →gure, →nd the area of the shaded region.\n(Use p = 22/7)\n\nB\n\nC",
+      "options": {
+        "a": "102.67 cm",
+        "b": "205.34 cm",
+        "c": "51.33 cm",
+        "d": "208.16 cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q123",
+      "num": 123,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Find the area of the quadrilateral ABCD. (Given,\n= 1.73)\n20\n\nD\n\n20\n\n20\n\nA\nx\nB\n\n12\n\n3\n\nC",
+      "options": {
+        "a": "452 sq units",
+        "b": "269 sq units",
+        "c": "134.5 sq units",
+        "d": "1445 g cm"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q124",
+      "num": 124,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The base of a pyramid is a rectangle of sides\n18 m × 26 m and its slant height to the shorter side\nof the base is 24 m. Find its volume.\nh\n\n24\n13",
+      "options": {
+        "a": "156 407",
+        "b": "78 407",
+        "c": "312 407",
+        "d": "234 407"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q125",
+      "num": 125,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A wire is looped in the form of a circle of radius 28\ncm. It is bent again into a square form. What will\nbe the length of the diagonal of the largest square\npossible thus?",
+      "options": {
+        "a": "44 cm",
+        "b": "44 2",
+        "c": "176/2 2",
+        "d": "88 2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q126",
+      "num": 126,
+      "lod": 1,
+      "type": "tita",
+      "text": "If x units are added to the length of the radius of a\ncircle, what is the number of units by which the area\nof the circle is increased?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q127",
+      "num": 127,
+      "lod": 1,
+      "type": "tita",
+      "text": "A man walked diagonally across a square lot. Approximately, what was the percentage reduction in\nthe total distance that he walked vis-à-vis the distance he would have walked had he walked along\nthe edges? (To the closest 1%)",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q128",
+      "num": 128,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The radius of circle is so increased that its circumference increased by 5%. The area of the circle then\nincreases by\b\n[SNAP 2009]",
+      "options": {
+        "a": "12.5%",
+        "b": "10.25%",
+        "c": "10.5%",
+        "d": "11.25%"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q129",
+      "num": 129,
+      "lod": 1,
+      "type": "tita",
+      "text": "The biggest possible cube is taken out of a right\nsolid cylinder of radius 15 cm and height 20 cm\nrespectively. What will be the volume of the cube?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q130",
+      "num": 130,
+      "lod": 1,
+      "type": "tita",
+      "text": "How many cuboids of different dimensions can be\nassembled with 100 identical cubes?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q131",
+      "num": 131,
+      "lod": 1,
+      "type": "tita",
+      "text": "What is the least number of square tiles required to\npave the floor of a room 1517 cm long and 902 cm\nbroad?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q132",
+      "num": 132,
+      "lod": 1,
+      "type": "tita",
+      "text": "A wire, if bent into a square, encloses an area of\n484 cm2. This wire is cut into two pieces with the\nbigger piece having a length three-fourth of the original wire’s length. Now, if a circle and a square are\nformed with the bigger and the smaller piece respectively, what would be the area enclosed by the two\npieces?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q133",
+      "num": 133,
+      "lod": 1,
+      "type": "tita",
+      "text": "A spiral staircase is made up of 13 successive semicircles, with center alternately at A and B, starting\nwith center at A. The radii of semicircles, thus developed, are 0.5 cm, 1.0 cm, 1.5 cm, and 2.0 cm and\n22\nso on. The total length of the spiral is: Use p =\n7",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q134",
+      "num": 134,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A cylinder, a hemisphere and a cone stand on the\nsame base and have the same heights. The ratio of\nthe areas of their curved surface is:",
+      "options": {
+        "a": "2: 2: 1",
+        "b": "2 : 2 :1",
+        "c": "2 : 2 :1",
+        "d": "None of these."
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q135",
+      "num": 135,
+      "lod": 1,
+      "type": "tita",
+      "text": "The radius of a spherical balloon, of radii 30 cm,\nincreases at the rate of 2 cm per second. Then its\ncurved surface area increases by:",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q136",
+      "num": 136,
+      "lod": 1,
+      "type": "tita",
+      "text": "A rectangular piece of paper is 22 cm long and 10\ncm wide. A cylinder is formed by rolling the paper\nalong its length. Find the volume of the cylinder.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q137",
+      "num": 137,
+      "lod": 1,
+      "type": "tita",
+      "text": "Consider the volumes of the following objects and\narrange them in decreasing order of their volumes:",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q076",
+      "num": 76,
+      "lod": 1,
+      "type": "tita",
+      "text": "A parallelepiped of length 5 cm, breadth 3 cm and\nheight 4 cm.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q077",
+      "num": 77,
+      "lod": 1,
+      "type": "tita",
+      "text": "A cube of each side 4 cm.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q078",
+      "num": 78,
+      "lod": 1,
+      "type": "tita",
+      "text": "A cylinder of radius 3 cm and length 3 cm.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q079",
+      "num": 79,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A sphere of radius 3 cm.",
+      "options": {
+        "a": "4, 3, 2, 1",
+        "b": "4, 2, 3, 1",
+        "c": "4, 3, 1, 2",
+        "d": "None of these."
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q138",
+      "num": 138,
+      "lod": 1,
+      "type": "tita",
+      "text": "A hemispherical bowl is →lled with hot water to the\nbrim. The contents of the bowl are transferred into\na cylindrical vessel whose radius is 50% more than\nits height. If diameter of the bowl is the same as\nthat of the vessel and the volume of the hot water\nin the cylindrical vessel is x% of the volume of the\ncylindrical vessel then x = ?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q139",
+      "num": 139,
+      "lod": 1,
+      "type": "tita",
+      "text": "In a circular →eld, there is a rectangular tank of\nlength 130 m and breadth 110 m. If the area of the\nland portion of the →eld is 20350 m2 then the radius\nof the →eld is:",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q140",
+      "num": 140,
+      "lod": 1,
+      "type": "tita",
+      "text": "A tank internally measuring 150 cm × 120 cm ×\n100 cm has 1281600 cm3 water in it. Porous bricks\nare placed in the water until the tank is full up to\nits brim. Each brick absorbs one tenth of its volume\nof water. How many bricks, of 20 cm × 6 cm × 4\ncm, can be put in the tank without spilling over the\nwater?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q141",
+      "num": 141,
+      "lod": 1,
+      "type": "tita",
+      "text": "A spherical metal ball of radius 10 cm is molten and\nmade into 1000 smaller spheres of equal sizes. In this\nprocess the surface area of the metal is increased by\nn %. Then n =?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q142",
+      "num": 142,
+      "lod": 1,
+      "type": "tita",
+      "text": "Suresh, who runs a bakery, uses a conical shaped\nequipment to write decorative labels (e.g., Happy\nBirthday etc.) using cream. The height of this equipment is 7 cm and the diameter of the base is 5 mm.\nA full charge of the equipment will write 330 words\non an average. How many words can be written using\ntwo →fth of a litre of cream?",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q143",
+      "num": 143,
+      "lod": 1,
+      "type": "tita",
+      "text": "Your friend’s cap is in the shape of a right circular\ncone of base radius 14 cm and height 26.5 cm. The\napproximate area of the sheet required to make 7\nsuch caps is",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q144",
+      "num": 144,
+      "lod": 1,
+      "type": "tita",
+      "text": "In an engineering college there is a rectangular garden of dimensions 34 m by 21 m. Two mutually\nperpendicular walking corridors of 4 m width have\nbeen made in the central part and flowers have been\ngrown in the rest of the garden. The area under the\nflowers is:",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod1-q145",
+      "num": 145,
+      "lod": 1,
+      "type": "tita",
+      "text": "A right circular cone is enveloping a right circular\ncylinder that rests on the base of the cone.\n\t\t If the radius and the height of the cone is 4 cm and\n10 cm respectively, and the radius of the cylinder is\n‘r’ cm, the largest possible curved surface area of\nthe cylinder is ‘ a π r (b − r ) ’.Then a × b = ?\n\nSpace for Rough Work",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod2-q001",
+      "num": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "In a triangle ABC, point D is on side AB and point E is\non side AC, such that BCED is a trapezium. DE : BC\n= 3 : 5. Calculate the ratio of the area of D ADE and\nthe trapezium BCED.",
       "options": {
@@ -261,13 +1972,13 @@
         "c": "3 : 5",
         "d": "9 : 25"
       },
-      "answer": "b",
-      "solution": "(a) When the length of stick = 20 m, then length of shadow = 10 m i.e. in this case length = 2 ¥ shadow. With the same angle of inclination of the sun, the length of tower that casts a shadow of 50 m ﬁ 2 ¥ 50 m = 100 m i.e. height of tower = 100 m"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q002",
+      "id": "ch11-lod2-q002",
       "num": 2,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "D, E, F are the mid-points of the sides BC, CA and\nAB respectively of a D ABC. Determine the ratio of\nthe area of triangles DEF and ABC.",
       "options": {
@@ -276,43 +1987,43 @@
         "c": "2 : 3",
         "d": "4 : 5"
       },
-      "answer": "d",
-      "solution": "(d) D ABC ~ DEDC AC BC AB Then = = EC DC ED Then AC 4 = = AC = 5.6 cm and 4.2 3 Geometry and Mensuration IV.63 BC 4 = = BC = 6.4 cm 4.8 3"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q003",
+      "id": "ch11-lod2-q003",
       "num": 3,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "In the adjoining →gure, ABCD is a trapezium in\nwhich AB || DC and AB = 3 DC. Determine the ratio\nof the areas of (D AOB and DCOD).\nD\nC\nS\nP\nO\nA",
+      "text": "In the adjoining →gure, ABCD is a trapezium in\nwhich AB || DC and AB = 3 DC. Determine the ratio\nof the areas of (D AOB and DCOD).\nD\n\nC\n\nS\n\nP\n\nO\nA",
       "options": {
         "a": "2p + 6",
         "b": "3p + 4",
         "c": "4p + 6",
         "d": "6p + 6"
       },
-      "answer": "b",
-      "solution": "(c) For similar triangles ﬁ (Ratio of sides)2 = Ratio of areas 36 Then as per question = ÊÁ ˆ˜ Ë x¯ 2 ="
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q007",
+      "id": "ch11-lod2-q007",
       "num": 7,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "In the →gure below, PQ = QS, QR = RS and angle\nSRQ = 100°. How many degrees is angle QPS?\nB",
+      "text": "In the →gure below, PQ = QS, QR = RS and angle\nSRQ = 100°. How many degrees is angle QPS?\n\nB",
       "options": {
         "a": "9 : 1",
         "b": "1 : 9",
         "d": "1 : 3",
         "c": "3 : 1"
       },
-      "answer": "d",
-      "solution": "(a) because angle subtended by an arc at the centre of the circle is twice the angle subtended by it on the circumference on the same segment. – AON = 60° and – AOM = 40° –X = – AON + –AOM (◊.◊ vertically opposite angles). – X = 100° Alternately, you could also solve this using the following process: A O 9 x/2 O 7 B 7 x C B In the DOBC; BC = 7 cm and OC = 9 cm, then using Pythagoras theorem. OB2 = OC2 – BC2 OB = 32 = 5.66 cm (approx) y C D In the given figure, join the points BD and CD. Then, in the cyclic quadrilateral ABDC, the sum of angles x/2 and y would be 180o. Hence, y = 180 – x/2. Also, IV.64 How to Prepare for Quantitative Aptitude for CAT the sum of the angles OBD + OCD = 180 – 20 - 30 = 130°. Therefore, x + y = 230 (as the sum of the angles of the quadrilateral OBDC is 360). Solving, the two equations, we get x = 100."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q004",
+      "id": "ch11-lod2-q004",
       "num": 4,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A ladder reaches a window that is 8 m above the\nground on one side of the street. Keeping its foot\non the same point, the ladder is twined to the other\nside of the street to reach a window 12 m high. Find\nthe width of the street if the ladder is 13 m.",
       "options": {
@@ -321,13 +2032,13 @@
         "c": "14.6 m",
         "d": "12 m"
       },
-      "answer": "a",
-      "solution": "(a) (Ratio of corresponding sides)2 = Ratio of area of similar triangles \\ Ratio of corresponding sides in this question 16 4 = 25 5 ="
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q005",
+      "id": "ch11-lod2-q005",
       "num": 5,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "In the adjoining →gure –A = 60° and –ABC = 80°,\nhence –BQC is",
       "options": {
@@ -336,43 +2047,43 @@
         "c": "20°",
         "d": "30°"
       },
-      "answer": "d",
-      "solution": "(a) O B C"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q006",
+      "id": "ch11-lod2-q006",
       "num": 6,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "The diagram below represents three circular garbage\ncans, each of diameter 2 m. The three cans are touching as shown. Find, in meters, the perimeter of the rope\nencompassing the three cans.\nQ\nR",
+      "text": "The diagram below represents three circular garbage\ncans, each of diameter 2 m. The three cans are touching as shown. Find, in meters, the perimeter of the rope\nencompassing the three cans.\n\nQ\n\nR",
       "options": {
         "a": "20°",
         "b": "40°",
         "c": "15°",
         "d": "30°"
       },
-      "answer": "b",
-      "solution": "(c) 60° 40° M O B C x 20° 30° – AOM = 2 –ABM and – AON = 2– ACN BC = ED = 6 m So\t\t AB = AC – BC = 11 – 6 = 5 m CD = BE = 12 m Then by Pythagoras theorem: AE 2 = AB2 + BE2 ﬁ AE = 13 m"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q008",
+      "id": "ch11-lod2-q008",
       "num": 8,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "In the →gure, ABDC is a cyclic quadrilateral with O\nas centre of the circle. If –BOC = 136°, →nd –BDC.\nA\nO\nB\n136°\nC\nD",
+      "text": "In the →gure, ABDC is a cyclic quadrilateral with O\nas centre of the circle. If –BOC = 136°, →nd –BDC.\nA\nO\nB\n\n136°\n\nC\n\nD",
       "options": {
         "a": "110°",
         "b": "112°",
         "c": "109°",
         "d": "115°"
       },
-      "answer": "c",
-      "solution": "(d) In the DOBC, OB = 12 cm, OC = radius = 13 cm. Then using Pythagoras theorem; BC2 = OC2 – OB2 = 25; BC = 5 cm Length of the chord = 2 ¥ BC = 2 ¥ 5 = 10 cm 144 81 {Let the longest side of DDEF = x} 36 12 ﬁ ﬁ x = 27 cm = x 9"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q009",
+      "id": "ch11-lod2-q009",
       "num": 9,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "In the given →gure, AD || BC. Find the value of x,\ngiven that AO = 3; OC = X - 3; BO = 3X – 19; OD\n= X - 5.\nAO DO 1",
       "options": {
@@ -381,148 +2092,137 @@
         "b": "x = 7, 8",
         "d": "x = 7, 10"
       },
-      "answer": "d",
-      "solution": "(a) –x = 35°; because angles subtended by an arc, anywhere on the circumference are equal."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q010",
+      "id": "ch11-lod2-q010",
       "num": 10,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "In the given →gure\n=\n= and AB = 4 cm.\nOC OB 2\nFind the value of BC.\nGeometry and Mensuration IV.45\n4 cm\nA\n(D) = per (E)\nD\nA\nO\nB\nC\nD",
+      "text": "In the given →gure\n=\n= and AB = 4 cm.\nOC OB 2\nFind the value of BC.\n\n4 cm\n\nA\n\n(D) = per (E)\n\nD\nA\n\nO\nB\n\nC\n\nD",
       "options": {
         "c": "9 cm",
         "d": "10 cm",
         "a": "7 cm",
         "b": "8 cm"
       },
-      "answer": "d",
-      "solution": "(d) A Ratio of corresponding sides = 9 3 = 16 4 N"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q011",
+      "id": "ch11-lod2-q011",
       "num": 11,
-      "lod": 1,
+      "lod": 2,
       "type": "tita",
-      "text": "In the given →gure, AD is the bisector of –BAC, AB\n= 6 cm, AC = 5 cm and BD = 3 cm. Find DC. It is\ngiven that ∠ABD = ∠ACD.\nA\n6\nC",
+      "text": "In the given →gure, AD is the bisector of –BAC, AB\n= 6 cm, AC = 5 cm and BD = 3 cm. Find DC. It is\ngiven that ∠ABD = ∠ACD.\nA\n\n6\n\nC",
       "options": {},
-      "answer": "b",
-      "solution": "(d) The triangle BOC is an isosceles triangle with sides OB and OC both being equal as they are the radii of the circle. Hence, the angle OBC = angle OCB = 30°. Hence, the third angle of the triangle BOC viz: Angle BOC would be equal to 120°. Also, BOC = AOD = 120°. Hence, in the isosceles triangle DOA, Angle ODA = Angle DAO = x = 30°."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q015",
+      "id": "ch11-lod2-q015",
       "num": 15,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "ABCD is a trapezium in which AB is parallel to DC,\nAD = BC, AB = 6 cm, AB = EF and DF = EC. If\ntwo lines AF and BE are drawn so that area of ABEF\nis half of ABCD. Find DF/CD.\n3\nD\nD\nC",
+      "text": "ABCD is a trapezium in which AB is parallel to DC,\nAD = BC, AB = 6 cm, AB = EF and DF = EC. If\ntwo lines AF and BE are drawn so that area of ABEF\nis half of ABCD. Find DF/CD.\n\n3\nD\n\nD\n\nC",
       "options": {
         "a": "11.3 cm",
         "b": "2.5 cm",
         "c": "3.5 cm",
         "d": "4 cm"
       },
-      "answer": "d",
-      "solution": "(b) Use the formula: Inradius = Area/ Semi perimeter = 24/12 = 2 cm"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q012",
+      "id": "ch11-lod2-q012",
       "num": 12,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "In a DABC, AD is the bisector of –BAC, AB = 8\ncm, BD = 6 cm and DC = 3 cm. Find AC. (Given\nthat ∠ABC = ∠ACB)\nA\nx\n6 cm\nA\n5\nB\nB\nE\nB\nF\nE\nC",
+      "text": "In a DABC, AD is the bisector of –BAC, AB = 8\ncm, BD = 6 cm and DC = 3 cm. Find AC. (Given\nthat ∠ABC = ∠ACB)\nA\nx\n\n6 cm\n\nA\n\n5\n\nB\n\nB\n\nE\n\nB\n\nF\n\nE\n\nC",
       "options": {
         "a": "1/4",
         "b": "1/3",
         "c": "2/5",
         "d": "1/6"
       },
-      "answer": "b",
-      "solution": "(a) By the rule of tangents, we know: 62 = (5 + x)5 ﬁ 36 = 25 + 5x ﬁ 11 = 5x ﬁ x = 2.2 cm"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q016",
+      "id": "ch11-lod2-q016",
       "num": 16,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "In the given →gure, D ABC and DACD are right angle\ntriangles and AB = x cm, BC = y cm, CD = z cm and\nx ◊ y = z and x, y and z has minimum integral value.\nFind the area of ABCD\n2\nD\nx\nA\nB\n6\nD\n3\nC",
+      "text": "In the given →gure, D ABC and DACD are right angle\ntriangles and AB = x cm, BC = y cm, CD = z cm and\nx ◊ y = z and x, y and z has minimum integral value.\nFind the area of ABCD\n2\nD\n\nx\nA\n\nB\n\n6\n\nD\n\n3\n\nC",
       "options": {
         "a": "36 cm2",
         "b": "64 cm2",
         "c": "24 cm",
         "d": "25 cm2"
       },
-      "answer": "c",
-      "solution": "(b) –APB = 90° (angle in a semicircle = 90°) –PBA = 180 – (90 + 25) = 65° –TPA = –PBA (the angle that a chord makes with the tangent, is subtended by the chord on the circumference in the alternate segment). = 65° Note: This is also called as the Alternate Segment Theorem."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q013",
+      "id": "ch11-lod2-q013",
       "num": 13,
-      "lod": 1,
+      "lod": 2,
       "type": "tita",
-      "text": "If ABC is a quarter circle and a circle is inscribed\nin it and if AB = 1 cm, →nd radius of smaller circle.\nB\nC",
+      "text": "If ABC is a quarter circle and a circle is inscribed\nin it and if AB = 1 cm, →nd radius of smaller circle.\n\nB\n\nC",
       "options": {},
-      "answer": "a",
-      "solution": "(b) By the rule of tangents, we get 122 = (x + 7) x ﬁ 144 = x2 + 7x 2 ﬁ x + 7x – 144 = 0 ﬁ x2 + 16x – 9x – 144 = 0 ﬁ x(x + 16) – 9(x + 16) ﬁ x = 9 or –16 –16 can’t be the length, hence this value is discarded, thus, x = 9"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q017",
+      "id": "ch11-lod2-q017",
       "num": 17,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "OD, OE and OF are perpendicular bisectors to the\nthree sides of the triangle. What is the relationship\nbetween m – BAC and m –BOC?\nA\nE\nD\n( 2 + 1)/2",
+      "text": "OD, OE and OF are perpendicular bisectors to the\nthree sides of the triangle. What is the relationship\nbetween m – BAC and m –BOC?\nA\nE\n\nD\n(b) ( 2 + 1)/2",
       "options": {
         "a": "2 –1",
-        "b": "",
         "c": "2 – 1/2",
         "d": "1 – 2 2"
       },
-      "answer": "c",
-      "solution": "(a) ADBC is a cyclic quadrilateral as all its four vertices are on the circumference of the circle. Also, the opposite angles of the cyclic quadrilateral are supplementary. Therefore, –ADB = 180 – 48° = 132°"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q014",
+      "id": "ch11-lod2-q014",
       "num": 14,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "ABC is an equilateral triangle. Point D is on AC and\npoint E is on BC, such that AD = 2CD and CE = EB.\nIf we draw perpendiculars from D and E to other two\nsides and →nd the sum of the length of two perpendiculars for each set, that is, for D and E individually\nand denote them as per (D) and per (E) respectively,\nthen which of the following option will be correct.\n(D) > per (E) (D) < per (E)\nB\nO\nF\nC",
+      "text": "ABC is an equilateral triangle. Point D is on AC and\npoint E is on BC, such that AD = 2CD and CE = EB.\nIf we draw perpendiculars from D and E to other two\nsides and →nd the sum of the length of two perpendiculars for each set, that is, for D and E individually\nand denote them as per (D) and per (E) respectively,\nthen which of the following option will be correct.\n(D) > per (E) (D) < per (E)\n\nB\n\nO\nF\n\nC",
       "options": {
         "a": "m– BAC = 180 – m–BOC",
         "b": "m– BOC = 90 + 1/2 m–BAC",
         "c": "m–BAC = 90 + 1/2 m–BOC",
         "d": "m–BOC = 2m–BAC"
       },
-      "answer": "b",
-      "solution": "(a) By the rule of chords, cutting externally, we get ﬁ (9 + 6)6 = (5 + x)5 ﬁ 90 = 25 + 5x ﬁ 5x = 65 ﬁ x = 13 cm"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q018",
+      "id": "ch11-lod2-q018",
       "num": 18,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "If two equal circles of radius 5 cm have two common\ntangent AB and CD which touch the circle on A, C\nand B, D respectively shown in the →gure. If CD =\n24 cm, →nd the length of AB.",
+      "text": "If two equal circles of radius 5 cm have two common\ntangent AB and CD which touch the circle on A, C\nand B, D respectively shown in the →gure. If CD =\n24 cm, →nd the length of AB.\nAB of the circle of larger radius intersects the other\ncircle in C and D. which of the following holds\ngood?\nX",
       "options": {
         "a": "27 cm",
         "b": "25 cm",
         "c": "26 cm",
         "d": "30 cm"
       },
-      "answer": "c",
-      "solution": "(a) From the given figure we have: 4b + 2c = 180\b (1) a + b = 105\b (2) 4b = a\b(3) Solving these equations, we get that b = 21°; a = 84°; c = 48°."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q023",
-      "num": 23,
-      "lod": 1,
-      "type": "tita",
-      "text": "Two circles touch internally at point P and a chord\nAB of the circle of larger radius intersects the other\ncircle in C and D. which of the following holds\ngood?\nX",
-      "options": {},
-      "answer": "d",
-      "solution": "(d) As L4 and L3 are not parallel lines, so there can’t be any relation between 80° and x°. Hence the answer cannot be determined."
-    },
-    {
-      "id": "ch11-lod1-q019",
+      "id": "ch11-lod2-q019",
       "num": 19,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "If a circle is provided with a measure of 19° on\ncentre, is it possible to divide the circle into 360\nequal parts?",
       "options": {
@@ -531,58 +2231,58 @@
         "c": "Always",
         "d": "Possible if one more measure of 21° is given"
       },
-      "answer": "b",
-      "solution": "(b) –ABC = 180° – 130° = 50° (\\ sum of angles on a line = 180°) –ADC = 180° – –ABC = 130° (◊.◊ opposite angles of a cyclic quadrilateral are supplementary). –x = 180° – 130° = 50° (\\ sum of angles on a line = 180°)"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q020",
+      "id": "ch11-lod2-q020",
       "num": 20,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "O is the centre of a circle of radius 5 cm. The chord\nAB subtends an angle of 60° at the centre. Find the\narea of the shaded portion (approximate value).\nO\nA\nB\n2",
+      "text": "O is the centre of a circle of radius 5 cm. The chord\nAB subtends an angle of 60° at the centre. Find the\narea of the shaded portion (approximate value).\nO\n\nA\n\nB\n2",
       "options": {
         "a": "50 cm2",
         "b": "62.78 cm2",
         "c": "49.88 cm",
         "d": "67.67 cm2"
       },
-      "answer": "a",
-      "solution": "(a) D O A C B 140 = 70° (because the angle subtended 2 by an arc on the circumference is half of what it subtends at the centre). ABCD one cyclic quadrilateral So – ABC = 180° – 70° = 110° (because opposite angles of a cyclic quadrilateral are supplementary)."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q021",
+      "id": "ch11-lod2-q021",
       "num": 21,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "Two circles C (O, r) and C (O¢, r¢) intersect at two\npoints A and B and O lies on C (O¢, r¢). A tangent\nCD is drawn to the circle C (O¢, r¢) at A. Then\nD\nA\nC\nO¢\nO\nB",
+      "text": "Two circles C (O, r) and C (O¢, r¢) intersect at two\npoints A and B and O lies on C (O¢, r¢). A tangent\nCD is drawn to the circle C (O¢, r¢) at A. Then\nD\nA\nC\nO¢\n\nO\n\nB",
       "options": {
         "a": "–OAC = –OAB",
         "b": "–OAB = – AO¢O",
         "c": "–AO¢B = – AOB",
         "d": "–OAC = – AOB"
       },
-      "answer": "a",
-      "solution": "(b) –ADC = C A 30° B O D OB = OA = radius of the circle –AOB = 180 – (30 + 30) {Sum of angles of a triangle = 180°) ﬁ 120° 120 = 60°; because the angle sub2 tended by a chord at the centre is twice of what it can subtend at the circumference. Again, ABCD is a cyclic quadrilateral; So – ACB = 180° – 60° = 120° (because opposite angles of cyclic quadrilateral are supplementary)."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q022",
+      "id": "ch11-lod2-q022",
       "num": 22,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "PP¢ and QQ¢ are two direct common tangents to two\ncircles intersecting at points A and B. The common\nchord on produced intersects PP¢ at R and ¢QQ¢ at\nS. Which of the following is true?\nP\nR\nP¢\nS\nQ¢\nA\nB\nQ\n2\n2\n2\nP\nA C\nD\nB\nY",
+      "text": "PP¢ and QQ¢ are two direct common tangents to two\ncircles intersecting at points A and B. The common\nchord on produced intersects PP¢ at R and ¢QQ¢ at\nS. Which of the following is true?\nP\n\nR\n\nP¢\n\nS\n\nQ¢\n\nA\n\nB\nQ\n2\n2\n2\nP\n\nA C\nD\nB\n\nY",
       "options": {
         "a": "–CPA = –DPB",
         "b": "2 –CPA = –CPD",
         "c": "–APX = –ADP",
         "d": "–BPY = –CPD + –CPA"
       },
-      "answer": "b",
-      "solution": "(a) –BAC = 30° (◊.◊ angles subtended by an arc anywhere on the circumference in the same segment are equal). Then –ADB = Geometry and Mensuration IV.65 In DBAC; –x = 180° – (110° + 30°) = 40° (◊.◊ sum of angles of a triangle = 180°)"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q024",
+      "id": "ch11-lod2-q024",
       "num": 24,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "In a trapezium ABCD, AB || CD and AD = BC. If\nP is point of intersection of diagonals AC and BD,\nthen all of the following is wrong except",
       "options": {
@@ -591,28 +2291,28 @@
         "c": "PA ◊ AB = PD ◊ DC",
         "d": "PA ◊ PD = AB ◊ DC"
       },
-      "answer": "d",
-      "solution": "(d) Perimeter of the figure = 10 + 10 + 6 + 6π = 26 + 6π"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q025",
+      "id": "ch11-lod2-q025",
       "num": 25,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "All of the following is true except:\ngents and indirect common tangents of two circles\ndivide the line segment joining the two centres\nrespectively externally and internally in the ratio\nof their radii.\nCA bisects the angle C, then diagonal BD is\nparallel to the tangent at A to the circle through\nA, B, C, D.\n(O, r)\nfrom an external point T and OT intersects the\ncircle in P, then AP bisects the angle TAB.\non the hypotenuse AC, then\n(i) AC ◊ AD = AB2 and\n(ii) AC ◊ AD = BC 2\nDirections 26 and 27: Two cows are tethered at the\nmid-points of two adjacent sides of a square →eld.\nEach of them is tied with a rope in such a way that\ngrazing area of each cow is a semicircular region of\ndiameter equals to the side of square. If side of the\nsquare is 10 m, then answer the following questions.",
+      "text": "All of the following is true except:\n\ngents and indirect common tangents of two circles\ndivide the line segment joining the two centres\nrespectively externally and internally in the ratio\nof their radii.\n\nCA bisects the angle C, then diagonal BD is\nparallel to the tangent at A to the circle through\nA, B, C, D.\n(O, r)\nfrom an external point T and OT intersects the\ncircle in P, then AP bisects the angle TAB.\n\non the hypotenuse AC, then\n(i) AC ◊ AD = AB2 and\n(ii) AC ◊ AD = BC 2\n\t\t\nDirections 26 and 27: Two cows are tethered at the\nmid-points of two adjacent sides of a square →eld.\nEach of them is tied with a rope in such a way that\ngrazing area of each cow is a semicircular region of\ndiameter equals to the side of square. If side of the\nsquare is 10 m, then answer the following questions.",
       "options": {
         "a": "The points of intersection of direct common tan",
         "b": "In a cyclic quadrilateral ABCD, if the diagonal",
         "c": "If TA, TB are tangent segments to a circle C",
         "d": "If in a right triangle ABC, BD is the perpendicular"
       },
-      "answer": "c",
-      "solution": "(b) Since the lines AB and CD are parallel to each other, and the lines RD and AN are parallel, it means that the triangles RBF and NCI are similar to each other. Since the ratio of CN:BR = 1.333, if we take BR as 3, we will get CN as 4. This means that the ratio of BF:CI would also be 3:4. Also, the ratio of BR: RS:ST:TA = BF:FG:GH:HI = 3:5:2:7 (given). Hence, the correct answer is 3:5:2:7:4. 1 26 ∠BXC = 90° + ∠A (Using the logic that the angle 2 bisectors of two angles of a triangle form an angle that is equal to 900 + half the value of the third angle of the triangle). 1 = 90o + ¥ 60o = 90o + 30o = 120o 2"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q026",
+      "id": "ch11-lod2-q026",
       "num": 26,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "What is the area of the grazing →eld that is grazed\nby both the cows (in m2)?\n(p + 2)\n( -2 + p )\n(2p + 1)\n(2p - 1)",
       "options": {
@@ -621,28 +2321,28 @@
         "c": "25",
         "d": "25"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod1-q027",
+      "id": "ch11-lod2-q027",
       "num": 27,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "For the given situation, the area of the non-grazed\nregions(in m2) is:\nGeometry and Mensuration IV.47\n Directions for 28 and 29: In the rectangle PQRS,\nM and N are two points on SR and PQ respectively\nsuch that MN bisects SQ perpendicularly at O. If SR\n= 4 cm, RQ = 3 cm.",
+      "text": "For the given situation, the area of the non-grazed\nregions(in m2) is:\n\t\t Directions for 28 and 29: In the rectangle PQRS,\nM and N are two points on SR and PQ respectively\nsuch that MN bisects SQ perpendicularly at O. If SR\n= 4 cm, RQ = 3 cm.",
       "options": {
         "a": "75 + 12.5π",
         "b": "75 − 12.5π",
         "c": "75 + 25π",
         "d": "75 − 13π"
       },
-      "answer": "16",
-      "solution": "PR = = PQ 2 + QR 2 (Using Pythagoras Theorem) 152 + 202 = 625 = 25 cm QR 2 202 SR = = = 16 cm 25 PR \b (Property of a right-angled triangle) 28. 1 2 = 1 SQ PQ angle) 1 SQ 2 = SQ2 = 1 152 2 + + 1 QR 2 3 ¥ 62 = 9 3cm 2 (Using the for4 mula that the area of an equilateral triangle of side Required area = 3 ¥ a 2. 4 ( AB + BC ) - AC 20"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q028",
+      "id": "ch11-lod2-q028",
       "num": 28,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "What will be the value of MO/SO?",
       "options": {
@@ -651,13 +2351,13 @@
         "c": "0.65",
         "d": "None of these"
       },
-      "answer": "12",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod1-q029",
+      "id": "ch11-lod2-q029",
       "num": 29,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Find the area of quadrilateral SONP.\n2",
       "options": {
@@ -666,66 +2366,60 @@
         "c": "2.66 cm",
         "d": "None of these"
       },
-      "answer": "c",
-      "solution": "∆ABD ∼ ∆ACB A → SQ= 20 × 15 = 12 cm 25 area of ∆ ABC AC 2 Ê 5 ˆ 2 25 = =Á ˜ = area of ∆ ADB AB 2 Ë 3 ¯ 9 (Using the property that in similar figures, area ratios are squared of the side ratios) 25 Area of ∆ABC = 90 ¥ = 250 cm 2 9 side"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q030",
+      "id": "ch11-lod2-q030",
       "num": 30,
-      "lod": 1,
-      "type": "mcq",
-      "text": "A rectangle PQRS is inscribed in a semicircle of\ncentre O and diameter MN. M, S, R, N are collinear.\nRN = 2 cm and QR = 4 cm, then what is the area of\nthe semicircle not overlapped by the rectangle PQRS.\n(12.5π + 12) cm2 (12.5π − 12) cm2\n(12.5π + 24) cm2 (12.5π − 24) cm2",
-      "options": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
-      "answer": "a",
-      "solution": "Inradius of an equilateral triangle = (Formula 2 3 for inradius) R B Q PB2 = PQ2+BQ2 (Pythagoras Theorem) AR2 + PB2 = (PQ2 + RQ2) + (AQ2 + BQ2) =PR2 + AB2"
-    },
-    {
-      "id": "ch11-lod1-q031",
-      "num": 31,
-      "lod": 1,
+      "lod": 2,
       "type": "tita",
-      "text": "In the diagram given below, quadrilateral PQRS is\ndivided into six smaller triangles. The number inside\nthe triangle mentionsit’s area. If SN/NR = 1.25 then\n→nd the value of a + b.\nP\nM\n10",
+      "text": "A rectangle PQRS is inscribed in a semicircle of\ncentre O and diameter MN. M, S, R, N are collinear.\nRN = 2 cm and QR = 4 cm, then what is the area of\nthe semicircle not overlapped by the rectangle PQRS.\n(a) (12.5π + 12) cm2 (b) (12.5π − 12) cm2\n(c) (12.5π + 24) cm2 (d) (12.5π − 24) cm2",
       "options": {},
-      "answer": "300",
-      "solution": "Inradius of ∆ABC = = = 10cm 2 2 (Formula for inradius) Semiperimeter = s = 60 = 30cm 2 Area r= s Area = r ¥ s (Formula for area of any triangle using the semi-perimeter and inradius). a is given by the formula: = 10 × 30 = 300 cm 2"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q034",
+      "id": "ch11-lod2-q031",
+      "num": 31,
+      "lod": 2,
+      "type": "tita",
+      "text": "In the diagram given below, quadrilateral PQRS is\ndivided into six smaller triangles. The number inside\nthe triangle mentionsit’s area. If SN/NR = 1.25 then\n→nd the value of a + b.\nP\n\nM\n10",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch11-lod2-q034",
       "num": 34,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "In the →gure given below ΔPQR is a right angled\ntriangle with ∠P = 〖90°. The center of the incircle\nof the given triangle is O. Circles with centers O1\nand O2 touch the circle and two sides as shown in\nthe →gure. If the radius of the incircle of ΔPQR is 1\ncm and BR : BQ = 2:3, then →nd the value of r1 : r2\n(where r1 is the radius of circle with center O1 and\nr2 is the radius of circle with center O2).\nR\nO1\nB\nO\nO2\nP\n20\nQ\nA\n(33 - 11 5 - 6 10 + 10 2) / 18\na\nO\n(33 + 11 5 - 6 10 - 10 2) / 18\n(33 - 11 5 + 6 10 - 10 2) / 18\nb\n20\nQ\n30\nS\nN\nR\n Direction for 32 and 33: In the →gure given below: QM, PN, RT are the altitudes of an isosceles\ntriangle and PQ = QR = 15 cm and PR = 18 cm.\nAnswer the following questions:\n(33 + 11 5 - 6 10 - 10 2) / 18\n Direction for 35 and 36: A circle is inscribed in a\ntriangle PQR. It touches side PQ at point X. If ∠P\n= 60o PX = 3 cm, QX = 5 cm, then answer the following questions.\nP\n3 cm\nQ\n60°\nX\n5 cm\n15 cm\nT\nN\nQ\n15 cm",
+      "text": "In the →gure given below ΔPQR is a right angled\ntriangle with ∠P = 〖90°. The center of the incircle\nof the given triangle is O. Circles with centers O1\nand O2 touch the circle and two sides as shown in\nthe →gure. If the radius of the incircle of ΔPQR is 1\ncm and BR : BQ = 2:3, then →nd the value of r1 : r2\n(where r1 is the radius of circle with center O1 and\nr2 is the radius of circle with center O2).\nR\n\nO1\nB\n\nO\nO2\n\nP\n\n20\n\nQ\n\nA\n\n(a) (33 - 11 5 - 6 10 + 10 2) / 18\n\na\n\nO\n\n(b) (33 + 11 5 - 6 10 - 10 2) / 18\n(c) (33 - 11 5 + 6 10 - 10 2) / 18\n\nb\n\n20\nQ\n\n30\n\nS\nN\n\nR\n\t\t Direction for 32 and 33: In the →gure given below: QM, PN, RT are the altitudes of an isosceles\ntriangle and PQ = QR = 15 cm and PR = 18 cm.\nAnswer the following questions:\n\n(d) (33 + 11 5 - 6 10 - 10 2) / 18\n\t\t Direction for 35 an",
       "options": {
-        "a": "42",
         "b": "52",
-        "c": "54",
-        "d": ""
+        "d": "60",
+        "a": "42",
+        "c": "54"
       },
-      "answer": "d",
-      "solution": "According to the Alternate Segment Theorem: ∠SRQ = = ∠STR = 60°  TSUR is a cyclic quadrilateral. Therefore ∠STR +∠SUR =180° ∠SUR = 180° − 60° = 120°"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q035",
+      "id": "ch11-lod2-q035",
       "num": 35,
-      "lod": 1,
-      "type": "mcq",
-      "text": "Find the radius of the circle.\n5\n5\n3\n7\nO\nM\nP\n18 cm",
+      "lod": 2,
+      "type": "tita",
+      "text": "Find the radius of the circle.\n5\n5\n3\n\n(b)\n7\n7\n\nO\n\nM\nP\n\n18 cm",
       "options": {
-        "a": "3",
-        "b": "7"
+        "a": "3"
       },
-      "answer": "b",
-      "solution": "AR2=AQ2 + RQ2 (Using Pythagoras Theorem) P 1 202 20 2 × 152 2 (Property of a right-angled tri- Side = 2 3 ¥ 3 = 6cm 2 20 + 15"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q032",
+      "id": "ch11-lod2-q032",
       "num": 32,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Find the ratio of QT/QO = ?",
       "options": {
@@ -734,43 +2428,44 @@
         "c": "0.7",
         "d": "0.9"
       },
-      "answer": "111",
-      "solution": "3 × (Sum of squares of the sides of a triangle) = 4 × (Sum of squares of the medians of the triangle). 3 2 6 + 7 2 + 82 = Sum of square of medians 4 3 = [149] = 111.75cm 2 4 ( )"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q033",
+      "id": "ch11-lod2-q033",
       "num": 33,
-      "lod": 1,
+      "lod": 2,
       "type": "tita",
-      "text": "The value of OT is:\nR\nR\n5\n17",
+      "text": "The value of OT is:\n\nR\n\nR\n\n5\n\n17",
       "options": {
         "d": "None of these"
       },
-      "answer": "b",
-      "solution": "In ∆QTR: ∠TOR = 180°−(90° + 30°)=180°−120°=60° (Angles of a triangle add up to 180) In ∆QPS : –PSQ = 180o - (60o + 40o ) = 80o"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch11-lod1-q036",
+      "id": "ch11-lod2-q036",
       "num": 36,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "Find the area of the shaded portion\n(c)",
+      "text": "Find the area of the shaded portion\nand PS||QR. TU||SR and TU passes through the point\nof intersection of PR & WS. If the ratio of the area of\n∆POW to ∆SOR is 9:25, then answer the following\nquestions:\nP\nT\n\nW\n\nQ\nX\n\nO\n\nU\n\n\t\t Which of the following statements would be suf→cient to determine the length of AC?",
       "options": {
-        "a": "10 3 - 3p cm 2",
-        "b": "10 3 - 13p cm2",
-        "c": "3"
+        "a": "Statement I and Statement II.",
+        "b": "Statement I and Statement III.",
+        "c": "Statement II and III.",
+        "d": "All three statements."
       },
-      "answer": "c",
-      "solution": "AB  CD therefore ∆ABF and ∆CDF are similar to each other DF b = (i) BF a \t\b Similarly ∆BCD and ∆BEF are similar each other: IV.66 How to Prepare for Quantitative Aptitude for CAT BD b = BF c \t\b (ii) By adding (i) and (ii), we get CD = (4)2 + ( 2)2 = 20 cm \u0007( Using Pythagoras theorem)."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch11-lod2-q042",
       "num": 42,
       "lod": 2,
       "type": "tita",
-      "text": "In ∆ RPQ, ∠P = 120o angle bisector of ∠P meets\nRQ at S. PQ = 9 cm, PS = 6 cm. Then the value of\nPR (in cm) is:\nR\nS\nR",
+      "text": "In ∆ RPQ, ∠P = 120o angle bisector of ∠P meets\nRQ at S. PQ = 9 cm, PS = 6 cm. Then the value of\nPR (in cm) is:\nR\n\nS\n\nR",
       "options": {},
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -785,7 +2480,7 @@
         "c": "41:25",
         "d": "None of these"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -800,7 +2495,7 @@
         "c": "50/33 cm",
         "d": "100/67 cm2"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -808,13 +2503,12 @@
       "num": 39,
       "lod": 2,
       "type": "mcq",
-      "text": "In the given →gure PQ and PR are tangents of a\nsemicircle. Center ‘O’ of this semicircle lies on QR.\nIf QO = 2 cm and OR = 4 cm. If ∠P = 90o the radius\nof the semicircle is:\nS\nQ\nP\n Direction for question 43 and 44: In the diagram\ngiven below in ∆ABC in which AB = 5 cm, BC =\n12 cm, AC = 13 cm. Side AB and BC are divided\nin n-equal parts by n − 1 equally spaced points as\nshown in the diagram. A1 joined to B1, A2 joined to\nB2 and so on, then answer the following questions:\nP\nA\nA1\nA2\n900\nA3\n13 cm\n5 cm\nR\nQ\n2\nO\n4\n(b)\n5\ncm\n5 6 cm",
+      "text": "In the given →gure PQ and PR are tangents of a\nsemicircle. Center ‘O’ of this semicircle lies on QR.\nIf QO = 2 cm and OR = 4 cm. If ∠P = 90o the radius\nof the semicircle is:\n\nS\n\nQ\n\nP\n\n\t\t Direction for question 43 and 44: In the diagram\ngiven below in ∆ABC in which AB = 5 cm, BC =\n12 cm, AC = 13 cm. Side AB and BC are divided\nin n-equal parts by n − 1 equally spaced points as\nshown in the diagram. A1 joined to B1, A2 joined to\nB2 and so on, then answer the following questions:\n\nP\n\nA\nA1\nA2\n\n900\n\nA3\n13 cm\n\n5 cm\n\nR\n\nQ\n2\n\nO\n\n4\n(b)\n(d)\n\n4\n5\n\ncm\n\n5 6 cm",
       "options": {
         "a": "5 4 cm",
-        "c": "5 3 cm",
-        "d": "4"
+        "c": "5 3 cm"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -829,7 +2523,7 @@
         "c": "24",
         "d": "23"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -837,9 +2531,9 @@
       "num": 41,
       "lod": 2,
       "type": "tita",
-      "text": "Triangle ABC is a right angled triangle. D and E\nare mid points of AB and BC respectively. Read the\nfollowing statements.\nI. AE = 19\nII. CD = 22\nIII. Angle B is a right angle.\nAn−1\nB\nBn−1\nB3 B2 B1\nC\n12 cm",
+      "text": "Triangle ABC is a right angled triangle. D and E\nare mid points of AB and BC respectively. Read the\nfollowing statements.\nI. AE = 19\nII. CD = 22\nIII. Angle B is a right angle.\n\nAn−1\nB\n\nBn−1\n\nB3 B2 B1\n\nC\n\n12 cm",
       "options": {},
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -849,7 +2543,7 @@
       "type": "tita",
       "text": "The value of ‘n’ for which An−1Bn−1 + An−2Bn−2 +\nAn−3Bn−3 + … + AC = 130 cm is _",
       "options": {},
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -857,9 +2551,9 @@
       "num": 44,
       "lod": 2,
       "type": "tita",
-      "text": "What will be the value of n for which:\n Area of ∆ABC + Area of ∆A1 BB1 + Area of ∆A2BB2\n+ Area of ∆A3 BB3 + … + Area of ∆An−1 BB(n−1) = 66\ncm2\n Directions for 45-46: Two circles of radius 3 cm and\n6 cm intersect each other in such a way that their\ncommon chord is of maximum possible length. Then\nanswer the following questions:",
+      "text": "What will be the value of n for which:\n\t\t Area of ∆ABC + Area of ∆A1 BB1 + Area of ∆A2BB2\n+ Area of ∆A3 BB3 + … + Area of ∆An−1 BB(n−1) = 66\ncm2\n\t\t Directions for 45-46: Two circles of radius 3 cm and\n6 cm intersect each other in such a way that their\ncommon chord is of maximum possible length. Then\nanswer the following questions:",
       "options": {},
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -867,14 +2561,14 @@
       "num": 45,
       "lod": 2,
       "type": "mcq",
-      "text": "What is the area of the triangle formed by joining\nthe points of intersection of the two circles to the\ncenter of the bigger circle\n2\nGeometry and Mensuration IV.49",
+      "text": "What is the area of the triangle formed by joining\nthe points of intersection of the two circles to the\ncenter of the bigger circle\n2",
       "options": {
         "a": "7 3 cm2",
         "b": "9 3 cm2",
         "c": "10 3 cm",
         "d": "12 3 cm2"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -882,14 +2576,14 @@
       "num": 46,
       "lod": 2,
       "type": "mcq",
-      "text": "What is the area of the region that is common to the\ntwo circles (in cm2)?\nÈ 21\n˘\nÈ 21\n˘\nÎ2\n˚\nÎ2\n˚\n11\n11\nÍÎ 2\n˙˚\nÍÎ 2\n˙˚\n Direction for 47 and 48: In the given diagram PQR\nan isosceles right angle triangle with the center O\ntouches the side QR at W, PR at X and PQ at Y. If\nPR = 3 2 cm then answer the following questions:\nP\nX\nO\n3\ncm 2\n2",
+      "text": "What is the area of the region that is common to the\ntwo circles (in cm2)?\nÈ 21\n˘\nÈ 21\n˘\nÎ2\n˚\nÎ2\n˚\n11\n11\nÍÎ 2\n˙˚\nÍÎ 2\n˙˚\n\t\t Direction for 47 and 48: In the given diagram PQR\nan isosceles right angle triangle with the center O\ntouches the side QR at W, PR at X and PQ at Y. If\nPR = 3 2 cm then answer the following questions:\nP\n\nX\n\nO\n\n3\n\ncm 2\n2",
       "options": {
         "a": "Í p + 9 3 ˙",
         "b": "Í p - 9 3 ˙",
         "c": "È + 9 3 ˘",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -899,7 +2593,7 @@
       "type": "tita",
       "text": "In isosceles triangle PQR PQ = PR, A and B are\npoints on PR and PQ respectively such that AB||QR,\nC and D are the points on QR such that AC||PD. If\nPQ = 10 cm, PA:AR = 2:3 and ∠APD = ∠BAC, then\n→nd the length of DC (in cm.)",
       "options": {},
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -907,11 +2601,9 @@
       "num": 52,
       "lod": 2,
       "type": "tita",
-      "text": "In a ∆PQR, X, Y, Z are points on sides PQ, QR, PR\nsuch that PX:XQ = 1:1, PZ:ZR = 1:2, QY:YR = 2:3.\nWhat is the ratio of the area of quadrilateral XYRZ\nto that of ∆PXZ?\n Directions for 53 and 54: In the diagram given\nbelow ED is a tangent to the circle and line AE\nintersects the circle at point C. B is a point on AC\nsuch that DB is angle bisector of ∠ADC. If ∠ADB\n= 30o and ∠EDC : ∠ECD = 2 : 5, then answer the\nfollowing questions.\nY\nQ\nW\nR\nA\nB\nC\nE",
-      "options": {
-        "c": "D"
-      },
-      "answer": "29%",
+      "text": "In a ∆PQR, X, Y, Z are points on sides PQ, QR, PR\nsuch that PX:XQ = 1:1, PZ:ZR = 1:2, QY:YR = 2:3.\nWhat is the ratio of the area of quadrilateral XYRZ\nto that of ∆PXZ?\n\t\t Directions for 53 and 54: In the diagram given\nbelow ED is a tangent to the circle and line AE\nintersects the circle at point C. B is a point on AC\nsuch that DB is angle bisector of ∠ADC. If ∠ADB\n= 30o and ∠EDC : ∠ECD = 2 : 5, then answer the\nfollowing questions.\n\n(c)\n\nD\n\nY\n\nQ\n\nW\n\nR\n\nA\n\nB\n\nC\n\nE",
+      "options": {},
+      "answer": null,
       "solution": null
     },
     {
@@ -919,14 +2611,14 @@
       "num": 47,
       "lod": 2,
       "type": "mcq",
-      "text": "The ratio PX:QW:PY is:\n1 ˆ\nÊ\nË\n2¯\n( 2 – 1):1\n1ˆ\nÊ\nË\n2¯",
+      "text": "The ratio PX:QW:PY is:\n\n1 ˆ\nÊ\n\nË\n2¯\n\n( 2 – 1):1\n\n1ˆ\nÊ\nË\n2¯",
       "options": {
         "b": "1: Á1 ˜ :1",
         "a": "1:",
         "c": "1: Á 2 - ˜ :1",
         "d": "None of these"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -934,13 +2626,13 @@
       "num": 48,
       "lod": 2,
       "type": "mcq",
-      "text": "The area of quadrilateral PYOX:\n( 2 + 1) cm2\n( 2 – 1) cm2\n9\n9\n(c)\n2 - 1 cm 2\n2\n2",
+      "text": "The area of quadrilateral PYOX:\n( 2 + 1) cm2\n( 2 – 1) cm2\n9\n9\n(c)\n\n2 - 1 cm 2\n2\n2",
       "options": {
         "a": "9",
         "b": "9",
         "d": "2 + 1 cm 2"
       },
-      "answer": "6",
+      "answer": null,
       "solution": null
     },
     {
@@ -948,9 +2640,9 @@
       "num": 49,
       "lod": 2,
       "type": "tita",
-      "text": "In the given →gure ∆ABC is an equilateral triangle.\nBP ⊥ AC and PR ⊥ AB, PQ ⊥ BC. The ratio of area\nof ∆PRB and ∆PQC is\n(\n)\n(\n)\nA\nR\nP",
+      "text": "In the given →gure ∆ABC is an equilateral triangle.\nBP ⊥ AC and PR ⊥ AB, PQ ⊥ BC. The ratio of area\nof ∆PRB and ∆PQC is\n\n(\n\n)\n\n(\n\n)\n\nA\n\nR\n\nP",
       "options": {},
-      "answer": "16",
+      "answer": null,
       "solution": null
     },
     {
@@ -960,7 +2652,7 @@
       "type": "tita",
       "text": "∠DEC (in degrees) is:",
       "options": {},
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -970,7 +2662,7 @@
       "type": "tita",
       "text": "If AB:AC = 1:3 and DC = 6 cm. Then AD (in cm)\nis",
       "options": {},
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -978,14 +2670,14 @@
       "num": 55,
       "lod": 2,
       "type": "mcq",
-      "text": "In a regular polygon, the number of sides is ‘p’ times\nthe number of diagonals. If the interior angle of the\npolygon is x, then x = ?\np (2 + P)\n( P + 1)\n3P + 2\n3p ( P + 2)\n(c)\n3P + 2\n Direction for 56 and 57:In the diagram given below,\n∆PQR, ∆QTR are right-angled triangles with ∠PQR\n= ∠QTR = 90o, PR = 25 cm, PQ = 15 cm, QS = 12\ncm, RT = 16 cm. Then answer the following questions:\nP\nB\nQ",
+      "text": "In a regular polygon, the number of sides is ‘p’ times\nthe number of diagonals. If the interior angle of the\npolygon is x, then x = ?\np (2 + P)\n( P + 1)\n\n3P + 2\n3p ( P + 2)\n(c)\n\n3P + 2\n\t\t Direction for 56 and 57:In the diagram given below,\n∆PQR, ∆QTR are right-angled triangles with ∠PQR\n= ∠QTR = 90o, PR = 25 cm, PQ = 15 cm, QS = 12\ncm, RT = 16 cm. Then answer the following questions:\nP\n\nB\n\nQ",
       "options": {
         "a": "4:1",
         "b": "3:1",
         "d": "None of these",
         "c": "2:1"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -993,27 +2685,14 @@
       "num": 50,
       "lod": 2,
       "type": "mcq",
-      "text": "In the previous question if length of side of equilateral triangle is 4 cm, then area of ∆RPQ is:\ncm\n2\nC\nR\nQ\nO\n3 3 2\ncm\n4\nT",
-      "options": {
-        "a": "3 3 2",
-        "b": "S"
-      },
-      "answer": "4096",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q056",
-      "num": 56,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find the ratio of RO:OQ =",
+      "text": "In the previous question if length of side of equilateral triangle is 4 cm, then area of ∆RPQ is:\n\ncm\n2\n\n(b)\n\nS\n\nC\n\nR\n\nQ\n\nO\n\n3 3 2\ncm\n4\nT",
       "options": {
         "a": "3: 4",
         "b": "5: 4",
         "c": "16: 9",
         "d": "25: 16"
       },
-      "answer": "814",
+      "answer": null,
       "solution": null
     },
     {
@@ -1028,7 +2707,7 @@
         "c": "19.20",
         "d": "19.60"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1038,7 +2717,7 @@
       "type": "tita",
       "text": "In a triangle ABC, AB = 3, BC = 4 and CA = 5. Point\nD is the midpoint of AB, point E is on the segment\nAC and point F is on the segment BC. If AE = 1.5\nand BF = 0.5 then ∠DEF =\nA. 30o\nB. 60o\no\nC. 45\nD. 75o\n59.In a ∆PQR three points X, Y, Z lie on PQ, QR, PR\nrespectively and if PX:QZ = 1:2, QX:QZ = 3:2 and\nPY:YR = 1:3, then which of the following options is\ntrue.",
       "options": {},
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1053,7 +2732,7 @@
         "c": "3773 feet",
         "d": "3313 feet"
       },
-      "answer": "100",
+      "answer": null,
       "solution": null
     },
     {
@@ -1061,14 +2740,14 @@
       "num": 64,
       "lod": 2,
       "type": "mcq",
-      "text": "In a circular →eld, AOB and COD are two mutually\nperpendicular diameters having length of 4 meters. X\nis the mid-point of OA. Y is a point on the circumference such that ∠YOD = 30o. Which of the following\ncorrectly gives the relation among the three alternate\npaths from X to Y?\nA\nP\nX\nX\nY\nC\nO\nD\nY\nB\nQ\nR\nZ\nQZ:QR.",
+      "text": "In a circular →eld, AOB and COD are two mutually\nperpendicular diameters having length of 4 meters. X\nis the mid-point of OA. Y is a point on the circumference such that ∠YOD = 30o. Which of the following\ncorrectly gives the relation among the three alternate\npaths from X to Y?\nA\n\nP\n\nX\nX\n\nY\n\nC\n\nO\n\nD\nY\nB\n\nQ\n\nR\n\nZ\nQZ:QR.",
       "options": {
         "a": "Area of ∆XYZ is maximum when QZ:QR = 1:2",
         "b": "Area of ∆XYZ is minimum when QZ:QR = 2:3",
         "c": "Area of ∆XYZ is maximum when QZ:QR = 2:3",
         "d": "Area of ∆XYZ will be same for any value of"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1078,7 +2757,7 @@
       "type": "tita",
       "text": "ABCD is a square with sides of length 10 units. OCD\nis an isosceles triangle with base CD. OC cuts AB\nat point Q and OD cuts AB at point P. The area of\ntrapezoid PQCD is 80 square units. The altitude from\nO of the triangle OPQ is:",
       "options": {},
-      "answer": "2",
+      "answer": null,
       "solution": null
     },
     {
@@ -1086,14 +2765,14 @@
       "num": 61,
       "lod": 2,
       "type": "mcq",
-      "text": "If D is the midpoint of side BC of a triangle ABC\nand AD is perpendicular to AC then:\nA\nB\nD\nC",
+      "text": "If D is the midpoint of side BC of a triangle ABC\nand AD is perpendicular to AC then:\nA\n\nB\n\nD\n\nC",
       "options": {
         "a": "3AC2 = BC2 − AB2",
         "b": "3BC2 = AC2 − 3AB2",
         "c": "5AB2 = BC2 + AC2",
         "d": "None of these."
       },
-      "answer": "112m2",
+      "answer": null,
       "solution": null
     },
     {
@@ -1108,7 +2787,7 @@
         "c": "XODY : XOBY : XADY :: 4.04 : 5.35 : 5.25",
         "d": "XADY : XOBY : XODY :: 5.19 : 5.09 : 4.04"
       },
-      "answer": "2",
+      "answer": null,
       "solution": null
     },
     {
@@ -1118,7 +2797,7 @@
       "type": "tita",
       "text": "ABCD is a parallelogram with ∠ABC = 60o. If the\nlonger diagonal is of length 7 cm and the area of\n3\ncm2, then the\nthe parallelogram ABCD is 15\n2\nperimeter of the parallelogram (in cm) is:",
       "options": {},
-      "answer": "16",
+      "answer": null,
       "solution": null
     },
     {
@@ -1133,7 +2812,7 @@
         "c": "480000",
         "d": "506447"
       },
-      "answer": "900",
+      "answer": null,
       "solution": null
     },
     {
@@ -1148,7 +2827,7 @@
         "c": "5.0 meters",
         "d": "3.0 meters"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1156,14 +2835,14 @@
       "num": 68,
       "lod": 2,
       "type": "mcq",
-      "text": "There are two squares S1 and S2 with areas 8 and\n9 units, respectively. S1 is inscribed within S2, with\none corner of S1 on each side S2. The corners of the\nsmaller square divides the sides of the bigger square\ninto two segments, one of length ‘a’ and the other\nof length ‘b’, where, b > a.\n A possible value of ‘b/a’, is:\nGeometry and Mensuration IV.51\n–A\n–C",
+      "text": "There are two squares S1 and S2 with areas 8 and\n9 units, respectively. S1 is inscribed within S2, with\none corner of S1 on each side S2. The corners of the\nsmaller square divides the sides of the bigger square\ninto two segments, one of length ‘a’ and the other\nof length ‘b’, where, b > a.\n\t\t A possible value of ‘b/a’, is:\n–A\n–C",
       "options": {
         "a": "≥5 and <8",
         "b": "≥8 and <11",
         "c": "≥11 and <14",
         "d": "≥14 and <17"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1178,7 +2857,7 @@
         "c": "AB2 + BC2 = AC2",
         "d": "None of these"
       },
-      "answer": "510",
+      "answer": null,
       "solution": null
     },
     {
@@ -1186,9 +2865,9 @@
       "num": 70,
       "lod": 2,
       "type": "tita",
-      "text": "A city has a park shaped as a right angled triangle.\nThe length of the longest side of this park is 80 m.\nThe Mayor of the city wants to construct three paths\nfrom the corner point opposite to the longest side\nsuch that these three paths divide the longest side\ninto four equal segments. Determine the sum of the\nsquares of the lengths of the three paths (in m2)\nSpace for Rough Work",
+      "text": "A city has a park shaped as a right angled triangle.\nThe length of the longest side of this park is 80 m.\nThe Mayor of the city wants to construct three paths\nfrom the corner point opposite to the longest side\nsuch that these three paths divide the longest side\ninto four equal segments. Determine the sum of the\nsquares of the lengths of the three paths (in m2)\n\nSpace for Rough Work",
       "options": {},
-      "answer": "20",
+      "answer": null,
       "solution": null
     },
     {
@@ -1196,1019 +2875,19 @@
       "num": 71,
       "lod": 2,
       "type": "mcq",
-      "text": "In a rectangle PQRS, PQ = 14 cm, X is a point on\nSR such that SX:XR = 4:3 and QX = 10 cm. If ∠PXQ\n= a, ∠XPQ = b, ∠XQP = c, then which of the following is correct?\nP\nS\nb\n8 cm\na\n14 cm\nX\nc\n6 cm\n10 cm\nQ\nR\nmensuration\nLevel of Dif→culty (I)",
+      "text": "In a rectangle PQRS, PQ = 14 cm, X is a point on\nSR such that SX:XR = 4:3 and QX = 10 cm. If ∠PXQ\n= a, ∠XPQ = b, ∠XQP = c, then which of the following is correct?\nP\n\nS\nb\n\n8 cm\na\n\n14 cm\n\nX\n\nc\n\n6 cm\n10 cm\n\nQ\nR",
       "options": {
         "a": "a > b > c",
         "c": "a > c > b",
         "b": "b > c > a",
         "d": "c > b > a"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q001",
-      "num": 1,
-      "lod": 2,
-      "type": "mcq",
-      "text": "In a right angled triangle, →nd the hypotenuse if\nbase and perpendicular are respectively 36015 cm\nand 48020 cm.",
-      "options": {
-        "a": "69125 cm",
-        "b": "60025 cm",
-        "c": "391025 cm",
-        "d": "60125 cm"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q002",
-      "num": 2,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The perimeter of an equilateral triangle is 72 3 m.\nFind its height.",
-      "options": {
-        "a": "63 meters",
-        "b": "24 meters",
-        "c": "18 meters",
-        "d": "36 meters"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q003",
-      "num": 3,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The inner circumference of a circular track is 440\ncm. The track is 14 cm wide. Find the diameter of\nthe outer circle of the track.",
-      "options": {
-        "a": "84 cm",
-        "b": "168 cm",
-        "c": "336 cm",
-        "d": "77 cm"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q004",
-      "num": 4,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A race track is in the form of a ring whose inner and\nouter circumference are 352 meter and 396 meter\nrespectively. Find the width of the track.",
-      "options": {
-        "a": "7 meters",
-        "b": "14 meters",
-        "c": "14p meters",
-        "d": "7p meters"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q005",
-      "num": 5,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The outer circumference of a circular track is 220\nmeter. The track is 7 meter wide everywhere. Calculate the cost of levelling the track at the rate of\n50 paise per square meter.",
-      "options": {
-        "a": "` 1556.5",
-        "b": "` 3113",
-        "c": "` 593",
-        "d": "` 693"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q006",
-      "num": 6,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find the area of a quadrant of a circle whose circumference is 44 cm\n2",
-      "options": {
-        "a": "77 cm2",
-        "b": "38.5 cm2",
-        "c": "19.25 cm",
-        "d": "19.25p cm2"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q007",
-      "num": 7,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A pit 7.5 meter long, 6 meter wide and 1.5 meter deep\nis dug in a →eld. Find the volume of soil removed\nin cubic meters.",
-      "options": {
-        "a": "135 m3",
-        "b": "101.25 m3",
-        "c": "50.625 m3",
-        "d": "67.5 m3"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q008",
-      "num": 8,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find the length of the longest pole that can be placed\nin an indoor stadium 24 meter long, 18 meter wide\nand 16 meter high.",
-      "options": {
-        "a": "30 meters",
-        "b": "25 meters",
-        "c": "34 meters",
-        "d": "580 meters"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q009",
-      "num": 9,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The length, breadth and height of a room are in the\nratio of 3 : 2 : 1. If its volume be 1296 m3, →nd its\nbreadth",
-      "options": {
-        "a": "18 meters",
-        "b": "18 meters",
-        "c": "16 meters",
-        "d": "12 meters"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q010",
-      "num": 10,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The volume of a cube is 216 cm3. Part of this cube\nis then melted to form a cylinder of length 8 cm.\nFind the volume of the cylinder.",
-      "options": {
-        "a": "342 cm3",
-        "b": "216 cm3",
-        "c": "36 cm3",
-        "d": "Data inadequate"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q011",
-      "num": 11,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The whole surface of a rectangular block is 8788\nsquare cm. If length, breadth and height are in the\nratio of 4 : 3 : 2, →nd length.",
-      "options": {
-        "a": "26 cm",
-        "b": "52 cm",
-        "c": "104 cm",
-        "d": "13 cm"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q012",
-      "num": 12,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Three metal cubes with edges 6 cm, 8 cm and 10\ncm respectively are melted together and formed into\na single cube. Find the side of the resulting cube.",
-      "options": {
-        "a": "11 cm",
-        "b": "12 cm",
-        "c": "13 cm",
-        "d": "24 cm"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q013",
-      "num": 13,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find curved and total surface area of a conical flask\nof radius 6 cm and height 8 cm.",
-      "options": {
-        "a": "60p, 96p",
-        "b": "20p, 96p",
-        "c": "60p, 48p",
-        "d": "30p, 48p"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q014",
-      "num": 14,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The volume of a right circular cone is 100p cm3 and\nits height is 12 cm. Find its curved surface area.",
-      "options": {
-        "a": "130 p cm2",
-        "b": "65 p cm2",
-        "c": "204 p cm2",
-        "d": "65 cm2"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q015",
-      "num": 15,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The diameters of two cones are equal. If their slant\nheight be in the ratio 5 : 7, →nd the ratio of their\ncurved surface areas.",
-      "options": {
-        "a": "25 : 7",
-        "b": "25 : 49",
-        "c": "5 : 49",
-        "d": "5 : 7"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q016",
-      "num": 16,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The curved surface area of a cone is 2376 square\ncm and its slant height is 18 cm. Find the diameter.",
-      "options": {
-        "a": "6 cm",
-        "b": "18 cm",
-        "c": "84 cm",
-        "d": "12 cm"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q017",
-      "num": 17,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The ratio of radii of a cylinder to a that of a cone is\n1 : 2. If their heights are equal, →nd the ratio of their\nvolumes?",
-      "options": {
-        "a": "1 : 3",
-        "b": "2 : 3",
-        "c": "3 : 4",
-        "d": "3 : 1"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q018",
-      "num": 18,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A silver wire when bent in the form of a square,\nencloses an area of 484 cm2. Now if the same wire\nis bent to form a circle, the area enclosed by it would\nbe\nGeometry and Mensuration IV.53",
-      "options": {
-        "a": "308 cm2",
-        "b": "196 cm2",
-        "c": "616 cm2",
-        "d": "88 cm2"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q019",
-      "num": 19,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The circumference of a circle exceeds its diameter\nby 16.8 cm. Find the circumference of the circle.",
-      "options": {
-        "a": "12.32 cm",
-        "b": "49.28 cm",
-        "c": "58.64 cm",
-        "d": "24.64 cm"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q020",
-      "num": 20,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A bicycle wheel makes 5000 revolutions in moving\n11 km. What is the radius of the wheel?",
-      "options": {
-        "a": "70 cm",
-        "b": "135 cm",
-        "c": "17.5 cm",
-        "d": "35 cm"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q021",
-      "num": 21,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The volume of a right circular cone is 100p cm3 and\nits height is 12 cm. Find its slant height.",
-      "options": {
-        "a": "13 cm",
-        "b": "16 cm",
-        "c": "9 cm",
-        "d": "26 cm"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q022",
-      "num": 22,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The short and the long hands of a clock are 4 cm\nand 6 cm long respectively. What will be sum\nof distances travelled by their tips in 4 days?\n(Take p = 3.14)",
-      "options": {
-        "a": "954.56 cm",
-        "b": "3818.24 cm",
-        "c": "2909.12 cm",
-        "d": "2703.56 cm"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q023",
-      "num": 23,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The surface areas of two spheres are in the ratio of\n1 : 4. →nd the ratio of their volumes.",
-      "options": {
-        "a": "1 : 2",
-        "b": "1 : 8",
-        "c": "1 : 4",
-        "d": "2 : 1"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q024",
-      "num": 24,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The outer and inner diameters of a spherical shell\nare 10 cm and 9 cm respectively. Find the volume\nof the metal contained in the shell. (Use p = 22/7)\n3",
-      "options": {
-        "b": "141.95 cm3",
-        "a": "6956 cm3",
-        "c": "283.9 cm",
-        "d": "478.3 cm3"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q025",
-      "num": 25,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The radii of two spheres are in the ratio of 1 : 2. Find\nthe ratio of their surface areas.",
-      "options": {
-        "a": "1 : 3",
-        "b": "2 : 3",
-        "c": "1 : 4",
-        "d": "3 : 4"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q026",
-      "num": 26,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A sphere of radius r has the same volume as that\nof a cone with a circular base of radius r. Find the\nheight of cone.\n(2/3)r",
-      "options": {
-        "a": "2r",
-        "b": "r/3",
-        "c": "4r",
-        "d": ""
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q027",
-      "num": 27,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find the number of bricks, each measuring 25 cm\n× 12.5 cm × 7.5 cm, required to construct a wall\n12 m long, 5 m high and 0.25 m thick, while the\nsand and cement mixture occupies 5% of the total\nvolume of wall.",
-      "options": {
-        "a": "6080",
-        "b": "3040",
-        "c": "1520",
-        "d": "12160"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q028",
-      "num": 28,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A road that is 7 m wide surrounds a circular path\nwhose circumference is 352 m. What will be the area\nof the road?\n2",
-      "options": {
-        "b": "654.5 m2",
-        "a": "2618 m2",
-        "c": "1309 m",
-        "d": "5236 m2"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q029",
-      "num": 29,
-      "lod": 2,
-      "type": "mcq",
-      "text": "In a shower, 10 cm of rain falls. What will be the volume of water that falls on 1 hectare area of ground?\n3",
-      "options": {
-        "a": "500 m3",
-        "b": "650 m3",
-        "c": "1000 m",
-        "d": "750 m3"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q030",
-      "num": 30,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Seven equal cubes each of side 5 cm are joined\nend to end. Find the surface area of the resulting\ncuboid.",
-      "options": {
-        "a": "750 cm2",
-        "b": "1500 cm2",
-        "c": "2250 cm2",
-        "d": "700 cm2"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q031",
-      "num": 31,
-      "lod": 2,
-      "type": "mcq",
-      "text": "In a swimming pool measuring 90 m by 40 m, 150\nmen take a dip. If the average displacement of water\nby a man is 8 cubic meters, what will be the rise in\nthe water level?",
-      "options": {
-        "a": "30 cm",
-        "b": "50 cm",
-        "c": "20 cm",
-        "d": "33.33 cm"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q032",
-      "num": 32,
-      "lod": 2,
-      "type": "mcq",
-      "text": "How many meters of cloth 5 m wide will be required\nto make a conical tent, the radius of whose base is\n7 m and height is 24 m?",
-      "options": {
-        "a": "55 m",
-        "b": "330 m",
-        "c": "220 m",
-        "d": "110 m"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q033",
-      "num": 33,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Two cones have their heights in the ratio 1 : 2 and the\ndiameters of their bases are in the ratio 2 : 1. What\nwill be the ratio of their volumes?",
-      "options": {
-        "a": "4 : 1",
-        "b": "2 : 1",
-        "c": "3 : 2",
-        "d": "1 : 1"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q034",
-      "num": 34,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A conical tent is to accommodate 10 persons. Each\nperson must have 6 m2 space to sit and 30 m3 of air\nto breathe. What will be the height of the cone?",
-      "options": {
-        "a": "37.5 m",
-        "b": "150 m",
-        "c": "75 m",
-        "d": "None of these"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q035",
-      "num": 35,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A closed wooden box measures externally 10 cm\nlong, 8 cm broad and 6 cm high. Thickness of wood\nis 0.5 cm. Find the volume of wood used.",
-      "options": {
-        "a": "230 cubic cm",
-        "b": "165 cubic cm",
-        "c": "330 cubic cm",
-        "d": "300 cubic cm."
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q036",
-      "num": 36,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A cuboid of dimension 24 cm × 9 cm × 8 cm is\nmelted and smaller cubes of side 3 cm are formed.\nFind how many such cubes can be formed.",
-      "options": {
-        "a": "27",
-        "b": "64",
-        "c": "54",
-        "d": "32"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q037",
-      "num": 37,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Three cubes each of volume of 216 m3 are joined end\nto end. Find the surface area of the resulting →gure.",
-      "options": {
-        "a": "504 m2",
-        "b": "216 m2",
-        "c": "432 m2",
-        "d": "480 m2"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q038",
-      "num": 38,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A hollow spherical shell is made of a metal of density\n4.9 g/cm3. If its internal and external radii are 10\ncm and 12 cm respectively, →nd the weight of the\nshell.\n(Take p = 3.1416)\n2",
-      "options": {
-        "a": "15.28 cm2",
-        "b": "61.14 cm2",
-        "c": "30.57 cm",
-        "d": "40.76 cm2"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q047",
-      "num": 47,
-      "lod": 2,
-      "type": "tita",
-      "text": "The diagram represents the area swept by the wiper\nof a car. With the dimensions given in the →gure,\ncalculate the shaded area swept by the wiper.\nm\nO\n30°\nD\n14\ncm\nA\n7c",
-      "options": {},
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q039",
-      "num": 39,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The largest cone is formed at the base of a cube of\nside measuring 7 cm. Find the ratio of volume of\ncone to cube.",
-      "options": {
-        "a": "20 : 21",
-        "b": "22 : 21",
-        "c": "21 : 22",
-        "d": "11 : 42"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q040",
-      "num": 40,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A spherical cannon ball, 28 cm in diameter, is melted\nand cast into a right circular conical mould the base\nof which is 35 cm in diameter. Find the height of\nthe cone correct up to two places of decimals.",
-      "options": {
-        "a": "8.96 cm",
-        "b": "35.84 cm",
-        "c": "5.97 cm",
-        "d": "17.92 cm"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q041",
-      "num": 41,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find the area of the circle circumscribed about a\nsquare each side of which is 10 cm.\n2",
-      "options": {
-        "a": "314.28 cm2",
-        "b": "157.14 cm2",
-        "c": "150.38 cm",
-        "d": "78.57 cm2"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q042",
-      "num": 42,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find the radius of the circle inscribed in a triangle\nwhose sides are 8 cm, 15 cm and 17 cm.",
-      "options": {
-        "a": "4 cm",
-        "b": "5 cm",
-        "c": "3 cm",
-        "d": "2 2 cm"
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q043",
-      "num": 43,
-      "lod": 2,
-      "type": "mcq",
-      "text": "In the given diagram a rope is wound\nround the outside of a circular drum\nwhose diameter is 70 cm and a bucket\nis tied to the other end of the rope. Find\nthe number of revolutions made by the\ndrum if the bucket is raised by 11 m.",
-      "options": {
-        "a": "10",
-        "b": "2.5",
-        "c": "5",
-        "d": "5.5"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q044",
-      "num": 44,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A cube whose edge is 20 cm long has circles on each\nof its faces painted black. What is the total area of\nthe unpainted surface of the cube if the circles are\nof the largest area possible?\n2",
-      "options": {
-        "a": "85.71 cm2",
-        "b": "257.14 cm2",
-        "c": "514.28 cm",
-        "d": "331.33 cm2"
-      },
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q045",
-      "num": 45,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The areas of three adjacent faces of a cuboid are x,\ny, z. If the volume is V, then V 2 will be equal to",
-      "options": {
-        "a": "xy/z",
-        "b": "yz/x2",
-        "c": "x2y2/z2",
-        "d": "xyz"
-      },
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q046",
-      "num": 46,
-      "lod": 2,
-      "type": "mcq",
-      "text": "In the adjacent →gure, →nd the area of the shaded region.\n(Use p = 22/7)\nB\nC",
-      "options": {
-        "a": "102.67 cm",
-        "b": "205.34 cm",
-        "c": "51.33 cm",
-        "d": "208.16 cm"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q048",
-      "num": 48,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Find the area of the quadrilateral ABCD. (Given,\n= 1.73)\n20\nD\n20\n20\nA\nx\nB\n12\n3\nC",
-      "options": {
-        "a": "452 sq units",
-        "b": "269 sq units",
-        "c": "134.5 sq units",
-        "d": "1445 g cm"
-      },
-      "answer": "6",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q049",
-      "num": 49,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The base of a pyramid is a rectangle of sides\n18 m × 26 m and its slant height to the shorter side\nof the base is 24 m. Find its volume.\nh\n24\n13",
-      "options": {
-        "a": "156 407",
-        "b": "78 407",
-        "c": "312 407",
-        "d": "234 407"
-      },
-      "answer": "16",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q050",
-      "num": 50,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A wire is looped in the form of a circle of radius 28\ncm. It is bent again into a square form. What will\nbe the length of the diagonal of the largest square\npossible thus?",
-      "options": {
-        "a": "44 cm",
-        "b": "44 2",
-        "c": "176/2 2",
-        "d": "88 2"
-      },
-      "answer": "4096",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q051",
-      "num": 51,
-      "lod": 2,
-      "type": "tita",
-      "text": "If x units are added to the length of the radius of a\ncircle, what is the number of units by which the area\nof the circle is increased?",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q052",
-      "num": 52,
-      "lod": 2,
-      "type": "tita",
-      "text": "A man walked diagonally across a square lot. Approximately, what was the percentage reduction in\nthe total distance that he walked vis-à-vis the distance he would have walked had he walked along\nthe edges? (To the closest 1%)",
-      "options": {},
-      "answer": "29%",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q053",
-      "num": 53,
-      "lod": 2,
-      "type": "mcq",
-      "text": "The radius of circle is so increased that its circumference increased by 5%. The area of the circle then\nincreases by\b\n[SNAP 2009]\nGeometry and Mensuration IV.55",
-      "options": {
-        "a": "12.5%",
-        "b": "10.25%",
-        "c": "10.5%",
-        "d": "11.25%"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q054",
-      "num": 54,
-      "lod": 2,
-      "type": "tita",
-      "text": "The biggest possible cube is taken out of a right\nsolid cylinder of radius 15 cm and height 20 cm\nrespectively. What will be the volume of the cube?",
-      "options": {},
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q055",
-      "num": 55,
-      "lod": 2,
-      "type": "tita",
-      "text": "How many cuboids of different dimensions can be\nassembled with 100 identical cubes?",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q056",
-      "num": 56,
-      "lod": 2,
-      "type": "tita",
-      "text": "What is the least number of square tiles required to\npave the floor of a room 1517 cm long and 902 cm\nbroad?",
-      "options": {},
-      "answer": "814",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q057",
-      "num": 57,
-      "lod": 2,
-      "type": "tita",
-      "text": "A wire, if bent into a square, encloses an area of\n484 cm2. This wire is cut into two pieces with the\nbigger piece having a length three-fourth of the original wire’s length. Now, if a circle and a square are\nformed with the bigger and the smaller piece respectively, what would be the area enclosed by the two\npieces?",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q058",
-      "num": 58,
-      "lod": 2,
-      "type": "tita",
-      "text": "A spiral staircase is made up of 13 successive semicircles, with center alternately at A and B, starting\nwith center at A. The radii of semicircles, thus developed, are 0.5 cm, 1.0 cm, 1.5 cm, and 2.0 cm and\n22\nso on. The total length of the spiral is: Use p =\n7",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q059",
-      "num": 59,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A cylinder, a hemisphere and a cone stand on the\nsame base and have the same heights. The ratio of\nthe areas of their curved surface is:",
-      "options": {
-        "a": "2: 2: 1",
-        "b": "2 : 2 :1",
-        "c": "2 : 2 :1",
-        "d": "None of these."
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q060",
-      "num": 60,
-      "lod": 2,
-      "type": "tita",
-      "text": "The radius of a spherical balloon, of radii 30 cm,\nincreases at the rate of 2 cm per second. Then its\ncurved surface area increases by:",
-      "options": {},
-      "answer": "2",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q061",
-      "num": 61,
-      "lod": 2,
-      "type": "tita",
-      "text": "A rectangular piece of paper is 22 cm long and 10\ncm wide. A cylinder is formed by rolling the paper\nalong its length. Find the volume of the cylinder.",
-      "options": {},
-      "answer": "112m2",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q062",
-      "num": 62,
-      "lod": 2,
-      "type": "tita",
-      "text": "Consider the volumes of the following objects and\narrange them in decreasing order of their volumes:",
-      "options": {},
-      "answer": "2",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q001",
-      "num": 1,
-      "lod": 2,
-      "type": "tita",
-      "text": "A parallelepiped of length 5 cm, breadth 3 cm and\nheight 4 cm.",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q002",
-      "num": 2,
-      "lod": 2,
-      "type": "tita",
-      "text": "A cube of each side 4 cm.",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q003",
-      "num": 3,
-      "lod": 2,
-      "type": "tita",
-      "text": "A cylinder of radius 3 cm and length 3 cm.",
-      "options": {},
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q004",
-      "num": 4,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A sphere of radius 3 cm.",
-      "options": {
-        "a": "4, 3, 2, 1",
-        "b": "4, 2, 3, 1",
-        "c": "4, 3, 1, 2",
-        "d": "None of these."
-      },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q063",
-      "num": 63,
-      "lod": 2,
-      "type": "tita",
-      "text": "A hemispherical bowl is →lled with hot water to the\nbrim. The contents of the bowl are transferred into\na cylindrical vessel whose radius is 50% more than\nits height. If diameter of the bowl is the same as\nthat of the vessel and the volume of the hot water\nin the cylindrical vessel is x% of the volume of the\ncylindrical vessel then x = ?",
-      "options": {},
-      "answer": "100",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q064",
-      "num": 64,
-      "lod": 2,
-      "type": "tita",
-      "text": "In a circular →eld, there is a rectangular tank of\nlength 130 m and breadth 110 m. If the area of the\nland portion of the →eld is 20350 m2 then the radius\nof the →eld is:",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q065",
-      "num": 65,
-      "lod": 2,
-      "type": "tita",
-      "text": "A tank internally measuring 150 cm × 120 cm ×\n100 cm has 1281600 cm3 water in it. Porous bricks\nare placed in the water until the tank is full up to\nits brim. Each brick absorbs one tenth of its volume\nof water. How many bricks, of 20 cm × 6 cm × 4\ncm, can be put in the tank without spilling over the\nwater?",
-      "options": {},
-      "answer": "16",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q066",
-      "num": 66,
-      "lod": 2,
-      "type": "tita",
-      "text": "A spherical metal ball of radius 10 cm is molten and\nmade into 1000 smaller spheres of equal sizes. In this\nprocess the surface area of the metal is increased by\nn %. Then n =?",
-      "options": {},
-      "answer": "900",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q067",
-      "num": 67,
-      "lod": 2,
-      "type": "tita",
-      "text": "Suresh, who runs a bakery, uses a conical shaped\nequipment to write decorative labels (e.g., Happy\nBirthday etc.) using cream. The height of this equipment is 7 cm and the diameter of the base is 5 mm.\nA full charge of the equipment will write 330 words\non an average. How many words can be written using\ntwo →fth of a litre of cream?",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q068",
-      "num": 68,
-      "lod": 2,
-      "type": "tita",
-      "text": "Your friend’s cap is in the shape of a right circular\ncone of base radius 14 cm and height 26.5 cm. The\napproximate area of the sheet required to make 7\nsuch caps is",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q069",
-      "num": 69,
-      "lod": 2,
-      "type": "tita",
-      "text": "In an engineering college there is a rectangular garden of dimensions 34 m by 21 m. Two mutually\nperpendicular walking corridors of 4 m width have\nbeen made in the central part and flowers have been\ngrown in the rest of the garden. The area under the\nflowers is:",
-      "options": {},
-      "answer": "510",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q070",
-      "num": 70,
-      "lod": 2,
-      "type": "tita",
-      "text": "A right circular cone is enveloping a right circular\ncylinder that rests on the base of the cone.\n If the radius and the height of the cone is 4 cm and\n10 cm respectively, and the radius of the cylinder is\n‘r’ cm, the largest possible curved surface area of\nthe cylinder is ‘ a π r (b − r ) ’.Then a × b = ?\nSpace for Rough Work\nLevel of Dif→culty (II)",
-      "options": {},
-      "answer": "20",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q001",
-      "num": 1,
+      "id": "ch11-lod2-q072",
+      "num": 72,
       "lod": 2,
       "type": "mcq",
       "text": "The perimeter of a sector of a circle of radius 5.7 m\nis 27.2 m. Find the area of the sector.\n2",
@@ -2218,12 +2897,12 @@
         "c": "45 cm",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q002",
-      "num": 2,
+      "id": "ch11-lod2-q073",
+      "num": 73,
       "lod": 2,
       "type": "mcq",
       "text": "The dimensions of a →eld are 20 m by 9 m. A pit\n10 m long, 4.5 m wide and 3 m deep is dug in one\ncorner of the →eld and the earth removed has been\nevenly spread over the remaining area of the →eld.\nWhat will be the rise in the height of →eld as a result\nof this operation?",
@@ -2233,27 +2912,27 @@
         "c": "3 m",
         "d": "4 m"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q003",
-      "num": 3,
+      "id": "ch11-lod2-q074",
+      "num": 74,
       "lod": 2,
       "type": "mcq",
-      "text": "A vessel is in the form of a hollow cylinder mounted\non a hemispherical bowl. The diameter of the sphere\nis 14 cm and the total height of the vessel is 13 cm.\nFind the capacity of the vessel.\b (Take p = 22/7).\nr\n13 cm\nh\nc",
+      "text": "A vessel is in the form of a hollow cylinder mounted\non a hemispherical bowl. The diameter of the sphere\nis 14 cm and the total height of the vessel is 13 cm.\nFind the capacity of the vessel.\b (Take p = 22/7).\n\nr\n\n13 cm\n\nh\n\nc",
       "options": {
         "a": "321.33 cm",
         "b": "1642.67 cm3",
         "c": "1232 cm3",
         "d": "1632.33 cm3"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q004",
-      "num": 4,
+      "id": "ch11-lod2-q075",
+      "num": 75,
       "lod": 2,
       "type": "mcq",
       "text": "The sides of a triangle are 21, 20 and 13 cm. Find\nthe area of the larger triangle into which the given\ntriangle is divided by the perpendicular upon the\nlongest side from the opposite vertex.",
@@ -2263,12 +2942,12 @@
         "c": "168 cm2",
         "d": "144 cm2"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q005",
-      "num": 5,
+      "id": "ch11-lod2-q076",
+      "num": 76,
       "lod": 2,
       "type": "mcq",
       "text": "A circular tent is cylindrical to a height of 3 meters\nand conical above it. If its diameter is 105 m and\nthe slant height of the conical portion is 53 m, calculate the length of the canvas 5 m wide to make\nthe required tent.",
@@ -2278,12 +2957,12 @@
         "c": "1947 m",
         "d": "1800 m"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q006",
-      "num": 6,
+      "id": "ch11-lod2-q077",
+      "num": 77,
       "lod": 2,
       "type": "mcq",
       "text": "A steel sphere of radius 4 cm is drawn into a wire\nof diameter 4 mm. Find the length of wire.",
@@ -2293,27 +2972,27 @@
         "c": "21,333 mm",
         "d": "14,220 mm"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q007",
-      "num": 7,
+      "id": "ch11-lod2-q078",
+      "num": 78,
       "lod": 2,
       "type": "mcq",
-      "text": "A cylinder and a cone having equal diameter of their\nbases are placed in the Qutab Minar one on the other,\nwith the cylinder placed in the bottom. If their curved\nsurface area are in the ratio of 8 : 5, →nd the ratio\nof their heights. Assume the height of the cylinder\nto be equal to the radius of Qutab Minar. (Assume\nQutab Minar to be having same radius throughout).",
+      "text": "A cylinder and a cone having equal diameter of their\nbases are placed in the Qutab Minar one on the other,\nwith the cylinder placed in the bottom. If their curved\n\nsurface area are in the ratio of 8 : 5, →nd the ratio\nof their heights. Assume the height of the cylinder\nto be equal to the radius of Qutab Minar. (Assume\nQutab Minar to be having same radius throughout).",
       "options": {
         "a": "1 : 4",
         "b": "3 : 4",
         "c": "4 : 3",
         "d": "2 : 3"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q008",
-      "num": 8,
+      "id": "ch11-lod2-q079",
+      "num": 79,
       "lod": 2,
       "type": "mcq",
       "text": "If the curved surface area of a cone is thrice that of\nanother cone and slant height of the second cone is\nthrice that of the →rst, →nd the ratio of the area of\ntheir base.",
@@ -2323,12 +3002,12 @@
         "c": "3 : 1",
         "d": "27 : 1"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q009",
-      "num": 9,
+      "id": "ch11-lod2-q080",
+      "num": 80,
       "lod": 2,
       "type": "mcq",
       "text": "A solid sphere of radius 6 cm is melted into a hollow\ncylinder of uniform thickness. If the external radius\nof the base of the cylinder is 5 cm and its height is\n32 cm, →nd the uniform thickness of the cylinder.",
@@ -2338,12 +3017,12 @@
         "c": "1 cm",
         "d": "3.5 cm"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q010",
-      "num": 10,
+      "id": "ch11-lod2-q081",
+      "num": 81,
       "lod": 2,
       "type": "mcq",
       "text": "A hollow sphere of external and internal diameters\n6 cm and 4 cm respectively is melted into a cone of\nbase diameter 8 cm. Find the height of the cone",
@@ -2353,12 +3032,12 @@
         "c": "19 cm",
         "d": "38 cm"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q011",
-      "num": 11,
+      "id": "ch11-lod2-q082",
+      "num": 82,
       "lod": 2,
       "type": "mcq",
       "text": "Three equal cubes are placed adjacently in a row.\nFind the ratio of total surface area of the new cuboid\nto that of the sum of the surface areas of the three\ncubes.",
@@ -2368,27 +3047,27 @@
         "c": "9 : 7",
         "d": "27 : 23"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q012",
-      "num": 12,
+      "id": "ch11-lod2-q083",
+      "num": 83,
       "lod": 2,
       "type": "mcq",
-      "text": "If V be the volume of a cuboid of dimension x, y, z\nand A is its surface, then A/V will be equal to\n(1/xy + 1/xz + 1/yz)\nÊ 1 1 1ˆ\nË x y z¯",
+      "text": "If V be the volume of a cuboid of dimension x, y, z\nand A is its surface, then A/V will be equal to\n\n(1/xy + 1/xz + 1/yz)\nÊ 1 1 1ˆ\nË x y z¯",
       "options": {
         "a": "x2y2z2",
         "b": "1/2",
         "d": "1/xyz",
         "c": "2 Á + + ˜"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q013",
-      "num": 13,
+      "id": "ch11-lod2-q084",
+      "num": 84,
       "lod": 2,
       "type": "mcq",
       "text": "The minute hand of a clock is 10 cm long. Find the\narea of the face of the clock described by the minute\nhand between 9 a.m. and 9 : 35 a.m.\n2",
@@ -2398,12 +3077,12 @@
         "c": "244.4 cm",
         "d": "188.39 cm2"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q014",
-      "num": 14,
+      "id": "ch11-lod2-q085",
+      "num": 85,
       "lod": 2,
       "type": "mcq",
       "text": "Two circles touch internally. The sum of their areas\nis 116p cm2 and distance between their centres is 6\ncm. Find the radii of the circles.",
@@ -2413,27 +3092,27 @@
         "c": "9 cm, 5 cm",
         "d": "10 cm, 5 cm"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q015",
-      "num": 15,
+      "id": "ch11-lod2-q086",
+      "num": 86,
       "lod": 2,
       "type": "mcq",
-      "text": "A toy is in the shape of a right circular cylinder\nwith a hemisphere on one end and a cone on the\nother. The height and radius of the cylindrical part\nGeometry and Mensuration IV.57\nare 13 cm and 5 cm respectively. The radii of the\nhemispherical and conical parts are the same as that\nof the cylindrical part. Calculate the surface area of\nthe toy if the height of conical part is 12 cm.\n2",
+      "text": "A toy is in the shape of a right circular cylinder\nwith a hemisphere on one end and a cone on the\nother. The height and radius of the cylindrical part\n\nare 13 cm and 5 cm respectively. The radii of the\nhemispherical and conical parts are the same as that\nof the cylindrical part. Calculate the surface area of\nthe toy if the height of conical part is 12 cm.\n2",
       "options": {
         "a": "1440 cm2",
         "b": "385 cm2",
         "c": "1580 cm",
         "d": "770 cm2"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q016",
-      "num": 16,
+      "id": "ch11-lod2-q087",
+      "num": 87,
       "lod": 2,
       "type": "mcq",
       "text": "A solid wooden toy is in the form of a cone mounted\non a hemisphere. If the radii of the hemisphere is\n4.2 cm and the total height of the toy is 10.2 cm,\n→nd the volume of wood used in the toy.\n3",
@@ -2443,12 +3122,12 @@
         "c": "532.22 cm",
         "d": "133.55 cm3"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q017",
-      "num": 17,
+      "id": "ch11-lod2-q088",
+      "num": 88,
       "lod": 2,
       "type": "mcq",
       "text": "A cylindrical container whose diameter is 12 cm and\nheight is 15 cm, is →lled with ice cream. The whole\nice-cream is distributed to 10 children in equal cones\nhaving hemispherical tops. If the height of the conical portion is twice the diameter of its base, →nd the\ndiameter of the ice-cream cone.",
@@ -2458,12 +3137,12 @@
         "c": "3 cm",
         "d": "18 cm"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q018",
-      "num": 18,
+      "id": "ch11-lod2-q089",
+      "num": 89,
       "lod": 2,
       "type": "mcq",
       "text": "A solid is in the form of a cylinder with hemispherical ends. The total height of the solid is 19 cm and\nthe diameter of the cylinder is 7 cm. Find the total\nsurface area of the solid.\b\n(Use = 22/7).",
@@ -2473,27 +3152,27 @@
         "c": "58.5 cm2",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q022",
-      "num": 22,
+      "id": "ch11-lod2-q093",
+      "num": 93,
       "lod": 2,
       "type": "mcq",
-      "text": "In the adjoining →gure, AOBCA represents a quadrant\nof a circle of radius 3.5 cm with centre O. Calculate\nthe area of the shaded portion.\n(Use p = 22/7)\nB\nC\n2 cm\nA\nA\nC\n19 cm\nA\nG\nB\nF\n2",
+      "text": "In the adjoining →gure, AOBCA represents a quadrant\nof a circle of radius 3.5 cm with centre O. Calculate\nthe area of the shaded portion.\n(Use p = 22/7)\nB\nC\n\n2 cm\nA\n\nA\n\nC\n\n19 cm\nA\n\nG\n\nB\n\nF\n2",
       "options": {
         "a": "398.75 cm2",
         "b": "418 cm2",
         "c": "444 cm",
         "d": "412 cm2"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q019",
-      "num": 19,
+      "id": "ch11-lod2-q090",
+      "num": 90,
       "lod": 2,
       "type": "mcq",
       "text": "A cone, a hemisphere and a cylinder stand on equal\nbases and have the same height. What is the ratio of\ntheir volumes?",
@@ -2503,12 +3182,12 @@
         "c": "1 : 2 : 3",
         "d": "1.5 : 2 : 3"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q020",
-      "num": 20,
+      "id": "ch11-lod2-q091",
+      "num": 91,
       "lod": 2,
       "type": "mcq",
       "text": "The internal and external diameters of a hollow\nhemispherical vessel are 24 cm and 25 cm respectively. The cost of painting 1 cm2 of the surface is\n` 0.05. Find the total cost of painting the vessel all\nover.\n(Take p = 22/7)",
@@ -2518,38 +3197,37 @@
         "c": "` 184",
         "d": "` 96.28"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q021",
-      "num": 21,
+      "id": "ch11-lod2-q092",
+      "num": 92,
       "lod": 2,
       "type": "tita",
-      "text": "A solid is in the form of a right circular cylinder with\na hemisphere at one end and a cone at the other end.\nTheir common diameter is 3.5 cm and the heights\nof conical and cylindrical portion are respectively 6\ncm and 10 cm. Find the volume of the solid.\n(Use p = 3.14)\nB\nC\nH\nO",
+      "text": "A solid is in the form of a right circular cylinder with\na hemisphere at one end and a cone at the other end.\nTheir common diameter is 3.5 cm and the heights\nof conical and cylindrical portion are respectively 6\ncm and 10 cm. Find the volume of the solid.\n(Use p = 3.14)\n\nB\n\nC\nH\n\nO",
       "options": {
         "a": "2 –"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q023",
-      "num": 23,
+      "id": "ch11-lod2-q094",
+      "num": 94,
       "lod": 2,
       "type": "mcq",
-      "text": "Find the area of the shaded region if the radius of\neach of the circles is 1 cm.\nE\nD\nD\n3\n3 –\np\n2",
+      "text": "Find the area of the shaded region if the radius of\neach of the circles is 1 cm.\n\nE\nD\n\nD\n\n(c)\n\np\n3\n\n3 –\n\np\n2",
       "options": {
-        "c": "p",
         "b": "3 –p",
         "d": "3 – p/4"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q024",
-      "num": 24,
+      "id": "ch11-lod2-q095",
+      "num": 95,
       "lod": 2,
       "type": "mcq",
       "text": "A right elliptical cylinder full of petrol has its widest elliptical side 2.4 m and the shortest 1.6 m. Its\nheight is 7 m. Find the time required to empty half\nthe tank through a hose of diameter 4 cm if the rate\nof flow of petrol is 120 m/min",
@@ -2559,67 +3237,66 @@
         "c": "75 min",
         "d": "70 min"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q025",
-      "num": 25,
+      "id": "ch11-lod2-q096",
+      "num": 96,
       "lod": 2,
       "type": "mcq",
-      "text": "Find the area of the trapezium ABCD.\nA\nB\n4\n10\nD\n45°\n30°\nM\n(13 + 2 3 )\nN\n5 3 (13 + 5 3 )\n2\n(13 + 2 3 )",
+      "text": "Find the area of the trapezium ABCD.\nA\n\nB\n\n4\n\n10\n\nD\n\n45°\n\n30°\n\nM\n\n(13 + 2 3 )\n\nN\n\n(b)\n\nC\n\n5 3 (13 + 5 3 )\n2\n\n(13 + 2 3 )",
       "options": {
         "a": "5/2",
-        "b": "C",
         "c": "13",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q026",
-      "num": 26,
+      "id": "ch11-lod2-q097",
+      "num": 97,
       "lod": 2,
       "type": "tita",
-      "text": "PQRS is the diameter of a circle of radius 6 cm.\nThe lengths PQ, QR and RS are equal. Semi-circles\nare drawn with PQ and QS as diameters as shown\nin the →gure alongside. Find the ratio of the area of\nthe shaded region to that of the unshaded region.\nP\nQ\nS\nR",
+      "text": "PQRS is the diameter of a circle of radius 6 cm.\nThe lengths PQ, QR and RS are equal. Semi-circles\nare drawn with PQ and QS as diameters as shown\nin the →gure alongside. Find the ratio of the area of\nthe shaded region to that of the unshaded region.\n\nP\n\nQ\n\nS\n\nR",
       "options": {},
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q033",
-      "num": 33,
+      "id": "ch11-lod2-q104",
+      "num": 104,
       "lod": 2,
       "type": "mcq",
-      "text": "In the →gure, ABC is a right angled triangle with\n–B = 90°, BC = 21 cm and AB = 28 cm. With AC\nas diameter of a semicircle and with BC as radius, a\nquarter circle is drawn. Find the area of the shaded\nportion correct to two decimal places\nA\n28 cm",
+      "text": "In the →gure, ABC is a right angled triangle with\n–B = 90°, BC = 21 cm and AB = 28 cm. With AC\nas diameter of a semicircle and with BC as radius, a\nquarter circle is drawn. Find the area of the shaded\nportion correct to two decimal places\nA\n\n28 cm",
       "options": {
         "a": "1 : 2",
         "b": "25 : 121",
         "c": "5 : 18",
         "d": "5 : 13"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q027",
-      "num": 27,
+      "id": "ch11-lod2-q098",
+      "num": 98,
       "lod": 2,
       "type": "mcq",
-      "text": "In the right angled triangle PQR →nd Rx.\nQ\nB\nx\nP\n12",
+      "text": "In the right angled triangle PQR →nd Rx.\nQ\n\nB\n\nx\nP\n\n12",
       "options": {
         "a": "13/60",
         "b": "13/45",
         "c": "60/13",
         "d": "23/29"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q028",
-      "num": 28,
+      "id": "ch11-lod2-q099",
+      "num": 99,
       "lod": 2,
       "type": "mcq",
       "text": "The radius of a right circular cylinder is increased\nby 50%. Find the percentage increase in volume",
@@ -2629,27 +3306,27 @@
         "c": "150%",
         "d": "125%"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q029",
-      "num": 29,
+      "id": "ch11-lod2-q100",
+      "num": 100,
       "lod": 2,
       "type": "mcq",
-      "text": "Two persons start walking on a road that diverge at\nan angle of 120°. If they walk at the rate of 3 km/h\nand 2 km/h repectively. Find the distance between\nthem after 4 hours.\nA\nc\nb\n120\nC\na\nB",
+      "text": "Two persons start walking on a road that diverge at\nan angle of 120°. If they walk at the rate of 3 km/h\nand 2 km/h repectively. Find the distance between\nthem after 4 hours.\nA\nc\nb\n\n120\nC\na\n\nB",
       "options": {
         "a": "4 19 km",
         "b": "5 km",
         "c": "7 km",
         "d": "8 19 km"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q030",
-      "num": 30,
+      "id": "ch11-lod2-q101",
+      "num": 101,
       "lod": 2,
       "type": "mcq",
       "text": "Water flows out at the rate of 10 m/min from a\ncylindrical pipe of diameter 5 mm. Find the time\ntaken to →ll a conical tank whose diameter at the\nsurface is 40 cm and depth 24 cm.",
@@ -2659,12 +3336,12 @@
         "c": "51.2 min",
         "d": "25.6 min"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q031",
-      "num": 31,
+      "id": "ch11-lod2-q102",
+      "num": 102,
       "lod": 2,
       "type": "mcq",
       "text": "The section of a solid right circular cone by a plane\ncontaining vertex and perpendicular to base is an\nequilateral triangle of side 12 cm. Find the volume\nof the cone.",
@@ -2674,12 +3351,12 @@
         "c": "72 2 p cc",
         "d": "72 3 p cc"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q032",
-      "num": 32,
+      "id": "ch11-lod2-q103",
+      "num": 103,
       "lod": 2,
       "type": "mcq",
       "text": "Iron weighs 8 times the weight of oak. Find the\ndiameter of an iron ball whose weight is equal to\nthat of a ball of oak 18 cm in diameter.\nC\n2",
@@ -2689,67 +3366,67 @@
         "c": "214.37 cm",
         "d": "371.56"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q034",
-      "num": 34,
+      "id": "ch11-lod2-q105",
+      "num": 105,
       "lod": 2,
       "type": "mcq",
-      "text": "Find the perimeter and area of the shaded portion of\nthe adjoining diagram:\n28 cm\n26 cm\nR\n21 cm\n10 cm\n5",
+      "text": "Find the perimeter and area of the shaded portion of\nthe adjoining diagram:\n28 cm\n\n26 cm\n\nR\n\n21 cm\n\n10 cm\n\n5",
       "options": {
         "a": "90.8 cm, 414 cm2",
         "b": "181.6 cm, 423.7 cm2",
         "c": "90.8 cm, 827.4 cm2",
         "d": "181.6 cm, 827.4 cm2"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q035",
-      "num": 35,
+      "id": "ch11-lod2-q106",
+      "num": 106,
       "lod": 2,
       "type": "mcq",
-      "text": "In the adjoining →gure, a circle is inscribed in the\nquadrilateral ABCD. Given that BC = 38 cm, AB =\n27 cm and DC = 25 cm, and that AD is perpendicular\nto DC. Find the maximum limit of the radius and\nthe area of the circle.\nB\nA\nP\nO\nR\nD\nS\nC\n2",
+      "text": "In the adjoining →gure, a circle is inscribed in the\nquadrilateral ABCD. Given that BC = 38 cm, AB =\n27 cm and DC = 25 cm, and that AD is perpendicular\nto DC. Find the maximum limit of the radius and\nthe area of the circle.\nB\nA\n\nP\n\nO\nR\n\nD\n\nS\n\nC\n2",
       "options": {
         "a": "10 cm; 226 cm2",
         "b": "14 cm; 616 cm2",
         "c": "14 cm; 216 cm",
         "d": "28 cm; 616 cm2"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q036",
-      "num": 36,
+      "id": "ch11-lod2-q107",
+      "num": 107,
       "lod": 2,
       "type": "tita",
-      "text": "From a piece of cardboard, in the shape of a trapezium ABCD and AB || DC and – BCD = 90°, a quarter circle (BFEC) with C as its centre is removed.\nGiven AB = BC = 3.5 cm and DE = 2 cm, calculate\nthe area of the remaining piece of the cardboard.\n(Take p = 22/7)\nGeometry and Mensuration IV.59\nA",
+      "text": "From a piece of cardboard, in the shape of a trapezium ABCD and AB || DC and – BCD = 90°, a quarter circle (BFEC) with C as its centre is removed.\nGiven AB = BC = 3.5 cm and DE = 2 cm, calculate\nthe area of the remaining piece of the cardboard.\n(Take p = 22/7)\n\nA",
       "options": {},
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q042",
-      "num": 42,
+      "id": "ch11-lod2-q113",
+      "num": 113,
       "lod": 2,
       "type": "mcq",
-      "text": "Find the sum of the areas of the shaded sectors given\nthat ABCDFE is any hexagon and all the circles\nare of same radius r with different vertices of the\nhexagon as their centres as shown in the →gure.\nB\nF\nA\nD\nE\n2",
+      "text": "Find the sum of the areas of the shaded sectors given\nthat ABCDFE is any hexagon and all the circles\nare of same radius r with different vertices of the\nhexagon as their centres as shown in the →gure.\n\nB\nF\n\nA\nD\n\nE\n2",
       "options": {
         "a": "3.325 cm2",
         "b": "3.125 cm2",
         "c": "6.075 cm",
         "d": "12.25 cm2"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q037",
-      "num": 37,
+      "id": "ch11-lod2-q108",
+      "num": 108,
       "lod": 2,
       "type": "mcq",
       "text": "The inside perimeter of a practice running track with\nsemi-circular ends and straight parallel sides is 312 m.\nThe length of the straight portion of the track is 90 m.\nIf the track has a uniform width of 2 m throughout,\n→nd its area.\n90 cm\n2",
@@ -2759,121 +3436,120 @@
         "c": "636.57 m",
         "d": "1273.14 m2"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q038",
-      "num": 38,
+      "id": "ch11-lod2-q109",
+      "num": 109,
       "lod": 2,
       "type": "mcq",
-      "text": "Find the area of the triangle inscribed in a circle\ncircumscribed by a square made by joining the midpoints of the adjacent sides of a square of side a.\n16\n(p – 1/2)\n32\n( 2 – 1)p m\n2 ) m2",
+      "text": "Find the area of the triangle inscribed in a circle\ncircumscribed by a square made by joining the midpoints of the adjacent sides of a square of side a.\n16\n\n(p – 1/2)\n32\n( 2 – 1)p m\n\n2 ) m2",
       "options": {
         "a": "100p m",
         "b": "50",
         "c": "3/4 a2",
         "d": "3 3 a2"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q040",
-      "num": 40,
+      "id": "ch11-lod2-q111",
+      "num": 111,
       "lod": 2,
       "type": "mcq",
-      "text": "The area of the circle circumscribing three circles of\nunit radius touching each other is\n(p/3) (2 +\n(2 +\n3 )2\n3 )2\n(2 +\np\n(2 +\nË 6¯\nF\nC\nD\n2",
+      "text": "The area of the circle circumscribing three circles of\nunit radius touching each other is\n(a) (p/3) (2 +\n(2 +\n\n3 )2\n3 )2\n\n(2 +\np\n(2 +\nË 6¯\n\nF\n\nC\n\nD\n2",
       "options": {
-        "a": "pr2",
         "c": "5pr /4",
         "b": "2p r 2",
-        "d": "3pr2/2"
+        "d": "3pr2/2",
+        "a": "pr2"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q043",
-      "num": 43,
+      "id": "ch11-lod2-q114",
+      "num": 114,
       "lod": 2,
       "type": "mcq",
-      "text": "Circles are drawn with four vertices as the centre and\nradius equal to the side of a square. If the square is\nformed by joining the mid-points of another square\nof side 2 6 , →nd the area common to all the four\ncircles.\n( 3 – 1)/2)] 6p\n(p – 3 3 )\n( 3 – 1)\nC\n2\n(3 – 2 2 ) m2 (2 –\nB",
+      "text": "Circles are drawn with four vertices as the centre and\nradius equal to the side of a square. If the square is\nformed by joining the mid-points of another square\nof side 2 6 , →nd the area common to all the four\ncircles.\n( 3 – 1)/2)] 6p\n(p – 3 3 )\n\n( 3 – 1)\n\nC\n\n2\n\n(3 – 2 2 ) m2 (2 –\n\nB",
       "options": {
         "a": "[",
         "b": "4p – 3 3",
         "c": "100p",
         "d": "200p"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q044",
-      "num": 44,
+      "id": "ch11-lod2-q115",
+      "num": 115,
       "lod": 2,
       "type": "tita",
       "text": "ABDC is a circle and circles are drawn with AO,\nCO, DO and OB as diameters. Areas E and F are\nshaded. E/F is equal to",
       "options": {},
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q039",
-      "num": 39,
+      "id": "ch11-lod2-q110",
+      "num": 110,
       "lod": 2,
       "type": "mcq",
-      "text": "Two goats are tethered to the diagonally opposite\nvertices of a square →eld formed by joining the mid\npoints of the adjacent sides of another square →eld of\nside 20 2 meters. The inner square →eld is fenced on\nall sides and the goats are allowed to graze only inside\nthe inner →eld. If their grazing ropes are of a length\nof 10 2 meters each, →nd the total area grazed by\nthe two goats together.\n2\nE\nC\n3 )2\nA\nE\nF\nF\nE\nG\nF\nG\nG\nF\nF\nO\nF\nE\nF\nF\nE\nG\nD\nB",
+      "text": "Two goats are tethered to the diagonally opposite\nvertices of a square →eld formed by joining the mid\npoints of the adjacent sides of another square →eld of\nside 20 2 meters. The inner square →eld is fenced on\nall sides and the goats are allowed to graze only inside\nthe inner →eld. If their grazing ropes are of a length\nof 10 2 meters each, →nd the total area grazed by\nthe two goats together.\n2\n\nE\n\nC\n\n3 )2\n\nA\n\nE\n\nF\n\nF\n\nE\n\nG\n\nF\n\nG\n\nG\n\nF\n\nF\nO\nF\n\nE\n\nF\n\nF\n\nE\n\nG\n\nD\n\nB",
       "options": {
         "a": "1",
         "b": "1/2",
         "c": "1/ 2",
         "d": "p/4"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q045",
-      "num": 45,
+      "id": "ch11-lod2-q116",
+      "num": 116,
       "lod": 2,
       "type": "tita",
-      "text": "The diagram shows six equal circles inscribed in\nequilateral triangle ABC. The circles touch externally\namong themselves and also touch the sides of the\ntriangle. If the radius of each circle is R, area of the\ntriangle is\nA\n3 )2",
+      "text": "The diagram shows six equal circles inscribed in\nequilateral triangle ABC. The circles touch externally\namong themselves and also touch the sides of the\ntriangle. If the radius of each circle is R, area of the\ntriangle is\nA\n\n3 )2",
       "options": {},
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q041",
-      "num": 41,
+      "id": "ch11-lod2-q112",
+      "num": 112,
       "lod": 2,
       "type": "mcq",
-      "text": "Find the ratio of the diameter of the circles inscribed\nin and circumscribing an equilateral triangle to its\nheight.\nB\nC\n(6 + p 3 ) R1\n(12 + 7 3 )\n(9 + 6 3 )",
+      "text": "Find the ratio of the diameter of the circles inscribed\nin and circumscribing an equilateral triangle to its\nheight.\nB\n\nC\n(12 + 7 3 )\n(9 + 6 3 )",
       "options": {
-        "a": "",
+        "a": "1 : 2 : 1",
         "b": "9 R 2",
         "c": "R",
         "d": "R"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q046",
-      "num": 46,
+      "id": "ch11-lod2-q117",
+      "num": 117,
       "lod": 2,
       "type": "mcq",
-      "text": "A boy Mithilesh was playing with a square cardboard of side 2 meters. While playing, he accidentally sliced off the corners of the cardboard in such\na manner that a →gure having all its sides equal was\ngenerated. The area of this eight sided →gure is:\n4 2\n4\n(b)\n2 +1\n2\n2 2\nis Xπ cm2 then X = ?\nA\nP\nF\nC\n8\n2 +1\n2 +1",
+      "text": "A boy Mithilesh was playing with a square cardboard of side 2 meters. While playing, he accidentally sliced off the corners of the cardboard in such\na manner that a →gure having all its sides equal was\ngenerated. The area of this eight sided →gure is:\n4 2\n4\n(b)\n\n2 +1\n2\n\n(c)\n\n2\n\n2 2\nis Xπ cm2 then X = ?\nA\n\nP\nF\n\nC\n\n8\n\n2 +1\n2 +1",
       "options": {
         "a": "2 +1",
-        "c": "2",
         "d": "If the area of the circle circumscribing the hexagon"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q047",
-      "num": 47,
+      "id": "ch11-lod2-q118",
+      "num": 118,
       "lod": 2,
       "type": "mcq",
       "text": "In a painting competition, students were asked to\ndraw alternate squares and circles, circumscribing\neach other. The →rst student drew A1 a square whose\nside is ‘a’ meters. The second student drew Circle C1\ncircumscribing the square A1 such that all its vertices are on C1. Subsequent students, drew square A2\ncircumscribing C1, Circle C2 circumscribing A2 and\nA3 circumscribing C2, and so on. If DN is the area\nbetween the square AN and the circle CN, where N\nis a natural number, then the ratio of the sum of all\nDN to D1 for N = 12 is:\np\n2",
@@ -2883,32 +3559,32 @@
         "c": "212 − 1",
         "d": "211 − 1"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q048",
-      "num": 48,
+      "id": "ch11-lod2-q119",
+      "num": 119,
       "lod": 2,
       "type": "tita",
-      "text": "Let P1 be the circle of radius r. A square Q1 is inscribed in P1 such that all the vertices of the square\nQ1 lie on the circumference of P1. Another circle P2\nis inscribed in Q1. Another Square Q2 is inscribed\nin the circle P2. Circle P3 is inscribed in the square\nQ2 and so on. If SN is the area between QN and PN+1\nwhere N represents the set of natural numbers. If the\nratio of sum of all such SN to that of the area of the\na -p\nsquare Q1 is\nthen a + b = ?\nb\nB\nR\nQ\nD\nE",
+      "text": "Let P1 be the circle of radius r. A square Q1 is inscribed in P1 such that all the vertices of the square\nQ1 lie on the circumference of P1. Another circle P2\nis inscribed in Q1. Another Square Q2 is inscribed\nin the circle P2. Circle P3 is inscribed in the square\nQ2 and so on. If SN is the area between QN and PN+1\nwhere N represents the set of natural numbers. If the\nratio of sum of all such SN to that of the area of the\na -p\nsquare Q1 is\nthen a + b = ?\nb\n\nB\n\nR\n\nQ\n\nD\n\nE",
       "options": {},
-      "answer": "6",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q050",
-      "num": 50,
+      "id": "ch11-lod2-q121",
+      "num": 121,
       "lod": 2,
       "type": "tita",
       "text": "Let S1, S2, ....be the squares such that for each n ≥\n1, the length of the diagonal of Sn is equal to the\nlength of the side of Sn + 1. If the length of the side\nof S3 is 4 cm. What is the area of the square S11 ?",
       "options": {},
-      "answer": "4096",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q051",
-      "num": 51,
+      "id": "ch11-lod2-q122",
+      "num": 122,
       "lod": 2,
       "type": "mcq",
       "text": "At the centre of a city’s municipal park there is a\nlarge circular pool. A →sh is released in the water at\nthe edge of the pool. The →sh swims north for 30\nmeters before it hits the edge of the pool. It then\nturns east and swims for 40 meters before it hits the\nedge of the pool. If the area of the pool is Xπ m2\nthen X = ?",
@@ -2918,47 +3594,47 @@
         "c": "250",
         "d": "500"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q052",
-      "num": 52,
+      "id": "ch11-lod2-q123",
+      "num": 123,
       "lod": 2,
       "type": "tita",
-      "text": "The →gure below has been obtained by folding a\nrectangle. The total area of the →gure (as visible)\nis 144 square meters. Had the rectangle not been\nfolded, the current overlapping part would have been\na square. What would have been the total area of the\noriginal unfolded rectangle (in m2)?\nP1\n6m\nQ1\n14 m\nP3\n2r\nQ2\nP2",
+      "text": "The →gure below has been obtained by folding a\nrectangle. The total area of the →gure (as visible)\nis 144 square meters. Had the rectangle not been\nfolded, the current overlapping part would have been\na square. What would have been the total area of the\noriginal unfolded rectangle (in m2)?\n\nP1\n6m\n\nQ1\n\n14 m\n\nP3\n2r\n\nQ2\n\nP2",
       "options": {},
-      "answer": "29%",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q049",
-      "num": 49,
+      "id": "ch11-lod2-q120",
+      "num": 120,
       "lod": 2,
       "type": "tita",
       "text": "In the →gure, ABCDEF is a regular hexagon and PQR\nis an equilateral triangle of side ‘a’. The area of the\nshaded portion is 23 3 cm2 and CD: PQ :: 2 : 1.",
       "options": {},
-      "answer": "16",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q053",
-      "num": 53,
+      "id": "ch11-lod2-q124",
+      "num": 124,
       "lod": 2,
       "type": "mcq",
-      "text": "A solid metal cylinder of 10 cm height and 14 cm\ndiameter is melted and re-cast into two cones in the\nproportion of 3: 4 (volume), keeping the height 10\ncm. What would be the percentage change in the flat\nsurface area before and after?\nGeometry and Mensuration IV.61",
+      "text": "A solid metal cylinder of 10 cm height and 14 cm\ndiameter is melted and re-cast into two cones in the\nproportion of 3: 4 (volume), keeping the height 10\ncm. What would be the percentage change in the flat\nsurface area before and after?",
       "options": {
         "a": "9%",
         "b": "16%",
         "c": "25%",
         "d": "50%"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q054",
-      "num": 54,
+      "id": "ch11-lod2-q125",
+      "num": 125,
       "lod": 2,
       "type": "mcq",
       "text": "A circular road is constructed outside a square →eld.\nThe perimeter of the square →eld is 200 ft. If the\nwidth of the road is 7 2 ft. and cost of construction is `100 per sq. ft. Find the lowest possible cost\nto construct 50% of the total road.",
@@ -2968,12 +3644,12 @@
         "c": "`140,800",
         "d": "`235,400"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q055",
-      "num": 55,
+      "id": "ch11-lod2-q126",
+      "num": 126,
       "lod": 2,
       "type": "mcq",
       "text": "Diameter of the base of a water-→lled inverted right\ncircular cone is 26 cm. A cylindrical pipe, 5 mm in\nradius, is attached to the surface of the cone at a\npoint. The perpendicular distance between the point\nand the base (the top) is 15 cm. The distance from\nthe edge of the base to the point is 17 cm, along\nthe surface. If water flows at the rate of 10 meters\nper minute through the pipe, how much time would\nelapse before water stops coming out of the pipe?",
@@ -2983,12 +3659,12 @@
         "c": "≥ 4.8 minutes but < 5 minutes",
         "d": "≥ 5 minutes but < 5.2 minutes"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q056",
-      "num": 56,
+      "id": "ch11-lod2-q127",
+      "num": 127,
       "lod": 2,
       "type": "mcq",
       "text": "Consider a rectangle ABCD of area 90 units. The\npoints P and Q trisect AB, and R bisects CD. The\ndiagonal AC intersects the line segments PR and\nQR at M and N respectively. What is the area of the\nquadrilateral PQNM?",
@@ -2998,12 +3674,12 @@
         "c": "> 10.5 and ≤ 11",
         "d": "> 11 and ≤ 11.5"
       },
-      "answer": "814",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q057",
-      "num": 57,
+      "id": "ch11-lod2-q128",
+      "num": 128,
       "lod": 2,
       "type": "mcq",
       "text": "The central park of the city is 40 meters long and\n30 meters wide. The mayor wants to construct two\nroads of equal width in the park such that the roads\nintersect each other at right angles and the diagonals\nof the park are also the diagonals of the small rectangle formed at the intersection of the two roads.\nFurther, the mayor wants that the area of the two\nroads to be equal to the remaining area of the park.\nWhat should be the width of the roads?",
@@ -3013,12 +3689,12 @@
         "c": "14 meters",
         "d": "15 meters"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q058",
-      "num": 58,
+      "id": "ch11-lod2-q129",
+      "num": 129,
       "lod": 2,
       "type": "mcq",
       "text": "A rectangular swimming pool is 48 m long and 20\nm wide. The shallow edge of the pool is 1 m deep.\nFor every 2.6 m that one walks up the inclined base\nof the swimming pool, one gains an elevation of 1\nm. What is the volume of water (in cubic meters),\nin the swimming pool? Assume that the pool is →lled\nup to the brim.",
@@ -3028,199 +3704,69 @@
         "c": "6790",
         "d": "10560"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q059",
-      "num": 59,
+      "id": "ch11-lod2-q130",
+      "num": 130,
       "lod": 2,
       "type": "tita",
       "text": "A thread is wound on a cylinder such that it makes\nexactly twenty-four complete turns around the cylinder. The two ends of thread touch the top and bottom\nof cylinder. If cylinder has a radius of 15 cm and its\ncurved surface area is 2880 cm2 then →nd the length\nof the string:",
       "options": {},
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q060",
-      "num": 60,
+      "id": "ch11-lod2-q131",
+      "num": 131,
       "lod": 2,
       "type": "tita",
-      "text": "If the length of the minute hand and the hour of a\nclock are 4.2 cm and 2.1 cm. If the minute hand\ncovers an area of 110.88 cm2, then →nd the area\ncovered by hour hand during the same period.\n\b[if π = 22/7]",
+      "text": "If the length of the minute hand and the hour of a\nclock are 4.2 cm and 2.1 cm. If the minute hand\n\ncovers an area of 110.88 cm2, then →nd the area\ncovered by hour hand during the same period.\n\b[if π = 22/7]",
       "options": {},
-      "answer": "2",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q061",
-      "num": 61,
+      "id": "ch11-lod2-q132",
+      "num": 132,
       "lod": 2,
       "type": "tita",
-      "text": "Hiru has a rhombus shaped farm ABCD. This farm\nis surrounded, by a path of width 2 m, as shown in\nthe diagram. If ∠ADC = 30o, AD = 10 m. Then the\narea of the path is:\nP\nA\nB\nD\nQ\nC\nS\nR",
+      "text": "Hiru has a rhombus shaped farm ABCD. This farm\nis surrounded, by a path of width 2 m, as shown in\nthe diagram. If ∠ADC = 30o, AD = 10 m. Then the\narea of the path is:\nP\n\nA\n\nB\n\nD\n\nQ\n\nC\n\nS\n\nR",
       "options": {},
-      "answer": "112m2",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q062",
-      "num": 62,
+      "id": "ch11-lod2-q133",
+      "num": 133,
       "lod": 2,
       "type": "tita",
-      "text": "A series of in→nite concentric squares are drawn as\nshown below. Starting with the →rst square ABCD,\nsubsequent squares drawn are PQRS, XYZW and so\non as shown in the diagram. If Areas of the squares\nABCD, PQRS, XYZW, …. are 1, 3/2, 7/4, 15/8… and\nso on, then →nd the area of the diagram when the\nin→nite number square is drawn.\nX\nY\nP\nQ\nA\nB\nD\nS\nC\nR\nW\nZ",
+      "text": "A series of in→nite concentric squares are drawn as\nshown below. Starting with the →rst square ABCD,\nsubsequent squares drawn are PQRS, XYZW and so\non as shown in the diagram. If Areas of the squares\nABCD, PQRS, XYZW, …. are 1, 3/2, 7/4, 15/8… and\nso on, then →nd the area of the diagram when the\nin→nite number square is drawn.\nX\n\nY\nP\n\nQ\nA\n\nB\n\nD\nS\n\nC\nR\n\nW\n\nZ",
       "options": {},
-      "answer": "2",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch11-lod2-q063",
-      "num": 63,
+      "id": "ch11-lod2-q134",
+      "num": 134,
       "lod": 2,
       "type": "mcq",
-      "text": "Three regular hexagons are drawn such that their\ndiagonals cut each other at the same point and area\nA1:A2:A3 = 1:2:3. Then the ratio of the length of the\nsides of the regular hexagons (from the smallest to\nthe largest) is:\nA1\nA3\nSpace for Rough Work\nA2\nanswer key\nGeometry\nLevel of Dif→culty (I)",
+      "text": "Three regular hexagons are drawn such that their\ndiagonals cut each other at the same point and area\nA1:A2:A3 = 1:2:3. Then the ratio of the length of the\nsides of the regular hexagons (from the smallest to\nthe largest) is:\nA1\n\nA3\n\nSpace for Rough Work\n\nA2\n\nanswer key",
       "options": {
         "a": "1: 2 : 6",
         "b": "1: 2 : 3",
         "c": "1: 3 : 2 2",
         "d": "1: 3 : 6"
       },
-      "answer": "100",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q029",
-      "num": 29,
-      "lod": 2,
-      "type": "tita",
-      "text": "250 cm2 30. (b)",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q057",
-      "num": 57,
-      "lod": 2,
-      "type": "tita",
-      "text": "12.5cm 58. 8cm",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q057",
-      "num": 57,
-      "lod": 2,
-      "type": "tita",
-      "text": "376.75 cm2",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q064",
-      "num": 64,
-      "lod": 2,
-      "type": "tita",
-      "text": "105 m 65. 1200",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q067",
-      "num": 67,
-      "lod": 2,
-      "type": "tita",
-      "text": "288000 68. 9240 cm2\nLevel of Dif→culty (II)",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q050",
-      "num": 50,
-      "lod": 2,
-      "type": "tita",
-      "text": "4096 cm2\n2",
-      "options": {},
-      "answer": "4096",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q052",
-      "num": 52,
-      "lod": 2,
-      "type": "tita",
-      "text": "162 m 53. (d)",
-      "options": {},
-      "answer": "29%",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q059",
-      "num": 59,
-      "lod": 2,
-      "type": "tita",
-      "text": "408cm 60. 2.31",
-      "options": {},
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q051",
-      "num": 51,
-      "lod": 2,
-      "type": "tita",
-      "text": "πx(2r + x)",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q069",
-      "num": 69,
-      "lod": 2,
-      "type": "tita",
-      "text": "510 sq. m.",
-      "options": {},
-      "answer": "510",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q027",
-      "num": 27,
-      "lod": 2,
-      "type": "tita",
-      "text": "PR =\n =\nPQ 2 + QR 2 (Using Pythagoras Theorem)\n152 + 202 = 625 = 25 cm\nQR 2 202\nSR =\n=\n= 16 cm\n25\n PR\n\b\n(Property of a right-angled triangle)",
-      "options": {},
-      "answer": "c",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q031",
-      "num": 31,
-      "lod": 2,
-      "type": "tita",
-      "text": "Inradius of ∆ABC =\n=\n= 10cm\n2\n2\n(Formula for inradius)\n Semiperimeter = s = 60 = 30cm\n2\nArea\nr=\n s\nArea = r × s (Formula for area of any triangle using\nthe semi-perimeter and inradius).\na is given by the formula:\n= 10 × 30 = 300 cm 2",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch11-lod2-q032",
-      "num": 32,
-      "lod": 2,
-      "type": "tita",
-      "text": "3 × (Sum of squares of the sides of a triangle) = 4\n× (Sum of squares of the medians of the triangle).\n3 2\n6 + 7",
-      "options": {},
-      "answer": "b",
+      "answer": null,
       "solution": null
     }
   ],
-  "questionCount": 237,
+  "questionCount": 280,
   "lodCounts": {
-    "lod1": 53,
-    "lod2": 184,
+    "lod1": 149,
+    "lod2": 131,
     "lod3": 0
   }
 }

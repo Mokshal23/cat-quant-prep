@@ -6,34 +6,384 @@
   "blockName": "Arithmetic",
   "topic": "Arithmetic",
   "notes": {
-    "intro": "ontd)\nRight angles are formed when the distance between the\nminute hand and the hour hand is equal to 15 minutes.\nExactly the same situation holds true for the formation\nof straight lines. There are 2 straight lines in every hour.\nHowever, the second straight line between 5–6 (or 11–12)\nand the →rst",
+    "intro": "2 S1 S2\nS1 + S2\nHowever, this situation can be solved very conveniently\nusing the process of alligation as explained below:\nSince, the two speeds are known to us, we will also know\ntheir ratio. The ratio of times for the two parts of the journey\nwill then be the inverse ratio of the ratio of speeds.",
     "concepts": [
-      "ontd)\nRight angles are formed when the distance between the\nminute hand and the hour hand is equal to 15 minutes.\nExactly the same situation holds true for the formation\nof straight lines. There are 2 straight lines in every hour.\nHowever, the second straight line between 5–6 (or 11–12)\nand the →rst straight line between 6–7 (or 12–1) coincide\nwith each other and are represented by the straight line\nformed at 6 (or 12).\nStraight lines are formed when the distance between\nthe minute hand and the hour hand is equal to either 0\nminutes or 30 minutes.",
-      "Illustration\nAt what time between 2–3 p.m. is the →rst right angle in that\ntime formed by the hands of the clock?\nSolution: At 2 p.m. the minute hand can be visualised as\nbeing 10 kilometres behind the hour hand. (considering the\nclock dial to be a race track of circumference 60 km such\nthat each minute represents a kilometre).\nAlso, the →rst right angle between 2–3 is formed when the\nminute hand is 15 kilometres ahead of the hour hand.\nThus, the minute hand has to cover 25 kilometres over the\nhour hand.\nThis can be written using the unitary method:\nDistance covered by the minute hand over the hour\nhand.\nin 1 hour\n55 kilometres\nin what time?\n25 kilometres\nÆ 5/11 of an hour.\nThus, the →rst right angle between 2–3 is formed at 5/11\nhours past 2 o’clock.\nThis can be converted into minutes and seconds using\nunitary method again as:\n60 minutes\n1 hour\n? minutes\n5/11 hours\nÆ 300/11 minutes = 27 (3/11) minutes\n60 seconds\n1 minute\n? seconds Æ 180/11\n3/11 minutes\nseconds = 16.3636 seconds.\nHence, the required answer is: 2 : 27 : 16.36 seconds.",
-      "1. The Sinhagad Express left Pune at noon sharp. Two\nhours later, the Deccan Queen started from Pune in\nthe same direction. The Deccan Queen overtook the\nSinhagad Express at 8 p.m. Find the average speed\nof the two trains over this journey if the sum of their\naverage speeds is 70 km/h.\n(a) 34.28 km/h\n(b) 35 km/h\n(c) 50 km/h\n(d) 12 km/h\n2. Walking at 3/4 of his normal speed, Abhishek is 16\nminutes late in reaching his of→ce. The usual time\ntaken by him to cover the distance between his home\nand his of→ce is\n(a) 48 minutes\n(b) 60 minutes\n(c) 42 minutes\n(d) 62 minutes\n3. Ram and Bharat travel the same distance at the rate\nof 6 km per hour and 10 km per hour respectively.\nIf Ram takes 30 minutes longer than Bharat, the\ndistance travelled by each is\n(a) 6 km\n(b) 10 km\n(c) 7.5 km\n(d) 20 km\n4. Two trains for Mumbai leave Delhi at 6 : 00 a.m. and\n6 : 45 a.m. and travel at 100 kmph and 136 kmph\nrespectively. How many kilometres from Delhi will\nthe two trains be together?\n(a) 262.4 km\n(b) 260 km\n(c) 283.33 km\n(d) 275 km\n5. Two trains, Calcutta Mail and Bombay Mail, start\nat the same time from stations Kolkata and Mumbai\nrespectively towards each other. After passing each\nother, they take 12 hours and 3 hours to reach Mumbai and Kolkata respectively. If the Calcutta Mail is\nmoving at the speed of 48 km/h, the speed of the\nBombay Mail is\n(a) 24 km/h\n(b) 22 km/h\n(c) 21 km/h\n(d) 96 km/h\n6. Shyam’s house, his of→ce and his gym are all equidistant from each other. The distance between any 2\nof them is 4 km. Shyam starts walking from his gym\nin a direction parallel to the road connecting his of→ce and his house and stops when he reaches a point\ndirectly east of his of→ce. He then reverses direction\nand walks till he reaches a point directly south of his\nof→ce. The total distance walked by Shyam is\n(a) 6 km\n(b) 9 km\n(c) 16 km\n(d) 12 km\n7. Lonavala and Khandala are two stations 600 km\napart. A train starts from Lonavala and moves to-",
-      "wards Khandala at the rate of 25 km/h. After two\nhours, another train starts from Khandala at the rate\nof 35 km/h. How far from Lonavala will they will\ncross each other?\n(a) 250 km\n(b) 300 km\n(c) 279.166 km\n(d) 475 km\n8. Walking at 3/4 of his normal speed, a man takes\n2(1/2) hours more than the normal time. Find the\nnormal time.\n(a) 7.5 h\n(b) 6 h\n(c) 8 h\n(d) 12 h\n9. Alok walks to a viewpoint and returns to the starting point by his car and thus takes a total time of 6\nhours 45 minutes. He would have gained 2 hours by\ndriving both ways. How long would it have taken\nfor him to walk both ways?\n(a) 8 h 45 min\n(b) 7 h 45 min\n(c) 5 h 30 min\n(d) 6 h 45 min\n10. Sambhu beats Kalu by 30 metres or 10 seconds. How\nmuch time was taken by Sambhu to complete a race\n1200 meters.\n(a) 6 min 30 s\n(b) 3 min 15 s\n(c) 12 min 10 s\n(d) 2 min 5 s\n11. What is the time taken by Chandu to cover a distance of 360 km by a motorcycle moving at a speed\nof 10 m/s?\n(a) 10 h\n(b) 5 h\n(c) 8 h\n(d) 6 h\n12. Without stoppage, a train travels a certain distance\nwith an average speed of 60 km/h, and with stoppage,\nit covers the same distance with an average speed\nof 40 km/h. On an average, how many minutes per\nhour does the train stop during the journey?\n(a) 20 min/h\n(b) 15 min/h\n(c) 10 min/h\n(d) 10 min/h\n13. Rajdhani Express travels 650 km in 5 h and another\n940 km in 10 h. What is the average speed of train?\n(a) 1590 km/h\n(b) 168 km/h\n(c) 106 km/h\n(d) 126 km/h\n14. Rishikant, during his journey, travels for 20 minutes\nat a speed of 30 km/h, another 30 minutes at a speed\nof 50 km/h, and 1 hour at a speed of 50 km/h and\n1 hour at a speed of 60 km/h. What is the average\nvelocity?\n(a) 51.18 km/h\n(b) 63 km/h\n(c) 39 km/h\n(d) 48 km/h",
-      "15. A car travels from A to B at V1 km/h, travels back\nfrom B to A at V2 km/h and again goes back from\nA to B at V2 km/h. The average speed of the car is:\n(a)",
-      "16. Narayan Murthy walking at a speed of 20 km/h\nreaches his college 10 minutes late. Next time he\nincreases his speed by 5 km/h, but →nds that he is\nstill late by 4 minutes. What is the distance of his\ncollege from his house?\n(a) 20 km\n(b) 6 km\n(c) 12 km\n(d) None of these\n17. Jayshree goes to of→ce at a speed of 6 km/h and\nreturns to her home at a speed of 4 km/h. If she\ntakes 10 hours in all, what is the distance between\nher of→ce and her home?\n(a) 24 km\n(b) 12 km\n(c) 10 km\n(d) 30 km\n18. A motor car does a journey in 17.5 hours, covering\nthe →rst half at 30 km/h and the second half at 40\nkm/h. Find the distance of the journey.\n(a) 684 km\n(b) 600 km\n(c) 120 km\n(d) 540 km\n19. Sujit covers a distance in 40 minutes if he drives\nat a speed of 60 kilometer per hour on an average.\nFind the speed at which he must drive at to reduce\nthe time of the journey by 25%?\n(a) 60 km/h\n(b) 70 km/h\n(c) 75 km/h\n(d) 80 km/h\n20. Manish travels a certain distance by car at the rate of\n12 km/h and walks back at the rate of 3 km/h. The\nwhole journey took 5 hours. What is the distance he\ncovered on the car?\n(a) 12 km\n(b) 30 km\n(c) 15 km\n(d) 6 km\n21. A railway passenger counts the telegraph poles on the\nrail road as he passes them. The telegraph poles are\nat a distance of 50 metres. What will be his count in\n4 hours, if the speed of the train is 45 km per hour?\n(a) 600\n(b) 2500\n(c) 3600\n(d) 5000\n22. Two trains A and B start simultaneously in the opposite direction from two points A and B and arrive\nat their destinations 9 and 4 hours respectively after\ntheir meeting each other. At what rate does the second train B travel if the →rst train travels at 80 km\nper hour.\n(a) 60 km/h\n(b) 100 km/h\n(c) 120 km/h\n(d) 80 km/h"
+      "2 S1 S2\nS1 + S2\nHowever, this situation can be solved very conveniently\nusing the process of alligation as explained below:\nSince, the two speeds are known to us, we will also know\ntheir ratio. The ratio of times for the two parts of the journey\nwill then be the inverse ratio of the ratio of speeds. (Since\nthe distance for the two journeys are equal). The answer will\nbe the weighted average of the two speeds (weighted on the\nbasis of the time travelled at each speed)\nThe process will become clear through an example:\nA car travels at 60 km/h from Mumbai to Poona and at 120\nkm/h from Poona to Mumbai. What is the average speed of\nthe car for the entire journey.\nSolution",
+      "2\t\t 1\nThe process of alligation, will be used here to give the\nanswer as 80. (Note: For the process of alligation, refer to\nthe chapter of Alligations.)\nNote here, that since the speed ratio is 1:2, the value of the\ntime ratio used for calculating the weighted average will be 2:1.",
+      "What will happen in case the distances are not constant?\nFor instance, if the car goes 100 km at a speed of 66kmph\nand 200 km at a speed of 110 kmph, what will be the average\nspeed?\nIn this case the speed ratio being 6:10 i.e. 3:5 the inverse\nof the speed ratio will be 5:3. This would have been the\nratio to be used for the time ratio in case the distances were\nthe same (for both the speeds). But since the distances are\ndifferent, we cannot use this ratio in this form. The problem\nis overcome by multiplying this ratio (5:3) by the distance\nratio (in this case it is 1:2) to get a value of 5:6. This is the\nratio which has to be applied for the respective weights.\nHence, the alligation will look like:\nSolution",
+      "5\t\t 6\nThus the required answer is 90 kmph. (The student is\nadvised to check this value through normal mathematical\nprocesses.)",
+      "APPLICATIONS OF Time, Speed\nand Distance\nTrains\nTrains are a special case in questions related to time, speed\nand distance because they have their own theory and distinct\nsituations.\nThe basic relation for trains problems is the same:\nSpeed × Time = Distance.\nThe following things need to be kept in mind before\nsolving questions on trains:\n(a) When the train is crossing a moving object, the\nspeed has to be taken as the relative speed of the\ntrain with respect to the object. All the rules for\nrelative speed will apply for calculating the relative\nspeed.\n(b) The distance to be covered when crossing an object\nwhenever a train crosses an object will be equal\nto: Length of train + Length of object\nThus, the following cases will yield separate equations,\nwhich will govern the crossing of the object by the train:\nFor each of the following situations the following\nnotations have been used:\nST = Speed of train\nLT = Length of train",
+      "SO = Speed of object t = time\nLO = Length of object"
     ],
     "formulas": [
-      "and the →rst straight line between 6–7 (or 12–1) coincide",
-      "At what time between 2–3 p.m. is the →rst right angle in that",
-      "Also, the →rst right angle between 2–3 is formed when the",
-      "Thus, the →rst right angle between 2–3 is formed at 5/11",
-      "Æ 300/11 minutes = 27 (3/11) minutes",
-      "seconds = 16.3636 seconds.",
-      "minutes late in reaching his of→ce. The usual time",
-      "and his of→ce is",
-      "in a direction parallel to the road connecting his of→ce and his house and stops when he reaches a point",
-      "directly east of his of→ce. He then reverses direction",
-      "of→ce. The total distance walked by Shyam is",
-      "increases his speed by 5 km/h, but →nds that he is",
-      "her of→ce and her home?",
-      "the →rst half at 30 km/h and the second half at 40",
-      "their meeting each other. At what rate does the second train B travel if the →rst train travels at 80 km"
+      "Speed × Time = Distance.",
+      "ST = Speed of train",
+      "LT = Length of train",
+      "SO = Speed of object t = time",
+      "LO = Length of object"
     ]
   },
   "questions": [
+    {
+      "id": "ch10-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "The Sinhagad Express left Pune at noon sharp. Two\nhours later, the Deccan Queen started from Pune in\nthe same direction. The Deccan Queen overtook the\nSinhagad Express at 8 p.m. Find the average speed\nof the two trains over this journey if the sum of their\naverage speeds is 70 km/h.",
+      "options": {
+        "a": "34.28 km/h",
+        "b": "35 km/h",
+        "c": "50 km/h",
+        "d": "12 km/h"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Walking at 3/4 of his normal speed, Abhishek is 16\nminutes late in reaching his of→ce. The usual time\ntaken by him to cover the distance between his home\nand his of→ce is",
+      "options": {
+        "a": "48 minutes",
+        "b": "60 minutes",
+        "c": "42 minutes",
+        "d": "62 minutes"
+      },
+      "answer": "Since",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Ram and Bharat travel the same distance at the rate\nof 6 km per hour and 10 km per hour respectively.\nIf Ram takes 30 minutes longer than Bharat, the\ndistance travelled by each is",
+      "options": {
+        "a": "6 km",
+        "b": "10 km",
+        "c": "7.5 km",
+        "d": "20 km"
+      },
+      "answer": "Let",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two trains for Mumbai leave Delhi at 6 : 00 a.m. and\n6 : 45 a.m. and travel at 100 kmph and 136 kmph\nrespectively. How many kilometres from Delhi will\nthe two trains be together?",
+      "options": {
+        "a": "262.4 km",
+        "b": "260 km",
+        "c": "283.33 km",
+        "d": "275 km"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two trains, Calcutta Mail and Bombay Mail, start\nat the same time from stations Kolkata and Mumbai\nrespectively towards each other. After passing each\nother, they take 12 hours and 3 hours to reach Mumbai and Kolkata respectively. If the Calcutta Mail is\nmoving at the speed of 48 km/h, the speed of the\nBombay Mail is",
+      "options": {
+        "a": "24 km/h",
+        "b": "22 km/h",
+        "c": "21 km/h",
+        "d": "96 km/h"
+      },
+      "answer": "If",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Shyam’s house, his of→ce and his gym are all equidistant from each other. The distance between any 2\nof them is 4 km. Shyam starts walking from his gym\nin a direction parallel to the road connecting his of→ce and his house and stops when he reaches a point\ndirectly east of his of→ce. He then reverses direction\nand walks till he reaches a point directly south of his\nof→ce. The total distance walked by Shyam is",
+      "options": {
+        "a": "6 km",
+        "b": "9 km",
+        "c": "16 km",
+        "d": "12 km"
+      },
+      "answer": "Solve",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Lonavala and Khandala are two stations 600 km\napart. A train starts from Lonavala and moves to-\n\nwards Khandala at the rate of 25 km/h. After two\nhours, another train starts from Khandala at the rate\nof 35 km/h. How far from Lonavala will they will\ncross each other?",
+      "options": {
+        "a": "250 km",
+        "b": "300 km",
+        "c": "279.166 km",
+        "d": "475 km"
+      },
+      "answer": "If",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Walking at 3/4 of his normal speed, a man takes\n2(1/2) hours more than the normal time. Find the\nnormal time.",
+      "options": {
+        "a": "7.5 h",
+        "b": "6 h",
+        "c": "8 h",
+        "d": "12 h"
+      },
+      "answer": "33.",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Alok walks to a viewpoint and returns to the starting point by his car and thus takes a total time of 6\nhours 45 minutes. He would have gained 2 hours by\ndriving both ways. How long would it have taken\nfor him to walk both ways?",
+      "options": {
+        "a": "8 h 45 min",
+        "b": "7 h 45 min",
+        "c": "5 h 30 min",
+        "d": "6 h 45 min"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sambhu beats Kalu by 30 metres or 10 seconds. How\nmuch time was taken by Sambhu to complete a race\n1200 meters.",
+      "options": {
+        "a": "6 min 30 s",
+        "b": "3 min 15 s",
+        "c": "12 min 10 s",
+        "d": "2 min 5 s"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is the time taken by Chandu to cover a distance of 360 km by a motorcycle moving at a speed\nof 10 m/s?",
+      "options": {
+        "a": "10 h",
+        "b": "5 h",
+        "c": "8 h",
+        "d": "6 h"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Without stoppage, a train travels a certain distance\nwith an average speed of 60 km/h, and with stoppage,\nit covers the same distance with an average speed\nof 40 km/h. On an average, how many minutes per\nhour does the train stop during the journey?",
+      "options": {
+        "a": "20 min/h",
+        "b": "15 min/h",
+        "c": "10 min/h",
+        "d": "10 min/h"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q013",
+      "num": 13,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Rajdhani Express travels 650 km in 5 h and another\n940 km in 10 h. What is the average speed of train?",
+      "options": {
+        "a": "1590 km/h",
+        "b": "168 km/h",
+        "c": "106 km/h",
+        "d": "126 km/h"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q014",
+      "num": 14,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Rishikant, during his journey, travels for 20 minutes\nat a speed of 30 km/h, another 30 minutes at a speed\nof 50 km/h, and 1 hour at a speed of 50 km/h and\n1 hour at a speed of 60 km/h. What is the average\nvelocity?\nfrom B to A at V2 km/h and again goes back from\nA to B at V2 km/h. The average speed of the car is:\n\nV1 + 2V2\nV2 + 2V1\nV2 + 2V1\nV1 + 2V2",
+      "options": {
+        "a": "2V1 V2",
+        "b": "2V1 V2",
+        "c": "3V1 V2",
+        "d": "3V1 V2"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q016",
+      "num": 16,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Narayan Murthy walking at a speed of 20 km/h\nreaches his college 10 minutes late. Next time he\nincreases his speed by 5 km/h, but →nds that he is\nstill late by 4 minutes. What is the distance of his\ncollege from his house?",
+      "options": {
+        "a": "20 km",
+        "b": "6 km",
+        "c": "12 km",
+        "d": "None of these"
+      },
+      "answer": "Through",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q017",
+      "num": 17,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Jayshree goes to of→ce at a speed of 6 km/h and\nreturns to her home at a speed of 4 km/h. If she\ntakes 10 hours in all, what is the distance between\nher of→ce and her home?",
+      "options": {
+        "a": "24 km",
+        "b": "12 km",
+        "c": "10 km",
+        "d": "30 km"
+      },
+      "answer": "Use",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q018",
+      "num": 18,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A motor car does a journey in 17.5 hours, covering\nthe →rst half at 30 km/h and the second half at 40\nkm/h. Find the distance of the journey.",
+      "options": {
+        "a": "684 km",
+        "b": "600 km",
+        "c": "120 km",
+        "d": "540 km"
+      },
+      "answer": "Let",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q019",
+      "num": 19,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sujit covers a distance in 40 minutes if he drives\nat a speed of 60 kilometer per hour on an average.\nFind the speed at which he must drive at to reduce\nthe time of the journey by 25%?",
+      "options": {
+        "a": "60 km/h",
+        "b": "70 km/h",
+        "c": "75 km/h",
+        "d": "80 km/h"
+      },
+      "answer": "The",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q020",
+      "num": 20,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Manish travels a certain distance by car at the rate of\n12 km/h and walks back at the rate of 3 km/h. The\nwhole journey took 5 hours. What is the distance he\ncovered on the car?",
+      "options": {
+        "a": "12 km",
+        "b": "30 km",
+        "c": "15 km",
+        "d": "6 km"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q021",
+      "num": 21,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A railway passenger counts the telegraph poles on the\nrail road as he passes them. The telegraph poles are\nat a distance of 50 metres. What will be his count in\n4 hours, if the speed of the train is 45 km per hour?",
+      "options": {
+        "a": "600",
+        "b": "2500",
+        "c": "3600",
+        "d": "5000"
+      },
+      "answer": "Acceleration",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q022",
+      "num": 22,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Two trains A and B start simultaneously in the opposite direction from two points A and B and arrive\nat their destinations 9 and 4 hours respectively after\ntheir meeting each other. At what rate does the second train B travel if the →rst train travels at 80 km\nper hour.",
+      "options": {
+        "a": "60 km/h",
+        "b": "100 km/h",
+        "c": "120 km/h",
+        "d": "80 km/h"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q023",
+      "num": 23,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Vinay →res two bullets from the same place at an\ninterval of 12 minutes but Raju sitting in a train\napproaching the place hears the second report 11\nminutes 30 seconds after the →rst. What is the\napproximate speed of train (if sound travels at the\nspeed of 330 metre per second)?",
+      "options": {
+        "a": "660/23 m/s",
+        "b": "220/7 m/s",
+        "c": "330/23 m/s",
+        "d": "110/23 m/s"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q024",
+      "num": 24,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A car driver, driving in a fog, passes a pedestrian\nwho was walking at the rate of 2 km/h in the same\ndirection. The pedestrian could see the car for 6\nminutes and it was visible to him up to a distance\nof 0.6 km. What was the speed of the car?",
+      "options": {
+        "a": "30 km/h",
+        "b": "15 km/h",
+        "c": "20 km/h",
+        "d": "8 km/h"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch10-lod1-q025",
+      "num": 25,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Harsh and Vijay move towards Hosur starting from\nIIM, Bangalore, at a speed of 40 km/h and 60 km/h\nrespectively. If Vijay reaches Hosur 200 minutes\nearlier then Harsh, what is the distance between IIM,\nBangalore, and Hosur?",
+      "options": {
+        "a": "600 km",
+        "b": "400 km",
+        "c": "900 km",
+        "d": "200 km"
+      },
+      "answer": "b",
+      "solution": null
+    },
     {
       "id": "ch10-lod1-q026",
       "num": 26,
@@ -47,7 +397,7 @@
         "d": "48 kmph"
       },
       "answer": "d",
-      "solution": "Solve this question using the values given in the options. Option (d) can be seen to fit the situation given by the problem as it gives us the following chain of thought: If the average speed of the faster train is 48 kmph, the average speed of the slower train would be 32 kmph. In this case, the time taken by the faster train (192/48 = 4 hours) is 2 hours lesser than the time taken by the slower train (192/32 = 6 hours). This satisfies the condition given in the problem and hence option (d) is correct."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q027",
@@ -61,8 +411,8 @@
         "c": "20 kmph",
         "d": "25 kmph"
       },
-      "answer": "d",
-      "solution": "The required speed s would be satisfying the equation: 300/s – 300/(s + 5) = 2 Solving for s from the options it is clear that s = 25."
+      "answer": "a",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q028",
@@ -76,8 +426,8 @@
         "c": "3 kmph",
         "d": "6 kmph"
       },
-      "answer": "c",
-      "solution": "Solve through options using trial and error. For usual speed 3 kmph we have: Normal time Æ 2/3 hours = 40 minutes. At 4 kmph the time would be 2/4 hrs, this gives us a distance of 10 minutes. Hence option (c) is correct."
+      "answer": "b",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q029",
@@ -91,8 +441,8 @@
         "c": "750 kmph",
         "d": "1000 kmph"
       },
-      "answer": "d",
-      "solution": "By increasing the speed by 33.33%, it would be able to reduce the time taken for travel by 25%. But since this is just able to overcome a time delay of 30 minutes, 30 minutes must be equivalent to 25% of the time originally taken. Hence, the original time must have been 2 hours and the original speed would be 750 kmph. Hence, the new speed would be 1000 kmph."
+      "answer": "Total",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q030",
@@ -107,22 +457,22 @@
         "d": "60 kmph"
       },
       "answer": "d",
-      "solution": "The average speed would be given by: (120 ¥ 1 + 40 ¥ 3) = 60 kmph. 4"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q031",
       "num": 31,
       "lod": 1,
       "type": "mcq",
-      "text": "A cyclist moving on a circular track of radius 100\nmetres completes one revolution in 2 minutes. What\nis the average speed of cyclist (approximately)?\nTime, Speed and Distance III.147",
+      "text": "A cyclist moving on a circular track of radius 100\nmetres completes one revolution in 2 minutes. What\nis the average speed of cyclist (approximately)?",
       "options": {
         "a": "314 m/minute",
         "b": "200 m/minute",
         "c": "300 m/minute",
         "d": "900 m/minute"
       },
-      "answer": "a",
-      "solution": "The length of the circular track would be equal to the circumference of the circle. In 2 minutes thus, the cyclist covers 3.14 ¥ 200 = 628 meters (using the formula for the circumference of a circle). Thus, the cyclist’s speed would be 628/2 = 314 meters/minute."
+      "answer": "Suppose",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q032",
@@ -136,8 +486,8 @@
         "c": "70 km/h",
         "d": "80 km/h"
       },
-      "answer": "b",
-      "solution": "The total time taken by the motorist would be 200/53.333 = 200 ¥ 3/160 = 3.75 hours = 3 hours 45 minutes. In the first half of the journey the motorist covers 1/4th the distance @ 40kmph. This means that he takes 50/40 = 1.25 hours = 1 hour 15 minutes in covering the first 50 kms. This also means that he covers the remaining distance of 150 km in 2 hours 30 minutes Æ a speed of 60 kmph. Hence, option (b) is correct."
+      "answer": "Solve",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q033",
@@ -151,8 +501,8 @@
         "c": "20 km/h",
         "d": "15 km/h"
       },
-      "answer": "a",
-      "solution": "Assume a distance of 60 km in each stretch. Get the average speed by the formula. Total distance/ Total time = 180/10 = 18 kmph."
+      "answer": "If",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q034",
@@ -166,8 +516,8 @@
         "c": "300 km",
         "d": "196 km"
       },
-      "answer": "a",
-      "solution": "The speed of the first car would be 60 kmph while the speed of the second car would be 40 kmph. The relative speed of the two cars would be 100 kmph. To cover 480 km they would take 480/100 = 4.8 hours Æ In 4.8 hours, the car traveling from A to B would have traveled 4.8 ¥ 60 = 288 kms."
+      "answer": "In",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q035",
@@ -181,8 +531,8 @@
         "c": "42 minutes",
         "d": "62 minutes"
       },
-      "answer": "a",
-      "solution": "At 3/4th speed, extra time = 1/3rd of time = 16 minutes. Normal time = 48 minutes."
+      "answer": "Check",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q036",
@@ -196,8 +546,8 @@
         "c": "16 km",
         "d": "20 km"
       },
-      "answer": "d",
-      "solution": "Solve using options. The value in option (d) fits the situation as 20/8 – 20/10 = 2.5 – 2 = 0.5 hours = 30 minutes."
+      "answer": "Vimal",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q037",
@@ -211,8 +561,8 @@
         "c": "200 km",
         "d": "None of these"
       },
-      "answer": "d",
-      "solution": "[73.5 ¥ 136]/38. Same logic as for Question 4."
+      "answer": "If",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q038",
@@ -226,15 +576,15 @@
         "c": "21 km/h",
         "d": "20 km/h"
       },
-      "answer": "b",
-      "solution": "The time taken before their meeting would be given by t2 = 12 ¥ 3 = 36 Æ t = 6 hours. This means that their ratio of speeds is 1:2. Since train A is traveling slower, the speed of train B would be double the speed of train A. Required answer = 48 ¥ 2 ="
+      "answer": "Check",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q039",
       "num": 39,
       "lod": 1,
       "type": "mcq",
-      "text": "X and Y are two stations 600 km apart. A train starts\nfrom X and moves towards Y at the rate of 25 km/h.\nAnother train starts from Y at the rate of 35 km/h.\nHow far from X they will cross each other?",
+      "text": "X and Y are two stations 600 km apart. A train starts\nfrom X and moves towards Y at the rate of 25 km/h.\n\nAnother train starts from Y at the rate of 35 km/h.\nHow far from X they will cross each other?",
       "options": {
         "a": "250 km",
         "b": "300 km",
@@ -242,7 +592,7 @@
         "d": "475 km"
       },
       "answer": "a",
-      "solution": "The distance would get divided in the ratio of speeds (since time is constant). Thus, the distance ratio would be 5 : 7 and required distance = 5/12 ¥ 600 = 250 km."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q040",
@@ -256,8 +606,8 @@
         "c": "800 m",
         "d": "900 m"
       },
-      "answer": "a",
-      "solution": "The diameter of the circle would be given by the hypotenuse of the right triangle with legs 600 and 800 respectively. Hence, the required diameter = 1000 meters."
+      "answer": "b",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q041",
@@ -271,8 +621,8 @@
         "c": "5, 9",
         "d": "6, 9"
       },
-      "answer": "b",
-      "solution": "When Ram runs 2000 m, Shyam runs (1800 – 30s) When Ram runs 1000 m, Shyam runs (2000 – 180s). Then: 2000/1000 = 1800 - 30s 2000 - 180s Solving , we get s = 6.66 m/s Thus, shyam’s speed = 400 m/minute and he would take 5 minutes to cover the distance. Option (b) fits."
+      "answer": "d",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q042",
@@ -286,8 +636,8 @@
         "c": "8 km/h, 2 km/h",
         "d": "12 km/h, 3 km/h"
       },
-      "answer": "a",
-      "solution": "From the situation described in the first condition itself we can see that the speed of coming back has to be double the speed of going downstream. Checking the options, only option (a) fits this condition i.e. Downstream speed = 2 ¥ Upstream speed. Hence, option (a) is correct."
+      "answer": "b",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q043",
@@ -301,8 +651,8 @@
         "c": "76.2 km/h",
         "d": "21 km/h"
       },
-      "answer": "a",
-      "solution": "7 ¥ St = Lt (1) 25 ¥ St = Lt + 378 (2) Solving, St = 21 m/sec. = 21 ¥ 18/5 = 75.6 kmph."
+      "answer": "d",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q044",
@@ -317,7 +667,7 @@
         "d": "4 km/h"
       },
       "answer": "d",
-      "solution": "In order to solve this, you first need to think of the speed of the river flow (if the speed of the boat in III.164 How to Prepare for Quantitative Aptitude for CAT still water is 3 kmph). If we take the speed of the river flow as s, we get downstream speed as 3 + s and upstream speed as 3 – s. 10/(3 – s) – 10/(3 + s) = 8 hours Æ s = 2kmph. Note: It is obvious that since the difference between the downstream time and the upstream time is 8 hours, the upstream and downstream speeds would both be factors of 10. The only value of s such that both 3 + s and 3 – s are factors of 10 is s = 2. If the boat needs to reach 10 km downstream in 100 minutes (1.66 hours) it means: 10/1.66 = 6 kmph is the downstream speed. Since, the speed of the stream is 2 kmph, the required speed of the boat = 4 kmph"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q045",
@@ -331,38 +681,23 @@
         "c": "4 kmph",
         "d": "5 kmph"
       },
-      "answer": "c",
-      "solution": "Solve through options. For option (c) at 4 kmph, the boat would take exactly 4 hours to cover the distance."
+      "answer": "a",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q046",
       "num": 46,
       "lod": 1,
       "type": "mcq",
-      "text": "A man rows 6 km/h in still water. If the river is\nrunning at 3 km per hour, it takes him 45 minutes\nto row to a place and back. How far is the place?",
-      "options": {
-        "a": "1.12 km",
-        "b": "1.25 km",
-        "c": "1.6875 km",
-        "d": "2.5 km"
-      },
-      "answer": "c",
-      "solution": "x/9 + x/3 = 3/4 Æ 4x/9 = 3/4 Æ x = 27/16 kms = 1.6875 kms."
-    },
-    {
-      "id": "ch10-lod1-q047",
-      "num": 47,
-      "lod": 1,
-      "type": "mcq",
-      "text": "A boat goes 40 km upstream in 8 h and a distance\nof 49 km downstream in 7 h. The speed of the boat\nin still water is",
+      "text": "A man rows 6 km/h in still water. If the river is\nrunning at 3 km per hour, it takes him 45 minutes\nto row to a place and back. How far is the place?\nof 49 km downstream in 7 h. The speed of the boat\nin still water is",
       "options": {
         "a": "5 km/h",
         "b": "5.5 km/h",
         "c": "6 km/h",
         "d": "6.5 km/h"
       },
-      "answer": "c",
-      "solution": "Upstream speed = 40/8 = 5 kmph. Downstream speed = 49/7 = 7 kmph. Speed in still water = average of upstream and downstream speed = 6 kmph."
+      "answer": "a",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q048",
@@ -376,8 +711,8 @@
         "c": "225 metres",
         "d": "210 metres"
       },
-      "answer": "a",
-      "solution": "(20 ¥ 5/18) ¥ 36 = Lt Æ L­t = 200 m."
+      "answer": "d",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q049",
@@ -391,8 +726,8 @@
         "c": "1 h 12 min",
         "d": "None of these"
       },
-      "answer": "d",
-      "solution": "8/(12 – 2) = 8/10 = 0.8 hours"
+      "answer": "In",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q050",
@@ -406,8 +741,8 @@
         "c": "15 km/h",
         "d": "17 km/h"
       },
-      "answer": "a",
-      "solution": "15 km upstream in 80 minutes Æ 15/1.33 = 11.25 kmph. (upstream speed of the boat). Thus, still water speed of the boat = 11.25 + 5 = 16.25 kmph"
+      "answer": "b",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q051",
@@ -421,8 +756,8 @@
         "c": "4.25 h",
         "d": "4.5 h"
       },
-      "answer": "b",
-      "solution": "Since A to C is double the distance of A to B, it is evident that the time taken for A to C and back would be double the time taken from A to B and back (i.e. double of 6.5 hours = 13 hours). Since going from A to C takes 9 hours, coming back from C to A would take 4 hours (Since 9 + 4 = 13)."
+      "answer": "3",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q052",
@@ -436,8 +771,8 @@
         "c": "48 km/h",
         "d": "60 km/h"
       },
-      "answer": "a",
-      "solution": "(Sf – Ss) ¥ 60 = 200 Where Sf and Ss are speeds of the faster and slower train respectively Æ Sf – Ss = 3.33 Also, (Sf + Ss) ¥ 10 = 200. Æ Sf + Ss = 20. Solving we get Ss = 8.33 m/s = 8.33 ¥ 18/5 = 30 kmph."
+      "answer": "40",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q053",
@@ -451,8 +786,8 @@
         "c": "25 m",
         "d": "12 m"
       },
-      "answer": "b",
-      "solution": "Speed of Vinay = 5 m/s, Speed of Ajay = 4m/s. In a hundred meter race, Vinay would take 20 seconds to complete and in this time Ajay would only cover 80 meters. Thus, Vinay beats Ajay by 20 meters in a hundred meter race."
+      "answer": "21.42",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q054",
@@ -466,8 +801,8 @@
         "c": "1.33 m/s",
         "d": "1 km/h"
       },
-      "answer": "c",
-      "solution": "Solve using options 1.33 m/s fits perfectly."
+      "answer": "14.28",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q055",
@@ -481,8 +816,8 @@
         "c": "10",
         "d": "14"
       },
-      "answer": "c",
-      "solution": "When A scores 60 points B scores 45, and C scores 40. Thus, when B scores 90, C would score 80. So, B can give C 10 points in 90."
+      "answer": "38",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q056",
@@ -496,8 +831,8 @@
         "c": "25 m",
         "d": "30 m"
       },
-      "answer": "b",
-      "solution": "When Shyam does 500, Vinay does 375. Since Vinay has a start of 140 m, it means that Vinay only needs to cover 360 m to reach the destination. When Vinay does 360, Shyam would cover 480 m and lose by 20 m. (Since the ratio of their speeds is 3 : 4)"
+      "answer": "414",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q057",
@@ -511,8 +846,8 @@
         "c": "11 s",
         "d": "14 s"
       },
-      "answer": "b",
-      "solution": "Distance to be covered = 120 meters. Speed = 10m/s Æ Time required = 120/10 =12 seconds."
+      "answer": "5",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q058",
@@ -526,8 +861,8 @@
         "c": "1.5 km",
         "d": "1.4 km"
       },
-      "answer": "a",
-      "solution": "20 ¥ (5/18) ¥ 18 = 100 m = 0.1 km."
+      "answer": "200",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q059",
@@ -541,8 +876,8 @@
         "c": "150 km",
         "d": "120 km"
       },
-      "answer": "a",
-      "solution": "When the second train leaves Muzaffarpur, the first train would have already traveled 30 km. Now, after 9 AM, the relative speed of the two trains would be 10 kmph (i.e. the rate at which the faster train would catch the slower train). Since the faster train has to catch up a relative distance of 30 km in order for the trains to meet, it would take 30/10 = 3 hours to catch up. Distance from Muzaffarpur = 70 ¥ 3 = 210 km"
+      "answer": "1.5",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q060",
@@ -556,8 +891,8 @@
         "c": "14 minutes",
         "d": "18 minutes"
       },
-      "answer": "b",
-      "solution": "Speed of running of the train = 1.25 km/hr. With stoppage, an effective speed of 60 kmph means that the time of travel per hour would be 60/1.25 = 48 minutes. Thus, the train stops for 12 minutes per hour."
+      "answer": "53",
+      "solution": null
     },
     {
       "id": "ch10-lod1-q061",
@@ -572,7 +907,7 @@
         "d": "1.5 km/h"
       },
       "answer": "c",
-      "solution": "Upstream speed = 3.2 kmph Downstream speed = 6 kmph. Thus, speed of stream = 1.4 kmph."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q062",
@@ -587,7 +922,7 @@
         "d": "15 km/h"
       },
       "answer": "d",
-      "solution": "Vijay takes 9 hours to return upstream after going for 6 hours downstream. Solve using options. Option (d) fits as we get Downstream speed = 18 kmph Æ distance = 18 ¥ 6 =108 km Also, upstream speed = 12 kmph Æ distance = 12 ¥ 9 = 108 km"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q063",
@@ -602,7 +937,7 @@
         "d": "2.76 km"
       },
       "answer": "a",
-      "solution": "Upstream speed = 4.8 kmph Downstream speed = 7.2 kmph. d/4.8 + d/7.2 = 1 Solving we get d = 2.88 km."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q064",
@@ -617,14 +952,14 @@
         "d": "90 m"
       },
       "answer": "b",
-      "solution": "The length of the train would be given by: 36 ¥ 5/18 ¥ 8 = 80 meters."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q065",
       "num": 65,
       "lod": 1,
       "type": "mcq",
-      "text": "A lazy man can row upstream at 16 km/h and downstream at 22 km/h. Find the man’s rate in still water\n(in kmph).\nTime, Speed and Distance III.149",
+      "text": "A lazy man can row upstream at 16 km/h and downstream at 22 km/h. Find the man’s rate in still water\n(in kmph).",
       "options": {
         "a": "19",
         "b": "14",
@@ -632,7 +967,7 @@
         "d": "18"
       },
       "answer": "a",
-      "solution": "Rate in still water = (16 + 22)/2 = 19 kmph"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q066",
@@ -647,7 +982,7 @@
         "d": "12 km/h"
       },
       "answer": "c",
-      "solution": "The given situations are satisfied with the speed of the boat as 8 kmph and the speed of the stream as 3 kmph. Option (c) is correct."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q067",
@@ -662,7 +997,7 @@
         "d": "28 km/h"
       },
       "answer": "b",
-      "solution": "10/(x – 2) + 10/(x + 2) = 55/60 = 11/12 hours. x = 22 fits the expression."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q068",
@@ -677,7 +1012,7 @@
         "d": "x – y"
       },
       "answer": "a",
-      "solution": "The speed of the boat in still water is the average of the upstream and downstream speeds. (x + y)/2."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q069",
@@ -692,7 +1027,7 @@
         "d": "16p cm"
       },
       "answer": "a",
-      "solution": "(1/4) ¥ 2p r = 4p (Since r = 8 cm)."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q070",
@@ -707,7 +1042,7 @@
         "d": "44"
       },
       "answer": "a",
-      "solution": "The hands would be together once in each hour. However, the 12 noon time would be counted in both 11 to 12 and 12 to 1. Hence, the no. of times = 12 – 1 = 11."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q071",
@@ -722,7 +1057,7 @@
         "d": "None of these"
       },
       "answer": "a",
-      "solution": "If we consider the clock to be a circle with circumference 60 km, the speed of the Minute hand = 60 kmph, while the speed of the hour hand = 5 kmph. Time, Speed and Distance III.165 The relative speed = 55 kmph. At 2 PM, the distance between the two would be seen as 10 km. This would get covered in 10/55 = 2/11 hours. Option (a) is correct."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q072",
@@ -737,7 +1072,7 @@
         "d": "3 kmph"
       },
       "answer": "c",
-      "solution": "14/(5 + x) + 9/(5 – x) = 5 x = 2, fits this equation."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q073",
@@ -752,7 +1087,7 @@
         "d": "8 km/h"
       },
       "answer": "a",
-      "solution": "Look for the solution by thinking of the factors of"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q074",
@@ -767,7 +1102,7 @@
         "d": "58 m"
       },
       "answer": "d",
-      "solution": "When Ajay does 600 metres, Vijay does 540 m. When Vijay does 500 metres, Anjay does 475 m Thus, Ajay : Vijay : Anjay = 600 : 540 : 513. Thus, Ajay would beat Anjay by (87 ¥ 2/3) = 58 m in a 400 m race."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q075",
@@ -782,7 +1117,7 @@
         "d": "5 kmph"
       },
       "answer": "d",
-      "solution": "30/(15 + x) + 30/(15 – x) = 4 hrs 30 minutes. At x = 5, the equation is satisfied."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q076",
@@ -792,7 +1127,7 @@
       "text": "In a 100 meters race X can give Y a 10 meters start\nand in a 18 km race Y can give Z a 2 km start. If\nthe speed of X is 20 m/s then the speed of Z (in m/s)\nis?",
       "options": {},
       "answer": "16",
-      "solution": "Ratio of X and Y = 100 : (100 – 10) = 100 : 90 = 10 : 9 Ratio of speed of Y and Z = 9 : (9 – 1) = 9 : 8 Ratio of speed of X : Y : Z = 10 : 9 : 8 20 ¥ 8 = 16 m/s. If speed of X is 20 m/s, then speed of Z = 10"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q077",
@@ -802,7 +1137,7 @@
       "text": "In a 5 Km race Mohan wins by 500 meters over\nSohan, while Sohan can give a start of 200 meters\nto Chotan in a 1 km race. In a 5 km race how much\nstart (in meters) can Mohan give Chotan, so that both\nreach the destination simultaneously?",
       "options": {},
       "answer": "1400",
-      "solution": "Ratio of speed of Mohan and Sohan = 5 : (5 – 0.5) = 5 : 4.5 = 10 : 9 Ratio of Sohan and Chotan= 1 : (1 – 0.2) = 5 : 4 Ratio of speeds of Mohan, Sohan and Chotan = 50 : 45 : 36 Therefore in a 5 Km race if Mohan runs 5000 meters then Chotan runs 3600 meters. Thus, he can give a start of 1400 meters."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q078",
@@ -812,17 +1147,17 @@
       "text": "If the ratio of speeds of A and B is 5 : 4, then what\nstart can A give to B so that in a 1 km race, B must\ncover 10% less distance than A ?",
       "options": {},
       "answer": "100",
-      "solution": "Let the length of the race track be 1 Km. When A moves 1 Km, B moves 800 m. But ‘B’ must cover 900 m (according to the question). ∴ B must be given a 100 meter start."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q079",
       "num": 79,
       "lod": 1,
       "type": "tita",
-      "text": "If the ratio of speeds of X and Y is 4 : 5 and X loses\nthe race by 250 m. then what is the length of the\nrace track (in km)?\nDirections for questions 80 and 81:\nThree persons X, Y, Z run on a circular track of length 1 Km.\nat speeds of 20 m/s, 40 m/s and 60 m/s respectively in the\nsame direction.",
+      "text": "If the ratio of speeds of X and Y is 4 : 5 and X loses\nthe race by 250 m. then what is the length of the\nrace track (in km)?\n\nDirections for questions 80 and 81:\nThree persons X, Y, Z run on a circular track of length 1 Km.\nat speeds of 20 m/s, 40 m/s and 60 m/s respectively in the\nsame direction.",
       "options": {},
       "answer": "1250",
-      "solution": "The ratio of distances would be equal to the ratio of the speeds (since they run for the same time). Thus, 4:5 = ratio of distance traveled. Since, the dfference in the distance = 250 meters, the race would be 250×5 = 1250 meters. Solution: 80 – 81:"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q080",
@@ -832,7 +1167,7 @@
       "text": "If they start running simultaneously, after how much\ntime (in seconds) will they meet again ?",
       "options": {},
       "answer": "50",
-      "solution": "Z meets X after every = 1000 1000 = = 25 sec. (60 20) 40 1000 1000 = = 50 sec. Z meets Y after every = (60 - 40) 20 LCM of 25, 50 = 50 seconds Therefore X, Y, Z meet after every 50 seconds."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q081",
@@ -842,7 +1177,7 @@
       "text": "After how much time will they meet at the starting\npoint ?",
       "options": {},
       "answer": "50",
-      "solution": "X completes one round in 1000 = 50 sec. 20 1000 = 25 sec. 40 1000 100 50 Z completes one round in = sec. 60 6 3 50 50 LCM of ÊÁ 50, 25, ˆ˜ = = 50 seconds Ë 3¯ 1 Therefore X, Y, Z would meet for the first time at the starting point after 50 seconds."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q082",
@@ -852,7 +1187,7 @@
       "text": "X, Y, Z run on a circular track at speeds of 10 m/s,\n20 m/s, 25 m/s respectively. If they start from the\nsame point in the same direction at the same time\nand X covers 1 km when they meet again for the\n→rst time at the starting point, then the total distance\ncovered by Y (in Km) is ?\nDirections for questions 83 and 84:\nJohn’s of→ce is 80 km from his house. One day he started\nfrom home, an hour later than his usual time of leaving for\nhis of→ce. In order to cover up the delay, he increased his\nspeed by 4 kmph and thus reached the of→ce on time. Now\nanswer the following questions:",
       "options": {},
       "answer": "2",
-      "solution": "Ratio of distance covered by them = Ratio of speeds of X, Y, Z = 10 : 20 : 25 = 2 : 4 : 5 If X covers 1 Km, then Y covers 2 Km."
+      "solution": null
     },
     {
       "id": "ch10-lod1-q083",
@@ -862,7 +1197,7 @@
       "text": "What is the →nal speed of John?",
       "options": {},
       "answer": "20",
-      "solution": "Let’s assume the initial speed of John is x kmph. Now after increasing his speed by 4 kmph his final speed= x+ 4 kmph. According to the question: 80 80 =1 x x+4 Y completes one round in x2 + 4x – 320 = 0 (x − 16)(x + 20) = 0 So x = 16 kmph. Final speed of John = 16+ 4= 20 kmph. 20 - 16 ¥ 100 = 25%"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q084",
@@ -872,22 +1207,22 @@
       "text": "What is the percentage increase in John’s speed?",
       "options": {},
       "answer": "25",
-      "solution": "Percentage change in speed = 16"
+      "solution": null
     },
     {
       "id": "ch10-lod1-q085",
       "num": 85,
       "lod": 1,
       "type": "tita",
-      "text": "The distance between two cities A and B is 100 km\nand the speed of Ram and Rahim are 50 km/h and\n30 km/h respectively. Initially Ram is at A and Rahim\nis at B. If they move between A and B to and fro,\nthen the distance (in kms) covered by Ram by the\ntime they meet for the 3rd time would be?\nSpace for Rough Work\nLevel of Dif→culty (II)",
+      "text": "The distance between two cities A and B is 100 km\nand the speed of Ram and Rahim are 50 km/h and\n30 km/h respectively. Initially Ram is at A and Rahim\nis at B. If they move between A and B to and fro,\nthen the distance (in kms) covered by Ram by the\ntime they meet for the 3rd time would be?\n\nSpace for Rough Work",
       "options": {},
-      "answer": "312",
-      "solution": "Distance covered by Ram and Rahim together till the 1st meeting = 100 km Distance covered by Ram and Rahim together till the 3rd meeting = 100 km + 2 × 200 km = 500 km. Distance covered by Ram and Rahim is always in the ratio of 5:3. Distance covered by 5 2500 Ram = 500 ¥ = = 312.5 km. 3 + 5 8"
+      "answer": "312.5",
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q001",
+      "id": "ch10-lod2-q001",
       "num": 1,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "The J&K Express from Delhi to Srinagar was\ndelayed by snowfall for 16 minutes and made up for\nthe delay on a section of 80 km travelling with a speed\n10 km per hour higher than its normal speed. Find the\noriginal speed of the J&K Express (according to\nthe schedule)",
       "options": {
@@ -896,13 +1231,13 @@
         "c": "50 km/h",
         "d": "40 km/h"
       },
-      "answer": "a",
-      "solution": "The ratio of time for the travel is 4:3 (Sinhagad to Deccan Queen). Hence, the ratio of speeds would be 3:4. Since, the sum of their average speeds is 70 kmph, their respective speeds would be 30 and 40 kmph respectively. Use alligation to get the answer as 34.28 kmph."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q002",
+      "id": "ch10-lod2-q002",
       "num": 2,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Ayrton Senna had to cover a distance of 60 km.\nHowever, he started 6 minutes later than his scheduled time and raced at a speed 1 km/h higher than\nhis originally planned speed and reached the →nish\nat the time he would reach it if he began to race\nstrictly at the appointed time and raced with the assumed speed. Find the speed at which he travelled\nduring the journey described.",
       "options": {
@@ -911,13 +1246,13 @@
         "c": "10 km/h",
         "d": "6 km/h"
       },
-      "answer": "a",
-      "solution": "When speed goes down to three fourth (i.e. 75%) time will go up to 4/3rd (or 133.33%) of the original time. Since, the extra time required is 16 minutes, it should be equated to 1/3rd of the normal time. Hence, the usual time required will be 48 minutes."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q003",
+      "id": "ch10-lod2-q003",
       "num": 3,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Amitabh covered a distance of 96 km two hours\nfaster than he had planned to. This he achieved by\ntravelling 1 km more every hour than he intended to\ncover every 1 hour 15 minutes. What was the speed\nat which Amitabh travelled during the journey?",
       "options": {
@@ -926,13 +1261,13 @@
         "c": "36 km/h",
         "d": "30 km/h"
       },
-      "answer": "c",
-      "solution": "Since, the ratio of speeds is 3:5, the ratio of times would be 5:3. The difference in the times would be 2 (if looked at in the 5:3 ratio context.) Further, since Ram takes 30 minutes longer, 2 corresponds to 30. Hence, using unitary method, 5 will correspond to 75 and 3 will correspond to 45 minutes. Hence at 10 kmph, Bharat would travel 7.5 km."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q004",
+      "id": "ch10-lod2-q004",
       "num": 4,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "An urgent message had to be delivered from the house\nof the Peshwas in Pune to Shivaji who was camping\nin Bangalore. A horse rider travels on horse back from\nPune to Bangalore at a constant speed. If the horse increased its speed by 6 km/h, it would take the rider 4\nhours less to cover that distance. And travelling with\na speed 6 km/h lower than the initial speed, it would\ntake him 10 hours more than the time he would have\ntaken had he travelled at a speed 6 kmph higher than\nthe initial speed. Find the distance between Pune\nand Bangalore.",
       "options": {
@@ -941,13 +1276,13 @@
         "c": "720 km",
         "d": "750 km"
       },
-      "answer": "c",
-      "solution": "The train that leaves at 6 am would be 75 km ahead of the other train when it starts. Also, the relative speed being 36 kmph, the distance from Mumbai would be: (75/36) ¥ 136 = 283.33 km"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q005",
+      "id": "ch10-lod2-q005",
       "num": 5,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A pedestrian and a cyclist start simultaneously towards each other from Aurangabad and Paithan\nwhich are 40 km apart and meet 2 hours after the\nstart. Then they resumed their trips and the cyclist\narrives at Aurangabad 7 hours 30 minutes earlier\nthan the pedestrian arrives at Paithan. Which of these\ncould be the speed of the pedestrian?",
       "options": {
@@ -956,13 +1291,13 @@
         "c": "3 km/h",
         "d": "6 km/h"
       },
-      "answer": "d",
-      "solution": "If you assume that the initial stretch of track is covered by the two trains in time t each, the following figure will give you a clearer picture. Calcutta Mail Kolkata t 3 12 t Meeting Point Bombay Mail Mumbai III.162 How to Prepare for Quantitative Aptitude for CAT From the above figure, we can deduce that, t/3 = 12/t. Hence, t2 = 36, gives us t = 6. Hence, the distance between Kolkata to the starting point is covered by the Calcutta Mail in 6 hours, while the same distance is covered by the Bombay Mail in 3 hours. Hence, the ratio of their speeds would be 1:2. Hence, the Bombay Mail would travel at 96 kmph. O 6. P1 H G P2 From the figure above we see that Shyam would have walked a distance of 4 + 4 + 4 = 12 km. (G to P1, P1 to G and G to P2)."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q006",
+      "id": "ch10-lod2-q006",
       "num": 6,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Two motorists met at 10 a.m. at the Dadar railway\nstation. After their meeting, one of them proceeded\nin the East direction while the other proceeded in\nthe North direction. Exactly at noon, they were 60\nkm apart. Find the speed of the slower motorist if\nthe difference of their speeds is 6 km/h.",
       "options": {
@@ -971,13 +1306,13 @@
         "c": "9 km/h",
         "d": "19 km/h"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch10-lod1-q007",
+      "id": "ch10-lod2-q007",
       "num": 7,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Two cyclists start simultaneously towards each other\nfrom Aurangabad and Ellora, which are 28 km apart.\nAn hour later they meet and keep pedalling with the\nsame speed without stopping. The second cyclist arrives at Ellora 35 minutes later than the →rst arrives\nat Aurangabad. Find the speed of the cyclist who\nstarted from Ellora.",
       "options": {
@@ -986,13 +1321,13 @@
         "c": "15 km/h",
         "d": "10 km/h"
       },
-      "answer": "c",
-      "solution": "When the train from Khandala starts off, the train from Lonavala will already have covered 50 kms. Hence, 550 km at a relative speed of 60 kmph will take 550/60 hrs. From this, you can get the answer as: 50 + (550/60) * 25 = 279.166 km."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q008",
+      "id": "ch10-lod2-q008",
       "num": 8,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Two ants start simultaneously from two ant holes\ntowards each other. The →rst ant coveres 8% of the\ndistance between the two ant holes in 3 hours, the\n7\nsecond ant covered\nof the distance in 2 hours\n120\n30 minutes. Find the speed (feet/h) of the second\nant if the →rst ant travelled 800 feet to the meeting\npoint.",
       "options": {
@@ -1001,13 +1336,13 @@
         "c": "45 feet/h",
         "d": "35 feet/h"
       },
-      "answer": "a",
-      "solution": "When his speed becomes 3/4th, his time would increase by 1/3rd. Thus, the normal time = 7.5 hrs. (since increased time = 2.5 hrs)."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q009",
+      "id": "ch10-lod2-q009",
       "num": 9,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A bus left point X for point Y. Two hours later a car\nleft point X for Y and arrived at Y at the same time\nas the bus. If the car and the bus left simultaneously\nfrom the opposite ends X and Y towards each other,\nthey would meet 1.33 hours after the start. How\nmuch time did it take the bus to travel from X to Y?",
       "options": {
@@ -1016,13 +1351,13 @@
         "c": "6 h",
         "d": "8 h"
       },
-      "answer": "a",
-      "solution": "Since he gains 2 hours by driving both ways (instead of walking one way) the time taken for driving would be 2 hours less than the time taken for walking. Hence, he stands to lose another two hours by walking both ways. Hence his total time should be 8 hrs 45 minutes."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q010",
+      "id": "ch10-lod2-q010",
       "num": 10,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A racetrack is in the form of a right triangle. The\nlonger of the legs of the track is 2 km more than\nthe shorter of the legs (both these legs being on a\nhighway). The start and end points are also connected\nto each other through a side road. The escort vehicle\nfor the race took the side road and rode with a speed\nof 30 km/h and then covered the two intervals along\nthe highway during the same time with a speed of\n42 km/h. Find the length of the racetrack.",
       "options": {
@@ -1031,28 +1366,28 @@
         "c": "24 km",
         "d": "36 km"
       },
-      "answer": "a",
-      "solution": "Kalu’s speed = 3 m/s. For 1200 m, Kalu would take 400 seconds and Sambhu would take 10 seconds less. Hence, 390 seconds."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q011",
+      "id": "ch10-lod2-q011",
       "num": 11,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "Two planes move along a circle of circumference\n1.2 km with constant speeds. When they move in\nTime, Speed and Distance III.151\ndifferent directions, they meet every 15 seconds and\nwhen they move in the same direction, one plane\novertakes the other every 60 seconds. Find the speed\nof the slower plane.",
+      "text": "Two planes move along a circle of circumference\n1.2 km with constant speeds. When they move in\n\ndifferent directions, they meet every 15 seconds and\nwhen they move in the same direction, one plane\novertakes the other every 60 seconds. Find the speed\nof the slower plane.",
       "options": {
         "a": "0.04 km/s",
         "b": "0.03 km/s",
         "c": "0.05 km/s",
         "d": "0.02 km/s"
       },
-      "answer": "a",
-      "solution": "Since Chandu is moving at a speed of 10 m/s and he has to cover 360 km or 360000 meters, the time taken would be given by 360000/10 seconds = 36000 seconds = 36000/60 minutes = 600 minutes = 10 hours."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q012",
+      "id": "ch10-lod2-q012",
       "num": 12,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Karim, a tourist leaves Ellora on a bicycle. Having\ntravelled for 1.5 h at 16 km/h, he makes a stop for\n1.5 h and then pedals on with the same speed. Four\nhours after Karim started, his friend and local guide\nRahim leaves Ellora on a motorcycle and rides with a\nspeed of 28 km/h in the same direction as Karim had\ngone. What distance will they cover before Rahim\novertakes Karim?",
       "options": {
@@ -1061,13 +1396,13 @@
         "c": "93.33 km",
         "d": "96.66 km"
       },
-      "answer": "a",
-      "solution": "Since the train travels at 60 kmph, it’s speed per minute is 1 km per minute. Hence, if it’s speed with stoppages is 40 kmph, it will travel 40 minutes per hour."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q013",
+      "id": "ch10-lod2-q013",
       "num": 13,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "A tourist covered a journey partly by foot and partly\nby tonga. He walked for 90 km and rode the tonga\nfor 10 km. He spent 4 h less on the tonga than on\nwalking. If the tourist had reversed the times he\ntravelled by foot and on tonga, the distances travelled\non each part of the journey would be equal. How\nlong did he ride the tonga?",
       "options": {
@@ -1076,13 +1411,13 @@
         "c": "He rode for 2 hours",
         "d": "He rode for 5 hours"
       },
-      "answer": "c",
-      "solution": "Total distance/Total time = 1590/15 = 106 kmph."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q014",
+      "id": "ch10-lod2-q014",
       "num": 14,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Two Indian tourists in the US cycled towards each\nother, one from point A and the other from point\nB. The →rst tourist left point A 6 hrs later than the\nsecond left point B, and it turned out on their meeting that he had travelled 12 km less than the second\ntourist. After their meeting, they kept cycling with\nthe same speed, and the →rst tourist arrived at B 8\nhours later and the second arrived at A 9 hours later.\nFind the speed of the faster tourist.",
       "options": {
@@ -1091,13 +1426,13 @@
         "c": "9 km/h",
         "d": "2 km/h"
       },
-      "answer": "a",
-      "solution": "The distance covered in the various phases of his travel would be: 10 km + 25 km + 50 km + 60 km. Thus the total distance covered = 145 km in 2 hours 50 minutes Æ 145 km in 2.8333 hours Æ 51.18 kmph"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q015",
+      "id": "ch10-lod2-q015",
       "num": 15,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Two joggers left Delhi for Noida simultaneously.\nThe →rst jogger stopped 42 min later when he was\n1 km short of Noida and the other one stopped 52\nmin later when he was 2 km short of Noida. If the\n→rst jogger jogged as many kilometres as the second\nand the second as many kilometres as the →rst, the\n→rst one would need 17 min less than the second.\nFind the distance between Delhi and Noida.",
       "options": {
@@ -1106,18 +1441,23 @@
         "c": "25 km",
         "d": "35 km"
       },
-      "answer": "c",
-      "solution": "The average speed would be given by: 3v1v2 3d = d d d 2 v1 + v2 + + v1 v2 v2"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod1-q016",
+      "id": "ch10-lod2-q016",
       "num": 16,
-      "lod": 1,
-      "type": "tita",
-      "text": "A tank of 4800 m3 capacity is full of water. The\ndischarging capacity of the pump is 10 m3/min higher\nthan its →lling capacity. As a result the pump needs\n16 min less to discharge the fuel than to →l",
-      "options": {},
-      "answer": "d",
-      "solution": "By increasing his speed by 25%, he will reduce his time by 20%. (This corresponds to a 6 minute drop in his time for travel—since he goes from being 10 minutes late to only 4 minutes late.) Hence, his time originally must have been 30 minutes. Hence, the required distance is 20 kmph × 0.5 hours = 10 km."
+      "lod": 2,
+      "type": "mcq",
+      "text": "A tank of 4800 m3 capacity is full of water. The\ndischarging capacity of the pump is 10 m3/min higher\nthan its →lling capacity. As a result the pump needs\n16 min less to discharge the fuel than to →ll up the\ntank. Find the →lling capacity of the pump.\n3",
+      "options": {
+        "b": "25 m3/min",
+        "a": "50 m3/min",
+        "d": "24 m3/min",
+        "c": "55 m /min"
+      },
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch10-lod2-q017",
@@ -1131,8 +1471,8 @@
         "c": "16 hours 35 minutes",
         "d": "16 hours 40 minutes"
       },
-      "answer": "c",
-      "solution": "The ant would cover 7 ¥ 8 = 56 meters in 16 hours. Further, it would require 7/12 of the 17th hour to reach the top. Thus time required = 16 hours 35 minutes"
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch10-lod2-q018",
@@ -1146,8 +1486,8 @@
         "c": "10 hours",
         "d": "20 hours"
       },
-      "answer": "d",
-      "solution": "If the slower ship took 20 hours (option d) the faster ship would take 12 hours and their respective speeds would be 15 and 25 kmph. This satisfies the basic condition in the question."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch10-lod2-q019",
@@ -1161,8 +1501,8 @@
         "c": "6 s",
         "d": "2 s"
       },
-      "answer": "b",
-      "solution": "The movement of the ant in the two cases would be 3, 7, 11, 15, 19, 23 and 1, 9, 17, 25, 33, 41. It can be seen that after 3 seconds the difference is 6mm, after 4 seconds, the difference is 16mm and after 5 seconds the difference is 30 mm. Thus, it is clearly seen that the ant moved for 4 seconds."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch10-lod2-q020",
@@ -1176,8 +1516,8 @@
         "c": "75 kmph",
         "d": "40 kmph"
       },
-      "answer": "b",
-      "solution": "When the signal happened distance left was 150 km. 150/(s) – 150/(s + 15) = 1/2 hours Æ s = 60."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch10-lod2-q021",
@@ -1191,37 +1531,22 @@
         "c": "45 kmph",
         "d": "60 kmph"
       },
-      "answer": "b",
-      "solution": "The following figure gives us the movement of the two swimmers: 80 100 60 The faster swimmer must have traveled 80 km in 2 hours and hence his speed is 40 kmph."
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch10-lod2-q022",
       "num": 22,
       "lod": 2,
       "type": "mcq",
-      "text": "A motorcyclist left point A for point B. Two hours\nlater, another motorcyclist left A for B and arrived\nat B at the same time as the →rst motorcyclist. Had\nboth the motorcyclists started simultaneously from\nA and B travelling towards each other, they would\nhave met in 80 minutes. How much time did it take\nthe faster motorcyclist to travel from A to B?",
-      "options": {
-        "a": "6 hours",
-        "b": "3 hours",
-        "c": "2 hours",
-        "d": "4 hours"
-      },
-      "answer": "c",
-      "solution": "Since they cover the distance in 80 minutes traveling in opposite directions we infer 100% distance is covered in 80 minutes Æ 1.25% per minute Æ 75% per hour. i.e. their combined distance coverage is 75% per hour. Since we are asked for the time the faster motorcyclist takes, we can pick up this time from the options. Options Time for faster motorcyclist Faster’s % coverage per hour Slower’s % coverage per hour a 6 hours 16.66 58.33 b 3 hours 33.33 41.66 c 2 hours 50 25 d 4 hours 25 50 It is clear that options a, b, d and e are not feasible as it is making the faster motorcyclist slower."
-    },
-    {
-      "id": "ch10-lod2-q023",
-      "num": 23,
-      "lod": 2,
-      "type": "mcq",
-      "text": "Two horses started simultaneously towards each other and meet each other 3 h 20 min later. How much\ntime will it take the slower horse to cover the whole\ndistance if the →rst arrived at the place of departure\nof the second 5 hours later than the second arrived\nat the point of departure of the →rst?",
+      "text": "A motorcyclist left point A for point B. Two hours\nlater, another motorcyclist left A for B and arrived\nat B at the same time as the →rst motorcyclist. Had\nboth the motorcyclists started simultaneously from\nA and B travelling towards each other, they would\nhave met in 80 minutes. How much time did it take\nthe faster motorcyclist to travel from A to B?\ntime will it take the slower horse to cover the whole\ndistance if the →rst arrived at the place of departure\nof the second 5 hours later than the second arrived\nat the point of departure of the →rst?",
       "options": {
         "a": "10 hours",
         "b": "5 hours",
         "c": "15 hours",
         "d": "6 hours"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1236,7 +1561,7 @@
         "c": "25 kmph",
         "d": "20 kmph"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1244,14 +1569,14 @@
       "num": 25,
       "lod": 2,
       "type": "mcq",
-      "text": "One bad day, at 7 a.m. I started on my bike at the\nspeed of 36 kmph to meet one of my relatives. After\nI had travelled some distance, my bike went out of\norder and I had to stop. After resting for 35 minutes,\nI returned home on foot at a speed of 14 kmph and\nreached home at 1 p.m. Find the distance from my\nhouse at which my bike broke down.\nDirection for questions 26 to 30: Read the following\ndata and answer the questions that follow.\nThree brothers, Ram, Shyam and Mohan, travelled by\nroad. They all left the college at the same time—12 noon.\nThe description of the motions of the three are detailed\nbelow:\nName\nRam\nPhase I\nBus for 2 hours\n@ 10 mph\nPhase II\nBike for 1.5 hours Foot for 3 hours\n@ 40 mph\n@ 3.33 mph\nPhase III Foot for 3 hours\n@ 3.33 mph\nShyam\nMohan\nBike for @ 1 hours Foot for\n30 mph\n3 hours\n@ 3.33 mph\nBus for 4 hours\n@ 10 mph\nBus for\n3 hours\n@ 10 mph\nBike for\n2 hours\n@ 30 mph",
+      "text": "One bad day, at 7 a.m. I started on my bike at the\nspeed of 36 kmph to meet one of my relatives. After\nI had travelled some distance, my bike went out of\norder and I had to stop. After resting for 35 minutes,\nI returned home on foot at a speed of 14 kmph and\nreached home at 1 p.m. Find the distance from my\nhouse at which my bike broke down.\nDirection for questions 26 to 30: Read the following\ndata and answer the questions that follow.\nThree brothers, Ram, Shyam and Mohan, travelled by\nroad. They all left the college at the same time—12 noon.\nThe description of the motions of the three are detailed\nbelow:\nName\n\nRam\n\nPhase I\n\nBus for 2 hours\n@ 10 mph\n\nPhase II\n\nBike for 1.5 hours Foot for 3 hours\n@ 40 mph\n@ 3.33 mph\n\nPhase III Foot for 3 hours\n@ 3.33 mph\n\nShyam\n\nMohan\n\nBike for @ 1 hours Foo",
       "options": {
         "a": "54 km",
         "b": "63 km",
         "c": "72 km",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1266,7 +1591,7 @@
         "c": "2:30 p.m.",
         "d": "2:20 p.m."
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1281,7 +1606,7 @@
         "c": "70 miles",
         "d": "80 miles"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1296,7 +1621,7 @@
         "c": "3 hrs 55 minutes",
         "d": "4 hrs 10 minutes"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1311,7 +1636,7 @@
         "c": "Shyam at 6 p.m.",
         "d": "Mohan at 8 p.m."
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1326,7 +1651,7 @@
         "c": "Shyam at 9:30 p.m.",
         "d": "Shyam at 10 p.m."
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1341,7 +1666,7 @@
         "c": "50 km/h",
         "d": "62 km/h"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1356,7 +1681,7 @@
         "c": "15",
         "d": "Cannot be determined"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1371,7 +1696,7 @@
         "c": "5 : 00",
         "d": "5 : 36"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1386,7 +1711,7 @@
         "c": "66 m",
         "d": "49 m"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1394,14 +1719,14 @@
       "num": 35,
       "lod": 2,
       "type": "mcq",
-      "text": "Rahim sets out to cross a forest. On the →rst day, he\ncompletes 1/10th of the journey. On the second day,\nhe covers 2/3rd of the distance travelled the →rst day.\nTime, Speed and Distance III.153\nHe continues in this manner, alternating the days in\nwhich he travels 1/10th of the distance still to be\ncovered, with days on which he travels 2/3 of the\ntotal distance already covered. At the end of seventh\nday, he →nds that 22 1 2 km more will see the end\nof his journey. How wide is the forest?",
+      "text": "Rahim sets out to cross a forest. On the →rst day, he\ncompletes 1/10th of the journey. On the second day,\nhe covers 2/3rd of the distance travelled the →rst day.\n\nHe continues in this manner, alternating the days in\nwhich he travels 1/10th of the distance still to be\ncovered, with days on which he travels 2/3 of the\ntotal distance already covered. At the end of seventh\nday, he →nds that 22 1 2 km more will see the end\nof his journey. How wide is the forest?",
       "options": {
         "b": "100 km",
         "a": "66 2 3 km",
         "c": "120 km",
         "d": "150 km"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1416,7 +1741,7 @@
         "c": "9",
         "d": "13"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1424,14 +1749,14 @@
       "num": 37,
       "lod": 2,
       "type": "mcq",
-      "text": "The distance between two towns is x km. A car travelling between the towns covers the →rst k km at an\naverage speed of y km/h and the remaining distance\nat z km/h. The time taken for the journey is\n(x - k)\n+\ny\nz\n(k - x)\nz\n(k - x)\n+\ny\nz\n(x – k)",
+      "text": "The distance between two towns is x km. A car travelling between the towns covers the →rst k km at an\naverage speed of y km/h and the remaining distance\nat z km/h. The time taken for the journey is\n(x - k)\n+\ny\nz\n(k - x)\nz\n\n(k - x)\n+\ny\nz\n\n(x – k)",
       "options": {
         "a": "k",
         "b": "ky +",
         "c": "k",
         "d": "ky + z"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1446,7 +1771,7 @@
         "c": "81 km/h",
         "d": "108 km/h"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1461,7 +1786,7 @@
         "c": "132 km",
         "d": "128 km"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1476,7 +1801,7 @@
         "c": "5 : 36 a.m.",
         "d": "5 : 44 a.m."
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1491,7 +1816,7 @@
         "c": "18 km",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1506,7 +1831,7 @@
         "c": "12.33 km",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1521,7 +1846,7 @@
         "c": "In→nite times",
         "d": "Cannot be determined"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1536,7 +1861,7 @@
         "c": "12.5 minutes",
         "d": "None of these"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1551,7 +1876,7 @@
         "c": "0.3D",
         "d": "0.4D"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1566,7 +1891,7 @@
         "c": "1:30 night",
         "d": "12 night"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1581,7 +1906,7 @@
         "c": "25 km/h",
         "d": "46 km/h"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1589,29 +1914,14 @@
       "num": 48,
       "lod": 2,
       "type": "mcq",
-      "text": "Two ghats are located on a riverbank and are 21\nkm apart. Leaving one of the ghats for the other, a\nmotorboat returns to the →rst ghat in 270 minutes,\nspending 40 min of that time in taking the passengers\nat the second ghat. Find the speed of the boat in still\nwater if the speed of the river flow is 2.5 km/h?",
-      "options": {
-        "a": "10.4 km/h",
-        "b": "12.5 km/h",
-        "c": "22.5 km/h",
-        "d": "11.5 km/h"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod2-q049",
-      "num": 49,
-      "lod": 2,
-      "type": "mcq",
-      "text": "A train leaves Muzaffarpur for Hazipur at 2:15 p.m.\nand travels at the rate of 50 kmph. Another train\nleaves Hazipur for Muzaffarpur at 1:35 p.m. and\ntravels at the rate of 60 kmph. If the distance between\nHazipur and Muzaffarpur is 590 km at what distance\nfrom Muzaffarpur will the two trains meet?",
+      "text": "Two ghats are located on a riverbank and are 21\nkm apart. Leaving one of the ghats for the other, a\nmotorboat returns to the →rst ghat in 270 minutes,\nspending 40 min of that time in taking the passengers\nat the second ghat. Find the speed of the boat in still\nwater if the speed of the river flow is 2.5 km/h?\nand travels at the rate of 50 kmph. Another train\nleaves Hazipur for Muzaffarpur at 1:35 p.m. and\ntravels at the rate of 60 kmph. If the distance between\nHazipur and Muzaffarpur is 590 km at what distance\nfrom Muzaffarpur will the two trains meet?",
       "options": {
         "a": "200 km",
         "b": "300 km",
         "c": "250 km",
         "d": "225 km"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1626,7 +1936,7 @@
         "c": "54 km/h",
         "d": "58 km/h"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1634,13 +1944,13 @@
       "num": 51,
       "lod": 2,
       "type": "mcq",
-      "text": "Ajay and Vijay start running simultaneously from the\nsame point on a circular track in the same direction.\nIf Ajay is running with a uniform speed of ‘a’ kmph\nand Vijay is running with ‘b’ kmph, they meet for\nthe →rst time when Ajay is in his 4th round and Vijay\nis in his 3rd round. Which of the following can be\nvalue of a : b (If a > b)?\n Type (1) If only one option is correct.\n Type (2) If two options are correct.\n Type (3) If all the options are correct.\n Type (4) If no option is correct.",
+      "text": "Ajay and Vijay start running simultaneously from the\nsame point on a circular track in the same direction.\nIf Ajay is running with a uniform speed of ‘a’ kmph\nand Vijay is running with ‘b’ kmph, they meet for\nthe →rst time when Ajay is in his 4th round and Vijay\nis in his 3rd round. Which of the following can be\nvalue of a : b (If a > b)?\n\t\t Type (1) If only one option is correct.\n\t\t Type (2) If two options are correct.\n\t\t Type (3) If all the options are correct.\n\t\t Type (4) If no option is correct.",
       "options": {
         "a": "1.4",
         "b": "1.46",
         "c": "1.35"
       },
-      "answer": "3",
+      "answer": null,
       "solution": null
     },
     {
@@ -1648,9 +1958,9 @@
       "num": 52,
       "lod": 2,
       "type": "tita",
-      "text": "Ozair starts for Pune from Mumbai at 2 PM, after\nreaching Pune he takes 2 hours to →nish his work.\nAfter →nishing his work he starts his return journey\nat 4/5th of his previous speed. He reached Mumbai\nat 8:30 PM on the same day. If the distance between\nPune and Mumbai is 100 kilometers, then →nd the\nspeed (in km/hr) with which he returns back to Mumbai?\nDirections for questions 53 and 54:\nDhoni and Kohli start running simultaneously from opposite\nends on a race-track of length 100 m with speeds of 10\nm/s and 4 m/s respectively. If both of them keep running\ncontinuously from one end to the other end (to and fro) then\nanswer the following questions.\nSpace for Rough Work",
+      "text": "Ozair starts for Pune from Mumbai at 2 PM, after\nreaching Pune he takes 2 hours to →nish his work.\nAfter →nishing his work he starts his return journey\nat 4/5th of his previous speed. He reached Mumbai\nat 8:30 PM on the same day. If the distance between\nPune and Mumbai is 100 kilometers, then →nd the\nspeed (in km/hr) with which he returns back to Mumbai?\n\nDirections for questions 53 and 54:\nDhoni and Kohli start running simultaneously from opposite\nends on a race-track of length 100 m with speeds of 10\nm/s and 4 m/s respectively. If both of them keep running\ncontinuously from one end to the other end (to and fro) then\nanswer the following questions.\n\nSpace for Rough Work",
       "options": {},
-      "answer": "40",
+      "answer": null,
       "solution": null
     },
     {
@@ -1660,7 +1970,7 @@
       "type": "tita",
       "text": "After how much time (in seconds) would they meet\nfor the third time?",
       "options": {},
-      "answer": "21",
+      "answer": null,
       "solution": null
     },
     {
@@ -1668,9 +1978,9 @@
       "num": 54,
       "lod": 2,
       "type": "tita",
-      "text": "When they meet for the third time what will be the\ndistance of Dhoni (in meters) from his starting point?\nDirections for Questions 55 and 56:\nTwo places A and B are 120 feet apart. Ramesh starts\ntravelling from A to B and at the same time Akhilesh starts\ntravelling from B to A. Ramesh travels 1/3rd of the total\njourney at a speed of 8 feet/minute, half of the remaining\ndistance at 10 feet/minute and the rest at 16 feet/minute.\nAkhilesh completes the whole journey by travelling at 8\nfeet/minute, 10 feet/minute and 12 feet/minute, respectively,\nfor equal intervals of time. Based on the above information\nanswer questions 55 and 56:",
+      "text": "When they meet for the third time what will be the\ndistance of Dhoni (in meters) from his starting point?\n\nDirections for Questions 55 and 56:\nTwo places A and B are 120 feet apart. Ramesh starts\ntravelling from A to B and at the same time Akhilesh starts\ntravelling from B to A. Ramesh travels 1/3rd of the total\njourney at a speed of 8 feet/minute, half of the remaining\ndistance at 10 feet/minute and the rest at 16 feet/minute.\nAkhilesh completes the whole journey by travelling at 8\nfeet/minute, 10 feet/minute and 12 feet/minute, respectively,\nfor equal intervals of time. Based on the above information\nanswer questions 55 and 56:",
       "options": {},
-      "answer": "14",
+      "answer": null,
       "solution": null
     },
     {
@@ -1680,7 +1990,7 @@
       "type": "tita",
       "text": "The distance between Ramesh and Akhilesh after 5\nminutes of the start of the journey was found to be\n‘x’ meters. Find the value of x.",
       "options": {},
-      "answer": "38",
+      "answer": null,
       "solution": null
     },
     {
@@ -1690,7 +2000,7 @@
       "type": "tita",
       "text": "After how much time (in seconds) of the starting of\nthe journey will they cross each other?",
       "options": {},
-      "answer": "414",
+      "answer": null,
       "solution": null
     },
     {
@@ -1698,9 +2008,9 @@
       "num": 57,
       "lod": 2,
       "type": "tita",
-      "text": "Bhola and Vijay start running simultaneously on a\ncircular track from the same points in the same direction. How many times Bhola meets Vijay before they\nmeet at the starting point for the →rst time (Ratio of\nspeeds of Bhola and Vijay is 6:1)?\nDirections for Questions 58 and 59:\nTwo trains — A and B simultaneously started from Delhi\nto Agra and Agra to Delhi respectively. After reaching their\nrespective destinations, they turned back towards their\nstarting points and →nished their journeys after reaching\ntheir starting stations. They met for the →rst time at a distance\nof 80 km away from the Delhi station and they met for the\nsecond time 40 km away from the Agra station. It is further\nknown that during both the meetings they were travelling in\nthe opposite direction. Answer the following questions:",
+      "text": "Bhola and Vijay start running simultaneously on a\ncircular track from the same points in the same direction. How many times Bhola meets Vijay before they\nmeet at the starting point for the →rst time (Ratio of\nspeeds of Bhola and Vijay is 6:1)?\nDirections for Questions 58 and 59:\nTwo trains — A and B simultaneously started from Delhi\nto Agra and Agra to Delhi respectively. After reaching their\nrespective destinations, they turned back towards their\nstarting points and →nished their journeys after reaching\ntheir starting stations. They met for the →rst time at a distance\nof 80 km away from the Delhi station and they met for the\nsecond time 40 km away from the Agra station. It is further\nknown that during both the meetings they were travelling in\nthe opposite direction. Answer the following q",
       "options": {},
-      "answer": "5",
+      "answer": null,
       "solution": null
     },
     {
@@ -1710,7 +2020,7 @@
       "type": "tita",
       "text": "What is the distance (in km) between Delhi and\nAgra?",
       "options": {},
-      "answer": "200",
+      "answer": null,
       "solution": null
     },
     {
@@ -1720,7 +2030,7 @@
       "type": "tita",
       "text": "What is the ratio of the speeds of trains B and A?",
       "options": {},
-      "answer": "1",
+      "answer": null,
       "solution": null
     },
     {
@@ -1728,15 +2038,15 @@
       "num": 60,
       "lod": 2,
       "type": "tita",
-      "text": "Anand Pagare entered a bar between 12 AM to 1\nAM when the angle between the minute hand and the\nhour hand of the clock was at 30°. If he spent exactly\n1 hour 20 minutes in the bar and came out, and he\ncame out at a time represented by A:B:C where A\nrepresents hours, B represents minutes and C represents seconds. Then, →nd the value of A+B+C.\n  Note: Take C as a whole number only.\nTime, Speed and Distance III.155\nLevel of Dif→culty (III)",
+      "text": "Anand Pagare entered a bar between 12 AM to 1\nAM when the angle between the minute hand and the\nhour hand of the clock was at 30°. If he spent exactly\n1 hour 20 minutes in the bar and came out, and he\ncame out at a time represented by A:B:C where A\nrepresents hours, B represents minutes and C represents seconds. Then, →nd the value of A+B+C.\n\t\tNote: Take C as a whole number only.",
       "options": {},
-      "answer": "53",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch10-lod2-q001",
+      "id": "ch10-lod3-q001",
       "num": 1,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Two people started simultaneously towards each\nother from Siliguri and Darjeeling, which are 60\nkm apart. They met 5 hours later. After their meeting, the →rst person, who travelled from Siliguri to\nDarjeeling, decreased his speed by 1.5 km/h and\nthe other person, who travelled from Darjeeling to\nSiliguri, increased his speed by 1.5 km/h. The →rst\nperson is known to arrive at Darjeeling 2.5 hours\nearlier than the second person arrived at Siliguri.\nFind the initial speed of the →rst person.",
       "options": {
@@ -1745,13 +2055,13 @@
         "c": "7.5 km/h",
         "d": "9 km/h"
       },
-      "answer": "c",
-      "solution": "By travelling at 10 kmph higher than the original speed, the train is able to make up 16 minutes while traveling 80 km. This condition is only satisfied at an initial speed of 50 (and a new speed of 60 kmph)."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q002",
+      "id": "ch10-lod3-q002",
       "num": 2,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Two friends Arun and Nishit, on their last day in college, decided to meet after 20 years on a river. Arun\nhad to sail 42 km to the meeting place and Nishit\nhad to sail 35 5 7 per cent less. To arrive at the meeting place at the same time as his friend Nishit, Arun\nstarted at the same time as Nishit and sailed with the\nspeed exceeding by 5 km/h the speed of Nishit. Find\nthe speed of Arun.",
       "options": {
@@ -1760,13 +2070,13 @@
         "c": "9 kmph",
         "d": "Both b and c"
       },
-      "answer": "a",
-      "solution": "Solve this question through options. For instance, if he travelled at 25 kmph, his original speed would have been 24 kmph. The time difference can be seen to be 6 minutes in this case: 60/24 – 60/25 = 0.1 hrs = 6 mins. Thus, this is the correct answer."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q003",
+      "id": "ch10-lod3-q003",
       "num": 3,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Three cars leave Patna for Ranchi after equal time\nintervals. They reach Ranchi simultaneously and then\nleave for Vizag, which is 120 km from Ranchi. The\n→rst car arrives there an hour after the second car,\nand the third car, having reached Vizag, immediately\nreverses the direction and 40 km from Vizag meets\nthe →rst car. Find the speed of the →rst car.",
       "options": {
@@ -1775,13 +2085,13 @@
         "c": "32 km/h",
         "d": "22 km/h"
       },
-      "answer": "a",
-      "solution": "In 1 hours 15 minutes an individual will be able to cover 25% more than his speed per hour. The relationship between the original speed and the new speed is best represented as below: III.166 How to Prepare for Quantitative Aptitude for CAT 25% increase Original speed æææææ Æ speed per 75 minutes + 1increase æææææ Æ New speed. Thus, to go from the new speed to the original speed the process would be: -1 20% Ø New speed ææÆ Speed per 75 minutes æææÆ Original speed. We need to use this process to check the option. Only the first option satisfies this condition. (at 16 kmph it would take 6 hours while at 12 kmph it would take 8 hours)."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q004",
+      "id": "ch10-lod3-q004",
       "num": 4,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Two sea trawlers left a sea port simultaneously in\ntwo mutually perpendicular directions. Half an hour\nlater, the shortest distance between them was 17 km,\nand another 15 min later, one sea trawler was 10.5\nkm farther from the origin than the other. Find the\nspeed of each sea trawler.",
       "options": {
@@ -1790,13 +2100,13 @@
         "c": "20 km/h, 22 km/h",
         "d": "18 km/h, 36 km/h"
       },
-      "answer": "c",
-      "solution": "The question’s structure (and solving) have to be done on the basis of integers. The following equations emerge: d d d d = 4 and – = 10 s ( s + 6) ( S - 6) ( S + 6) Solving these expressions through normal solving methods is close to impossible (at the very least it would take a huge amount of time.) Instead this question has to be solved using the logic that integral difference in ratios in such a situation can only occur in all the three ratios (d/s), d/(s + 6) and d/(s – 6)) are integers. Hence, d should have three divisors which are 6 units apart from each other."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q005",
+      "id": "ch10-lod3-q005",
       "num": 5,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Shaurya and Arjit take a straight route to the same\nterminal point and travel with constant speeds. At the\ninitial moment, the positions of the two and the terminal point form an equilateral triangle. When Arjit\ncovered a distance of 80 km, the triangle becomes\nright- angled. When Arjit was at a distance of 120 km\nfrom the terminal point, the Shaurya arrived at the\npoint. Find the distance between them at the initial\nmoment assuming that there are integral distances\nthroughout the movements described.",
       "options": {
@@ -1805,13 +2115,13 @@
         "c": "200 km",
         "d": "225 km"
       },
-      "answer": "a",
-      "solution": "The relative speed is 20 kmph. Also, the pedestrian should take 7:30 hours more than the cyclist. Using option (a) the speeds of the two people are 4km/hr and 16 km/hr respectively. At this speed, the respective times would be 10 hrs and 2:30 hours, giving the required answer. 6. 12 M2 10 M1 Æ 5% per hour Æ they will meet in 20 hours. Also, ratio of speeds = 8 : 7. So, the second ant would cover 700 ft to the meeting point in 20 hours and its speed would be 35 feet/hr."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q006",
+      "id": "ch10-lod3-q006",
       "num": 6,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Mrinalini and Neha travel to Connaught Place along\ntwo straight roads with constant speeds. At the initial\nmoment, the positions of Mrinalini, Neha, and Connaught Place form a right triangle. After Mrinalini\ntravelled 30 km, the triangle between the points became equilateral. Find the distance between Mrinalini and Neha at the initial moment if at the time\nMrinalini arrived at Connaught Place, Neha had to\ncover 6.66 km to reach Connaught Place.",
       "options": {
@@ -1820,13 +2130,13 @@
         "c": "30 5 km",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch10-lod2-q007",
+      "id": "ch10-lod3-q007",
       "num": 7,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Three cars started simultaneously from Ajmer to\nBenaras along the same highway. The second car\ntravelled with a speed that was 10 km/h higher than\nthe →rst car’s speed and arrived at Benaras 1 hour earlier than the →rst car. The third car arrived at Benaras\n33.33 minutes earlier than the →rst car, travelling half\nthe time at the speed of the →rst car and the other\nhalf at the speed of the second car. Find the total distance covered by these three cars during their journey\nbetween Ajmer and Benaras.",
       "options": {
@@ -1835,13 +2145,13 @@
         "c": "540 km",
         "d": "840 km"
       },
-      "answer": "b",
-      "solution": "Since the two motorists meet after an hour, their relative speed is 28 kmph. Use options to check out the values. Since the speed of the faster cyclist is asked for it has to be greater than 14 kmph. Hence only check options > 14 kmph."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q008",
+      "id": "ch10-lod3-q008",
       "num": 8,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Three sprinters A, B, and C had to sprint from points\nP to Q and back again (starting in that order). The\ntime interval between the starting times of the three\nsprinters A, B and C was 5 seconds each. Thus C\nstarted 10 seconds after A, while B started 5 seconds\nafter A. The three sprinters passed a certain point R,\nwhich is somewhere between P and Q, simultaneously (none of them having reached point Q yet).\nHaving reached Q and reversed the direction, the\nthird sprinter met the second one 9 m short of Q\nand met the →rst sprinter 15 m short of Q. Find the\nspeed of the →rst sprinter if the distance between PQ\nis equal to 55 m.",
       "options": {
@@ -1850,28 +2160,27 @@
         "c": "2 m/s",
         "d": "1 m/s"
       },
-      "answer": "d",
-      "solution": "Since the second ant covers 7/120 of the distance in 2 hours 30 minutes, we can infer that is covers 8.4/120 = 7% of the distance in 3 hours. Thus, in 3 hours both ants together cover 15% of the distance A 9 hours 8 hours M t hours, d B From the figure above, it is clear that A is faster as he takes only t + 2 hours while B has taken t + 9 hours to complete the journey. Then, we get: (t – 6)/9 = 8/t Solving for t, we get t = – 6 (not possible) Or t = 12. Putting this value of t in the figure it changes to: 6 hours A 9 hours 8 hours M 12 hours B Time, Speed and Distance III.167 We also get ratio of speeds = 3 : 2 (inverse of ratio of times) The next part of the puzzle is to think of the 12 km less traveled by the first person till the meeting point. If the speed of the faster person is 3s, that of the slower person = 2s. Further 12 ¥ 2s – 6 ¥ 3s = 12 km s = 2 kmph. The speed of the faster tourist is 3 ¥ 2 = 6 kmph"
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q009",
+      "id": "ch10-lod3-q009",
       "num": 9,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Two trains start from the same point simultaneously\nand in the same direction. The →rst train travels at 40\nkm/h, and the speed of the second train is 25 per cent\nmore than the speed of the →rst train. Thirty minutes\nlater, a third train starts from the same point and in\nthe same direction. It overtakes the second train 90\nminutes later than it overtook the →rst train. What\nis the speed of the third train?",
       "options": {
-        "a": "20 km/h",
         "b": "40 km/h",
         "c": "60 km/h",
         "d": "80 km/h"
       },
-      "answer": "b",
-      "solution": "In this question consider the total distance as 100%. Hence the sum of their speeds will be 75% per hour. Checking option (c). If the bus took 6 hours, it would cover 16.66% distance per hour and the car would cover 25% distance per hour. (as it takes 2 hours less than the bus.) This gives an addition of only 41.66%. Hence, the answer is not correct. Option (b) is the correct answer."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q010",
+      "id": "ch10-lod3-q010",
       "num": 10,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "A passenger train left town Alpha for town Beta. At\nthe same time, a goods train left Beta for Alpha. The\nspeed of each train is constant throughout the whole\ntrip. Two hours after the trains met, they were 450\nkm apart. The passenger train arrived at the place\nof destination 16 hours after their meeting and the\ngoods train, 25 hours after the meeting. How long\ndid it take the passenger train to make the whole\ntrip?",
       "options": {
@@ -1880,13 +2189,13 @@
         "c": "14 hours",
         "d": "None of these"
       },
-      "answer": "a",
-      "solution": "The requisite conditions are met on a Pythagoras triplet 6,8,10. Since the racetrack only consists of the legs of the right triangle the length must be 6 + 8 = 14 km."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q011",
+      "id": "ch10-lod3-q011",
       "num": 11,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Two ducks move along the circumference of a circular pond in the same direction and come alongside\neach other every 54 minutes. If they moved with the\nsame speeds in the opposite directions, they would\nmeet every 9 minutes. It is known that when the\nducks moved along the cicumference in opposite\ndirections, the distance between them decreased from\n54 to 14 feet every 48 seconds. What is the speed\nof the slower duck?",
       "options": {
@@ -1895,62 +2204,66 @@
         "c": "30 feet/min",
         "d": "20.83 feet/min"
       },
-      "answer": "b",
-      "solution": "The sum of speeds would be 0.08 m/s (relative speed in opposite direction). Also if we go by option (b), the speeds will be 0.03 and 0.05 m/s respectively. At this speed the overlapping would occur every 60 seconds."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q012",
+      "id": "ch10-lod3-q012",
       "num": 12,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
-      "text": "Dev and Nishit started simultaneously from opposite\npoints X and Y on a straight road, at constant speeds.\nWhen Dev had covered 40% of the distance from\nX to Y, Nishit was 4 km away from Dev after having\ncrossed Dev. When Nishit had covered half the way,\nDev was 10 km short of the mid point. Find a possible of the time it took Dev to cover the distance from\nX to Y to the time it took Nishit to cover the same\ndistance.\nÈ1 + 3 ˘\n3 2+4\n2 2 +1\nÎ 2 ˚",
+      "text": "Dev and Nishit started simultaneously from opposite\npoints X and Y on a straight road, at constant speeds.\nWhen Dev had covered 40% of the distance from\nX to Y, Nishit was 4 km away from Dev after having\ncrossed Dev. When Nishit had covered half the way,\nDev was 10 km short of the mid point. Find a possible of the time it took Dev to cover the distance from\nX to Y to the time it took Nishit to cover the same\ndistance.\nÈ1 + 3 ˘\n3 2+4\n\n(b)\n˙\n2 2 +1\nÎ 2 ˚",
       "options": {
         "a": "Í",
-        "b": "˙",
         "c": "Either a or b",
         "d": "None of these"
       },
-      "answer": "c",
-      "solution": "When Rahim starts, Karim would have covered 40 km. Also, their relative speed is 12 kmph and the distance between the two would get to 0 in 40/12 = 3.33 hours. Distance covered = 28 ¥ 3.33 = 93.33 km."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q013",
+      "id": "ch10-lod3-q013",
       "num": 13,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
-      "text": "For Question 12 which of these is a possible value\nof the distance between the points X and Y:\n(2 + 3 )\n(1 + 2 )\n(b)",
+      "text": "For Question 12 which of these is a possible value\nof the distance between the points X and Y:\n(2 + 3 )\n(1 + 2 )\n\n(b)",
       "options": {
         "a": "and",
         "b": "20",
         "c": "60 km",
         "d": "Both"
       },
-      "answer": "c",
-      "solution": "Solve this question through options. For option (c), the conditions match since: If he rode for 2 hours (speed = 5 kmph), he would have walked for 6 hours (4 hours more) and his walking speed would be 15 kmph. If we interchange the times, we get 15 ¥ 2 = 5 ¥ 6."
+      "answer": null,
+      "solution": null
     },
     {
-      "id": "ch10-lod2-q014",
+      "id": "ch10-lod3-q014",
       "num": 14,
-      "lod": 2,
-      "type": "tita",
-      "text": "Two ships sail in a fog towards each other with the\nsame speed. When they are 4 km apart, the captains\ndecelerate the engines for 4 minutes with a deceleration rate of 0.1 m/s2, and then",
-      "options": {},
-      "answer": "b",
-      "solution": "This is a complex trial and error based question and the way you would have to think in this is: d – 12 t – 6 hours 12 The distance between the motorists will be shown on the hypotenuse. Using the 3,4,5 Pythagoras triplet and the condition that the two speeds are 6 kmph different from each other, you will get the triplet as: 18,24,30. Hence, the slower motorist travelled at 18 kmph."
+      "lod": 3,
+      "type": "mcq",
+      "text": "Two ships sail in a fog towards each other with the\nsame speed. When they are 4 km apart, the captains\ndecelerate the engines for 4 minutes with a deceleration rate of 0.1 m/s2, and then the ships continue\nsailing with the speeds attained. For what range of\nvalues of the initial speed V0 will the ships avoid\ncollision?",
+      "options": {
+        "a": "0 < V0 < 10 m/s",
+        "b": "0 <V0 < 20 m/s",
+        "c": "0 < V0 < 30 m/s",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
     },
     {
       "id": "ch10-lod3-q015",
       "num": 15,
       "lod": 3,
       "type": "mcq",
-      "text": "Three points A, B and C are located at the vertices\nof an equilateral triangle with sides equal to 168\nmetres. A donkey called Dinky starts from A to B\nat 60 metres/hour and at the same time a cow called\nMoo starts from B to C at 30 metres/hour. In what\ntime after their departure will the distance between\nthe donkey and the cow be the least?",
+      "text": "Three points A, B and C are located at the vertices\nof an equilateral triangle with sides equal to 168\nmetres. A donkey called Dinky starts from A to B\n\nat 60 metres/hour and at the same time a cow called\nMoo starts from B to C at 30 metres/hour. In what\ntime after their departure will the distance between\nthe donkey and the cow be the least?",
       "options": {
         "a": "2 h",
         "b": "3 h",
         "c": "0.5 h",
         "d": "8 h"
       },
-      "answer": "Use",
+      "answer": null,
       "solution": null
     },
     {
@@ -1965,7 +2278,7 @@
         "c": "15 kmph",
         "d": "16 kmph"
       },
-      "answer": "Through",
+      "answer": null,
       "solution": null
     },
     {
@@ -1980,7 +2293,7 @@
         "c": "In 3.33 hours",
         "d": "In 5 hours"
       },
-      "answer": "Use",
+      "answer": null,
       "solution": null
     },
     {
@@ -1995,7 +2308,7 @@
         "c": "20 km/h",
         "d": "8 km/h"
       },
-      "answer": "Let",
+      "answer": null,
       "solution": null
     },
     {
@@ -2010,7 +2323,7 @@
         "c": "18 km away from A",
         "d": "15 km away from A"
       },
-      "answer": "The",
+      "answer": null,
       "solution": null
     },
     {
@@ -2018,14 +2331,14 @@
       "num": 20,
       "lod": 3,
       "type": "mcq",
-      "text": "An object begins moving at time moment t = 0 and\n4 s after the beginning of the motion, attains the acceleration of 3 m/s2. Find the speed of the object 6 s\nafter the beginning of motion if it is known that the\nspeed of the body varies accordingly to the law v(t) =\nTime, Speed and Distance III.157\n(t 2 + 2b.t + 4) m/s and the object moves along a\nstraight line.",
+      "text": "An object begins moving at time moment t = 0 and\n4 s after the beginning of the motion, attains the acceleration of 3 m/s2. Find the speed of the object 6 s\nafter the beginning of motion if it is known that the\nspeed of the body varies accordingly to the law v(t) =\n\n(t 2 + 2b.t + 4) m/s and the object moves along a\nstraight line.",
       "options": {
         "a": "22 m/s",
         "b": "10 m/s",
         "c": "30 m/s",
         "d": "15 m/s"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2040,7 +2353,7 @@
         "c": "10 metres",
         "d": "5 metres"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2055,7 +2368,7 @@
         "c": "8 < V < 20 km/h",
         "d": "12 < V < 24 km/h"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2070,7 +2383,7 @@
         "c": "6.1 kmph",
         "d": "5.5 km/h"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2085,7 +2398,7 @@
         "c": "60.833 km",
         "d": "43.33 km"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -2093,14 +2406,14 @@
       "num": 25,
       "lod": 3,
       "type": "mcq",
-      "text": "A robot began moving from point A in a straight\nline at 6 p.m. with an initial speed of 3 m/s. One\nsecond later, the speed of the robot became equal\nto 4 m/s. Find the acceleration of the robot at the end\nof the 2nd second if its speed changes by the law\ns(t) = (at2 + 2t + \n2",
+      "text": "A robot began moving from point A in a straight\nline at 6 p.m. with an initial speed of 3 m/s. One\nsecond later, the speed of the robot became equal\nto 4 m/s. Find the acceleration of the robot at the end\nof the 2nd second if its speed changes by the law\ns(t) = (at2 + 2t + (b))\n2",
       "options": {
         "b": "–2 m/s2",
         "a": "1 m/s2",
         "c": "0 m/s",
         "d": "2 m/s2"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2108,14 +2421,14 @@
       "num": 26,
       "lod": 3,
       "type": "mcq",
-      "text": "For Question 25, the distance of the robot from point\nA after 6 seconds will be (assuming that for every\nsecond the robot travels at a constant speed equal to\nits starting speed for that second and any acceleration\noccurs at the start of the next second)",
+      "text": "For Question 25, the distance of the robot from point\nA after 6 seconds will be (assuming that for every\n\nsecond the robot travels at a constant speed equal to\nits starting speed for that second and any acceleration\noccurs at the start of the next second)",
       "options": {
         "a": "45 m",
         "b": "36 m",
         "c": "10 m",
         "d": "17 m"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2130,7 +2443,7 @@
         "c": "4 < S < 8",
         "d": "None of these"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2145,7 +2458,7 @@
         "c": "4.8 hours",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2160,7 +2473,7 @@
         "c": "12 hours",
         "d": "4 hours"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2175,7 +2488,7 @@
         "c": "25 hours",
         "d": "28 hours"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2185,12 +2498,11 @@
       "type": "mcq",
       "text": "A pedestrian and a cyclist left Nagpur for Buti Bori at\nthe same time. Having reached Buti Bori, the cyclist\nturned back and met the pedestrian an hour after the\nstart. After their meeting, the pedestrian continued\nhis trip to Buti Bori and the cyclist turned back and\nalso headed for Buti Bori. Having reached Buti Bori,\nthe cyclist turned back again and met the pedestrian\n30 mins after their →rst meeting. Determine what\ntime it takes the pedestrian to cover the distance\nbetween Nagpur and Buti Bori.",
       "options": {
-        "a": "1 hour",
         "b": "2 hours",
         "c": "2.5 hours",
         "d": "3 hours"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2205,7 +2517,7 @@
         "c": "4 kmph",
         "d": "3 kmph"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2213,14 +2525,12 @@
       "num": 33,
       "lod": 3,
       "type": "mcq",
-      "text": "Two people started simultaneously from points A and\nB towards each other. At the moment the person who\nstarted from A had covered two-thirds of the way, the\nother person had covered 2 km less than half the total\ndistance. If it is known that when the person who\nstarted from B had covered 1/4 of the way, the other\nperson was 3 km short of the mid point. Find the\ndistance between A and B. The speeds of the two\npeople were constant.\n(15 – 3 17 ) km (15 + 3 17 ) km",
+      "text": "Two people started simultaneously from points A and\nB towards each other. At the moment the person who\nstarted from A had covered two-thirds of the way, the\nother person had covered 2 km less than half the total\ndistance. If it is known that when the person who\nstarted from B had covered 1/4 of the way, the other\nperson was 3 km short of the mid point. Find the\ndistance between A and B. The speeds of the two\npeople were constant.\n(a) (15 – 3 17 ) km (b) (15 + 3 17 ) km",
       "options": {
-        "a": "",
-        "b": "",
         "c": "Both a and b",
         "d": "3 17 – 5 km"
       },
-      "answer": "33",
+      "answer": null,
       "solution": null
     },
     {
@@ -2235,7 +2545,7 @@
         "c": "3 : 1 : 3",
         "d": "2 : 1 : 2"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2250,7 +2560,7 @@
         "c": "50 kmph",
         "d": "None of these"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2258,14 +2568,14 @@
       "num": 36,
       "lod": 3,
       "type": "mcq",
-      "text": "Rohit left Mahabaleshwar for Nashik at 6 a.m. An\nhour and a half later Vimal, whose speed was 5 km/h\nhigher than that of Rohit left Mahabaleshwar. At\n10 : 30 p.m. of the same day the distance between\nthe two friends was 21 km. Find the speed of Vimal.",
+      "text": "Rohit left Mahabaleshwar for Nashik at 6 a.m. An\nhour and a half later Vimal, whose speed was 5 km/h\n\nhigher than that of Rohit left Mahabaleshwar. At\n10 : 30 p.m. of the same day the distance between\nthe two friends was 21 km. Find the speed of Vimal.",
       "options": {
         "a": "40 kmph",
         "b": "41 kmph",
         "c": "69 kmph",
         "d": "Either b or c"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2280,7 +2590,7 @@
         "c": "35 km",
         "d": "None of these"
       },
-      "answer": "If",
+      "answer": null,
       "solution": null
     },
     {
@@ -2295,7 +2605,7 @@
         "c": "45 km",
         "d": "None of these"
       },
-      "answer": "Check",
+      "answer": null,
       "solution": null
     },
     {
@@ -2310,7 +2620,7 @@
         "c": "20 kmph",
         "d": "16 kmph"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2325,7 +2635,7 @@
         "c": "25",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2333,14 +2643,14 @@
       "num": 41,
       "lod": 3,
       "type": "mcq",
-      "text": "The distance between Varanasi and Lucknow is 220\nkm. Two buses start from these towns towards each\nother. They can meet halfway if the →rst bus leaves 2\nhours earlier than the second. If they start simultaneously, they will meet in 4 hours. Find the speeds of\nthe buses.\nTime, Speed and Distance III.159\n(3 + 5 ) km/h, 17.5( 1 + 5 ) km/h\n(3 + 5 ) km/h, 27.5(1 + 5 ) km/h\n(3 – 5 ) km/h, 27.5( 5 – 1) km/h",
+      "text": "The distance between Varanasi and Lucknow is 220\nkm. Two buses start from these towns towards each\nother. They can meet halfway if the →rst bus leaves 2\nhours earlier than the second. If they start simultaneously, they will meet in 4 hours. Find the speeds of\nthe buses.\n\n(3 + 5 ) km/h, 17.5( 1 + 5 ) km/h\n(3 + 5 ) km/h, 27.5(1 + 5 ) km/h\n(3 – 5 ) km/h, 27.5( 5 – 1) km/h",
       "options": {
         "a": "17.5",
         "b": "27.5",
         "c": "27.5",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2355,7 +2665,7 @@
         "c": "30 min",
         "d": "Cannot be determined"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2370,7 +2680,7 @@
         "c": "3 : 1",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2385,7 +2695,7 @@
         "c": "200 kmph",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2393,28 +2703,24 @@
       "num": 45,
       "lod": 3,
       "type": "mcq",
-      "text": "Three friends A, B and C start from P to Q that are\n100 km apart. A is on a moped while B is riding\npillion and C walks on. A takes B to a point R and\nreturns to pick up C on the way and takes him to\npoint Q. B, on the other hand, walks to Q from point\nR (R is the mid-point between P and Q).\n    If the ratio of speeds of the three people is 5 : 2 :\n2, →nd where will the last person be when the →rst\nperson reaches Q.\nSpace for Rough Work",
+      "text": "Three friends A, B and C start from P to Q that are\n100 km apart. A is on a moped while B is riding\npillion and C walks on. A takes B to a point R and\nreturns to pick up C on the way and takes him to\npoint Q. B, on the other hand, walks to Q from point\nR (R is the mid-point between P and Q).\n\t\t  If the ratio of speeds of the three people is 5 : 2 :\n2, →nd where will the last person be when the →rst\nperson reaches Q.\nSpace for Rough Work",
       "options": {
         "a": "12.85 km from Q",
         "b": "12.75 km from Q",
         "c": "16.66 km from Q",
         "d": "83.33 km from P"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
       "id": "ch10-lod3-q046",
       "num": 46,
       "lod": 3,
-      "type": "mcq",
-      "text": "A motorboat moves from point A to point B and\nback again, both points being located on the riverbank. If the speed of the boat in still water is doubled,\nthen the trip from A to B and back again would take\n20% of the time that the motorboat usually spends in\nthe journey. How many times is the actual speed of\nthe launch higher than the speed of the river flow?\n3\n3\n(b)\n3\n3\n2",
-      "options": {
-        "a": "2",
-        "c": "2",
-        "d": "3"
-      },
-      "answer": "a",
+      "type": "tita",
+      "text": "A motorboat moves from point A to point B and\nback again, both points being located on the riverbank. If the speed of the boat in still water is doubled,\nthen the trip from A to B and back again would take\n20% of the time that the motorboat usually spends in\nthe journey. How many times is the actual speed of\nthe launch higher than the speed of the river flow?\n3\n3\n(b)\n(a)\n2\n3\n(c)\n\n2\n3\n\n(d)\n\n3\n2",
+      "options": {},
+      "answer": null,
       "solution": null
     },
     {
@@ -2429,7 +2735,7 @@
         "c": "10 : 52 : 48 a.m.",
         "d": "11 : 36 : 24 a.m."
       },
-      "answer": "The",
+      "answer": null,
       "solution": null
     },
     {
@@ -2444,7 +2750,7 @@
         "c": "9 p.m.",
         "d": "8 p.m."
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2459,7 +2765,7 @@
         "c": "16 kmph",
         "d": "10 kmph"
       },
-      "answer": "In",
+      "answer": null,
       "solution": null
     },
     {
@@ -2467,296 +2773,21 @@
       "num": 50,
       "lod": 3,
       "type": "mcq",
-      "text": "Two boats go downstream from point X to point Y.\nThe faster boat covers the distance from X to Y 1.5\ntimes as fast as the slower boat. It is known that for\nevery hour the slower boat lags behind the faster boat\nby 8 km. However, if they go upstream, then the faster boat covers the distance from Y to X in half the time\nas the slower boat. Find the speed of the faster boat in\nstill water.\nanswer key\nLevel of Dif→culty (I)",
+      "text": "Two boats go downstream from point X to point Y.\nThe faster boat covers the distance from X to Y 1.5\ntimes as fast as the slower boat. It is known that for\nevery hour the slower boat lags behind the faster boat\nby 8 km. However, if they go upstream, then the faster boat covers the distance from Y to X in half the time\nas the slower boat. Find the speed of the faster boat in\nstill water.",
       "options": {
         "a": "12 kmph",
         "b": "20 kmph",
         "c": "24 kmph",
         "d": "25 kmph"
       },
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q001",
-      "num": 1,
-      "lod": 3,
-      "type": "mcq",
-      "text": "The →rst person who travels from Siliguri to Darjeeling is obviously faster than the second. Hence, reject\nOptions \nwith Options \nsatis→es the conditions.\n5",
-      "options": {
-        "a": "and",
-        "b": ". Then, check all the conditions",
-        "c": "and",
-        "d": "and select the one which"
-      },
-      "answer": "The",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q002",
-      "num": 2,
-      "lod": 3,
-      "type": "tita",
-      "text": "Since distance to be travelled by Nishit is 35 %\n7\n5\nless, his speed will also be 35 % less than Arun’s\n7\nspeed. Check the options with the conditions that\nArun’s speed is 5 kmph higher than that of Nishit.",
-      "options": {},
-      "answer": "Since",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q003",
-      "num": 3,
-      "lod": 3,
-      "type": "tita",
-      "text": "Let S1, S2 and S3 be the speeds of the three cars.\nThen:\n120 120\n= 1 hour\b\nS1\nS2\n(1)\nIt is also known that the speed of the third car is\ndouble the speed of the →rst car.\nWith these realisations, check for factors of 120\nwhich can satisfy the equation above.\n[Note that in equations like (1) above, normally the\nrespective values of S1 and S2 will be factors of 120.]",
-      "options": {},
-      "answer": "Let",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q005",
-      "num": 5,
-      "lod": 3,
-      "type": "tita",
-      "text": "If the side of the initial equilateral triangle is S, then\nwhen Arjit covers (S – 120) kms, Shaurya covers S\nkilometres. Also, when Arjit covers a distance of 80\nkilometres, Shaurya covers a distance such that the\nresultant triangle is right angled.\nCheck these conditions through options.",
-      "options": {},
-      "answer": "If",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q006",
-      "num": 6,
-      "lod": 3,
-      "type": "tita",
-      "text": "Solve through a process similar to the previous question.",
-      "options": {},
-      "answer": "Solve",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q007",
-      "num": 7,
-      "lod": 3,
-      "type": "tita",
-      "text": "If S1 is the speed of the →rst car, then (S1 + 10) will\nbe the second car’s speed. If t1 hours is the time\nrequired for the →rst car, then (t1 – 1) hours is the\ntime required for the second car in covering the same\n33.33 ˆ\ndistance, while that of the third car is Ê t1 Ë\n60 ¯\nhours.\nCheck these conditions through options.",
-      "options": {},
-      "answer": "If",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q010",
-      "num": 10,
-      "lod": 3,
-      "type": "tita",
-      "text": "The relative speed is 225 km/hr.",
-      "options": {},
-      "answer": "The",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q011",
-      "num": 11,
-      "lod": 3,
-      "type": "tita",
-      "text": "The sum of the speeds of the ducks is 50 feet/min\nHence, circumference = 9 × 50 = 450 feet and dif450\n= 8.33.\nference of speeds =\n54",
-      "options": {},
-      "answer": "The",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q015",
-      "num": 15,
-      "lod": 3,
-      "type": "tita",
-      "text": "Use options to solve.",
-      "options": {},
-      "answer": "Use",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q016",
-      "num": 16,
-      "lod": 3,
-      "type": "tita",
-      "text": "Through trial and error try to →nd the initial speed\nof the train, so that the →rst condition is met.\nTime, Speed and Distance III.161",
-      "options": {},
-      "answer": "Through",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q017",
-      "num": 17,
-      "lod": 3,
-      "type": "tita",
-      "text": "Use options to solve.",
-      "options": {},
-      "answer": "Use",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q018",
-      "num": 18,
-      "lod": 3,
-      "type": "tita",
-      "text": "Let the distance AC = d",
-      "options": {},
-      "answer": "Let",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q037",
-      "num": 37,
-      "lod": 3,
-      "type": "tita",
-      "text": "If d is the distance between Delhi and Daulatabad,\nthen you will get the following equation.\nd 240 - d\nd 240 - d\n=\n+\n+\nV0\nV1\nV1\nV0\nd - 14\n28 + (d - 16)\n=\n14\n(d - 14) + 2\n  If V0 π V1, then the above condition will be satis→ed\nonly if d = 120 km.",
-      "options": {},
-      "answer": "If",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q019",
-      "num": 19,
-      "lod": 3,
-      "type": "tita",
-      "text": "The time required will be represented by",
-      "options": {},
-      "answer": "The",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q038",
-      "num": 38,
-      "lod": 3,
-      "type": "tita",
-      "text": "Check the conditions through the options.",
-      "options": {},
-      "answer": "Check",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q047",
-      "num": 47,
-      "lod": 3,
-      "type": "tita",
-      "text": "The net time loss is 1/3% of 168 hours.",
-      "options": {},
-      "answer": "The",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q049",
-      "num": 49,
-      "lod": 3,
-      "type": "tita",
-      "text": "In the time taken by the boat in traveling d + (d –\n12) kms, the log travels 12 km. Let, SB be the speed\nof the boat is still water and, SS be the speed of the\nstream.\n  Then\n12\n20\n8\n=\n+\n(1)\nSS\n(SS + SB ) (SB - SS )\n  Then,\nDistance travelled on highway\n10\n+\nDistance travelled on side roads\n10\n This has to be minimised, check the options.\ndv\n20-21. Acceleration is\n= 2t + 2b\ndt\n  At t = 4, the acceleration is given to be 3.\n-5\n  Hence, b =\n2\n Hence, the velocity equation becomes\nV(t) = t2 – 5t + 4",
-      "options": {},
-      "answer": "In",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q029",
-      "num": 29,
-      "lod": 3,
-      "type": "tita",
-      "text": "Total time taken to cover the entire distance together\n5\n= 144 ×\n= 180 minutes = 3 hours.\n4\n Hence, distance covered per hour = 33.33% of the\ntotal by both of them combined.\n Check this condition for all the options.",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q031",
-      "num": 31,
-      "lod": 3,
-      "type": "tita",
-      "text": "Suppose A and B are the points where the →rst and\nthe second meetings took place.\n    The total distance covered by the pedestrian and\nthe cyclist before the →rst meeting = Twice the distance between Nagpur and Buti Bori.\n Total time taken is 1 hour.\n Total distance covered by the pedestrian and the cyclist between the two meetings = Twice the distance\nbetween A and Buti Bori.\n and time taken is half an hour.\n    Hence, A is the mid-point. This will result in a GP.",
-      "options": {},
-      "answer": "b",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q032",
-      "num": 32,
-      "lod": 3,
-      "type": "tita",
-      "text": "Solve through options by checking all the conditions\ngiven in the question.",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q033",
-      "num": 33,
-      "lod": 3,
-      "type": "tita",
-      "text": "If 2d is the distance between A and B, then\n2\n× 2d\nd -3\n3\n=\n1\nd -2\n2d ×\n4",
-      "options": {},
-      "answer": "33",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q034",
-      "num": 34,
-      "lod": 3,
-      "type": "tita",
-      "text": "In 24 minutes, the uncle covers the distance for\nwhich Lallan requires 48 minutes.",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q035",
-      "num": 35,
-      "lod": 3,
-      "type": "tita",
-      "text": "Check the options for all the conditions.",
-      "options": {},
-      "answer": "a",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q036",
-      "num": 36,
-      "lod": 3,
-      "type": "tita",
-      "text": "Vimal could either be 21 km behind Rohit or 21 km\nahead of Rohit.\n It is also known that,\n20\n20\n+\n= 7 hours\n(SS + SB ) (SB - SS )\n(2)\n Solve through options.\nSolutions and Shortcuts\nLevel of Dif→culty (I)",
-      "options": {},
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q001",
-      "num": 1,
-      "lod": 3,
-      "type": "tita",
-      "text": "The ratio of time for the travel is 4:3 (Sinhagad to\nDeccan Queen). Hence, the ratio of speeds would\nbe 3:4. Since, the sum of their average speeds is 70\nkmph, their respective speeds would be 30 and 40\nkmph respectively. Use alligation to get the answer\nas 34.28 kmph.",
-      "options": {},
-      "answer": "The",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q002",
-      "num": 2,
-      "lod": 3,
-      "type": "tita",
-      "text": "When speed goes down to three fourth (i.e. 75%)\ntime will go up to 4/3rd (or 133.33%) of the original\ntime. Since, the extra time required is 16 minutes, it\nshould be equated to 1/3rd of the normal time. Hence,\nthe usual time required will be 48 minutes.",
-      "options": {},
-      "answer": "Since",
-      "solution": null
-    },
-    {
-      "id": "ch10-lod3-q003",
-      "num": 3,
-      "lod": 3,
-      "type": "tita",
-      "text": "Since, the ratio of speeds is 3:5, the ratio of times\nwould be 5:3. The difference in the times would be\n2 (if looked at in the",
-      "options": {},
-      "answer": "Let",
+      "answer": null,
       "solution": null
     }
   ],
-  "questionCount": 197,
+  "questionCount": 191,
   "lodCounts": {
-    "lod1": 76,
+    "lod1": 83,
     "lod2": 58,
-    "lod3": 63
+    "lod3": 50
   }
 }

@@ -6,31 +6,303 @@
   "blockName": "Arithmetic",
   "topic": "Arithmetic",
   "notes": {
-    "intro": "A = 0.68 C (Use percentage change graphic to calculate\nthe value of 0.68)\nThus, A’s salary is 68 % of C’s salary.\nIf A’s salary is 68, B’s salary is 100.\nUsing percentage change graphic\n(3200 / 68)%\n68 ææææææÆ 100\n+ 32\nStudents are advised to refrain from using equations to\nsolve questions of this n",
+    "intro": "Formula for any cell = Column value × 100/Row value",
     "concepts": [
-      "A = 0.68 C (Use percentage change graphic to calculate\nthe value of 0.68)\nThus, A’s salary is 68 % of C’s salary.\nIf A’s salary is 68, B’s salary is 100.\nUsing percentage change graphic\n(3200 / 68)%\n68 ææææææÆ 100\n+ 32\nStudents are advised to refrain from using equations to\nsolve questions of this nature. In fact, you can adopt the\nfollowing process, which can be used while you are reading\nthe problem, to get the result faster.\nAssume one of the values as 100. (Remember, selection\nof the right variable that has to take the value of 100 may\nmake a major difference to your solving time and effort\nrequired. The thumb rule for selecting the variable whose\nvalue is to be taken as 100 is based on three principal\nconsiderations:\nSelect as 100, the variable\n1. With the maximum number of percentage calculations associated with it.\n2. Select as 100 the variable with the most dif→cult\ncalculation associated with it.\n3. Select as 100 the variable at the start of the problem\nsolving chain.\nThe student will have to develop his own judgment in applying these principles in speci→c cases.\nHere I would take C as 100, getting B as 85 and A as 68.\nHence, the answer is (32 × 100/68).\nProblem 5.5 The cost of manufacture of an article is\nmade up of four components A, B, C and D which have\na ratio of 3 : 4 : 5 : 6 respectively. If there are respective\nchanges in the cost of +10%, –20%, –30% and + 40%, then\nwhat would be the percentage change in the cost.\nSolution Assume the cost components to be valued at\n30, 40, 50 and 60 as you read the question. Then we can\nget changed costs by effecting the appropriate changes in\neach of the four components.\nThus we get the new cost as 33, 32, 35 and 84\nrespectively.\nThe original total cost was 180 the new one is 184. The\npercent change is 4/180 = 2.22%.\nProblem 5.6 Harsh receives an inheritance of a certain\namount from his grandfather. Of this he loses 32.5% in his\neffort to produce a →lm. From the balance, a taxi driver\nstole the sum of ` 1,00,000 that he used to keep in his\npocket. Of the rest, he donated 20% to a charity. Further\nhe purchases a flat in Ganga Apartment for ` 7.5 lakh. He\nthen realises that he is left with only ` 2.5 lakh cash of his\ninheritance. What was the value of his inheritance?",
-      "Solution These sort of problems should either be solved\nthrough the reverse process or through options.",
-      "Reverse process for this problem He is left with\n` 2.5 lakh after spending ` 7.5 lakh on the apartment.\nTherefore, before the apartment purchase he has ` 10\nlakh. But this is after the 20% reduction in his net value\ndue to his donation to charity. Hence, he must have given\n` 2.5 lakh to charity (20% decrease corresponds to a 25%\nincrease). As such, he had 12.5 lakh before the charity.\nFurther, he must have had ` 13.5 lakh before the taxi driver\nstole the sum. From 13.5 lakh you can reach the answer\nby trial and error trying whole number values. You will get\nthat if he had 20 lakh and lost 32.5% of it he would be left\nwith the required 13.5 lakh.\nHence, the answer is ` 20 lakh.\nThis process can be done mentally by: 2.5 + 7.5 = 10\nlakh Æ +25% Æ 12.5 lakh Æ + 1 lakh Æ 13.5 lakh.\nFrom this point move by trial and error. You should try\nto →nd the value of the inheritance, which on reduction\nby 32.5%, would leave 13.5 lakh. A little experience with\nnumbers leaves you with ` 20 lakh as the answer. This\nprocess should be started as soon as you →nish reading\nthe →rst time.\nThrough options Suppose the options were:\n(a) 25 lakh\n(b) 22.5 lakh\n(c) 20 lakh",
-      "Start with any of the middle options. Then keep\nperforming the mathematical operation in the order given\nin the problem. The →nal value that he is left with should\nbe ` 2.5 lakh. The option that gives this, will be the answer.\nIf the →nal value yielded is higher than ` 2.5 lakh in this\ncase, start with a value lower than the option checked. In\ncase it is the opposite, start with the option higher than\nthe one used.\nAs a thumb rule, start with the most convenient option—\nthe middle one. This would lead us to start with ` 20 lakh\nhere.\nHowever, if we had started with ` 25 lakh the following\nwould have occurred.\n25 lakh –32.5% Æ 16.875 lakh –1 lakh Æ 15.875 lakh\n–20% – 7.5 lakh, should equal 2.5 lakh Æ (Prior to doing\nthis calculation, you should see that there is no way the\nanswer will yield a nice whole number like 2.5 lakh. Hence,\nyou can abandon the process here and move to the next\noption)\nTrying with 20 lakh, 20 –32.5% Æ 13.5 lakh –1ac.\nÆ 12.5 lakh –20% Æ 10 lakh – 7.5 lakh = 2.5 lakh Æ\nRequired answer.",
-      "1. If we express 12(4/15)% as a fraction, then it is equal\nto\n(a) 46/375\n(b) 46/125\n(c) 23/250\n(d) None of these.\n2. What is 10% of 20% of 25% of 100?\n(a) 0.5\n(b) 0.75\n(c) 0.25\n(d) 1.0\n3. Which of the following is the largest number?\n(a) 40% of 400\n(b) 5% of 800\n(c) 1000% of 4\n(d) 200% of 9\n4. If 30% of a number is 300, then 50% of that number\nis:\n(a) 400\n(b) 125\n(c) 150\n(d) 500\n5. If 25% of x = 30% of y, then →nd the value of x if\ny = 5000.\n(a) 2000\n(b) 3000\n(c) 4000\n(d) 6000\n6. 30% of a% of b is 25% of b% of c. Which of the\nfollowing is c?\n(a) 1.5a\n(b) 0.667a\n(c) 0.5a\n(d) 1.20a\n7. 20% of a number when subtracted from 108, gives\nthe number itself. Find the number.\n(a) 50\n(b) 80\n(c) 70\n(d) 90\n8. When 40% of a number A is added to another number B, B becomes 125% of its previous value. Then\nwhich of the following is true regarding the values\nof A and B?\n(a) A > B\n(b) B > A\n(c) B = A\n(d) Either (a) or (b) can be true depending upon the\nvalues of A and B\n9. Two students appeared at an examination. One of\nthem secured 10 marks more than the other and his\nmarks was 60% of the sum of their marks. The marks\nobtained by the better student are:\n10. Two numbers A and B are such that the sum of 5%\nof A and 10% of B is 1/2 of the sum of 20% of A\nand 10% of B. Find the ratio of A:B?\n11. Mr. Ram is worried about the balance of his monthly\nbudget. The price of petrol has increased by 50%.\nBy what percent should he reduce the consumption\nof petrol so that he is able to balance his budget?\n(a) 33.33\n(b) 28.56\n(c) 25\n(d) 14.28",
-      "12. In Question 11, if Mr. Ram wanted to limit the increase in his expenditure to 20% on his basic expenditure on petrol then what should be the corresponding decrease in consumption?\n(a) 33.33\n(b) 12.50\n(c) 25\n(d) 20\n13. Ashok sells his goods 50% dearer than Shankar and\n20% dearer than Bishnu. How much percentage is\nBishnu’s goods dearer than Shankar’s?\n(a) 33.33%\n(b) 25%\n(c) 66.66%\n(d) 40%\n14. In an election between 2 candidates, Chaman gets\n80% of the total valid votes. If the total votes were\n12000, what is the number of valid votes that the\nother candidate Dhande gets if 15% of the total votes\nwere declared invalid?\n(a) 1645\n(b) 1545\n(c) 1675\n(d) 2040\n15. In a physical measurement, by mistake Shyam gave\nhis height as 25% more than normal. In the interview\npanel, he clari→ed that his height was 5 feet 5 inches.\nFind the percentage correction made by the candidate\nfrom his stated height to his actual height.\n(a) 20\n(b) 28.56\n(c) 25\n(d) 16.66\n16. Raunak generally wears his father’s coat. Unfortunately, his cousin Vikas told him one day that he\nwas wearing a coat of length more than his height by\n15%. If the length of Raunak’s father’s coat is 345\ncm then →nd the actual length (in cm) of his coat.\n(a) 110\n(b) 345\n(c) 300\n(d) 105\n17. A number is mistakenly divided by 2 instead of being\nmultiplied by 2. Find the percentage change in the\nresult due to this mistake.\n(a) 100%\n(b) 125%\n(c) 200%\n(d) 75%\n18. Sachin wanted to subtract 10 from a number. Unfortunately, he added 10 instead of subtracting. Find\nthe percentage change in the result.\n(a) 300%\n(b) 66.66%\n(c) 50%\n(d) Cannot be determined\n19. In a mixture of 100 litres of milk and water, 25%\nof the mixture is milk. How much water should be\nadded to the mixture so that milk becomes 20% of\nth"
+      "Formula for any cell = Column value × 100/Row value",
+      "should be viewed as a subtraction/addition situation and\nnot as a multiplication situation. This can be explained as\nfollows.\nExample: Calculate 1.23 × 473.\nSolution: If we try to calculate this by multiplying, we will\nend up going through a very time taking process, which will\nyield the →nal value at the end but nothing before that (i.e.\nyou will have no clue about the answer’s range till you reach\nthe end of the calculation).\nInstead, one should view this multiplication as an addition\nof 23% to the original number. This means, the answer can\nbe got by adding 23% of the number to itself.",
+      "Thus 473 × 1.23 = 473 + 23% of 473 = 473 + 94.6 + 3%\nof 473 = 567.6 + 14.19 = 581.79.\n(The percentage rule can be used to calculate the addition\nand get the answer.)\nThe similar process can be utilised for the calculation of\nmultiplication by a number such as 0.87\n(Answer can be got by subtracting 13% of the number from\nitself and this calculation can again be done by percentage\nrule.)\nHence, the student is advised to become thorough with\nthe percentage rules. Percentage calculation and additions of\n2 and 3 digit numbers.",
+      "Problem 5.1 A sells his goods 30% cheaper than B and\n30% dearer than C. By what percentage is the cost of C’s\ngoods cheaper than B’s goods.\nsolution There are two alternative processes for solving\nthis question:\n1. Assume the price of C’s goods as p.: Then A’s goods\nare at 1.3 p and B’s goods are such that A’s goods are 30%\ncheaper than B’s goods, i.e., A’s goods are priced at 70%\nof B’s goods.\nHence, 1.3 p → 70\nB’s price → 100\nB’s price = 130 p/70 = 1.8571 p\nThen, the percentage by which C’s price is cheaper than\nB’s price =\n(1.8571 p – p) × 100/(1.8571 p) = 600/13= 46.15%\nLearning task for student Could you answer the question: Why did we assume C’s price as a variable p and\nthen work out the problem on its basis. What would happen\nif we assumed B’s price as p or if we assumed A’s price\nas p?\n2. Instead of assuming the price of one of the three as\np, assume the price as 100.\nLet B = 100. Then A = 70, which is 30% more than C.\nHence C = 23.07% less than A (from Table 4.1) = approx.\n53.84. Hence answer is 46.15% approximately.\n(This calculation can be done mentally if you are able\nto work through the calculations by the use of percentage\nrule. The students are advised to try to assume the value\nof 100 for each of the variables A, B and C and see what\nhappens to the calculations involved in the problem. Since\nthe value of 100 is assumed for a variable to minimise\nthe requirements of calculations to solve the problems, we\nshould ensure that the variable assumed as 100 should have\nthe maximum calculations associated with it.)",
+      "note: In fact this question and the ones that follow contain some of the most basic operations in the chapter of\npercentages. The questions at the →rst level of dif→culty\nwould appear in examinations like CET Maharashtra, Bank\nP.O., MAT, NMAT, CLAT, NLS and most other aptitude\nexams. Hence, if you are able to do the operations illustrated here mentally, you would be able to solve LOD 1\nquestions easily and gain a signi→cant time advantage over\nyour competitors.\nHowever, for the serious CAT aspirant, the logic used for\nLOD I questions would normally be used as a part of the\nentire logic. You would be able to see this in the questions of",
+      "the second and the third level of dif→culties in the exercises\nlater in the chapter. Hence, developing the process for\nsolving questions of the LOD 1 level mentally would help\nyou gain an improved speed for the CAT level questions.\nAlso remember that since percentages are the basis for\nmost of the commercial mathematics as well as for calcula-tion\nand the Data Interpretation section, developing skills for\ncalculation and problem solving illustrated here would go a\nlong way towards helping you clear aptitude exams.\nProblem 5.2 The length and the breadth of a rectangle\nare changed by +20% and by –10%, respectively. What is\nthe percentage change in the area of the rectangle.\nsolution The area of a rectangle is given by: length\n× breadth. If we represent these by:\nArea = L × B = LB → then we will get the changed\narea as\nArea(NEW) = 1.2 L × 0.9 B = 1.08 LB\nHence, the change in area is 8% increase."
     ],
     "formulas": [
-      "A = 0.68 C (Use percentage change graphic to calculate",
-      "The student will have to develop his own judgment in applying these principles in speci→c cases.",
-      "percent change is 4/180 = 2.22%.",
-      "effort to produce a →lm. From the balance, a taxi driver",
-      "This process can be done mentally by: 2.5 + 7.5 = 10",
-      "to →nd the value of the inheritance, which on reduction",
-      "process should be started as soon as you →nish reading",
-      "in the problem. The →nal value that he is left with should",
-      "If the →nal value yielded is higher than ` 2.5 lakh in this",
-      "Æ 12.5 lakh –20% Æ 10 lakh – 7.5 lakh = 2.5 lakh Æ",
-      "panel, he clari→ed that his height was 5 feet 5 inches.",
-      "cm then →nd the actual length (in cm) of his coat."
+      "Formula for any cell = Column value × 100/Row value",
+      "Thus 473 × 1.23 = 473 + 23% of 473 = 473 + 94.6 + 3%",
+      "of 473 = 567.6 + 14.19 = 581.79.",
+      "B’s price = 130 p/70 = 1.8571 p",
+      "(1.8571 p – p) × 100/(1.8571 p) = 600/13= 46.15%",
+      "Let B = 100. Then A = 70, which is 30% more than C.",
+      "Hence C = 23.07% less than A (from Table 4.1) = approx.",
+      "Area = L × B = LB → then we will get the changed",
+      "Area(NEW) = 1.2 L × 0.9 B = 1.08 LB"
     ]
   },
   "questions": [
+    {
+      "id": "ch05-lod1-q001",
+      "num": 1,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If we express 12(4/15)% as a fraction, then it is equal\nto",
+      "options": {
+        "a": "46/375",
+        "b": "46/125",
+        "c": "23/250",
+        "d": "None of these."
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q002",
+      "num": 2,
+      "lod": 1,
+      "type": "mcq",
+      "text": "What is 10% of 20% of 25% of 100?",
+      "options": {
+        "a": "0.5",
+        "b": "0.75",
+        "c": "0.25",
+        "d": "1.0"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q003",
+      "num": 3,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Which of the following is the largest number?",
+      "options": {
+        "a": "40% of 400",
+        "b": "5% of 800",
+        "c": "1000% of 4",
+        "d": "200% of 9"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q004",
+      "num": 4,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 30% of a number is 300, then 50% of that number\nis:",
+      "options": {
+        "a": "400",
+        "b": "125",
+        "c": "150",
+        "d": "500"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "mcq",
+      "text": "If 25% of x = 30% of y, then →nd the value of x if\ny = 5000.",
+      "options": {
+        "a": "2000",
+        "b": "3000",
+        "c": "4000",
+        "d": "6000"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q006",
+      "num": 6,
+      "lod": 1,
+      "type": "mcq",
+      "text": "30% of a% of b is 25% of b% of c. Which of the\nfollowing is c?",
+      "options": {
+        "a": "1.5a",
+        "b": "0.667a",
+        "c": "0.5a",
+        "d": "1.20a"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q007",
+      "num": 7,
+      "lod": 1,
+      "type": "mcq",
+      "text": "20% of a number when subtracted from 108, gives\nthe number itself. Find the number.",
+      "options": {
+        "a": "50",
+        "b": "80",
+        "c": "70",
+        "d": "90"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q008",
+      "num": 8,
+      "lod": 1,
+      "type": "mcq",
+      "text": "When 40% of a number A is added to another number B, B becomes 125% of its previous value. Then\nwhich of the following is true regarding the values\nof A and B?\nvalues of A and B",
+      "options": {
+        "a": "or",
+        "b": "can be true depending upon the",
+        "c": "B = A",
+        "d": "Either"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q009",
+      "num": 9,
+      "lod": 1,
+      "type": "tita",
+      "text": "Two students appeared at an examination. One of\nthem secured 10 marks more than the other and his\nmarks was 60% of the sum of their marks. The marks\nobtained by the better student are:",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q010",
+      "num": 10,
+      "lod": 1,
+      "type": "tita",
+      "text": "Two numbers A and B are such that the sum of 5%\nof A and 10% of B is 1/2 of the sum of 20% of A\nand 10% of B. Find the ratio of A:B?",
+      "options": {},
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q011",
+      "num": 11,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Mr. Ram is worried about the balance of his monthly\nbudget. The price of petrol has increased by 50%.\nBy what percent should he reduce the consumption\nof petrol so that he is able to balance his budget?",
+      "options": {
+        "a": "33.33",
+        "b": "28.56",
+        "c": "25",
+        "d": "14.28"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q012",
+      "num": 12,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In Question 11, if Mr. Ram wanted to limit the increase in his expenditure to 20% on his basic expenditure on petrol then what should be the corresponding decrease in consumption?",
+      "options": {
+        "a": "33.33",
+        "b": "12.50",
+        "c": "25",
+        "d": "20"
+      },
+      "answer": "c",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q013",
+      "num": 13,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Ashok sells his goods 50% dearer than Shankar and\n20% dearer than Bishnu. How much percentage is\nBishnu’s goods dearer than Shankar’s?",
+      "options": {
+        "a": "33.33%",
+        "b": "25%",
+        "c": "66.66%",
+        "d": "40%"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q014",
+      "num": 14,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In an election between 2 candidates, Chaman gets\n80% of the total valid votes. If the total votes were\n12000, what is the number of valid votes that the\nother candidate Dhande gets if 15% of the total votes\nwere declared invalid?",
+      "options": {
+        "a": "1645",
+        "b": "1545",
+        "c": "1675",
+        "d": "2040"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q015",
+      "num": 15,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a physical measurement, by mistake Shyam gave\nhis height as 25% more than normal. In the interview\npanel, he clari→ed that his height was 5 feet 5 inches.\nFind the percentage correction made by the candidate\nfrom his stated height to his actual height.",
+      "options": {
+        "a": "20",
+        "b": "28.56",
+        "c": "25",
+        "d": "16.66"
+      },
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q016",
+      "num": 16,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Raunak generally wears his father’s coat. Unfortunately, his cousin Vikas told him one day that he\nwas wearing a coat of length more than his height by\n15%. If the length of Raunak’s father’s coat is 345\ncm then →nd the actual length (in cm) of his coat.",
+      "options": {
+        "a": "110",
+        "b": "345",
+        "c": "300",
+        "d": "105"
+      },
+      "answer": "b",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q017",
+      "num": 17,
+      "lod": 1,
+      "type": "mcq",
+      "text": "A number is mistakenly divided by 2 instead of being\nmultiplied by 2. Find the percentage change in the\nresult due to this mistake.",
+      "options": {
+        "a": "100%",
+        "b": "125%",
+        "c": "200%",
+        "d": "75%"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q018",
+      "num": 18,
+      "lod": 1,
+      "type": "mcq",
+      "text": "Sachin wanted to subtract 10 from a number. Unfortunately, he added 10 instead of subtracting. Find\nthe percentage change in the result.",
+      "options": {
+        "a": "300%",
+        "b": "66.66%",
+        "c": "50%",
+        "d": "Cannot be determined"
+      },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch05-lod1-q019",
+      "num": 19,
+      "lod": 1,
+      "type": "mcq",
+      "text": "In a mixture of 100 litres of milk and water, 25%\nof the mixture is milk. How much water should be\nadded to the mixture so that milk becomes 20% of\nthe mixture?",
+      "options": {
+        "a": "25 litres",
+        "b": "15 litres",
+        "c": "20 litres",
+        "d": "24 litres"
+      },
+      "answer": "a",
+      "solution": null
+    },
     {
       "id": "ch05-lod1-q020",
       "num": 20,
@@ -58,7 +330,7 @@
         "c": "46.15%",
         "d": "25.34%"
       },
-      "answer": "c",
+      "answer": "a",
       "solution": null
     },
     {
@@ -88,7 +360,7 @@
         "c": "11.23%",
         "d": "9.09%"
       },
-      "answer": "d",
+      "answer": "c",
       "solution": null
     },
     {
@@ -103,7 +375,7 @@
         "c": "+25%",
         "d": "200%"
       },
-      "answer": "d",
+      "answer": "b",
       "solution": null
     },
     {
@@ -118,7 +390,7 @@
         "c": "125 kg",
         "d": "130 kg"
       },
-      "answer": "c",
+      "answer": "a",
       "solution": null
     },
     {
@@ -133,7 +405,7 @@
         "c": "1800",
         "d": "1500"
       },
-      "answer": "d",
+      "answer": "c",
       "solution": null
     },
     {
@@ -163,7 +435,7 @@
         "c": "62,540",
         "d": "52,340"
       },
-      "answer": "b",
+      "answer": "d",
       "solution": null
     },
     {
@@ -178,7 +450,7 @@
         "c": "8800",
         "d": "7800"
       },
-      "answer": "d",
+      "answer": "b",
       "solution": null
     },
     {
@@ -208,7 +480,7 @@
         "c": "38",
         "d": "33"
       },
-      "answer": "a",
+      "answer": "b",
       "solution": null
     },
     {
@@ -223,7 +495,7 @@
         "c": "20000",
         "d": "12000"
       },
-      "answer": "c",
+      "answer": "a",
       "solution": null
     },
     {
@@ -238,7 +510,7 @@
         "c": "` 4000",
         "d": "` 3000"
       },
-      "answer": "a",
+      "answer": "b",
       "solution": null
     },
     {
@@ -268,7 +540,7 @@
         "c": "42.85% dearer",
         "d": "None of these"
       },
-      "answer": "a",
+      "answer": "b",
       "solution": null
     },
     {
@@ -276,29 +548,14 @@
       "num": 36,
       "lod": 1,
       "type": "mcq",
-      "text": "In an election contested by two parties, Party SJP\nsecured 12 percentage points of the total votes more\nthan Party SJD. If party SJD got 132,000 votes and\nthere are no invalid votes, by how many votes did\nit lose the election?",
-      "options": {
-        "a": "18,000",
-        "b": "25,000",
-        "c": "24,000",
-        "d": "36,000"
-      },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod1-q037",
-      "num": 37,
-      "lod": 1,
-      "type": "mcq",
-      "text": "During winters, an athlete can run ‘x’ metres on one\nbottle of energy drink. But in the summer, he can\nonly run 0.2 x metres on one bottle of energy drink.\nHow many bottles of energy drink are required to\nrun 1000 metres during summer?",
+      "text": "In an election contested by two parties, Party SJP\nsecured 12 percentage points of the total votes more\nthan Party SJD. If party SJD got 132,000 votes and\nthere are no invalid votes, by how many votes did\nit lose the election?\nbottle of energy drink. But in the summer, he can\nonly run 0.2 x metres on one bottle of energy drink.\nHow many bottles of energy drink are required to\nrun 1000 metres during summer?",
       "options": {
         "a": "1000/x",
         "b": "5000/x",
         "c": "2000/x",
         "d": "4500/x"
       },
-      "answer": "b",
+      "answer": "c",
       "solution": null
     },
     {
@@ -313,7 +570,7 @@
         "c": "90%",
         "d": "52.1%"
       },
-      "answer": "a",
+      "answer": "c",
       "solution": null
     },
     {
@@ -358,7 +615,7 @@
         "c": "28",
         "d": "Insuf→cient Information"
       },
-      "answer": "d",
+      "answer": "b",
       "solution": null
     },
     {
@@ -373,7 +630,7 @@
         "c": "691200",
         "d": "None of these"
       },
-      "answer": "c",
+      "answer": "a",
       "solution": null
     },
     {
@@ -403,7 +660,7 @@
         "c": "54,000",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": "a",
       "solution": null
     },
     {
@@ -418,7 +675,7 @@
         "c": "2,50,000 kg",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": "c",
       "solution": null
     },
     {
@@ -433,7 +690,7 @@
         "c": "` 3000",
         "d": "` 3212.50"
       },
-      "answer": "b",
+      "answer": "d",
       "solution": null
     },
     {
@@ -448,7 +705,7 @@
         "c": "Both are same",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": "c",
       "solution": null
     },
     {
@@ -463,7 +720,7 @@
         "c": "264000",
         "d": "100000"
       },
-      "answer": "c",
+      "answer": "b",
       "solution": null
     },
     {
@@ -486,14 +743,14 @@
       "num": 50,
       "lod": 1,
       "type": "mcq",
-      "text": "Sudhir spends 25% of his salary on house rent, 20%\nof the rest he spends on his children’s education and\n10% of the total salary he spends on clothes. After\nhis expenditure, he is left with ` 20,000. What is\nSudhir’s salary?\nPercentages III.21",
+      "text": "Sudhir spends 25% of his salary on house rent, 20%\nof the rest he spends on his children’s education and\n10% of the total salary he spends on clothes. After\nhis expenditure, he is left with ` 20,000. What is\nSudhir’s salary?",
       "options": {
         "a": "` 40,000",
         "b": "` 20,000",
         "c": "` 25,000",
         "d": "` 35,000"
       },
-      "answer": "a",
+      "answer": "d",
       "solution": null
     },
     {
@@ -508,7 +765,7 @@
         "c": "` 105",
         "d": "` 120"
       },
-      "answer": "b",
+      "answer": "a",
       "solution": null
     },
     {
@@ -516,14 +773,13 @@
       "num": 52,
       "lod": 1,
       "type": "mcq",
-      "text": "Raman’s monthly salary is A rupees. Of this, he\nspends X rupees. The next month he has an increase\nof C% in his salary and D% in his expenditure. The\nnew amount saved is:\n(1 + C/100) – X(1 + D/100)\n(A/100) (C – (D) X (1 + D/100)\n(C – (D)/100\n(C + D)/100",
+      "text": "Raman’s monthly salary is A rupees. Of this, he\nspends X rupees. The next month he has an increase\nof C% in his salary and D% in his expenditure. The\nnew amount saved is:\n(1 + C/100) – X(1 + D/100)\n(b) (A/100) (C – (D) X (1 + D/100)\n(C – (D)/100\n(C + D)/100",
       "options": {
         "a": "A",
-        "b": "",
         "c": "X",
         "d": "X"
       },
-      "answer": "a",
+      "answer": "c",
       "solution": null
     },
     {
@@ -533,7 +789,7 @@
       "type": "tita",
       "text": "In the year 2010, the luxury bike industry had two\nbike manufacturers—Splendor and Passion with\nmarket shares of 30% and 70%, respectively. In\n2011, the overall market for the product increased\nby 20% and a new player Yamaha also entered the\nmarket and captured 10% of the market share. If we\nknow that the market share of Splendor increased to\n40% in the second year, the share of Passion in that\nyear was:",
       "options": {},
-      "answer": "50%",
+      "answer": "2",
       "solution": null
     },
     {
@@ -541,9 +797,9 @@
       "num": 54,
       "lod": 1,
       "type": "tita",
-      "text": "Ranjan buys goods worth ` 10,000. He gets a rebate\nof 20% on it. After getting the rebate, he pays sales\nSpace for Rough Work\ntax @ 10%. Find the amount he will have to pay\nfor the goods.",
+      "text": "Ranjan buys goods worth ` 10,000. He gets a rebate\nof 20% on it. After getting the rebate, he pays sales\n\nSpace for Rough Work\n\ntax @ 10%. Find the amount he will have to pay\nfor the goods.",
       "options": {},
-      "answer": "8800",
+      "answer": "150",
       "solution": null
     },
     {
@@ -553,7 +809,7 @@
       "type": "tita",
       "text": "A number is mistakenly divided by 5 instead of being\nmultiplied by 5. What is the percentage error in the\nresult?",
       "options": {},
-      "answer": "96%",
+      "answer": "600",
       "solution": null
     },
     {
@@ -578,7 +834,7 @@
       "type": "tita",
       "text": "The length and breadth of a rectangle are changed\nby +20% and −50%. What is the percentage change\nin area of rectangle?",
       "options": {},
-      "answer": "–40%",
+      "answer": "1300",
       "solution": null
     },
     {
@@ -588,7 +844,7 @@
       "type": "tita",
       "text": "I recently got a promotion accompanied by 23% hike\nin salary but due to recession my company reduced\nmy salary by 32%. What was the net change in my\nsalary?",
       "options": {},
-      "answer": "–16",
+      "answer": "c",
       "solution": null
     },
     {
@@ -598,7 +854,7 @@
       "type": "tita",
       "text": "A number when reversed becomes 45% greater than\nthe original. By how much percentage is the units\nplace digit greater than the tens’ place digit?",
       "options": {},
-      "answer": "57",
+      "answer": "b",
       "solution": null
     },
     {
@@ -606,15 +862,15 @@
       "num": 60,
       "lod": 1,
       "type": "tita",
-      "text": "A batsman scored 100 runs which included 4 boundaries and 6 sixes. What percent of his total score did\nhe make by running between the wickets?\nLevel of Dif→culty (II)",
+      "text": "A batsman scored 100 runs which included 4 boundaries and 6 sixes. What percent of his total score did\nhe make by running between the wickets?",
       "options": {},
-      "answer": "48%",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q001",
+      "id": "ch05-lod2-q001",
       "num": 1,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Due to a 25% hike in the price of rice per kilogram,\na person is able to purchase 5 kg less for `200. Find\nthe increased price of rice per kilogram.",
       "options": {
@@ -623,26 +879,26 @@
         "c": "` 10",
         "d": "` 4"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q002",
+      "id": "ch05-lod2-q002",
       "num": 2,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "A fraction is such that if the double of the numerator and the triple of the denominator is changed by\n+10% and –30% respectively then we get 33% of\n16/21. Find the fraction.\n8\n4\n(b)\n11\n3\n25",
+      "text": "A fraction is such that if the double of the numerator and the triple of the denominator is changed by\n+10% and –30% respectively then we get 33% of\n16/21. Find the fraction.\n8\n4\n(b)\n\n11\n3\n\n25",
       "options": {
         "a": "25",
         "d": "None of these"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q003",
+      "id": "ch05-lod2-q003",
       "num": 3,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "After receiving two successive hikes, Karun’s salary\nbecame equal to 15/8 times of his initial salary. By\nhow much percent was the salary raised the →rst time\nif the second raise was twice as high (in percent) as\nthe →rst?",
       "options": {
@@ -651,13 +907,13 @@
         "c": "25%",
         "d": "30%"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q004",
+      "id": "ch05-lod2-q004",
       "num": 4,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "After three successive equal percentage rise in the\nsalary the sum of 1000 rupees turned into 1331 rupees. Find the percentage rise in the salary.",
       "options": {
@@ -666,13 +922,13 @@
         "c": "66%",
         "d": "82%"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q005",
+      "id": "ch05-lod2-q005",
       "num": 5,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Sudhir, a very clever businessman, started off a\nbusiness with very little capital. In the →rst year,\nhe earned a pro→t of 50% and donated 50% of the\ntotal capital (initial capital + pro→t) to a charitable\norganisation. The same course was followed in the\n2nd and 3rd years also. If at the end of three years,\nhe is left with ` 33,750, then →nd the amount donated\nby him at the end of the 2nd year.",
       "options": {
@@ -681,13 +937,13 @@
         "c": "` 45,000",
         "d": "` 40,000"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q006",
+      "id": "ch05-lod2-q006",
       "num": 6,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "In an examination, 48% students failed in Physics\nand 32% students in Chemistry, 20% students failed\nin both the subjects. If the number of students who\npassed the examination was 880 (by passing both\nthe subjects), how many students appeared in the\nexamination if the examination consisted only of\nthese two subjects?",
       "options": {
@@ -696,28 +952,28 @@
         "c": "2500",
         "d": "1800"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q007",
+      "id": "ch05-lod2-q007",
       "num": 7,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "A machine depreciates in value each year at the\nrate of 10% of its previous value. However, every\nsecond year there is some maintenance work so that\nin that particular year, depreciation is only 5% of its\nvalue of the machine stands at ` 1,46,205, then →nd\nthe value of machine at the start of the →rst year.",
+      "text": "A machine depreciates in value each year at the\nrate of 10% of its previous value. However, every\nsecond year there is some maintenance work so that\nin that particular year, depreciation is only 5% of its\n\nvalue of the machine stands at ` 1,46,205, then →nd\nthe value of machine at the start of the →rst year.",
       "options": {
         "c": "` 1,95,000",
         "a": "` 1,90,000",
         "b": "` 2,00,000",
         "d": "` 2,10,000"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q008",
+      "id": "ch05-lod2-q008",
       "num": 8,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
       "text": "Kaku’s project report consists of 25 pages each of\n60 lines with 75 characters on each line. In case the\nnumber of lines is reduced to 55 but the number of\ncharacters is increased to 90 per lines, what is the\npercentage change in the number of pages. (Assume\nthe number of pages to be a whole number.)",
       "options": {
@@ -726,42 +982,47 @@
         "c": "–8%",
         "d": "–10%"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q009",
+      "id": "ch05-lod2-q009",
       "num": 9,
-      "lod": 1,
+      "lod": 2,
       "type": "mcq",
-      "text": "The price of soap is collectively decided by →ve\nfactors: raw materials, research, labour, advertisements and transportation. Assume that the functional\nrelationship is\n Price of soap = (k¢ × Raw material costs × Research\ncosts × Labour costs × Advertising cost × Transportation cost).\n If there are respective changes of 20%, 20%, –20%,\n25% and 10% in the →ve factors, then →nd the percentage change in the price of soap.",
+      "text": "The price of soap is collectively decided by →ve\nfactors: raw materials, research, labour, advertisements and transportation. Assume that the functional\nrelationship is\n\t\t Price of soap = (k¢ × Raw material costs × Research\ncosts × Labour costs × Advertising cost × Transportation cost).\n\t\t If there are respective changes of 20%, 20%, –20%,\n25% and 10% in the →ve factors, then →nd the percentage change in the price of soap.",
       "options": {
         "a": "+58.40%",
         "b": "54.40%",
         "c": "48.50%",
         "d": "56%"
       },
-      "answer": "30",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q010",
+      "id": "ch05-lod2-q010",
       "num": 10,
-      "lod": 1,
+      "lod": 2,
       "type": "tita",
       "text": "The ratio of Jim’s salary for October to his salary\nfor November was 9: 8 and the ratio of the salary\nfor November to that for December was 3: 4. The\nworker got 40 rupees more for December than for\nOctober and received a bonus constituting 40 per\ncent of the salary for three months. Find the bonus.\n(Assume that the number of workdays is the same\nin every month.)",
       "options": {},
-      "answer": "1:",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod1-q011",
+      "id": "ch05-lod2-q011",
       "num": 11,
-      "lod": 1,
-      "type": "tita",
-      "text": "Praveen goes to a shop to buy a sofa set costing\n` 13",
-      "options": {},
-      "answer": "a",
+      "lod": 2,
+      "type": "mcq",
+      "text": "Praveen goes to a shop to buy a sofa set costing\n` 13,080. The rate of sales tax is 10%. She tells the\nshopkeeper to reduce the price of the sofa set to such\nan extent that she has to pay `13080 inclusive of\nsales tax. Find the percentage reduction needed in the\nprice of the sofa set to just satisfy her requirement.",
+      "options": {
+        "a": "8.33%",
+        "b": "9.09%",
+        "c": "9%",
+        "d": "8.5%"
+      },
+      "answer": null,
       "solution": null
     },
     {
@@ -769,14 +1030,14 @@
       "num": 12,
       "lod": 2,
       "type": "mcq",
-      "text": "The price of a certain product was raised by 20%\nin India. The consumption of the same article was\nincreased from 400 tons to 440 tons. By how much\npercent will the expenditure on the article rise in the\nIndian economy?\nPercentages III.23",
+      "text": "The price of a certain product was raised by 20%\nin India. The consumption of the same article was\nincreased from 400 tons to 440 tons. By how much\npercent will the expenditure on the article rise in the\nIndian economy?",
       "options": {
         "a": "32%",
         "b": "25%",
         "c": "27%",
         "d": "26%"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -791,7 +1052,7 @@
         "c": "98%",
         "d": "96%"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -806,7 +1067,7 @@
         "c": "1,51,600 kg",
         "d": "1,52,600 kg"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -821,7 +1082,7 @@
         "c": "18.24",
         "d": "17.91"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -836,20 +1097,17 @@
         "c": "15,00,000",
         "d": "16,00,000"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
       "id": "ch05-lod2-q017",
       "num": 17,
       "lod": 2,
-      "type": "mcq",
-      "text": "Malti has `M with her and her friend Chinki has\n`C with her. Malti spends 12% of her money and\nChinki also spends the same amount as Malti did.\nWhat percentage of her money did Chinki spend?\n18M\n18C\nM\n12M\n12C\n(c)\nC",
-      "options": {
-        "b": "C",
-        "d": "M"
-      },
-      "answer": "c",
+      "type": "tita",
+      "text": "Malti has `M with her and her friend Chinki has\n`C with her. Malti spends 12% of her money and\nChinki also spends the same amount as Malti did.\nWhat percentage of her money did Chinki spend?\n18M\n18C\n(b)\nC\nM\n12M\n12C\n(c)\n(d)\nM\nC",
+      "options": {},
+      "answer": null,
       "solution": null
     },
     {
@@ -857,14 +1115,14 @@
       "num": 18,
       "lod": 2,
       "type": "mcq",
-      "text": "In a village consisting of p persons, x% can read and\nwrite. Of the males alone y%, and of the females\nalone z% can read and write. Find the number of\nmales in the village in terms of p, x, y and z if z <y.\n(a)\n( x - z )]\n[ y + x - z]\n( x - z )]\n[ y + x - 2z]\n( x - z )]\n[ x - z]\n( x - z )]\n[ y - z]",
+      "text": "In a village consisting of p persons, x% can read and\nwrite. Of the males alone y%, and of the females\nalone z% can read and write. Find the number of\nmales in the village in terms of p, x, y and z if z <y.\n(a)\n\n( x - z )]\n[ y + x - z]\n\n( x - z )]\n[ y + x - 2z]\n\n( x - z )]\n[ x - z]\n\n( x - z )]\n[ y - z]",
       "options": {
         "a": "[ p",
         "b": "[ p",
         "c": "[ p",
         "d": "[ p"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -879,7 +1137,7 @@
         "c": "$60 m",
         "d": "$40 m"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -894,7 +1152,7 @@
         "c": "$3 m",
         "d": "$5 m"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -909,7 +1167,7 @@
         "c": "4.16",
         "d": "5"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -924,7 +1182,7 @@
         "c": "8.33%",
         "d": "6.0833%"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -939,7 +1197,7 @@
         "c": "10 : 9",
         "d": "12 : 11"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -954,7 +1212,7 @@
         "c": "5",
         "d": "This is not possible"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -969,7 +1227,7 @@
         "c": "21.05%.",
         "d": "15.5%"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -979,12 +1237,11 @@
       "type": "mcq",
       "text": "P is 50% more than Q, R is 2/3 of P and S is 60%\nmore than R. Now, each of P, Q, R and S is increased\nby 10%. Find what per cent of Q is S(after the increase)?",
       "options": {
-        "a": "150%",
         "b": "160%",
         "c": "175%",
         "d": "176%"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -999,7 +1256,7 @@
         "c": "` 7000",
         "d": "` 6600"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1014,7 +1271,7 @@
         "c": "24,000",
         "d": "20,000"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1029,7 +1286,7 @@
         "c": "75%",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1037,14 +1294,14 @@
       "num": 30,
       "lod": 2,
       "type": "mcq",
-      "text": "To pass an examination, 30% marks are essential. A\nobtains 20% marks less than the pass marks and B\nobtains 50% marks less than A. What percent less\nthan the sum of A’s and B’s marks should C obtain\nto pass the exam?\n(3/17)%\nDirections for questions 31 to 33: Read the following\npassage and answer the questions.\nIn a recent youth fete organised by Mindworkzz, the entry\ntickets were sold out according to the following scheme:\nTickets bought in one lot\n6\n12\n18\nPercentage discount\n10%\n20%\n25%\nOriginal price per ticket: `40\nThis offer could have been availed only when tickets\nwere bought in a →xed lot according to the scheme and any\nadditional ticket was available at its original price.",
+      "text": "To pass an examination, 30% marks are essential. A\nobtains 20% marks less than the pass marks and B\nobtains 50% marks less than A. What percent less\nthan the sum of A’s and B’s marks should C obtain\nto pass the exam?\n\n(3/17)%\nDirections for questions 31 to 33: Read the following\npassage and answer the questions.\nIn a recent youth fete organised by Mindworkzz, the entry\ntickets were sold out according to the following scheme:\nTickets bought in one lot\n6\n12\n18\nPercentage discount\n10%\n20%\n25%\nOriginal price per ticket: `40\nThis offer could have been availed only when tickets\nwere bought in a →xed lot according to the scheme and any\nadditional ticket was available at its original price.",
       "options": {
         "a": "40%",
         "b": "41",
         "c": "28%",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1059,7 +1316,7 @@
         "c": "`31.84",
         "d": "cannot be determined."
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1074,7 +1331,7 @@
         "c": "`36",
         "d": "`36.16"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1082,14 +1339,14 @@
       "num": 33,
       "lod": 2,
       "type": "mcq",
-      "text": "On the last day of the fete, with the objective of\nmaximising participation, the number of tickets sold\nin a lot was halved with the same discount offer. Mr.\nX is in a →x regarding the number of tickets he can\nbuy with ` 532. The maximum number of tickets he\ncan purchase with this money is",
+      "text": "On the last day of the fete, with the objective of\nmaximising participation, the number of tickets sold\nin a lot was halved with the same discount offer. Mr.\n\nX is in a →x regarding the number of tickets he can\nbuy with ` 532. The maximum number of tickets he\ncan purchase with this money is",
       "options": {
         "a": "14",
         "b": "15",
         "c": "16",
         "d": "17"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1104,7 +1361,7 @@
         "c": "150",
         "d": "200"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1114,7 +1371,7 @@
       "type": "tita",
       "text": "At IIM Bangalore, 60% of the students are boys and\nthe rest are girls. Further 15% of the boys and 7.5%\nof the girls are getting a fee waiver. If the number\nof those getting a fee waiver is 90, →nd the total\nnumber of students getting 50% concession if it is\ngiven that 50% of those not getting a fee waiver are\neligible to get half fee concession?",
       "options": {},
-      "answer": "330",
+      "answer": null,
       "solution": null
     },
     {
@@ -1129,7 +1386,7 @@
         "c": "6 : 55 : 24 p.m.",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1137,9 +1394,9 @@
       "num": 37,
       "lod": 2,
       "type": "tita",
-      "text": "There were ‘a’ 10 ` Notes and ‘b’ 100 ` Notes. If\nthere had been ‘a’ ` 100 notes and ‘b’ ` 10 notes\nthe amount would have been 200% more.\n Find the minimum possible value of a If 1 £ b £ 20",
+      "text": "There were ‘a’ 10 ` Notes and ‘b’ 100 ` Notes. If\nthere had been ‘a’ ` 100 notes and ‘b’ ` 10 notes\nthe amount would have been 200% more.\n\t\t Find the minimum possible value of a If 1 £ b £ 20",
       "options": {},
-      "answer": "29",
+      "answer": null,
       "solution": null
     },
     {
@@ -1149,7 +1406,7 @@
       "type": "tita",
       "text": "In a garment shop there are four types of shirts\nnamely w, x, y, z. There are 20% more shirts of\ntype ‘x’ than type ‘w’. 20% less shirts of type ‘x’\nthan type ‘y’ and there are 30% more shirts of type\n‘z’ than type ‘x’. If there are 156 shirts of type ‘z’,\nthen →nd the total number of shirts.",
       "options": {},
-      "answer": "526",
+      "answer": null,
       "solution": null
     },
     {
@@ -1159,7 +1416,7 @@
       "type": "tita",
       "text": "Of the adult population in Nagpur, 45% of men and\n25% of women are married. What percentage of the\ntotal population of adults is married (assume that no\nman marries more than one woman and vice versa)?",
       "options": {},
-      "answer": "32",
+      "answer": null,
       "solution": null
     },
     {
@@ -1167,14 +1424,14 @@
       "num": 40,
       "lod": 2,
       "type": "mcq",
-      "text": "The weight of a bucket increases by 33.33% when\n→lled with water to 50% of its capacity. Which of\nPercentages III.25\nthese may be 50% of the weight of the bucket when\nit is →lled with water (assume the weight of bucket\nand its capacity in kg to be integers)?",
+      "text": "The weight of a bucket increases by 33.33% when\n→lled with water to 50% of its capacity. Which of\n\nthese may be 50% of the weight of the bucket when\nit is →lled with water (assume the weight of bucket\nand its capacity in kg to be integers)?",
       "options": {
         "a": "7 kg",
         "b": "6 kg",
         "c": "5 kg",
         "d": "8 kg"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1189,7 +1446,7 @@
         "c": "80",
         "d": "Cannot be determined"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1204,7 +1461,7 @@
         "c": "` 40,000",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1219,7 +1476,7 @@
         "c": "Both a and b",
         "d": "Any income can be achieved"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1234,7 +1491,7 @@
         "c": "–25%",
         "d": "–20%"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1249,7 +1506,7 @@
         "c": "48%",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1264,7 +1521,7 @@
         "c": "2%",
         "d": "None of these"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1279,22 +1536,19 @@
         "c": "10%",
         "d": "9%"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
       "id": "ch05-lod2-q048",
       "num": 48,
       "lod": 2,
-      "type": "mcq",
-      "text": "Price of a commodity is →rst increased by x% and\nthen decreased by x%. If the new price is K/100,\n→nd the original price.\n(x – 100)100/K\n(x2 – 1002)100/K\n(100 – x)100/K\n(1002 – x2)",
+      "type": "tita",
+      "text": "Price of a commodity is →rst increased by x% and\nthen decreased by x%. If the new price is K/100,\n→nd the original price.\n(a) (x – 100)100/K\n(b) (x2 – 1002)100/K\n(c) (100 – x)100/K\n(1002 – x2)",
       "options": {
-        "a": "",
-        "b": "",
-        "c": "",
         "d": "100K/"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1309,7 +1563,7 @@
         "c": "` 28,000",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1317,14 +1571,14 @@
       "num": 50,
       "lod": 2,
       "type": "mcq",
-      "text": "Seema goes to a shop to buy a radio costing ` 2568.\nThe rate of sales tax is 7% and the →nal value is\nrounded off to the next higher integer. She tells the\nshopkeeper to reduce the price of the radio so that\nshe has to pay `2568 inclusive of sales tax. Find the\nreduction needed in the price of the radio.\nQuestions 51 and 52: Study the following table and\nanswer the questions that follow.\nBeverages\n% of\nVitamin\n% of\n% of\nMinerals Micronutrients\nCost per\n250 gram\n(In `)\n7up\n12\n18\n30\n8\nDew\n15\n20\n10\n10\nSprite\n20\n10\n40\n7",
+      "text": "Seema goes to a shop to buy a radio costing ` 2568.\nThe rate of sales tax is 7% and the →nal value is\nrounded off to the next higher integer. She tells the\nshopkeeper to reduce the price of the radio so that\nshe has to pay `2568 inclusive of sales tax. Find the\nreduction needed in the price of the radio.\nQuestions 51 and 52: Study the following table and\nanswer the questions that follow.\nBeverages\n\n% of\nVitamin\n\n% of\n% of\nMinerals Micronutrients\n\nCost per\n250 gram\n(In `)\n\n7up\n\n12\n\n18\n\n30\n\n8\n\nDew\n\n15\n\n20\n\n10\n\n10\n\nSprite\n\n20\n\n10\n\n40\n\n7",
       "options": {
         "a": "` 180",
         "b": "` 210",
         "c": "` 168",
         "d": "None of these"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1339,7 +1593,7 @@
         "c": "Sprite worth ` 8",
         "d": "All the three worth ` 12.5"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1347,14 +1601,14 @@
       "num": 52,
       "lod": 2,
       "type": "mcq",
-      "text": "Which of these is the cheapest?\nof Sprite\nDirections for questions 53 to 54: Three great gamblers Ajay, Biru, Chetan were playing a game of Teen-Patti\n(3 card flush). At the beginning of the game Ajay and Biru\ntogether had as much money as Chetan had and Ajay and\nChetan together had 100% more money than Biru. At the\nend of the game Ajay and Biru together had 100% more\nmoney than Chetan. Also, Ajay and Chetan together had\n200% more money than Biru. If at the end of the game Biru\nhad `1500 then answer the following questions.",
+      "text": "Which of these is the cheapest?\nof Sprite\nDirections for questions 53 to 54: Three great gamblers Ajay, Biru, Chetan were playing a game of Teen-Patti\n(3 card flush). At the beginning of the game Ajay and Biru\ntogether had as much money as Chetan had and Ajay and\nChetan together had 100% more money than Biru. At the\nend of the game Ajay and Biru together had 100% more\n\n200% more money than Biru. If at the end of the game Biru\nhad `1500 then answer the following questions.",
       "options": {
         "a": "200 grams of 7up + 200 grams of Dew",
         "b": "300 grams of Dew +100 grams of 7up",
         "c": "100 grams of Dew + 100 grams of 7up + 100 grams",
         "d": "300 grams of Dew +100 grams of Sprite"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1364,7 +1618,7 @@
       "type": "tita",
       "text": "How many persons have suffered a loss?",
       "options": {},
-      "answer": "2",
+      "answer": null,
       "solution": null
     },
     {
@@ -1372,9 +1626,9 @@
       "num": 54,
       "lod": 2,
       "type": "tita",
-      "text": "The percentage change of money for Ajay is:\nDirections for questions 55 to 57: Mindworkzz has\ntwo of→ces, one in Delhi and the other in Lucknow. This\nyear the number of employees in the Lucknow of→ce remained the same as the previous year but the ratio of male\nto female employees has changed. In the Delhi of→ce, this\nyear the number of employees grew by 25% to 2500. Last\nyear the ratio of male to female employees in the Delhi\nof→ce was 3:1. The number of female employees in the\nDelhi of→ce grew by 20% from the last year to this. The\nnumber of male employees in the Lucknow of→ce last year\nequals the number of female employees in Delhi this year.\nThe total number of employees in both the company of→ces\ngrew to 3500 this year. The number of female employees\nin Lucknow grew up by 25% from last year to this year.\nBased on this information, answer the following questions.",
+      "text": "The percentage change of money for Ajay is:\n\nDirections for questions 55 to 57: Mindworkzz has\ntwo of→ces, one in Delhi and the other in Lucknow. This\nyear the number of employees in the Lucknow of→ce remained the same as the previous year but the ratio of male\nto female employees has changed. In the Delhi of→ce, this\nyear the number of employees grew by 25% to 2500. Last\nyear the ratio of male to female employees in the Delhi\nof→ce was 3:1. The number of female employees in the\nDelhi of→ce grew by 20% from the last year to this. The\nnumber of male employees in the Lucknow of→ce last year\nequals the number of female employees in Delhi this year.\nThe total number of employees in both the company of→ces\ngrew to 3500 this year. The number of female employees\nin Lucknow grew up by 25% from las",
       "options": {},
-      "answer": "150",
+      "answer": null,
       "solution": null
     },
     {
@@ -1384,7 +1638,7 @@
       "type": "tita",
       "text": "What is the number of females in the Delhi of→ce\nthis year?",
       "options": {},
-      "answer": "600",
+      "answer": null,
       "solution": null
     },
     {
@@ -1394,7 +1648,7 @@
       "type": "tita",
       "text": "The percentage growth of the number of men from\nlast year to this year in the Delhi of→ce is",
       "options": {},
-      "answer": "26",
+      "answer": null,
       "solution": null
     },
     {
@@ -1402,9 +1656,9 @@
       "num": 57,
       "lod": 2,
       "type": "tita",
-      "text": "The difference between number of male employees\nand number of female employees in Lucknow and\nDelhi of→ce together this year.\nSpace for Rough Work",
+      "text": "The difference between number of male employees\nand number of female employees in Lucknow and\nDelhi of→ce together this year.\n\nSpace for Rough Work",
       "options": {},
-      "answer": "1300",
+      "answer": null,
       "solution": null
     },
     {
@@ -1412,14 +1666,14 @@
       "num": 58,
       "lod": 2,
       "type": "mcq",
-      "text": "A company has ‘n’ employees in 2011. In 2012, 20%\nof the employees left the company while no one was\nhired. In 2013 and 2014, the number of employees\nagain grew by 50% and 15% respectively. In 2015\nthe company →red 280 employees and at the end of\n2015 the percentage increase in the number of employees from 2011 was found to be 10%. Find the\nnumber of employees at the end of the year 2015:\nDirections for Questions 59 to 60: The Food and\nBeverage unit of Pepsi-co India produces 1,00,000 chips\npackets per annum. If each packet is being sold at `10\nand the cost of raw material is ` 1 per packet, the cost of\nmanufacturing and labour is ` 2 per packet. The maintenance and marketing cost is ` 1 per packet. 10% taxes are\nbeing paid on selling price of the packet. Based on this\ninformation, answer the following questions.",
+      "text": "A company has ‘n’ employees in 2011. In 2012, 20%\nof the employees left the company while no one was\nhired. In 2013 and 2014, the number of employees\nagain grew by 50% and 15% respectively. In 2015\nthe company →red 280 employees and at the end of\n2015 the percentage increase in the number of employees from 2011 was found to be 10%. Find the\nnumber of employees at the end of the year 2015:\nDirections for Questions 59 to 60: The Food and\nBeverage unit of Pepsi-co India produces 1,00,000 chips\npackets per annum. If each packet is being sold at `10\nand the cost of raw material is ` 1 per packet, the cost of\nmanufacturing and labour is ` 2 per packet. The maintenance and marketing cost is ` 1 per packet. 10% taxes are\nbeing paid on selling price of the packet. Based on this\ninformation, answer",
       "options": {
         "a": "1200",
         "b": "1300",
         "c": "1100",
         "d": "None of these."
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1442,15 +1696,15 @@
       "num": 60,
       "lod": 2,
       "type": "tita",
-      "text": "If government increased taxes from 10% to 20% and\ncost of raw material also increased by 100%, then\nthe percentage increase in selling price per packet\nof chips to maintain the same pro→t would be.\nPercentages III.27\nLevel of Dif→culty (III)",
+      "text": "If government increased taxes from 10% to 20% and\ncost of raw material also increased by 100%, then\nthe percentage increase in selling price per packet\nof chips to maintain the same pro→t would be.",
       "options": {},
-      "answer": "25%",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q001",
+      "id": "ch05-lod3-q001",
       "num": 1,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "The price of raw materials has gone up by 15%,\nlabour cost has also increased from 25% of the cost\nof raw material to 30% of the cost of raw material.\nBy how much percentage should there be a reduction\nin the usage of raw materials so as to keep the cost\nsame?",
       "options": {
@@ -1459,13 +1713,13 @@
         "c": "28%",
         "d": "25%"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q002",
+      "id": "ch05-lod3-q002",
       "num": 2,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "Mr. A is a computer programmer. He is assigned\nthree jobs for which time allotted is in the ratio of\n5 : 4 : 2 (jobs are needed to be done individually).\nBut due to some technical snag, 10% of the time\nallotted for each job gets wasted. Thereafter, owing\nto the lack of interest, he invests only 40%, 30%\nand 20% of the hours of what was actually allotted\nto do the three jobs individually. Find how much\npercentage of the total time allotted is the time invested by A.",
       "options": {
@@ -1474,13 +1728,13 @@
         "c": "32.72%",
         "d": "36.66%"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q003",
+      "id": "ch05-lod3-q003",
       "num": 3,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "In the Mock CAT paper at Mindworkzz, questions\nwere asked in →ve sections. Out of the total students,\n5% candidates cleared the cut-off in all the sections and 5% cleared none. Of the rest, 25% cleared\nonly one section and 20% cleared four sections. If\n24.5% of the entire candidates cleared two sections\nand 300 candidates cleared three sections, →nd out\nhow many candidates appeared at the Mock CAT at\nMindworkzz?",
       "options": {
@@ -1489,13 +1743,13 @@
         "c": "1500",
         "d": "2000"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q004",
+      "id": "ch05-lod3-q004",
       "num": 4,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "There are three galleries in a coal mine. On the →rst\nday, two galleries are operative and after some time,\nthe third gallery is made operative. With this, the\noutput of the mine became half as large again. What\nis the capacity of the second gallery as a percentage\nof the →rst, if it is given that a four-month output of\nthe →rst and the third galleries was the same as the\nannual output of the second gallery?",
       "options": {
@@ -1504,27 +1758,27 @@
         "c": "60%",
         "d": "65%"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q005",
+      "id": "ch05-lod3-q005",
       "num": 5,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
-      "text": "10% of salty sea water contained in a flask was\npoured out into a beaker. After this, a part of the\nwater contained in the beaker was vapourised by\nheating and due to this, the percentage of salt in the\nbeaker increased M times. If it is known that after\nthe content of the beaker was poured into the flask,\nthe percentage of salt in the flask increased by x%.\nFind the original quantity of sea water in the flask.\nM -1\n(b)\n(9 M + 1) x%\nM -1\nM +1\nM +1",
+      "text": "10% of salty sea water contained in a flask was\npoured out into a beaker. After this, a part of the\nwater contained in the beaker was vapourised by\nheating and due to this, the percentage of salt in the\nbeaker increased M times. If it is known that after\nthe content of the beaker was poured into the flask,\nthe percentage of salt in the flask increased by x%.\n\nFind the original quantity of sea water in the flask.\n\nM -1\n\n(b)\n\n(9 M + 1) x%\nM -1\nM +1\nM +1",
       "options": {
         "a": "9 M + 1%",
         "c": "9M - 1 x%",
         "d": "9 M + x%"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q006",
+      "id": "ch05-lod3-q006",
       "num": 6,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "In an election of 3 candidates A, B and C, A gets\n50% more votes than B. A also beats C by 1,80,00\nvotes. If it is known that B gets 5 percentage point\nmore votes than C, →nd the number of voters on the\nvoting list (given 90% of the voters on the voting\nlist voted and no votes were illegal)",
       "options": {
@@ -1533,13 +1787,13 @@
         "c": "90,000",
         "d": "1,00,000"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q007",
+      "id": "ch05-lod3-q007",
       "num": 7,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "A clock is set right at 12 noon on Monday. It loses\n1/2% on the correct time in the →rst week but gains\n1/4% on the true time during the second week. The\ntime shown on Monday after two weeks will be",
       "options": {
@@ -1548,13 +1802,13 @@
         "c": "12 : 50 : 24",
         "d": "12 : 24 : 16"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q008",
+      "id": "ch05-lod3-q008",
       "num": 8,
-      "lod": 2,
+      "lod": 3,
       "type": "mcq",
       "text": "The petrol prices shot up by 7% as a result of the\nhike in the price of crudes. The price of petrol before the hike was ` 28 per litre. Vawal travels 2400\nkilometres every month and his car gives a mileage\nof 18 kilometres to a litre. Find the increase in the\nexpenditure that Vawal has to incur due to the increase in the price of petrol (to the nearest rupee)?",
       "options": {
@@ -1563,17 +1817,22 @@
         "c": "` 276",
         "d": "` 272"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
-      "id": "ch05-lod2-q009",
+      "id": "ch05-lod3-q009",
       "num": 9,
-      "lod": 2,
-      "type": "tita",
-      "text": "For Question 8, by how many kilometres should\nVawal reduce his travel if he wants to maintain his\nexpenditure at the previous level",
-      "options": {},
-      "answer": "a",
+      "lod": 3,
+      "type": "mcq",
+      "text": "For Question 8, by how many kilometres should\nVawal reduce his travel if he wants to maintain his\nexpenditure at the previous level (prior to the price\nincrease)?",
+      "options": {
+        "a": "157 km",
+        "b": "137 km",
+        "c": "168 km",
+        "d": "180 km"
+      },
+      "answer": null,
       "solution": null
     },
     {
@@ -1588,7 +1847,7 @@
         "c": "Reduce travel to 2360 kilometres",
         "d": "None of these"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1596,14 +1855,14 @@
       "num": 11,
       "lod": 3,
       "type": "mcq",
-      "text": "A shopkeeper announces a discount scheme as follows: for every purchase of ` 3000 to ` 6000, the\ncustomer gets a 15% discount or a ticket that entitles\nhim to get a 7% discount on a further purchase of\ngoods costing more than ` 6000. The customer, how-\never, would have the option of reselling his right to\nthe shopkeeper at 4% of his initial purchase value\n(as per the right refers to the 7% discount ticket).\nIn an enthusiastic response to the scheme, 10 people\npurchase goods worth ` 4000 each. Find the maximum. Possible revenue for the shopkeeper.",
+      "text": "A shopkeeper announces a discount scheme as follows: for every purchase of ` 3000 to ` 6000, the\ncustomer gets a 15% discount or a ticket that entitles\nhim to get a 7% discount on a further purchase of\ngoods costing more than ` 6000. The customer, how-\n\nthe shopkeeper at 4% of his initial purchase value\n(as per the right refers to the 7% discount ticket).\nIn an enthusiastic response to the scheme, 10 people\npurchase goods worth ` 4000 each. Find the maximum. Possible revenue for the shopkeeper.",
       "options": {
         "a": "` 38,400",
         "b": "` 38,000",
         "c": "` 39,400",
         "d": "` 39,000"
       },
-      "answer": "6",
+      "answer": null,
       "solution": null
     },
     {
@@ -1618,7 +1877,7 @@
         "c": "` 6000",
         "d": "` 4000"
       },
-      "answer": "5",
+      "answer": null,
       "solution": null
     },
     {
@@ -1633,7 +1892,7 @@
         "c": "1.92 : 1",
         "d": "2 : 1"
       },
-      "answer": "Average",
+      "answer": null,
       "solution": null
     },
     {
@@ -1648,7 +1907,7 @@
         "c": "` 2.5",
         "d": "Cannot be determined"
       },
-      "answer": "Shyam’s",
+      "answer": null,
       "solution": null
     },
     {
@@ -1663,7 +1922,7 @@
         "c": "1 : 1.92",
         "d": "2 : 1"
       },
-      "answer": "This",
+      "answer": null,
       "solution": null
     },
     {
@@ -1671,14 +1930,14 @@
       "num": 16,
       "lod": 3,
       "type": "mcq",
-      "text": "If diesel costs ` 12.5 per litre, then the difference\nin the cost of travel per kilometre between kailash’s\nand shayam’s is (assume an average of 20 km per\nlitre for Shayam’s car and also assume that petrol is\n50% of its own price higher than diesel)\nDirections for questions 17 to 23: Read the following\nand answer the questions that follow.\nIn the island of Hoola Boola Moola, the inhabitants have\na strange process of calculating their average incomes and\nexpenditures. According to an old legend prevalent on that\nisland, the average monthly income had to be calculated on\nthe basis of 14 months in a calendar year while the average\nmonthly expenditure was to be calculated on the basis of\n9 months per year. This would lead to people having an\nunderestimation of their savings since there would be an\nunderestimation of the income and an overestimation of the\nexpenditure per month.",
+      "text": "If diesel costs ` 12.5 per litre, then the difference\nin the cost of travel per kilometre between kailash’s\nand shayam’s is (assume an average of 20 km per\nlitre for Shayam’s car and also assume that petrol is\n50% of its own price higher than diesel)\nDirections for questions 17 to 23: Read the following\nand answer the questions that follow.\nIn the island of Hoola Boola Moola, the inhabitants have\na strange process of calculating their average incomes and\nexpenditures. According to an old legend prevalent on that\nisland, the average monthly income had to be calculated on\nthe basis of 14 months in a calendar year while the average\nmonthly expenditure was to be calculated on the basis of\n9 months per year. This would lead to people having an\nunderestimation of their savings since there would",
       "options": {
         "a": "` 1.75",
         "b": "` 0.875",
         "c": "` 1.25",
         "d": "` 1.125"
       },
-      "answer": "Cost",
+      "answer": null,
       "solution": null
     },
     {
@@ -1693,7 +1952,7 @@
         "c": "31.31%",
         "d": "Cannot be determined"
       },
-      "answer": "56",
+      "answer": null,
       "solution": null
     },
     {
@@ -1708,7 +1967,7 @@
         "c": "25.23%",
         "d": "Cannot be determined"
       },
-      "answer": "Average",
+      "answer": null,
       "solution": null
     },
     {
@@ -1723,7 +1982,7 @@
         "c": "25.23%",
         "d": "25.73%"
       },
-      "answer": "Original",
+      "answer": null,
       "solution": null
     },
     {
@@ -1738,7 +1997,7 @@
         "c": "16.66% increase",
         "d": "16.66% decrease"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1753,7 +2012,7 @@
         "c": "Remain constant",
         "d": "Either"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1768,7 +2027,7 @@
         "c": "2.5%",
         "d": "Cannot be determined"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -1776,14 +2035,14 @@
       "num": 23,
       "lod": 3,
       "type": "mcq",
-      "text": "For Question 22, what will be the percentage change\nin the estimated monthly expenditure?\nPercentages III.29",
+      "text": "For Question 22, what will be the percentage change\nin the estimated monthly expenditure?",
       "options": {
         "a": "22.22% decrease",
         "b": "22.22% increase",
         "c": "18.18% decrease",
         "d": "18.18% increase"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1798,7 +2057,7 @@
         "c": "72.5%",
         "d": "68.6%"
       },
-      "answer": "0",
+      "answer": null,
       "solution": null
     },
     {
@@ -1813,7 +2072,7 @@
         "c": "72.5%",
         "d": "68.6%"
       },
-      "answer": "Solve",
+      "answer": null,
       "solution": null
     },
     {
@@ -1828,7 +2087,7 @@
         "c": "` 2,00,000",
         "d": "` 2,50,000"
       },
-      "answer": "The",
+      "answer": null,
       "solution": null
     },
     {
@@ -1836,14 +2095,14 @@
       "num": 27,
       "lod": 3,
       "type": "mcq",
-      "text": "Krishna Iyer, a motorist uses 24% of his fuel in covering the →rst 20% of his total journey (in city driving\nconditions). If he knows that he has to cover another\n25% of his total journey in city driving conditions,\nwhat should be the minimum percentage increase\nin the fuel ef→ciency for non-city driving over the\ncity driving fuel ef→ciency, so that he is just able to\ncover his entire journey without having to refuel?\n(Approximately)\nDirections for questions 28 to 30: Read the following\nand answer the questions that follow the BSNL announced\na cut in the STD rates on 27 December 2011. The new\nrates and slabs are given in the table below and are to be\nimplemented from 14 January 2012.\nSlab Details\nRates (`/min)\nDistance\nPeak Rates\nOff Peak\nOld\nNew\nOld\nNew\n50–200\n4.8\n2.4\n1.2\n1.2\n200–500\n11.6\n4.8\n3.0\n2.4\n500–1000\n17.56\n9.00\n4.5\n4.5\n1000+\n17.56\n9.00\n6.0\n4.5",
+      "text": "Krishna Iyer, a motorist uses 24% of his fuel in covering the →rst 20% of his total journey (in city driving\nconditions). If he knows that he has to cover another\n25% of his total journey in city driving conditions,\nwhat should be the minimum percentage increase\nin the fuel ef→ciency for non-city driving over the\ncity driving fuel ef→ciency, so that he is just able to\ncover his entire journey without having to refuel?\n(Approximately)\nDirections for questions 28 to 30: Read the following\nand answer the questions that follow the BSNL announced\na cut in the STD rates on 27 December 2011. The new\nrates and slabs are given in the table below and are to be\nimplemented from 14 January 2012.\nSlab Details\nRates (`/min)\nDistance\n\nPeak Rates\n\nOff Peak\n\nOld\n\nNew\n\nOld\n\nNew\n\n50–200\n\n4.8\n\n2.4\n\n1.2\n\n1.2",
       "options": {
         "a": "39.2%",
         "b": "43.5%",
         "c": "45.6%",
         "d": "41.2%"
       },
-      "answer": "For",
+      "answer": null,
       "solution": null
     },
     {
@@ -1858,7 +2117,7 @@
         "c": "1000+",
         "d": "200–500"
       },
-      "answer": "The",
+      "answer": null,
       "solution": null
     },
     {
@@ -1873,7 +2132,7 @@
         "c": "59.8 %",
         "d": "cannot be determined"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1881,14 +2140,14 @@
       "num": 30,
       "lod": 3,
       "type": "mcq",
-      "text": "If one of the three calls in Question 29 were made in\nan off peak time on both days, then the percentage\nreduction in the total cost of the calls between 13th\nand 14th January will\nan off peak time\nDirections for questions 31 to 35: Read the following\ncaselet and answer the questions that follow.\nThe circulation of the Deccan Emerald newspaper is\n3,73,000 copies, while its closest competitors are The Times\nof Hindustan and India’s Times, which sell 2,47,000 and\n20% more than that respectively (rounded off to the higher\nthousand). All the newspapers cost ` 2 each. The hawker’s\ncommissions offered by the three papers are 20%, 25%\nand 30%, respectively (these commissions are calculated\non the sale price of the newspaper). Also, it is known that\nnewspapers earn primarily through sales and advertising.",
+      "text": "If one of the three calls in Question 29 were made in\nan off peak time on both days, then the percentage\nreduction in the total cost of the calls between 13th\nand 14th January will\nan off peak time\nDirections for questions 31 to 35: Read the following\ncaselet and answer the questions that follow.\nThe circulation of the Deccan Emerald newspaper is\n3,73,000 copies, while its closest competitors are The Times\nof Hindustan and India’s Times, which sell 2,47,000 and\n20% more than that respectively (rounded off to the higher\nthousand). All the newspapers cost ` 2 each. The hawker’s\ncommissions offered by the three papers are 20%, 25%\nand 30%, respectively (these commissions are calculated\non the sale price of the newspaper). Also, it is known that\nnewspapers earn primarily through sales and adve",
       "options": {
         "a": "de→nitely reduce",
         "b": "de→nitely increase",
         "c": "will depend on which particular call was made in",
         "d": "cannot be determined"
       },
-      "answer": "05%",
+      "answer": null,
       "solution": null
     },
     {
@@ -1903,7 +2162,7 @@
         "c": "26.28%",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1918,7 +2177,7 @@
         "c": "0.6720",
         "d": "Cannot be determined"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -1928,12 +2187,11 @@
       "type": "mcq",
       "text": "If the cost of printing the newspaper is ` 8, 7.5 and\n7, respectively per day for Deccan Emerald, Times\nof Hindustan and India’s Times respectively and on\nany day the available advertising space in the Deccan Emerald newspaper is 800 cc (column centimetres) and the advertising rate for Deccan Emerald is\n` 3000 per cc then the percentage of the advertising\nspace that must be utilised to ensure the full recovery\nof the day’s cost for Deccan Emerald is",
       "options": {
-        "a": "95.83%",
         "b": "99.46%",
         "c": "97.28%",
         "d": "Cannot be determined"
       },
-      "answer": "Loss",
+      "answer": null,
       "solution": null
     },
     {
@@ -1948,7 +2206,7 @@
         "c": "10",
         "d": "Cannot be determined"
       },
-      "answer": "Advertising",
+      "answer": null,
       "solution": null
     },
     {
@@ -1963,7 +2221,7 @@
         "c": "4.09",
         "d": "Cannot be determined"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -1971,14 +2229,14 @@
       "num": 36,
       "lod": 3,
       "type": "mcq",
-      "text": "On a train journey, there are 5 kinds of tickets AC I,\nAC II, AC III, 3-tier, and general. The relationship\nbetween the rates of the tickets for the Eurail is:\n AC II is 20% higher than AC III and AC I is 70% of\nAC III’s value higher than the AC II ticket’s value.\nThe 3-tier ticket is 25% of the AC I’s ticket cost and\nthe general ticket is 1/3 the price of the AC II ticket.\nThe AC II ticket costs 780 euros between London\nand Paris. the difference in the rates of 3 tier and\ngeneral ticket is",
+      "text": "On a train journey, there are 5 kinds of tickets AC I,\nAC II, AC III, 3-tier, and general. The relationship\nbetween the rates of the tickets for the Eurail is:\n\t\t AC II is 20% higher than AC III and AC I is 70% of\nAC III’s value higher than the AC II ticket’s value.\nThe 3-tier ticket is 25% of the AC I’s ticket cost and\nthe general ticket is 1/3 the price of the AC II ticket.\nThe AC II ticket costs 780 euros between London\nand Paris. the difference in the rates of 3 tier and\ngeneral ticket is",
       "options": {
         "a": "41.25 euros",
         "b": "55.8 euros",
         "c": "48.75 euros",
         "d": "52.75 euros"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -1993,7 +2251,7 @@
         "c": "4233.75",
         "d": "3733.75"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2008,7 +2266,7 @@
         "c": "2,98,400",
         "d": "2,96,760"
       },
-      "answer": "Maximum",
+      "answer": null,
       "solution": null
     },
     {
@@ -2016,14 +2274,14 @@
       "num": 39,
       "lod": 3,
       "type": "mcq",
-      "text": "For a Eurailexpress journey from London to Glasgow,\n80% of the train was uniformly booked across class-\nes. What percentage of the total revenues came out\nof the sales of 3-tier tickets?",
+      "text": "For a Eurailexpress journey from London to Glasgow,\n80% of the train was uniformly booked across class-\n\nes. What percentage of the total revenues came out\nof the sales of 3-tier tickets?",
       "options": {
         "a": "44.23%",
         "b": "52.18%",
         "c": "39.23%",
         "d": "48.9%"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2038,7 +2296,7 @@
         "c": "Remain constant",
         "d": "Cannot be determined"
       },
-      "answer": "The",
+      "answer": null,
       "solution": null
     },
     {
@@ -2053,7 +2311,7 @@
         "c": "32.23%",
         "d": "23.07%"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2068,7 +2326,7 @@
         "c": "66.66%",
         "d": "None of these"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2083,7 +2341,7 @@
         "c": "8",
         "d": "None of these"
       },
-      "answer": "b",
+      "answer": null,
       "solution": null
     },
     {
@@ -2091,14 +2349,14 @@
       "num": 44,
       "lod": 3,
       "type": "mcq",
-      "text": "In an economy, the rate of savings has a relation\nto the investment in industry for that year and the\nfollowing three years. The relation is such that a\npercentage point change in investment in industry\nfor that year has a relation to the total production\noutput in the next 4 years. A 2 percentage point\nincrease in the savings rate in a year, increases the\nPercentages III.31\ninvestment in the industry of the economy by 1%.\nFurther, the rate of investment also goes up by 0.5%\nin the next year, by 0.25% in the second year and\nagain by 0.25% in the third year. Also assume that\nthe investment in an economy is only dependent\non the patterns of savings in the previous 3 years\nin the economy. Also, the percentage change in the\ninvestment in a particular year is got by adding the\neffect of the previous three years savings pattern.\n    In →scal 2008–09, the rate of savings in the Indian\neconomy is 25% while that in the Pakistani economy,\nis 20%. This has remained constant since 2003. In\n2009–10 the savings rate in the Indian economy\nsuddenly rises by 5 percentage points to 30% while\nthat in the Pakistani economy rises by 2 percentage\npoints to 22%. It is further known that the value of\nthe investment in the industry in the 2 countries was\n2 million dollars and 1.8 million dollars respectively\n(for the previous year). The percentage difference\nbetween the investment in the Pakistani economy\nto the investment in the Indian economy in 2010–11\nwill be (if it is known that there is no change in the\nsavings rate in 2010–11):\nDirections for questions 45 to 48: In an economy the\nrate of savings has a relation to the investment in industry\nfor that year and for the following three years and the\ninvestment in industry for that year has a relation to the\ntotal production output in the next 4 years.",
+      "text": "In an economy, the rate of savings has a relation\nto the investment in industry for that year and the\nfollowing three years. The relation is such that a\npercentage point change in investment in industry\nfor that year has a relation to the total production\noutput in the next 4 years. A 2 percentage point\nincrease in the savings rate in a year, increases the\n\ninvestment in the industry of the economy by 1%.\nFurther, the rate of investment also goes up by 0.5%\nin the next year, by 0.25% in the second year and\nagain by 0.25% in the third year. Also assume that\nthe investment in an economy is only dependent\non the patterns of savings in the previous 3 years\nin the economy. Also, the percentage change in the\ninvestment in a particular year is got by adding the\neffect of the previous three years",
       "options": {
         "a": "13.6%",
         "b": "15.12%",
         "c": "11.18%",
         "d": "12.2%"
       },
-      "answer": "a",
+      "answer": null,
       "solution": null
     },
     {
@@ -2113,7 +2371,7 @@
         "c": "14.02%",
         "d": "none of these"
       },
-      "answer": "c",
+      "answer": null,
       "solution": null
     },
     {
@@ -2128,7 +2386,7 @@
         "c": "2012–13",
         "d": "Cannot be determined"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2136,14 +2394,14 @@
       "num": 47,
       "lod": 3,
       "type": "mcq",
-      "text": "For Question 44, it is known that the percentage\nchange in investment in a year leads to a corresponding equal percentage increase in the manufacturing\nproduction in the next year. Further, if the growth\nrate of manufacturing production is 27% of the GDP\ngrowth rate of the country, then what is the GDP\ngrowth rate of India in 2010–11?",
+      "text": "For Question 44, it is known that the percentage\nchange in investment in a year leads to a corresponding equal percentage increase in the manufacturing\nproduction in the next year. Further, if the growth\nrate of manufacturing production is 27% of the GDP\n\ngrowth rate of the country, then what is the GDP\ngrowth rate of India in 2010–11?",
       "options": {
         "a": "8.52%",
         "b": "7.28%",
         "c": "9.26%",
         "d": "None of these"
       },
-      "answer": "5",
+      "answer": null,
       "solution": null
     },
     {
@@ -2151,14 +2409,14 @@
       "num": 48,
       "lod": 3,
       "type": "mcq",
-      "text": "The Euro was ushered in on the Ist January 2002\nand the old currencies of the European economies\nwere exchanged into Euros. In France, 4 Francs were\nexchanged for 1 Euro while in Germany 5 Deutsche\nMarks were exchanged for 1 Euro and in Italy 3\nLiras were exchanged for 1 Euro. The exchange rate\nfor Moolahs, the of→cial currency of Hoola Boola\nMoola, was set at 185 Moolahs per Euro. Dr. Krishna\nIyer, an NRI doctor based in Europe, had a practice\nacross each of these three countries and he sends back\nmoney orders to his native island of Hoola Boola\nMoola. The existing exchange rate of Moolahs with\nthe above-mentioned currencies was 51 moolahs per\nFranc, 36 Moolahs per Deutsche Mark and 70 moolahs per Lira. If Dr. Iyer has this information, then\nwhat should he do with his currency holdings in these\nthree currencies on the 31st December 2001 so that\nhe maximises his moolah value on the Ist of January\n2002. (Assume no arbitrage possibilities between the\nthree currencies)",
+      "text": "The Euro was ushered in on the Ist January 2002\nand the old currencies of the European economies\nwere exchanged into Euros. In France, 4 Francs were\nexchanged for 1 Euro while in Germany 5 Deutsche\nMarks were exchanged for 1 Euro and in Italy 3\nLiras were exchanged for 1 Euro. The exchange rate\nfor Moolahs, the of→cial currency of Hoola Boola\nMoola, was set at 185 Moolahs per Euro. Dr. Krishna\nIyer, an NRI doctor based in Europe, had a practice\nacross each of these three countries and he sends back\nmoney orders to his native island of Hoola Boola\nMoola. The existing exchange rate of Moolahs with\nthe above-mentioned currencies was 51 moolahs per\nFranc, 36 Moolahs per Deutsche Mark and 70 moolahs per Lira. If Dr. Iyer has this information, then\nwhat should he do with his currency holdings in",
       "options": {
         "a": "Change to Francs",
         "b": "Change to Deutsche Marks",
         "c": "Change to Liras",
         "d": "Remain indifferent"
       },
-      "answer": "75",
+      "answer": null,
       "solution": null
     },
     {
@@ -2173,7 +2431,7 @@
         "c": "11.2%",
         "d": "Cannot be determined"
       },
-      "answer": "d",
+      "answer": null,
       "solution": null
     },
     {
@@ -2181,111 +2439,21 @@
       "num": 50,
       "lod": 3,
       "type": "mcq",
-      "text": "For Question 48, which one of the following will\nallow the calculation of all possibilities of percentage change in terms of moolah value of Dr. Iyer’s\nportfolio? (That is possible through currency conversions.)\nLiras, Deutsche Mark and Francs\nHints\nanswer key\nLevel of Dif→culty (I)",
+      "text": "For Question 48, which one of the following will\nallow the calculation of all possibilities of percentage change in terms of moolah value of Dr. Iyer’s\nportfolio? (That is possible through currency conversions.)\nLiras, Deutsche Mark and Francs\n(c)",
       "options": {
         "a": "and",
         "b": "Dr. Iyer’s monthly earnings in all three currencies",
-        "c": "III.32 How to Prepare for Quantitative Aptitude for CAT",
+        "c": "The inter-currency conversion rates between",
         "d": "Both"
       },
-      "answer": "d",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q060",
-      "num": 60,
-      "lod": 3,
-      "type": "tita",
-      "text": "48%\nLevel of Dif→culty (II)",
-      "options": {},
       "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q056",
-      "num": 56,
-      "lod": 3,
-      "type": "tita",
-      "text": "26.67% 57. 1300",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q001",
-      "num": 1,
-      "lod": 3,
-      "type": "tita",
-      "text": "Assume initial raw material price to be 100. This\nmeans that the initial labour cost is 25. Hence the\nnet cost is 125. Now, since there is a 15% increment\nin raw material cost and the labour cost has gone up\nto 30% of the raw material cost, it is clear that the\nnew total expenditure is 115*1.3 = 149.5. Reduce the\ncost to 125 by reducing the usage of raw materials\nused.",
-      "options": {},
-      "answer": "60",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q002",
-      "num": 2,
-      "lod": 3,
-      "type": "tita",
-      "text": "Assume that 50, 40 and 20 hours are available. There\nis no need to use 10% waste of time in this question.",
-      "options": {},
-      "answer": "Assume",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q004",
-      "num": 4,
-      "lod": 3,
-      "type": "tita",
-      "text": "Half as large again means 1.5 times (or an addition\nof 50%).",
-      "options": {},
-      "answer": "8",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q005",
-      "num": 5,
-      "lod": 3,
-      "type": "tita",
-      "text": "Assume values for M and x and solve through options.",
-      "options": {},
-      "answer": "Assume",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q006",
-      "num": 6,
-      "lod": 3,
-      "type": "tita",
-      "text": "A = 1.5 B , A – C = 180000 and B = 1.05 C. Solve\nto get A, B and C. Also, A + B + C = 90% of total\nvoters on voting list. This will give you the answer.\n Ideally solve this question through options.",
-      "options": {},
-      "answer": "5",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q007",
-      "num": 7,
-      "lod": 3,
-      "type": "tita",
-      "text": "Clock loses 0.5% of 168 hours in the →rst week and\ngains 0.25% of 168 hours in the second week. Hence,\nnet loss is 0.25% of 168 hours.",
-      "options": {},
-      "answer": "Clock",
-      "solution": null
-    },
-    {
-      "id": "ch05-lod3-q008",
-      "num": 8,
-      "lod": 3,
-      "type": "tita",
-      "text": "Vawal uses 133.33 litr",
-      "options": {},
-      "answer": "Vawal",
       "solution": null
     }
   ],
-  "questionCount": 160,
+  "questionCount": 169,
   "lodCounts": {
-    "lod1": 52,
-    "lod2": 58,
+    "lod1": 59,
+    "lod2": 60,
     "lod3": 50
   }
 }

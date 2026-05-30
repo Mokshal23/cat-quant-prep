@@ -1,6 +1,6 @@
 {
   "totalChapters": 11,
-  "totalQuestions": 1945,
+  "totalQuestions": 1967,
   "chapters": [
     {
       "id": "ch01",
@@ -12,11 +12,11 @@
       "questionCount": 385,
       "lodCounts": {
         "lod1": 174,
-        "lod2": 135,
-        "lod3": 76
+        "lod2": 134,
+        "lod3": 77
       },
-      "answeredCount": 269,
-      "solvedCount": 142
+      "answeredCount": 174,
+      "solvedCount": 0
     },
     {
       "id": "ch02",
@@ -25,14 +25,14 @@
       "block": "I",
       "blockName": "Numbers",
       "topic": "Numbers",
-      "questionCount": 161,
+      "questionCount": 169,
       "lodCounts": {
-        "lod1": 58,
-        "lod2": 55,
-        "lod3": 48
+        "lod1": 55,
+        "lod2": 62,
+        "lod3": 52
       },
-      "answeredCount": 56,
-      "solvedCount": 50
+      "answeredCount": 54,
+      "solvedCount": 0
     },
     {
       "id": "ch03",
@@ -41,14 +41,14 @@
       "block": "II",
       "blockName": "Averages & Mixtures",
       "topic": "Averages & Mixtures",
-      "questionCount": 191,
+      "questionCount": 197,
       "lodCounts": {
-        "lod1": 87,
-        "lod2": 59,
-        "lod3": 45
+        "lod1": 94,
+        "lod2": 54,
+        "lod3": 49
       },
-      "answeredCount": 168,
-      "solvedCount": 42
+      "answeredCount": 94,
+      "solvedCount": 0
     },
     {
       "id": "ch04",
@@ -57,13 +57,13 @@
       "block": "II",
       "blockName": "Averages & Mixtures",
       "topic": "Averages & Mixtures",
-      "questionCount": 128,
+      "questionCount": 80,
       "lodCounts": {
-        "lod1": 0,
-        "lod2": 64,
-        "lod3": 64
+        "lod1": 41,
+        "lod2": 26,
+        "lod3": 13
       },
-      "answeredCount": 0,
+      "answeredCount": 41,
       "solvedCount": 0
     },
     {
@@ -73,13 +73,13 @@
       "block": "III",
       "blockName": "Arithmetic",
       "topic": "Arithmetic",
-      "questionCount": 160,
+      "questionCount": 169,
       "lodCounts": {
-        "lod1": 52,
-        "lod2": 58,
+        "lod1": 59,
+        "lod2": 60,
         "lod3": 50
       },
-      "answeredCount": 157,
+      "answeredCount": 58,
       "solvedCount": 0
     },
     {
@@ -91,12 +91,12 @@
       "topic": "Arithmetic",
       "questionCount": 153,
       "lodCounts": {
-        "lod1": 56,
-        "lod2": 47,
-        "lod3": 50
+        "lod1": 65,
+        "lod2": 48,
+        "lod3": 40
       },
-      "answeredCount": 136,
-      "solvedCount": 101
+      "answeredCount": 64,
+      "solvedCount": 0
     },
     {
       "id": "ch07",
@@ -105,14 +105,14 @@
       "block": "III",
       "blockName": "Arithmetic",
       "topic": "Arithmetic",
-      "questionCount": 78,
+      "questionCount": 79,
       "lodCounts": {
-        "lod1": 41,
-        "lod2": 37,
+        "lod1": 49,
+        "lod2": 30,
         "lod3": 0
       },
-      "answeredCount": 66,
-      "solvedCount": 11
+      "answeredCount": 49,
+      "solvedCount": 0
     },
     {
       "id": "ch08",
@@ -121,14 +121,14 @@
       "block": "III",
       "blockName": "Arithmetic",
       "topic": "Arithmetic",
-      "questionCount": 134,
+      "questionCount": 138,
       "lodCounts": {
-        "lod1": 48,
-        "lod2": 52,
-        "lod3": 34
+        "lod1": 59,
+        "lod2": 54,
+        "lod3": 25
       },
-      "answeredCount": 92,
-      "solvedCount": 85
+      "answeredCount": 58,
+      "solvedCount": 0
     },
     {
       "id": "ch09",
@@ -137,14 +137,14 @@
       "block": "III",
       "blockName": "Arithmetic",
       "topic": "Arithmetic",
-      "questionCount": 121,
+      "questionCount": 126,
       "lodCounts": {
-        "lod1": 52,
-        "lod2": 42,
-        "lod3": 27
+        "lod1": 60,
+        "lod2": 40,
+        "lod3": 26
       },
-      "answeredCount": 119,
-      "solvedCount": 86
+      "answeredCount": 60,
+      "solvedCount": 0
     },
     {
       "id": "ch10",
@@ -153,14 +153,14 @@
       "block": "III",
       "blockName": "Arithmetic",
       "topic": "Arithmetic",
-      "questionCount": 197,
+      "questionCount": 191,
       "lodCounts": {
-        "lod1": 76,
+        "lod1": 83,
         "lod2": 58,
-        "lod3": 63
+        "lod3": 50
       },
-      "answeredCount": 197,
-      "solvedCount": 94
+      "answeredCount": 83,
+      "solvedCount": 0
     },
     {
       "id": "ch11",
@@ -169,14 +169,14 @@
       "block": "IV",
       "blockName": "Geometry",
       "topic": "Geometry",
-      "questionCount": 237,
+      "questionCount": 280,
       "lodCounts": {
-        "lod1": 53,
-        "lod2": 184,
+        "lod1": 149,
+        "lod2": 131,
         "lod3": 0
       },
-      "answeredCount": 236,
-      "solvedCount": 37
+      "answeredCount": 74,
+      "solvedCount": 0
     }
   ]
 }

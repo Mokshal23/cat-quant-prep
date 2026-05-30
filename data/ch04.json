@@ -6,871 +6,22 @@
   "blockName": "Averages & Mixtures",
   "topic": "Averages & Mixtures",
   "notes": {
-    "intro": "Case 2 A1, A2, n1 and n2 are known; Aw is unknown.",
+    "intro": "Task for student: Solve through the alligation formula\napproach and through the weighted average approach to",
     "concepts": [
-      "Case 2 A1, A2, n1 and n2 are known; Aw is unknown.",
-      "Then, by unitary method:\nn1 + n2 corresponds to A2 – A1\nÆ 1 + 2 corresponds to 6 – 5\nThat is, 3 corresponds to 1\nn2 will correspond to",
-      "In this case (1/3) × 2 = 0.66.\nHence, the required answer is 5.66.",
-      "Note: In this case, the problem associated with the cross\nmethod is overcome and the solution becomes graphical.\nCase 3: A1, Aw, n1 and n2 are known; A2 is unknown.",
-      "Illustration 8\n5 kg of rice at ` 6 per kg is mixed with 4 kg of rice to\nget a mixture costing ` 7 per kg. Find the price of the costlier\nrice.\nUsing straight line method:\n6",
-      "4 corresponds to 7 – 6 and 5 corresponds to x – 7.\nThe thought process should go like:"
+      "Task for student: Solve through the alligation formula\napproach and through the weighted average approach to",
+      "get the solution. Notice, the amount of time required in\ndoing the same.",
+      "Note: The cross method becomes quite cumbersome in\nthis case, as this method results in the formula being written. Hence, there seems to be no logic in using the cross\nmethod in this case.\nCase 3: A1, Aw, n1 and n2 are known; A2 is unknown.",
+      "Illustration 5\n5 kg of rice at ` 6 per kg is mixed with 4 kg of rice to get a\nmixture costing ` 7 per kg. Find the price of the costlier rice.\nSolution",
+      "Visualise this as a fragment of the number line with\npoints A1, Aw and A2 in that order from left to right.\nThen,\n(a) n2 is responsible for the distance between A1 and Aw\nor n2 corresponds to Aw – A1\n(b) n1 is responsible for the distance between Aw and\nA2. or n1 corresponds to A2 – Aw\n(c) (n1 + n2) is responsible for the distance between A1\nand A2. or (n1 + n2) corresponds to A2 – A1.\nThe processes for the 3 cases illustrated above can then\nbe illustrated below:",
+      "Illustration 6\nOn mixing two classes of students having average marks\n25 and 40 respectively, the overall average obtained is 30\nmarks. Find\n(a) the ratio in which the classes were mixed.\n(b) the number of students in the →rst class if the second\nclass had 30 students.\nSolution\n25"
     ],
-    "formulas": [
-      "In this case (1/3) × 2 = 0.66.",
-      "mixes 40 litres of the →rst containing 20% water and",
-      "the percentage of water in the →nal mixture. (26%)",
-      "The →rst class having 40 students scored an average",
-      "sold, while he earns a pro→t of 30% on 60% of",
-      "his goods sold. Find his percentage pro→t on the",
-      "the senior classes, →nd the percentage increase in the",
-      "(a) What is the →nal quantity of wine left in the cask.",
-      "(b) What is the ratio of wine to water →nally.",
-      "This gives the →nal values and the ratio required.",
-      "40 × 36/40 × 36/40 × 36/40 = 40 × (36/40)3",
-      "costing `10/kg are mixed, →nd the average cost of",
-      "workers is ` 300, →nd the total number of workers",
-      "the →rst quality should be mixed so that by selling",
-      "of the →rst type of milk in the mixture is 20 kg?"
-    ]
+    "formulas": []
   },
   "questions": [
     {
-      "id": "ch04-lod2-q016",
-      "num": 16,
-      "lod": 2,
-      "type": "tita",
-      "text": "The weight of the boxes are 1st box Æ 40, 3rd box\nÆ 50 kg, 2nd box Æ 75 kg, 4th box Æ 150 and 5th\nbox Æ 100 kg. Hence difference between the heaviest 4 and the lightest 4 is 110 kg. Hence, difference\nin the averages is 27.5 kg.\nAverages II.29",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q017",
-      "num": 17,
-      "lod": 2,
-      "type": "tita",
-      "text": "Difference between heaviest three and lightest three\ntotals is: (150 +100) – (40 + 50) = 160\n Difference in average weights is 160/3 = 53.33 kg.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q018",
-      "num": 18,
-      "lod": 2,
-      "type": "tita",
-      "text": "Assume x is the average expenditure of 20 people.\nThen, 20x = 15 × 90 + 5(x + 30). On solving we\nget x = 100\n Total expenditure = 20 × 100 = ` 2000.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q019",
-      "num": 19,
-      "lod": 2,
-      "type": "tita",
-      "text": "30 × A + 1600 = 50 × (A – 8) Æ 20 × A = 2000\nÆ A = 100. Total expenditure original = 100 × 30\n= ` 3000.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q020",
-      "num": 20,
-      "lod": 2,
-      "type": "tita",
-      "text": "The total price of the three stones would be\n97610498312 × 3 = 292831494936. Since, this price\nis divided into the three stones in the ratio of 4: 7:\n9, the price of the cheapest one would be = (4 ×\n2928314936/20) = 58566298987.2.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q021",
-      "num": 21,
-      "lod": 2,
-      "type": "tita",
-      "text": "The average weight per box is asked. Hence, the\ncontainer does not have to be counted as the 5th\nitem. Also, since the average for 23 boxes goes up\nby 1 kg, the total weight must have gone up by 23\nkgs. That weight is the actual weight of the container.\nHence, option",
-      "options": {
-        "d": "is correct."
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q022",
-      "num": 22,
-      "lod": 2,
-      "type": "tita",
-      "text": "Solve through the same process as the Q. No. 4 of\nthis chapter. Assume the distance to be 160. Then\nthe journey would get broken up into: 40 kms @\n40kmph, 60 kms @20kmph and 60 kms @10kmph.\nThe average speed = Total distance/ total time = 160/\n(1 + 3 + 6) = 16 kmph.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q023",
-      "num": 23,
-      "lod": 2,
-      "type": "tita",
-      "text": "(15 × 305 – 2 × 480)/13 = 278.07 months or 23.17\nyears.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q024",
-      "num": 24,
-      "lod": 2,
-      "type": "tita",
-      "text": "Use alligation to solve.\nnon of→cer\nof→cer\n2000\n1500\n3000 – 2000 = 1000\n3000\n3000 – 2000 = 1000\n1000:500 = 2:1\nNon-of→cers = 20.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q025",
-      "num": 25,
-      "lod": 2,
-      "type": "tita",
-      "text": "Solve through options by assuming the value of\nn and checking the value of the summation – and\nexperimentally verifying it with the given options.\nAt n = 1, we get the value of the summation as 2.\nOnly option",
-      "options": {
-        "b": "gives the same summation for n ="
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q001",
+      "id": "ch04-lod1-q001",
       "num": 1,
-      "lod": 2,
-      "type": "tita",
-      "text": "Hence, the other options get rejected and option",
-      "options": {
-        "b": "stands as the correct answer."
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q026",
-      "num": 26,
-      "lod": 2,
-      "type": "tita",
-      "text": "nz – x + x1 = nz1Æ Simplify to get Option",
-      "options": {
-        "c": "correct."
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q027",
-      "num": 27,
-      "lod": 2,
-      "type": "tita",
-      "text": "Let the equal distances be ‘d’ each. Then using the\nformula for the average speed as: Total distance/ total\ntime we get: Average speed = 3d/(d/x + d/y + d/z) =\n3xyz/(yx + yz + xz).\n28–30. You have to take between 25th and 30th to mean\nthat both these dates are also included.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q028",
-      "num": 28,
-      "lod": 2,
-      "type": "tita",
-      "text": "The maximum average will occur when the maximum possible values are used. Thus:\n  Aman should have been born on 30th, Binod on 25th,\nCharan on 20th, Dharam on 10th and Ehsaan on 5th.\nFurther, the months of births in random order will\nhave to be between August to December to maximize\nthe average.\n Hence the maximum total will be 30 + 25 + 20 +\n10 + 5 + 12 + 11 + 10 + 9 + 8 = 140. Hence, the\nmaximum average is 28.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q029",
-      "num": 29,
-      "lod": 2,
-      "type": "tita",
-      "text": "The minimum average will be when we have 1 + 5\n+ 10 + 20 + 25 + 1 + 2 + 3 + 4 + 5 = 76. Hence,\naverage is = 76/5 = 15.2.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q030",
-      "num": 30,
-      "lod": 2,
-      "type": "tita",
-      "text": "This does not change anything. Hence the answer is\nthe same as Q. 28.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q031",
-      "num": 31,
-      "lod": 2,
-      "type": "tita",
-      "text": "The prime dates must be 29th, 23rd, 19th and\n5th. This represents a reduction in the totals from\n30+25+20+5 to 29+23+19+5 – a drop of 4. Hence,\nthe maximum possible average will reduce by 4/5 =\n0.8. Hence, the answer will be 27.2.\n18",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q033",
-      "num": 33,
-      "lod": 2,
-      "type": "tita",
-      "text": "The number of pass candidates are = 2 + 8 + 18 +\n32 = 60 out of a total of 200. Hence, 30%.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q034",
-      "num": 34,
-      "lod": 2,
-      "type": "tita",
-      "text": "Put x = 1 in the given equations and →nd the average\nof the resultant values. You will get the respective\nvalues of f(x) = 13; g(x) = 5; h(x) = 1 and d(x) =",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q001",
-      "num": 1,
-      "lod": 2,
-      "type": "tita",
-      "text": "Hence, the required average = 20/4 = 5.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q035",
-      "num": 35,
-      "lod": 2,
-      "type": "tita",
-      "text": "The values are: f(x) – g(x) = 8; g(x) – h(x) = 4;\nh(x) – d(x) = 0 and d(x) – f(x) = –12. The average\n8 + 4 + 0 - 12\nof these four values =\n= 0.\n4",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q036",
-      "num": 36,
-      "lod": 2,
-      "type": "tita",
-      "text": "By alligation the ratio is 4: 3.\nManagement\ntrainee\nManager\n20,000\n5000\n40000\n40000 – 20000\n20000 – 5000 = 15000\n20000:15000\n4:3\n Hence, only 350 (multiple of 4+ 3 = 7) is a possible\nvalue for the number of people.\n37-40.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q037",
-      "num": 37,
-      "lod": 2,
-      "type": "tita",
-      "text": "You don’t know who got out when. Hence, cannot\nbe determined.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q038",
-      "num": 38,
-      "lod": 2,
-      "type": "tita",
-      "text": "Since possibilities are asked about, you will have\nto consider all possibilities. Assume, the sixth and\nseventh batsmen have scored zero. Only then will the\npossibility of the →rst 5 batsmen scoring the highest\npossible average arise. In this case the maximum\npossible average for the →rst 5 batsmen could be\n243/5 = 48.6",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q039",
-      "num": 39,
-      "lod": 2,
-      "type": "tita",
-      "text": "Again it is possible that only the →rst batsman has\nscored runs. Hence, the minimum average would be",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q000",
-      "num": 0,
-      "lod": 2,
-      "type": "tita",
-      "text": "40. We cannot →nd out the number of runs scored by\nthe 7th batsman. Hence the answer is",
-      "options": {
-        "d": "."
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q041",
-      "num": 41,
-      "lod": 2,
-      "type": "tita",
-      "text": "You can take 53 as the base to reduce your calculations. Otherwise the question will become highly\ncalculation intensive. Let the →fth experiments measurement be ‘x’ above 53. Then you get: 0.735 × 7\n= 1.005 × 3 + (x + 0.004) + x + 0.995 × 2 Æ 5.145\n= 3.015 + 2x + 0.004 + 1.99. On solving this you\nget x = 0.068. Hence, the weight of the →fth body is\n53.068 and the weight of the fourth body is 53.072.\nHence, option",
-      "options": {
-        "c": "is correct."
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q042",
-      "num": 42,
-      "lod": 2,
-      "type": "tita",
-      "text": "251.25 × 4 + 277.52 × 5 + 760 = 3152.6\n Required percentage\n3000 - 3152.6\n= - 5.087%\n=\n3000",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q043",
-      "num": 43,
-      "lod": 2,
-      "type": "tita",
-      "text": "Solve using options. 20 is the only possible value.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q044",
-      "num": 44,
-      "lod": 2,
-      "type": "tita",
-      "text": "Check through options to solve. Option \nsince if the →rst farm harvested 3150 tons of wheat,\nwith an average harvest of 21 tons per hectare –\nthe number of hectares would be 3150/21 = 150.\nThe second farm would then harvest 12 hectares\nless (as given in the question) - thus would harvest\n138 hectares with an average output of 25 tons per\nhectare. The total harvest would be in this case 138\n× 3450 – and is 300 tons more than the →rst farm\nas required. Hence, this answer is correct.",
-      "options": {
-        "a": "is correct"
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q045",
-      "num": 45,
-      "lod": 2,
-      "type": "tita",
-      "text": "Let the numbers be n1, n2, n3, n4, ……nn.\n  (n1+n2+n3+n4, ……+nn)/n ≥ (n1, n2, n3, n4, ……nn)(1/n)\n  (n1+n2+n3+n4, ……+nn)/n ≥ n\n  For n = 6, the minimum value of (n1+ n2+ n3+ n4,\n……+nn) = 6\n Therefore, the minimum value of the average of these\nnumbers = 6",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q046",
-      "num": 46,
-      "lod": 2,
-      "type": "tita",
-      "text": "If the numbers are 1, 2, 3, 4, 5, 6, 7 and we add 8,\n9,10.\n Initial average = (1 + 2 + 3 + 4 + 5 + 6 + 7)/7 = 4\n Final average = (1 + 2 + 3 + 4 + -----10)/10 = 5.5\n Therefore, the average increases by 1.5.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q047",
-      "num": 47,
-      "lod": 2,
-      "type": "tita",
-      "text": "If present age of Binod’s wife is x years.\n Then according to the question:\n33 × 6 + x + 2\n= 32\n8\n x + 2 + 198 = 256\n x + 2 = 58\n x = 56\n x = 56 years",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q048",
-      "num": 48,
-      "lod": 2,
-      "type": "tita",
-      "text": "Binod’s wife’s age in 2001 was 51 years. Therefore Binod’s age in 2001 was greater than 51 and\nminimum possible prime number above 51 is 53.\nTherefore minimum possible present age of Binod\n= 53 + 5 = 58 years.\n21 + 23 + x + 24 + 27\n£ 28\n5\n125 £ 95 + x £ 140\n30 £ x £ 45\n Number of possible values of x = 16.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q050",
-      "num": 50,
-      "lod": 2,
-      "type": "tita",
-      "text": "Total number of balls in all 10 boxes = 10 × 25 =",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q250",
-      "num": 250,
-      "lod": 2,
-      "type": "tita",
-      "text": "Minimum possible number of balls in 9 of these 10\nboxes = 8 + 9 + 10 +11 +12 + 13 + 14 + 15 + 16\n= 108.\n Maximum possible number of balls in any box =\n250 – 108 = 142.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q051",
-      "num": 51,
-      "lod": 2,
-      "type": "tita",
-      "text": "Sum of these →ve numbers = 6 × 5 = 30.\n Maximum average of the largest two numbers would\noccur when the three smaller numbers are as small as\npossible (i.e., when they are 1, 2 and 3, respectively)\nÆ Max. Average = (30 – 1 – 2 – 3)/2 = 24/2 = 12.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q052",
-      "num": 52,
-      "lod": 2,
-      "type": "tita",
-      "text": "Let there be B number of boys, G number of girls\nin class 9th.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q049",
-      "num": 49,
-      "lod": 2,
-      "type": "tita",
-      "text": "25 £\nB 80 - 70 10\n=\n=\n= 2:1\nG 85 - 80 5",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q053",
-      "num": 53,
-      "lod": 2,
-      "type": "tita",
-      "text": "Let the number of girls and boys in class 10TH are\ng and b respectively.\nb 73 - 70\n=\n= 3 :1, b = 3 g\ng 74 - 73\n Number of boys of class 10th is three times the number of girls in 9th\nb = 3G\n let B = 2k, G = k, b = 3k, g = k\n Average score of all students of class 9th and 10th\n2k .85 + k .70 + 3k .74 + k .70 532\n=\n= 76\n2k + k + 3k + k\n7",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q054",
-      "num": 54,
-      "lod": 2,
-      "type": "tita",
-      "text": "Total possible groups = (w, x), (w, y), (w, z), (x, y),\n(x, z), (y, z)\n According to the question = w + x + w + y + w + z\n+ x + y + x + z + y + z = 1440\n 3 (w + x + y + z) = 1440. Hence, (w + x + y + z) =",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q480",
-      "num": 480,
-      "lod": 2,
-      "type": "tita",
-      "text": "Required average = 480/4 = 120.\nLevel of Dif→culty (III)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q001",
-      "num": 1,
-      "lod": 2,
-      "type": "tita",
-      "text": "De→nitely decrease, since the highest marks in Class\nA is less than the lowest marks in Class B.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q002",
-      "num": 2,
-      "lod": 2,
-      "type": "tita",
-      "text": "Cannot say since there is no indication of the values\nof the numbers which are transferred.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q003",
-      "num": 3,
-      "lod": 2,
-      "type": "tita",
-      "text": "It will de→nitely decrease since the highest possible\ntransfer is lower than the lowest value in C.\nAverages II.31",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q004",
-      "num": 4,
-      "lod": 2,
-      "type": "tita",
-      "text": "The effect on A will depend on the pro→le of the\npeople who are transferred. Hence, anything can\nhappen.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q005",
-      "num": 5,
-      "lod": 2,
-      "type": "tita",
-      "text": "Cannot say since there is a possibility that the numbers transferred are such that the average can either\nincrease, decrease or remain constant.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q006",
-      "num": 6,
-      "lod": 2,
-      "type": "tita",
-      "text": "If C increases, then the average of C goes up from",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q030",
-      "num": 30,
-      "lod": 2,
-      "type": "tita",
-      "text": "For this to happen it is de→nite that the average\nof B should drop.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q007",
-      "num": 7,
-      "lod": 2,
-      "type": "tita",
-      "text": "The maximum possible average for B will occur if\nall the 5 transferees from A have 22 marks.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q008",
-      "num": 8,
-      "lod": 2,
-      "type": "tita",
-      "text": "The average of Group A after the transfer in Q. 7\nabove is:\n (400 – 18*5)/15 = 310/15 = 20.66",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q009",
-      "num": 9,
-      "lod": 2,
-      "type": "tita",
-      "text": "(400 – 22*5)/15 = 19.33",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q010",
-      "num": 10,
-      "lod": 2,
-      "type": "tita",
-      "text": "400 + 23*5 = 515. Average = 515/25 = 20.6",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q011",
-      "num": 11,
-      "lod": 2,
-      "type": "tita",
-      "text": "400 + 31*5 = 555. Average = 555/25 = 22.2",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q012",
-      "num": 12,
-      "lod": 2,
-      "type": "tita",
-      "text": "Will always decrease since the net value transferred\nfrom B to A will be higher than the net value transferred from A to B.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q013",
-      "num": 13,
-      "lod": 2,
-      "type": "tita",
-      "text": "Since the lowest score in Class B is 23 which is\nmore than the highest score of any student in class\nA. Hence, A’s average will always increase.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q014",
-      "num": 14,
-      "lod": 2,
-      "type": "tita",
-      "text": "The maximum possible value for B will happen when\nthe A to B transfer has the maximum possible value\nand the reverse transfer has the minimum possible\nvalue.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q015",
-      "num": 15,
-      "lod": 2,
-      "type": "tita",
-      "text": "For the minimum possible value of B we will need\nthe A to B transfer to be the lowest possible value\nwhile the B to A transfer must have the highest possible value. Thus, A to B transfer Æ 18* 5 while B\nto A transfer will be 31*5. Hence answer is 22.4.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q016",
-      "num": 16,
-      "lod": 2,
-      "type": "tita",
-      "text": "The maximum value for A will happen in the case\nof Q. 15. Then the increment for group A is:\n 31*5 – 18*5 = 5*(31 – 18) = 65.\n Thus maximum possible value is 465/20 = 23.25.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q017",
-      "num": 17,
-      "lod": 2,
-      "type": "tita",
-      "text": "Minimum possible average will happen for the transfer we saw in Q. 14. Thus the answer will be 405/20\n= 20.25.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q018",
-      "num": 18,
-      "lod": 2,
-      "type": "tita",
-      "text": "The maximum possible value for C will be achieved\nwhen the transfer from C is of →ve 26’s and the\ntransfer back from B is of →ve 31’s. Hence, difference is totals will be +25. Hence, max. average =\n(900 + 25)/30 = 30.833.\n [Note here that 900 has come by 30*30]",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q019",
-      "num": 19,
-      "lod": 2,
-      "type": "tita",
-      "text": "For the maximum possible value of Class B the following set of operations will have to hold:\n Five 33’s are transferred from C to B, whatever\ngoes from B to A comes back from A to B, then\n→ve 23’s are transferred from B to C. This leaves\nus with:\n Increase of 50 marks Æ average increases by 2 to",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q027",
-      "num": 27,
-      "lod": 2,
-      "type": "tita",
-      "text": "20. A will attain maximum value if →ve 33’s come to A\nfrom C through B and →ve 18’s leave A. In such a\ncase the net result is going to be a change of +75.\nThus the average will go up by 75/20 = 3.75 to 23.75.\n21–23. Will be solved by the same pattern as the above\nquestions.\nNote: For question 22, you need to realise that there\nare only a maximum of six 31’s in group B.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod2-q024",
-      "num": 24,
-      "lod": 2,
-      "type": "tita",
-      "text": "Option \nwhatever you got into A, in order to keep",
-      "options": {
-        "c": "is correct, since you need to transfer out"
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q036",
-      "num": 36,
-      "lod": 3,
-      "type": "tita",
-      "text": "Monthly estimates of income is reduced as the denominator is increased from 12 to 14 at the same\ntime the monthly estimate of expenditure is increased\nas the denominator is reduced from 12 to 9. Hence,\nthe savings will be underestimated.\n37–39. Use the averages formulae and common sense to\nanswer.\n40–49. The questions are commonsensical with a lot of\ncalculations and assumptions involved. You have to\nsolve these using all the information provided.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q040",
-      "num": 40,
-      "lod": 3,
-      "type": "tita",
-      "text": "Das’s score = 15*2 + 7*2.5 = 47.5 Æ 48.\n Dasgupta’s score = 20*1 + 2*1.5 = 23.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q041",
-      "num": 41,
-      "lod": 3,
-      "type": "tita",
-      "text": "From the above the answer is 48:23 = 96:46.\n42–44. By maximum possible support from the other\nend, you have to assume that he has Laxman or\nSehwag batting aggressively for the entire tenure at\nthe crease. Strike has to be shared equally.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q042",
-      "num": 42,
-      "lod": 3,
-      "type": "tita",
-      "text": "Through options, After 60 overs, score would be",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q150",
-      "num": 150,
-      "lod": 3,
-      "type": "tita",
-      "text": "Then Tendulkar can score @ 4 runs per over\n(sharing the strike and batting aggressively) and get\nmaximum support @ 3 runs per over. Thus in 30\novers left the target will be achieved.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q043",
-      "num": 43,
-      "lod": 3,
-      "type": "tita",
-      "text": "Tendulkar’s score for the innings will be 30*4 = 120.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q044",
-      "num": 44,
-      "lod": 3,
-      "type": "mcq",
-      "text": "We do not know when Laxman would have come\ninto bat. Hence this cannot be determined.\n45–49. Build in each of the conditions in the problem to\nform a table like:\n Partnership Partner Overs faced Tendulkar’s score\nPartner’s score\n 6th wicket\nGanguly 12 6 overs × 6\n6 overs × 4\n 7th wicket and so on\n 8th wicket\n 9th wicket\n 10th wicket\n4\nAlligations\nThat is, the weighted average\nIntroduction\nThe chapter of alligation is nothing but a faster technique of\nsolving problems based on the weighted average situation\nas applied to the case of two groups being mixed together. I\nhave often seen students having a lot of dif→culty in solving\nquestions on alligation. Please remember that all problems\non alligation can be solved through the weighted average\nmethod. Hence, the student is advised to revert to the\nweighted average formula in case of any confusion.\nThe use of the techniques of this chapter for solving\nweighted average problems will help you in saving valuable\ntime wherever a direct question based on the mixing of\ntwo groups is asked. Besides, in the case of questions that\nuse the concept of the weighted average as a part of the\nproblem, you will gain a signi→cant edge if you are able\nto use the techniques illustrated here.\nTheory\nIn the chapter on Averages, we had seen the use of the\nweighted average formula. To recollect, the weighted\naverage is used when a number of smaller groups are mixed\ntogether to form one larger group.\nIf the average of the measured quantity was\nA1 for group\nA2 for group\nA3 for group\nAk for group\n1\n2\n3\nk\ncontaining\ncontaining\ncontaining\ncontaining\nn1\nn2\nn3\nnk\nelements\nelements\nelements\nelements\nWe say that the weighted average, Aw is given by:\nAw = (n1A1 + n2 A2 + n3 A3 + ……. + nk Ak)/ (n1 + n2\n+ n3 … + nk)\n=\nSum total of all groups\nTotal number of elements in all grouups together\nIn the case of the situation where just two groups are\nbeing mixed, we can write this as:\nAw = (n1A1 + n2 A2 )/(n1 + n2)\nRewriting this equation we get: (n1 + n2) Aw = n1A1\n+ n 2A 2\nn1(Aw – A1) = n2 (A2 – Aw)\nor n1/n2 = (A2 – Aw)/(Aw – A1) Æ The alligation equation.\nThe Alligation Situation\nTwo groups of elements are mixed together to form a third\ngroup containing the elements of both the groups.\nIf the average of the →rst group is A1 and the number of\nelements is n1 and the average of the second group is A2\nand the number of elements is n2, then to →nd the average\nof the new group formed, we can use either the weighted\naverage equation or the alligation equation.\nAs a convenient convention, we take A1 < A2. Then, by\nthe principal of averages, we get A1 < Aw < A2.\nIllustration 1\nTwo varieties of rice at ` 10 per kg and ` 12 per kg are\nmixed together in the ratio 1 : 2. Find the average price of\nthe resulting mixture.\nSolution\n– 2Aw\n1/2 = (12 – Aw)/(Aw – 10) Æ Aw – 10 = 24\nfi 3Aw = 34   fi Aw = 11.33 `/kg.\nAlligations\nII.33\nIllustration 2\nIllustration 3\nOn combining two groups of students having 30 and 40 marks\nrespectively in an exam, the resultant group has an average\nscore of 34. Find the ratio of the number of students in the\n→rst group to the number of students in the second group.\nSolution n1/n2 = (40 – 34)/(34 – 30) = 6/4 = 3/2\nOn mixing two classes of students having average marks\n25 and 40 respectively, the overall average obtained is 30\nmarks. Find\nclass had 30 students.\nGraphical Representation of Alligation\nSolution\n25\nThe formula illustrated above can be represented by the\nfollowing cross diagram:\nA1\n40\n30\nA2\n10\nAw\nA2 – Aw\n:\nAw – A1\nn1\n:\nn2\nthe three averages Æ A1, A2 and Aw\nand the two weights Æ n1 and n2\nBased on the problem situation, one of the following\ncases may occur with respect to the knowns and the\nunknown, in the problem.\nI\n5\nstudents, then the →rst class has 60 students.\n[Note that the cross method yields nothing but the alligation\nequation. Hence, the cross method is nothing but a graphical\nrepresentation of the alligation equation.]\nAs we have seen, there are →ve variables embedded\ninside the alligation equation. These being:\nCase\n:\nKnown\nNote: The cross method becomes pretty effective in this\nsituation when all the three averages are known and the\nratio is to be found out.\nCase 2: A1, A2, n1 and n2 are known, Aw is unknown.\nIllustration 4\n4 kg of rice at ` 5 per kg is mixed with 8 kg of rice at\n` 6 per kg. Find the average price of the mixture.\nSolution\n5\n6\nUnknown\nII\nA 1, A 2, n 1, n 2\nAw\nIII\nA1, Aw, n1, n2\nA2\nAw\n4\nNow, let us try to evaluate the effectiveness of the cross\nmethod for each of the three cases illustrated above:\nCase 1: A1, A2, Aw are known; may be one of n1 or n2\nis known.\nTo →nd: n1 : n2 and n2 if n1 is known\nknown.\nLet us illustrate through an example:\nOR\nn1 if n2 is\n:\n8\n= (6 – Aw) : (Aw – 5)\nfi (6 – Aw)/(Aw – 5) = 4/8 Æ12 – 2 Aw = Aw – 5\n\\  \n3 Aw = 17\nAw = 5.66 `/kg. (Answer)\nTask for student: Solve through the alligation formula\napproach and through the weighted average approach to\nget the solution. Notice, the amount of time required in\ndoing the same.\nNote: The cross method becomes quite cumbersome in\nthis case, as this method results in the formula being written. Hence, there seems to be no logic in using the cross\nmethod in this case.\nCase 3: A1, Aw, n1 and n2 are known; A2 is unknown.\nIllustration 5\n5 kg of rice at ` 6 per kg is mixed with 4 kg of rice to get a\nmixture costing ` 7 per kg. Find the price of the costlier rice.\nSolution\nUsing the cross method:\n6\nx\n7\n5\n:\n4\n= (x – 7) : 1\n\\  \n(x – 7)/1 = 5/4 Æ 4x – 28 = 5\n\\  \nA1\nAw\nn1\nA2\nn2\nVisualise this as a fragment of the number line with\npoints A1, Aw and A2 in that order from left to right.\nThen,\nor n2 corresponds to Aw – A1\nA2. or n1 corresponds to A2 – Aw\n(n1 + n2) is responsible for the distance between A1\nand A2. or (n1 + n2) corresponds to A2 – A1.\nThe processes for the 3 cases illustrated above can then\nbe illustrated below:\nIllustration 6\nOn mixing two classes of students having average marks\n25 and 40 respectively, the overall average obtained is 30\nmarks. Find\nclass had 30 students.\nSolution\n25\n30\n40\nx = ` 8.25.\nTask for student: Solve through the alligation formula\napproach and through the weighted average approach to\nget the solution. Notice the amount of time required in\ndoing the same.\nn2 = 30 – 25\nn1 = 40 – 30\nNote: The cross method becomes quite cumbersome in\nthis case since this method results in the formula being\nwritten. Hence, there seems to be no logic in using the\ncross method in this case.\nHence, ratio is 2 : 1, and the second class has 60 students.\nThe above problems can be dealt quite effectively by\nusing the straight line approach, which is explained below.\n4 kg of rice at ` 5 per kg is mixed with 8 kg of rice at\n` 6 per kg. Find the average price of the mixture.\nThe Straight Line Approach\nAs we have seen, the cross method becomes quite\ncumbersome in Case 2 and Case 3. We will now proceed to\nmodify the cross method so that the question can be solved\ngraphically in all the three cases.\nConsider the following diagram, which results from\nclosing the cross like a pair of scissors. Then the positions\nof A1, A2, Aw, n1 and n2 are as shown.\nCase 2 A1, A2, n1 and n2 are known; Aw is unknown.\nIllustration 7\nSolution\n5\nAw\n4\n6\n8\nis the same as\n5\n1\nAw\n6\n2\nAlligations\nThen, by unitary method:\nn1 + n2 corresponds to A2 – A1\nÆ 1 + 2 corresponds to 6 – 5\nThat is, 3 corresponds to 1\nn2 will correspond to\n\\\n( A2 - A1 ) × n2\n(n1 + n2 )\nIn this case (1/3) × 2 = 0.66.\nHence, the required answer is 5.66.\nNote: In this case, the problem associated with the cross\nmethod is overcome and the solution becomes graphical.\nCase 3: A1, Aw, n1 and n2 are known; A2 is unknown.\nIllustration 8\n5 kg of rice at ` 6 per kg is mixed with 4 kg of rice to\nget a mixture costing ` 7 per kg. Find the price of the costlier\nrice.\nUsing straight line method:\n6\n7\n5\nx\n4\n4 corresponds to 7 – 6 and 5 corresponds to x – 7.\nThe thought process should go like:\n4Æ 1\n\\  \n5 Æ 1.25\nHence,\nx – 7 = 1.25\nx = 8.25\nand\nSome typical situations where\nalligations can be used\nGiven below are typical alligation situations, which students\nshould be able to recognize. This will help them improve\nupon the time required in solving questions. Although in this\nchapter we have illustrated problems based on alligation at\nlevel 1 only, alligation is used in more complex problems\nwhere the weighted average is an intermediate step in the\nsolution process.\nThe following situations should help the student identify\nalligation problems better as well as spot the way A1, A2,\nn1 and n2 and Aw are mentioned in a problem.\nIn each of the following problems the following\nmagnitudes represent these variables:\nA1 = 20,  A2 = 30,  n1 = 40,   n2 = 60\nEach of these problems will yield an answer of 26 as\nthe value of Aw.\nII.35",
-      "options": {
-        "a": "the ratio in which the classes were mixed.",
-        "b": "the number of students in the →rst class if the second",
-        "c": ""
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q001",
-      "num": 1,
-      "lod": 3,
-      "type": "tita",
-      "text": "A man buys 40 kg of rice at ` 20/kg and 60 kg of\nrice at ` 30/kg. Find his average price. (26/kg)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q002",
-      "num": 2,
-      "lod": 3,
-      "type": "tita",
-      "text": "Pradeep mixes two mixtures of milk and water. He\nmixes 40 litres of the →rst containing 20% water and\n60 litres of the second containing 30% water. Find\nthe percentage of water in the →nal mixture. (26%)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q003",
-      "num": 3,
-      "lod": 3,
-      "type": "tita",
-      "text": "Two classes are combined to form a larger class.\nThe →rst class having 40 students scored an average\nof 20 marks on a test while the second having 60\nstudents scored an average of 30 marks on the same\ntest. What was the average score of the combined\nclass on the test. (26 marks)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q004",
-      "num": 4,
-      "lod": 3,
-      "type": "tita",
-      "text": "A trader earns a pro→t of 20% on 40% of his goods\nsold, while he earns a pro→t of 30% on 60% of\nhis goods sold. Find his percentage pro→t on the\nwhole. (26%)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q005",
-      "num": 5,
-      "lod": 3,
-      "type": "tita",
-      "text": "A car travels at 20 km/h for 40 minutes and at 30\nkm/h for 60 minutes. Find the average speed of the\ncar for the journey. (26 km/hr)",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q006",
-      "num": 6,
-      "lod": 3,
-      "type": "tita",
-      "text": "40% of the revenues of a school came from the junior classes while 60% of the revenues of the school\ncame from the senior classes. If the school raises its\nfees by 20% for the junior classes and by 30% for\nthe senior classes, →nd the percentage increase in the\nrevenues of the school. (26%)\nSome Keys to spot A1, A2 and Aw and\ndifferentiate these from n1 and n2",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q001",
-      "num": 1,
-      "lod": 3,
-      "type": "tita",
-      "text": "Normally, there are 3 averages mentioned in the\nproblem, while there are only 2 quantities. This isn’t\nfoolproof though, since at times the question might\nconfuse the student by giving 3 values for quantities\nrepresenting n1, n2 and n1 + n2 respectively.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q002",
-      "num": 2,
-      "lod": 3,
-      "type": "tita",
-      "text": "A1, A2 and Aw are always rate units, while n1 and\nn2 are quantity units.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q003",
-      "num": 3,
-      "lod": 3,
-      "type": "tita",
-      "text": "The denominator of the average unit corresponds\nto the quantity unit (i.e. unit for n1 and n2).",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q004",
-      "num": 4,
-      "lod": 3,
-      "type": "mcq",
-      "text": "All percentage values represent the average values.\nA Typical Problem\nA typical problem related to the topic of alligation goes as\nfollows:\n4 litres of wine are drawn from a cask containing 40\nlitres of wine. It is replaced by water. The process is\nrepeated 3 times\nIf we try to chart out the process, we get: Out of 40\nlitres of wine, 4 are drawn out.\nThis leaves 36 litres wine and 4 litres water.\n(Ratio of 9 : 1)\nNow, when 4 litres are drawn out of this mixture,\nwe will get 3.6 litres of wine and 0.4 litres of water\n(as the ratio is 9 : 1). Thus at the end of the second step\nwe get: 32.4 litres of wine and 7.6 litres of water. Further,\nthe process is repeated, drawing out 3.24 litres wine and\n0.76 litres water leaving 29.16 litres of wine and 10.84\nlitres of water.\nThis gives the →nal values and the ratio required.\nA closer look at the process will yield that we can get\nthe amount of wine left by:\n40 × 36/40 × 36/40 × 36/40 = 40 × (36/40)3\nfi 40 × (1 – 4/40)3\nSpace for Notes\nThis yields the formula:\nWine left : Capacity × (1 – fraction of wine withdrawn)n\nfor n operations.\nThus, you could have multiplied:\n40 × (0.9)3 to get the answer\nThat is, reduce 40 by 10% successively thrice to get the\nrequired answer.\nThus, the thought process could be:\n40 – 10% Æ 36 – 10% Æ 32.4 – 10% Æ 29.16\nAlligations\nII.37\nLevel of Dif→culty (I)",
-      "options": {
-        "a": "What is the →nal quantity of wine left in the cask.",
-        "b": "What is the ratio of wine to water →nally."
-      },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q001",
-      "num": 1,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A mixture of 160 gallons of wine and water contains\n25% water. How much water must be added to the\nmixture in order to increase the percentage of water\nto 40% of the new mixture?",
       "options": {
@@ -879,13 +30,13 @@
         "c": "80 gals",
         "d": "33 gals"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q002",
+      "id": "ch04-lod1-q002",
       "num": 2,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "800 students took the CAT exam in Delhi. 50% of\nthe boys and 90% of the girls cleared the cut off in\nthe examination. If the total percentage of qualifying students is 60%, how many girls appeared in the\nexamination?",
       "options": {
@@ -894,13 +45,13 @@
         "c": "150",
         "d": "200"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q003",
+      "id": "ch04-lod1-q003",
       "num": 3,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "If 10 kg of sugar costing `15/kg and 20 kg of salt\ncosting `10/kg are mixed, →nd the average cost of\nthe mixture in ` per kilogram.",
       "options": {
@@ -909,13 +60,13 @@
         "c": "12.67",
         "d": "11.33"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q004",
+      "id": "ch04-lod1-q004",
       "num": 4,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "The average salary per head of all workers (Grade\nA and Grade B) of a company is ` 400. The average salary of 100 grade A workers is ` 1000. If the\naverage salary per head of the rest of the Grade B\nworkers is ` 300, →nd the total number of workers\nin the company.",
       "options": {
@@ -924,13 +75,13 @@
         "c": "500",
         "d": "700"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q005",
+      "id": "ch04-lod1-q005",
       "num": 5,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "Ashok purchased two qualities of grains at the rate\nof ` 100 per quintal and ` 160 per quintal. In 50\nquintals of the second quality, how much grain of\nthe →rst quality should be mixed so that by selling\nthe resulting mixture at ` 195 per quintal, he gains\na pro→t of 30%?",
       "options": {
@@ -939,13 +90,13 @@
         "c": "20 quintals",
         "d": "None of these"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q006",
+      "id": "ch04-lod1-q006",
       "num": 6,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "Two types of milk having the rates of `8/kg and\n`10/kg respectively are mixed in order to produce a\nmixture having the rate of `9.20/kg. What should be\nthe amount of the second type of milk if the amount\nof the →rst type of milk in the mixture is 20 kg?",
       "options": {
@@ -954,13 +105,13 @@
         "c": "40 kg",
         "d": "20 kg"
       },
-      "answer": null,
+      "answer": "b",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q007",
+      "id": "ch04-lod1-q007",
       "num": 7,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "How many kilograms of salt worth ` 360 per kg\nshould be mixed with 10 kg of salt worth `420 per\nkg, such that by selling the mixture at ` 480 per kg,\nthere may be a gain of 20%?",
       "options": {
@@ -969,28 +120,28 @@
         "c": "2 kg",
         "d": "4 kg"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q008",
+      "id": "ch04-lod1-q008",
       "num": 8,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
-      "text": "Kiran lends ` 1000 on simple interest to Harsh for\na period of 5 years. She lends a part of the amount\nat 2% interest and the rest at 8% and receives ` 300\nas the amount of interest. How much money (in `)\ndid she lend on 2% interest rate?",
+      "text": "Kiran lends ` 1000 on simple interest to Harsh for\na period of 5 years. She lends a part of the amount\n\nat 2% interest and the rest at 8% and receives ` 300\nas the amount of interest. How much money (in `)\ndid she lend on 2% interest rate?",
       "options": {
         "a": "333.33",
         "b": "666.67",
         "c": "400",
         "d": "500"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q009",
+      "id": "ch04-lod1-q009",
       "num": 9,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A tank contains 500 liters of wine. 50 liters of wine\nis taken out of it and replaced by water. The process\nis repeated again. Find the proportion of water and\nwine in the resulting mixture.",
       "options": {
@@ -999,13 +150,13 @@
         "c": "19 : 81",
         "d": "81 : 19"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q010",
+      "id": "ch04-lod1-q010",
       "num": 10,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A man purchased a table and a chair for `2000. He\nsold the table at a pro→t of 20% and the chair at a\npro→t of 40%. In this way, his total pro→t was 25%.\nFind the cost price (in `) of the table.",
       "options": {
@@ -1014,13 +165,13 @@
         "c": "1000",
         "d": "800"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q011",
+      "id": "ch04-lod1-q011",
       "num": 11,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A dishonest shopkeeper purchased milk at `100 per\nlitre and mixed 10 liters of water in it. By selling\nthe mixture at the rate of ` 100 per litre he earns\na pro→t of 25%. The quantity of the amount of the\nmixture that he had was:",
       "options": {
@@ -1029,13 +180,13 @@
         "c": "25 liters",
         "d": "60 liters"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q012",
+      "id": "ch04-lod1-q012",
       "num": 12,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A tank has a capacity of 10 gallons and is full of\nalcohol. 2 gallons of alcohol are drawn out and the\ntank is again →lled with water. This process is repeated 5 times. Find out how much alcohol is left\nin the resulting mixture →nally?",
       "options": {
@@ -1044,26 +195,26 @@
         "c": "2048/3125 gallons",
         "d": "625 gallons"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q013",
+      "id": "ch04-lod1-q013",
       "num": 13,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A vessel is full of milk 1/4 of the milk is taken out\nand the vessel is →lled with water. If the process is\nrepeated 4 times and 100 liters of milk is →nally left\nin the vessel, what is the capacity of the vessel?\n2461\nliters\n81",
       "options": {
         "c": "25600/81 liters",
         "d": "30 liters"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q014",
+      "id": "ch04-lod1-q014",
       "num": 14,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "In what ratio should two qualities of tea having the\nrates of ` 40 per kg and ` 30 per kg be mixed in\norder to get a mixture that would have a rate ofRs\n35per kg?",
       "options": {
@@ -1072,28 +223,28 @@
         "c": "1 : 3",
         "d": "3 : 1"
       },
-      "answer": null,
+      "answer": "b",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q015",
+      "id": "ch04-lod1-q015",
       "num": 15,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
-      "text": "Raman steals four gallons of liquid soap kept in a\ntrain compartment’s bathroom from a container that\nis full of liquid soap. He then →lls it with water to\navoid detection. Unable to resist the temptation he\nsteals 4 gallons of the mixture again, and →lls it with\nwater. When the liquid soap is checked at a station\nit is found that the ratio of the liquid soap now left\nin the container to that of the water in it is 36: 13.\nWhat was the initial amount of the liquid soap in\nthe container if it is known that the liquid soap is\nneither used nor augmented by anybody else during\nthe entire period?",
+      "text": "Raman steals four gallons of liquid soap kept in a\ntrain compartment’s bathroom from a container that\nis full of liquid soap. He then →lls it with water to\navoid detection. Unable to resist the temptation he\nit is found that the ratio of the liquid soap now left\nin the container to that of the water in it is 36: 13.\nWhat was the initial amount of the liquid soap in\nthe container if it is known that the liquid soap is\nneither used nor augmented by anybody else during\nthe entire period?",
       "options": {
         "a": "7 gallons",
         "b": "14 gallons",
         "c": "21 gallons",
         "d": "28 gallons"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q016",
+      "id": "ch04-lod1-q016",
       "num": 16,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "In what ratio should water be mixed with soda costing `12 per litre so as to make a pro→t of 50% by\nselling the diluted liquid at `15 per litre?",
       "options": {
@@ -1102,13 +253,13 @@
         "c": "1: 5",
         "d": "6: 1"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q017",
+      "id": "ch04-lod1-q017",
       "num": 17,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A sum of ` 4 is made up of 20 coins that are either\n10 paise coins or 60 paise coins. Find out how many\n20 paise coins are there in the total amount.",
       "options": {
@@ -1117,13 +268,13 @@
         "c": "16",
         "d": "15"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q018",
+      "id": "ch04-lod1-q018",
       "num": 18,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "Pinku a dishonest grocer professes to sell pure butter\nat cost price, but he mixes it with adulterated fat and\nthereby gains 25%. Find the percentage of adulterated fat in the mixture assuming that adulterated fat\nis freely available.",
       "options": {
@@ -1132,13 +283,13 @@
         "c": "33.33%",
         "d": "40%"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q019",
+      "id": "ch04-lod1-q019",
       "num": 19,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A mixture of 75 liters of alcohol and water contains\n20% of water. How much water must be added to\nthe above mixture to make the water 25% of the\nresulting mixture?",
       "options": {
@@ -1147,13 +298,13 @@
         "c": "2 liters",
         "d": "2.5 liters"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q020",
+      "id": "ch04-lod1-q020",
       "num": 20,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A mixture of 40 liters of milk and water contains\n10% water. How much water should be added to it\nto increase the percentage of water to 25%?",
       "options": {
@@ -1162,13 +313,13 @@
         "c": "2.5 liters",
         "d": "8 liters"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q021",
+      "id": "ch04-lod1-q021",
       "num": 21,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "Two vessels contain a mixture of spirit and water.\nIn the →rst vessel the ratio of spirit to water is 8 : 3\nand in the second vessel the ratio is 5 : 1. A 35 litre\ncask is →lled from these vessels so as to contain a\nmixture of spirit and water in the ratio of 4 :1. How\nmany liters are taken from the →rst vessel?",
       "options": {
@@ -1177,13 +328,13 @@
         "c": "16.5 liters",
         "d": "17.5 liters"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q022",
+      "id": "ch04-lod1-q022",
       "num": 22,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "There are two mixtures of milk and water, the quantity of milk in them being 20% and 80% of the\nmixture. If 2 liters of the →rst are mixed with three\nliters of the second, what will be the ratio of milk\nto water in the new mixture?",
       "options": {
@@ -1192,13 +343,13 @@
         "c": "19 : 11",
         "d": "14 : 11"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q023",
+      "id": "ch04-lod1-q023",
       "num": 23,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "There are two kinds of alloys of silver and copper.\nThe →rst alloy contains silver and copper such that\n93.33% of it is silver. In the second alloy there is\n86.66% silver. What weight of the →rst alloy should\nbe mixed with some weight of the second alloy so\nas to make a 100 kg mass containing 90% of silver?",
       "options": {
@@ -1207,13 +358,13 @@
         "c": "70 kg",
         "d": "25 kg"
       },
-      "answer": null,
+      "answer": "b",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q024",
+      "id": "ch04-lod1-q024",
       "num": 24,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "Two buckets of equal capacity are full of a mixture\nof milk and water. In the →rst, the ratio of milk to\nwater is 1 : 7 and in the second it is 3 : 8. Now both\nthe mixtures are mixed in a bigger container. What\nis the resulting ratio of milk to water?",
       "options": {
@@ -1222,13 +373,13 @@
         "c": "43 : 41",
         "d": "41 : 53"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q025",
+      "id": "ch04-lod1-q025",
       "num": 25,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A bag contains a total of 105 coins of `1, 50 p and\n25 p denominations. Find the total number of coins\nof ` 1 if there are a total of 50.5 rupees in the bag\nand it is known that the number of 25 paise coins are\n133.33% more than the number of 1 rupee coins.",
       "options": {
@@ -1237,13 +388,13 @@
         "c": "24",
         "d": "None of these"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q026",
+      "id": "ch04-lod1-q026",
       "num": 26,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "Two vessels contain spirit and water mixed respectively in the ratio of 1: 4 and 4: 1 Find the ratio in\nwhich these are to be mixed to get a new mixture\nin which the ratio of spirit to water is 1: 3.",
       "options": {
@@ -1252,13 +403,13 @@
         "c": "11 : 2",
         "d": "11 : 3"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q027",
+      "id": "ch04-lod1-q027",
       "num": 27,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "The price of a table and a chair is `3000. The table\nwas sold at a 20% pro→t and the chair at a 10% loss.\nIf in the transaction a man gains ` 300, how much\nis cost price (in `) of the table?",
       "options": {
@@ -1267,13 +418,13 @@
         "c": "2000",
         "d": "None of these"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q028",
+      "id": "ch04-lod1-q028",
       "num": 28,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A person purchased a pen and a pencil for ` 15. He\nsold the pen at a pro→t of 20% and the pencil at a\npro→t of 30%. If his total pro→t was 24%, →nd the\ncost price of the pen.",
       "options": {
@@ -1282,13 +433,13 @@
         "c": "` 9",
         "d": "` 10"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q029",
+      "id": "ch04-lod1-q029",
       "num": 29,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A container is full of a mixture of kerosene and petrol in which there is 18% kerosene. Eight liters are\ndrawn off and then the vessel is →lled with petrol.\nIf the kerosene is now 15%, how much does the\ncontainer hold?",
       "options": {
@@ -1297,28 +448,28 @@
         "c": "36 liters",
         "d": "48 liters"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q030",
+      "id": "ch04-lod1-q030",
       "num": 30,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
-      "text": "Two solutions of 80% and 87% purity are mixed\nresulting in 35 liters of mixture of 84% purity. How\nmuch is the quantity of the →rst solution in the resulting mixture?\nAlligations",
+      "text": "Two solutions of 80% and 87% purity are mixed\nresulting in 35 liters of mixture of 84% purity. How\nmuch is the quantity of the →rst solution in the resulting mixture?",
       "options": {
         "a": "15 liters",
         "b": "12 liters",
         "c": "9 liters",
         "d": "6 liters"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q031",
+      "id": "ch04-lod1-q031",
       "num": 31,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "In the Delhi zoo, there are lions and there are hens.\nIf the heads are counted, there are 180, while the\nlegs are 448. What will be the number of lions in\nthe zoo?",
       "options": {
@@ -1327,13 +478,13 @@
         "c": "44",
         "d": "136"
       },
-      "answer": null,
+      "answer": "c",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q032",
+      "id": "ch04-lod1-q032",
       "num": 32,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A bonus of ` 1,00,000 was divided among 500 workers of a factory. Each male worker gets 500 rupees\nand each female worker gets 100 rupees. Find the\nnumber of male workers in the factory.",
       "options": {
@@ -1342,13 +493,13 @@
         "c": "290",
         "d": "125"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q033",
+      "id": "ch04-lod1-q033",
       "num": 33,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "What will be the ratio of honey and water in the\n→nal solution formed by mixing honey and water\nthat are present in three vessels of equal capacity in\nthe ratios 4:1, 5:2 and 6:1 respectively?",
       "options": {
@@ -1357,13 +508,13 @@
         "c": "83 : 44",
         "d": "None of these"
       },
-      "answer": null,
+      "answer": "b",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q034",
+      "id": "ch04-lod1-q034",
       "num": 34,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A mixture worth ` 80 a kg is formed by mixing two\ntypes of flour, one costing 50 per kg while the other\n110 per kg. In what proportion must they have been\nmixed?",
       "options": {
@@ -1372,28 +523,28 @@
         "c": "2: 1",
         "d": "1 : 3"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q035",
+      "id": "ch04-lod1-q035",
       "num": 35,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
-      "text": "A 10 percent gain is made by selling the mixture of\ntwo types of milk at ` 48 per kg. If the type costing\n` 61 per kg was mixed with 100 kg of the other,\nhow many kilograms of the former was mixed?\nSpace for Rough Work\nII.39",
+      "text": "A 10 percent gain is made by selling the mixture of\ntwo types of milk at ` 48 per kg. If the type costing\n` 61 per kg was mixed with 100 kg of the other,\nhow many kilograms of the former was mixed?\nSpace for Rough Work",
       "options": {
         "a": "38 kg",
         "b": "30.5 kg",
         "c": "19 kg",
         "d": "Cannot be determined"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q036",
+      "id": "ch04-lod1-q036",
       "num": 36,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A man buys milk at ` 85 per liter and dilutes it with\nwater. He sells the mixture at the same rate and thus\ngains 11.11%. Find the quantity of water mixed by\nhim in every liter of milk.",
       "options": {
@@ -1402,13 +553,13 @@
         "c": "0.1 litre",
         "d": "0.125 liters"
       },
-      "answer": null,
+      "answer": "a",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q037",
+      "id": "ch04-lod1-q037",
       "num": 37,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "In what proportion must water be mixed with honey\nso as to gain 10% by selling the mixture at the cost\nprice of the honey? (Assume that water is freely\navailable)",
       "options": {
@@ -1417,13 +568,13 @@
         "c": "1 : 6",
         "d": "1 : 10"
       },
-      "answer": null,
+      "answer": "d",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q038",
+      "id": "ch04-lod1-q038",
       "num": 38,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "A milkman stole milk from a can that contained 50%\nof milk and he replaced what he had stolen with milk\nhaving 20% milk. The bottle then contained only\n25% milk. How much of the bottle did he steal?",
       "options": {
@@ -1432,13 +583,13 @@
         "c": "85.71%",
         "d": "88.88%"
       },
-      "answer": null,
+      "answer": "b",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q039",
+      "id": "ch04-lod1-q039",
       "num": 39,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
       "text": "Shruti possessing ` 10,000, lent a part of it at 5%\nsimple interest and the remaining at 20% simple\ninterest. Her total income after 5 years was `7500.\nFind the sum lent at 20% rate.",
       "options": {
@@ -1447,21 +598,464 @@
         "c": "`3333.33",
         "d": "None of these"
       },
-      "answer": null,
+      "answer": "b",
       "solution": null
     },
     {
-      "id": "ch04-lod3-q040",
+      "id": "ch04-lod1-q040",
       "num": 40,
-      "lod": 3,
+      "lod": 1,
       "type": "mcq",
-      "text": "Sharman decides to travel 100 kilometres in 8 hours\npartly by foot and partly on a bicycle, his speed on\nfoot being 10 km/h and that on bicycle being 20\nkm/h, what distance would he travel on foot?\n Total workers in the company = 100 + 600 = 700.",
+      "text": "Sharman decides to travel 100 kilometres in 8 hours\npartly by foot and partly on a bicycle, his speed on\nfoot being 10 km/h and that on bicycle being 20\nkm/h, what distance would he travel on foot?",
       "options": {
         "a": "20 km",
         "b": "30 km",
         "c": "50 km",
         "d": "60 km"
       },
+      "answer": "d",
+      "solution": null
+    },
+    {
+      "id": "ch04-lod1-q005",
+      "num": 5,
+      "lod": 1,
+      "type": "tita",
+      "text": "By selling at 195 if we need to get a pro→t of 30% it\nmeans that the cost price would be 195/1.30 = 150.",
+      "options": {},
+      "answer": "a",
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q007",
+      "num": 7,
+      "lod": 2,
+      "type": "tita",
+      "text": "If it is known that both x and y are natural numbers,\nit yields a set of possibilities for the values of x & y as\nfollows: (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1). One\nof these possibilities has to be the answer.\nIn fact, it might be a good idea to think of all linear\nequation situations in this fashion. Hence, before you go\n\nup this set of possibilities based on the →rst equation.\nConsider the following situation where a question\nyields a set of possibilities:\nFour enemies A, B, C and D gather together for\na picnic in a park with their wives. A’s wife consumes 5 times as many glasses of juice as A. B’s\nwife consumes 4 times as many glasses of juice\nas B. C’s wife consumes 3 times as many glasses\nof juice as C and D’s wife consumes 2 times as\nmany glasses of juice as D. In total, th",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q001",
+      "num": 1,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Three runners A, B and C run a race, with runner\nA →nishing 24 metres ahead of runner B and 36\nmetres ahead of runner C, while runner B →nishes\n16 metres ahead of runner C. Each runner travels\nthe entire distance at a constant speed. .What was\nthe length of the race?",
+      "options": {
+        "a": "72 metres",
+        "b": "96 metres",
+        "c": "120 metres",
+        "d": "144 metres"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q002",
+      "num": 2,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A dealer buys dry fruits at `100, ` 80 and ` 60\nper kilogram. He mixes them in the ratio 4:5:6\nby weight, and sells at a pro→t of 50%. At what\nprice per kilogram does he sell the dry fruit?",
+      "options": {
+        "a": "`116",
+        "b": "`106",
+        "c": "`115",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q003",
+      "num": 3,
+      "lod": 2,
+      "type": "mcq",
+      "text": "There are two containers: the →rst contains 500\nml of alcohol, while the second contains 500 ml\nof water. Five cups of alcohol from the →rst container is taken out and is mixed well in the second\ncontainer. Then, →ve cups of this mixture is taken\nout from the second container and put back into\nthe →rst container. Let X and Y denote the proportion of alcohol in the →rst and the proportion of\nwater in the second container. Then what is the\nrelationship between X & Y? (Assume the size\nof the cups to be identical)",
+      "options": {
+        "a": "X>Y",
+        "b": "X<Y",
+        "c": "X=Y",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q004",
+      "num": 4,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Akhilesh took →ve papers in an examination,\nwhere each paper was of 200 marks. His marks\nin these’ papers were in the proportion of 7: 8: 9\n:10 : 11. In all papers together, the candidate obtained 60% of the total marks. Then, the number\nof papers in which he got more than 50% marks\nis:",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q005",
+      "num": 5,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A and B walk up an escalator (moving stairway).\nThe escalator moves at a constant speed, A takes\nsix steps for every four of B’s steps. A gets to the\ntop of the escalator after having taken 50 steps,\nwhile B (because his slower pace lets the escalator\ndo a little more of the work) takes only 40 steps\nto reach the top. If the escalator were turned off,\nhow many steps would they have to take to walk\nup?",
+      "options": {
+        "a": "80",
+        "b": "100",
+        "c": "120",
+        "d": "160"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q006",
+      "num": 6,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Fifty per cent of the employees of a certain company are men, and 80% of the men earn more\nthan ` 2.5 lacs per year. If 60% of the company’s\n\nemployees earn more than ` 2.5 lacs per year,\nthen what fraction of the women employed by\nthe company earn more than ` 2.5 lacs per year?",
+      "options": {
+        "a": "2/5",
+        "b": "1/4",
+        "c": "1/3",
+        "d": "3/4"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q007",
+      "num": 7,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A piece of string is 80 centimetres long. It is cut\ninto three pieces. The longest piece is 3 times as\nlong as the middle-sized and the shortest piece\nis 46 centimetres shorter than the longest piece.\nFind the length of the shortest piece (in cm).",
+      "options": {
+        "a": "14",
+        "b": "10",
+        "c": "8",
+        "d": "18"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q008",
+      "num": 8,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Three members of a family A, B, and C, work together to get all household chores done. The time\nit takes them to do the work together is six hours\nless than A would have taken working alone, one\nhour less than B would have taken alone, and half\nthe time C would have taken working alone. How\nlong did it take them to do these chores working\ntogether?",
+      "options": {
+        "a": "20 minutes",
+        "b": "30 minutes",
+        "c": "40 minutes",
+        "d": "50 minutes"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q009",
+      "num": 9,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Fresh grapes contain 90% water by weight while\ndried grapes contain 20% water by weight. What\nis the weight of dry grapes available from 20 kg\nof fresh grapes?",
+      "options": {
+        "a": "2kg",
+        "b": "2.4kg",
+        "c": "2.5kg",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q010",
+      "num": 10,
+      "lod": 2,
+      "type": "mcq",
+      "text": "At the end of the year 2008, a shepherd bought\ntwelve dozen goats. Henceforth, every year he\nadded p% of the goats at the beginning of the\nyear and sold q% of the goats at the end of the\nyear where p> 0 and q >0. If the shepherd had\ntwelve dozen goats at the end of the year 2012,\n(after making the sales for that year), which of\nthe following is true?\ndirections for questions 11 and 12: Answer the\nquestions based on the following information.\nAn Indian company purchases components X and Y\nfrom UK and Germany, respectively. X and Y form 40%\nand 30% of the total production cost. Current gain is\n25%. Due to change in the international exchange rate\nscenario, the cost of the German mark increased by 50%\nand that of UK pound increased by 25%. Due to tough\ncompetitive market conditions, the selli",
+      "options": {
+        "a": "p = q",
+        "b": "p<q",
+        "c": "p>q",
+        "d": "p = q/2"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q011",
+      "num": 11,
+      "lod": 2,
+      "type": "mcq",
+      "text": "What is the maximum current gain possible?\nkm/hr, but has to stop for 10 minutes at station C,\nwhich is 60 kms away from station B enroute to\nstation A. Ignoring the lengths of the trains, what\nis the distance, to the nearest km, from station A\nto the point where the trains cross each other?",
+      "options": {
+        "a": "110",
+        "b": "112",
+        "c": "116",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q019",
+      "num": 19,
+      "lod": 2,
+      "type": "mcq",
+      "text": "In a survey of political preferences, 81% of those\nasked were in favour of at least one of the three\nbudgetary proposals A, B and C. 50% of those\nasked favoured proposal A,30% favoured proposal B and 20% favoured proposal C. If 5% of\nthose asked favoured all the three proposals, what\npercentage of those asked favoured more than one\nof the three proposals?\nDirections for Questions 20 and 21: The petrol\nconsumption rate of a new model car ‘Palto’ depends\non its speed and may be described by the graph below:\n10\n\nFuel Consumption\n(lit/hour)",
+      "options": {
+        "a": "10%",
+        "b": "12%",
+        "c": "9%",
+        "d": "14%"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q012",
+      "num": 12,
+      "lod": 2,
+      "type": "mcq",
+      "text": "If the UK pound becomes cheap by 15% over\nits original cost and the cost of German mark\nincreased by 20%, what will be the gain if the\nselling price is not altered.",
+      "options": {
+        "a": "10%",
+        "b": "20%",
+        "c": "25%",
+        "d": "7.5%"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q013",
+      "num": 13,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A college has raised 80% of the amount it needs\nfor a new building by receiving an average donation of ` 800 from the people already solicited.\nThe people already solicited represent 50% of the\npeople, the college will ask for donations. If the\ncollege is to raise exactly the amount needed for\nthe new building, what should be the average donation from the remaining people to be solicited?",
+      "options": {
+        "a": "300",
+        "b": "200",
+        "c": "400",
+        "d": "500"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q014",
+      "num": 14,
+      "lod": 2,
+      "type": "mcq",
+      "text": "A student gets an aggregate of 60%marks in →ve\nsubjects in the ratio 10: 9: 8: 7: 6. If the passing\nmarks are 45% of the maximum marks and each\nsubject has the same maximum marks, in how\nmany subjects did he pass the examination?",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q015",
+      "num": 15,
+      "lod": 2,
+      "type": "mcq",
+      "text": "After allowing a discount of 12.5 % a trader still\nmakes a gain of 40%. At what per cent above the\ncost price does he mark on his goods?",
+      "options": {
+        "a": "45%",
+        "b": "60%",
+        "c": "25%",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q016",
+      "num": 16,
+      "lod": 2,
+      "type": "mcq",
+      "text": "The owner of an art shop conducts his business\nin the following manner. Every once in a while\nhe raises his prices by X%, then a while later he\nreduces all the new prices by X%. After one such\nup-down cycle, the price of a painting decreased\nby ` 441. After a second up-down cycle, the\npainting was sold for ` 1944.81. What was the\noriginal price of the painting (in `)?",
+      "options": {
+        "a": "2756.25",
+        "b": "2256.25",
+        "c": "2500",
+        "d": "2000"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q017",
+      "num": 17,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Manas, Mirza, Shorty and Jaipal bought a motorbike for $60,000. Manas paid 50% of the amounts\npaid by the other three boys, Mirza paid one third\nof the sum of the amounts paid by the other boys;\nand Shorty paid one fourth of the sum of the\namounts paid by the other boys. How much did\nJaipal have to pay?",
+      "options": {
+        "a": "$15000",
+        "b": "$13000",
+        "c": "$17000",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q018",
+      "num": 18,
+      "lod": 2,
+      "type": "tita",
+      "text": "A train X departs from station A at 11.00 a.m. for\nstation B, which is 180 km away. Another train Y\ndeparts from station B at 11.00 a.m. for station A.\nTrain X travels at an average speed of 70 kms/hr\nand does not stop anywhere until it arrives at sta-\n\n8\n6\n4\n\n2.5\n\n2\n\n0\n\n40\n\n60\n\n80\n\nSpeed (km/hr)",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q020",
+      "num": 20,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Manasa makes the 240 km trip from Mumbai to\nPune at a steady speed of 60 km per hour. What\nis the amount of petrol consumed for the journey?",
+      "options": {
+        "a": "12.5 litres",
+        "b": "16 litres",
+        "c": "15 litres",
+        "d": "19.75 litres"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q021",
+      "num": 21,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Manasa would like to minimise the fuel consumption for the trip by driving at the appropriate\nspeed. How should she change the speed?\nDirections for Questions 22 and 23: Answer the\nquestions based on the following information:\nThere are →ve machines—A, B, C, D, and E situated\non a straight line at distances of 10 m, 20 m, 30 m,\n40 m and 50 m, respectively from the origin of the\nline. A robot is stationed at the origin of the line. The\nrobot serves the machines with raw material whenever a\n\nmachine becomes idle. All the raw materials are located\nat the origin. The robot is in an idle state at the origin at\nthe beginning of a day. As soon as one or more machines\nbecome idle, they send messages to the robot-station and\nthe robot starts and serves all the machines from which it\nreceived messag",
+      "options": {
+        "a": "Increase the speed",
+        "b": "Decrease the speed",
+        "c": "Maintain the speed at 60 km/hour",
+        "d": "Cannot be determined"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q022",
+      "num": 22,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Suppose on a certain day, machines A and D\nhave sent the →rst two messages to the origin at\nthe beginning of the →rst second, C has sent a\nmessage at the beginning of the 7th second, B\nat the beginning of the 8th second and E at the\nbeginning of the 10th second. How much distance\nhas the robot traveled since the beginning of the\nday, when it notices the message of E? Assume\nthat the speed of movement of the robot is 10m/s.",
+      "options": {
+        "a": "140 m",
+        "b": "80 m",
+        "c": "340 m",
+        "d": "360 m"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q023",
+      "num": 23,
+      "lod": 2,
+      "type": "mcq",
+      "text": "Suppose there is a second station with raw material for the robot at the other extreme of the line\nwhich is 60 m from the origin, i.e., 10 m from\nE. After →nishing the services in a trip, the robot\nreturns to the nearest station. If both stations are\nequidistant, it chooses the origin as the station to\nreturn to. Assuming that both stations receive the\n\nmessages sent by the machines and that all the\nother data remains the same, what would be the\nanswer to the above question?",
+      "options": {
+        "a": "120",
+        "b": "160",
+        "c": "140",
+        "d": "170"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q024",
+      "num": 24,
+      "lod": 2,
+      "type": "mcq",
+      "text": "One bacteria splits into eight bacteria of the next\ngeneration. But due to environment, only 50%\nof a generation survive. If the eighth generation\nnumber is 8192 million, what is the number in\nthe →rst generation?",
+      "options": {
+        "a": "I million",
+        "b": "2 million",
+        "c": "4 million",
+        "d": "8 million"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod2-q025",
+      "num": 25,
+      "lod": 2,
+      "type": "mcq",
+      "text": "I bought 10 pens, 14 pencils and 4 erasers. Ravi\nbought 12 pens, 8 erasers and 28 pencils for an\namount which was half more what I had paid.\nWhat percent of the total amount paid by me was\npaid for the pens?\nanswer key",
+      "options": {
+        "a": "37.5%",
+        "b": "62.5%",
+        "c": "50%",
+        "d": "None of these"
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q070",
+      "num": 70,
+      "lod": 3,
+      "type": "mcq",
+      "text": "Who has performed better?\nSolution: Just by considering the marks as 20 and 40, we\ndo not a get clear picture of the actual performance of the\ntwo students. In order to get a clearer picture, we consider\nthe percentage of marks.\nThus, A gets (20/30) × 100 = 66.66%\nWhile B gets (40/70) × 100 = 57.14%\nNow, it is clear that the performance of A is better.\nConsider another example:\nExample: Company A increases its sales by 1 crore rupees\nwhile company B increases its sales by 10 crore rupees.\nWhich company has grown more?\nSolution: Apparently, the answer to the question seems\nto be company B. The question cannot be answered since\nwe don’t know the previous year’s sales →gure (although\non the face of it Company B seems to have grown more).\nIf we had further information saying that company A\nhad",
+      "options": {
+        "a": "percentage change =",
+        "b": "percentage change on the →nal value ="
+      },
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q001",
+      "num": 1,
+      "lod": 3,
+      "type": "tita",
+      "text": "Successive changes",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q002",
+      "num": 2,
+      "lod": 3,
+      "type": "tita",
+      "text": "Product change application",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q003",
+      "num": 3,
+      "lod": 3,
+      "type": "tita",
+      "text": "Product constancy application",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q004",
+      "num": 4,
+      "lod": 3,
+      "type": "tita",
+      "text": "A → B→A application",
+      "options": {},
       "answer": null,
       "solution": null
     },
@@ -1470,7 +1064,17 @@
       "num": 5,
       "lod": 3,
       "type": "tita",
-      "text": "By selling at 195 if we need to get a pro→t of 30% it\nmeans that the cost price would be 195/1.30 = 150.\nanswer key\nLevel of Dif→culty (I)",
+      "text": "Denominator change to Ratio Change application",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q006",
+      "num": 6,
+      "lod": 3,
+      "type": "tita",
+      "text": "Use of PCG to calculate Ratio Changes\nApplication 1: PCG Applied to Successive Changes\nThis is a very common situation in most questions.\nSuppose you have to solve a question in which a number\n30 has two successive percentage increases (20% and 10%\nrespectively).\nThe situation is handled in the following way using PCG:\n20% increase\n\n30 →→→→→\n→ 36\n+6\n\n10% increase\n\n→→→→→\n→ 39.6\n+ 3.6\n\nIllustration\nA’s salary increases by 20% and then decreases by 20%.\nWhat is the net percentage change in A’s salary?\nSolution:\n20% inc.\n\n20% decrease\n\n+ 20\n\n- 24\n\n100 →→→→\n→ 120 →→→→→→ 96\nHence, A’s salary has gone down by 4%\n\nIllustration\n\nEffect of a Percent Change in the\nNumerator on a Ratio’s Value\n\nA trader gives successive discounts of 10%, 20% and 10%\nrespectively. The percentage of the original cost pr",
       "options": {},
       "answer": null,
       "solution": null
@@ -1480,10 +1084,8 @@
       "num": 1,
       "lod": 3,
       "type": "tita",
-      "text": "There are multiple ways of solving this question. In\n160 gallons since we have 25% water, the composition would be 120 gallons of wine and 40 gallons\nof water. After adding more water to this, the water\nwould become 40 + w, while the wine would remain\nat 120 gallons. This 120 gallons of wine would correspond to 60% wine in the →nal mixture. Since, 120\n= 60%, 200 = 100%. So we need to add, 40 gallons\nof water. Alternately, you can solve this using options\nto check, the case when the wine to water becomes\n60% to 40%. In 120 gallons of wine + 40 gallons of\nwater, if you add 40 gallons of water, you will end\nup with 60% wine and 40% water. Hence, option",
-      "options": {
-        "a": "is correct."
-      },
+      "text": "Assume the price of C’s goods as p.: Then A’s goods\nare at 1.3 p and B’s goods are such that A’s goods are 30%\ncheaper than B’s goods, i.e., A’s goods are priced at 70%\nof B’s goods.\nHence, 1.3 p → 70\nB’s price → 100\nB’s price = 130 p/70 = 1.8571 p\nThen, the percentage by which C’s price is cheaper than\nB’s price =\n(1.8571 p – p) × 100/(1.8571 p) = 600/13= 46.15%\nLearning task for student Could you answer the question: Why did we assume C’s price as a variable p and\nthen work out the problem on its basis. What would happen\nif we assumed B’s price as p or if we assumed A’s price\nas p?",
+      "options": {},
       "answer": null,
       "solution": null
     },
@@ -1492,7 +1094,37 @@
       "num": 2,
       "lod": 3,
       "type": "tita",
-      "text": "The ratio of boys and girls appearing for the exam\ncan be seen to be 3:1 using the following alligation\n→gure.\n60%\n50%\n90%\n30%\n3\n10%\n:\n1\n This means that out of 800 students, there must have\nbeen 200 girls who appeared in the exam.",
+      "text": "Instead of assuming the price of one of the three as\np, assume the price as 100.\nLet B = 100. Then A = 70, which is 30% more than C.\nHence C = 23.07% less than A (from Table 4.1) = approx.\n53.84. Hence answer is 46.15% approximately.\n(This calculation can be done mentally if you are able\nto work through the calculations by the use of percentage\nrule. The students are advised to try to assume the value\nof 100 for each of the variables A, B and C and see what\nhappens to the calculations involved in the problem. Since\nthe value of 100 is assumed for a variable to minimise\nthe requirements of calculations to solve the problems, we\nshould ensure that the variable assumed as 100 should have\nthe maximum calculations associated with it.)\n\nnote: In fact this question and the ones that follow contai",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q400",
+      "num": 400,
+      "lod": 3,
+      "type": "tita",
+      "text": "Find the initial price.\nsolution Since price is rising by 25%, consumption has\nto decrease by 20%. But there is an actual reduction in the\nconsumption by 20 kg. Thus, 20% decrease in consumption\nis equal to a 20 kg drop in consumption.\nHence, original consumption is: 100 kg of rice.\nMoney spent being ` 400, the original price of rice is\n` 4 per kg.\n(There, you see the bene→t of internalising the product\nconstancy table! It is left to the student to analyse why and\nhow the product constancy table applies here.)\nProblem 5.4 A’s salary is 20% lower than B’s salary,\nwhich is 15% lower than C’s salary. By how much percent\nis C’s salary more than A’s salary?\nsolution\n\nThen\n\nThe equation approach here would be\nA = 0.8 B\nB = 0.85 C\nA = 0.8 × 0.85 C\n\nA = 0.68 C (Use percentage change graphic to cal",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q001",
+      "num": 1,
+      "lod": 3,
+      "type": "tita",
+      "text": "With the maximum number of percentage calculations associated with it.",
+      "options": {},
+      "answer": null,
+      "solution": null
+    },
+    {
+      "id": "ch04-lod3-q002",
+      "num": 2,
+      "lod": 3,
+      "type": "tita",
+      "text": "Select as 100 the variable with the most dif→cult\ncalculation associated with it.",
       "options": {},
       "answer": null,
       "solution": null
@@ -1501,49 +1133,22 @@
       "id": "ch04-lod3-q003",
       "num": 3,
       "lod": 3,
-      "type": "tita",
-      "text": "Solving the following alligation →gure:\n` 10 per kg\nAverage price = 10 + (5/3) × 1\n= 11.666\n` 15 per kg\n2",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q004",
-      "num": 4,
-      "lod": 3,
-      "type": "tita",
-      "text": "` 100\nper quintal\nAverage pay\nGrade A\n300\n400\n1000\n From the →gure we can see that the ratio of Grade\nA and Grade B workers is 1: 6. Since, there are\n100 grade A workers, there would be 600 Grade B\nworkers. Hence, total number of grade B workers =\n600\n` 160\nper quintal\n From the alligation →gure, you can see that the ratio\nof the quantities of the two pulses would be 1:5.\nSince, we have 50 quintals of the second quality, we\nmust have 10 quintals of the →rst. Hence, option",
+      "type": "mcq",
+      "text": "Select as 100 the variable at the start of the problem\nsolving chain.\nThe student will have to develop his own judgment in applying these principles in speci→c cases.\nHere I would take C as 100, getting B as 85 and A as 68.\nHence, the answer is (32 × 100/68).\nProblem 5.5 The cost of manufacture of an article is\nmade up of four components A, B, C and D which have\na ratio of 3 : 4 : 5 : 6 respectively. If there are respective\nchanges in the cost of +10%, –20%, –30% and + 40%, then\nwhat would be the percentage change in the cost.\nSolution Assume the cost components to be valued at\n30, 40, 50 and 60 as you read the question. Then we can\nget changed costs by effecting the appropriate changes in\neach of the four components.\nThus we get the new cost as 33, 32, 35 and 84\nrespectively.\nThe original",
       "options": {
-        "a": "is correct."
+        "a": "25 lakh",
+        "b": "22.5 lakh",
+        "c": "20 lakh",
+        "d": "18 lakh"
       },
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q006",
-      "num": 6,
-      "lod": 3,
-      "type": "tita",
-      "text": "Mixing ` 8/kg and ` 10/kg to get ` 9.20 per kg we\nget that the ratio of mixing is (10 – 9.2): (9.2 – 8)\n= 2:3. If the →rst milk is 20 kg, the second would\nbe 30 kg.",
-      "options": {},
-      "answer": null,
-      "solution": null
-    },
-    {
-      "id": "ch04-lod3-q007",
-      "num": 7,
-      "lod": 3,
-      "type": "tita",
-      "text": "Since by selling at ` 480 we want a pro→t of 20%,\nit means that the average cost required is ` 400 per\nkg. Mixing salt worth ` 360/kg and ` 420/kg to get\n` 400/kg means a mixture ratio of 1:2. Thus, to 10\nkg of th",
-      "options": {},
       "answer": null,
       "solution": null
     }
   ],
-  "questionCount": 128,
+  "questionCount": 80,
   "lodCounts": {
-    "lod1": 0,
-    "lod2": 64,
-    "lod3": 64
+    "lod1": 41,
+    "lod2": 26,
+    "lod3": 13
   }
 }
